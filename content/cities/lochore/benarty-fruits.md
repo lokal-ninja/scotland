@@ -1,5 +1,5 @@
 ---
 title: "Benarty Fruits"
-url: /crosshill/benarty-fruits/
+url: /lochore/benarty-fruits/
 shop: greengrocer
 ---
