@@ -1,5 +1,5 @@
 ---
 title: "Rox"
 url: /edinburgh/rox/
-shop: jewelry
+shop: Schmuck
 ---

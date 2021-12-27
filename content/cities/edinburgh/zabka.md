@@ -1,5 +1,5 @@
 ---
 title: "Zabka"
 url: /edinburgh/zabka/
-shop: convenience
+shop: Lebensmittel
 ---

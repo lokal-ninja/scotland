@@ -1,6 +1,6 @@
 ---
 title: Kirkintillock
 url: /kirkintillock/
-latitude: 
-longitude: 
+latitude: 55.944
+longitude: -4.157
 ---

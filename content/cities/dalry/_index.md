@@ -1,6 +1,6 @@
 ---
 title: Dalry
 url: /dalry/
-latitude: 55.942399800000004
-longitude: -3.2218312
+latitude: 55.704
+longitude: -4.725
 ---

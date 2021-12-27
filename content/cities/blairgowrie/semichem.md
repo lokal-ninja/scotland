@@ -1,5 +1,5 @@
 ---
 title: "Semichem"
 url: /blairgowrie/semichem/
-shop: chemist
+shop: Drogerie
 ---

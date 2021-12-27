@@ -1,5 +1,5 @@
 ---
 title: "White Studio"
 url: /edinburgh/white-studio/
-shop: hairdresser
+shop: Friseur
 ---

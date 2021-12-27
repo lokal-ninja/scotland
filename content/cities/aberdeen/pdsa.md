@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /aberdeen/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

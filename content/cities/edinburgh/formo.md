@@ -1,5 +1,5 @@
 ---
 title: "Formo"
 url: /edinburgh/formo/
-shop: hairdresser
+shop: Friseur
 ---

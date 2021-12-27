@@ -1,5 +1,5 @@
 ---
 title: "Charles Tyrwhitt"
 url: /edinburgh/charles-tyrwhitt/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /lesmahagow/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

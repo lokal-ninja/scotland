@@ -1,5 +1,5 @@
 ---
 title: "Picture Bute"
 url: /rothesay/picture-bute/
-shop: art
+shop: Kunst
 ---

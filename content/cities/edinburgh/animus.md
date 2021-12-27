@@ -1,5 +1,5 @@
 ---
 title: "Animus"
 url: /edinburgh/animus/
-shop: hairdresser
+shop: Friseur
 ---

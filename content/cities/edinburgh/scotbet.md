@@ -1,5 +1,5 @@
 ---
 title: "Scotbet"
 url: /edinburgh/scotbet/
-shop: bookmaker
+shop: Wettbüro
 ---

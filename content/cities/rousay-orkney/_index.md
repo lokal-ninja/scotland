@@ -1,6 +1,6 @@
 ---
 title: Rousay, Orkney
 url: /rousay-orkney/
-latitude: 
-longitude: 
+latitude: 59.167
+longitude: -2.99
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /aberdeen/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

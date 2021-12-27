@@ -1,6 +1,6 @@
 ---
 title: Drumbeg
 url: /drumbeg/
-latitude: 58.2426778
-longitude: -5.2012869
+latitude: 58.242
+longitude: -5.2
 ---

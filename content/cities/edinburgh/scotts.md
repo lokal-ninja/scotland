@@ -1,5 +1,5 @@
 ---
 title: "Scotts"
 url: /edinburgh/scotts/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,6 +1,6 @@
 ---
 title: St Fillans
 url: /st-fillans/
-latitude: 56.392296
-longitude: -4.112828100000001
+latitude: 56.391
+longitude: -4.113
 ---

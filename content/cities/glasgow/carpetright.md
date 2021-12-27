@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /glasgow/carpetright/
-shop: carpet
+shop: Teppiche
 ---

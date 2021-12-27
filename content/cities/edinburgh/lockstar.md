@@ -1,5 +1,5 @@
 ---
 title: "Lockstar"
 url: /edinburgh/lockstar/
-shop: locksmith
+shop: Schlüsseldienst
 ---

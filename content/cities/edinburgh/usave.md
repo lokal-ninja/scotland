@@ -1,5 +1,5 @@
 ---
 title: "usave"
 url: /edinburgh/usave/
-shop: convenience
+shop: Lebensmittel
 ---

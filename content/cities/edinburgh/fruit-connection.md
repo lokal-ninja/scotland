@@ -1,5 +1,5 @@
 ---
 title: "Fruit Connection"
 url: /edinburgh/fruit-connection/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

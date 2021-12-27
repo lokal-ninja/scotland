@@ -1,6 +1,6 @@
 ---
 title: Leverburgh
 url: /leverburgh/
-latitude: 
-longitude: 
+latitude: 57.778
+longitude: -7.035
 ---

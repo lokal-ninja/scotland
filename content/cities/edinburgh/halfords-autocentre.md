@@ -1,5 +1,5 @@
 ---
 title: "Halfords Autocentre"
 url: /edinburgh/halfords-autocentre/
-shop: car repair
+shop: Autowerkstatt
 ---

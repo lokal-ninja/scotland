@@ -1,6 +1,6 @@
 ---
 title: Rothienorman
 url: /rothienorman/
-latitude: 57.41136530000001
-longitude: -2.4644314
+latitude: 57.411
+longitude: -2.464
 ---

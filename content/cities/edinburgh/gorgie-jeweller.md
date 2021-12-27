@@ -1,5 +1,5 @@
 ---
 title: "Gorgie Jeweller"
 url: /edinburgh/gorgie-jeweller/
-shop: jewelry
+shop: Schmuck
 ---

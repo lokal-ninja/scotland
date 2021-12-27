@@ -1,6 +1,6 @@
 ---
 title: Loanhead
 url: /loanhead/
-latitude: 56.6179147
-longitude: -2.916855
+latitude: 55.877
+longitude: -3.149
 ---

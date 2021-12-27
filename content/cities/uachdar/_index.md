@@ -1,6 +1,6 @@
 ---
 title: Uachdar
 url: /uachdar/
-latitude: 
-longitude: 
+latitude: 57.48
+longitude: -7.333
 ---

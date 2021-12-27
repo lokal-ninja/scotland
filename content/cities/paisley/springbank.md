@@ -1,5 +1,5 @@
 ---
 title: "Springbank"
 url: /paisley/springbank/
-shop: convenience
+shop: Lebensmittel
 ---

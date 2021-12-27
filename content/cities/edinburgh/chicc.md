@@ -1,5 +1,5 @@
 ---
 title: "Chicc"
 url: /edinburgh/chicc/
-shop: clothes
+shop: Kleidung
 ---

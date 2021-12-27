@@ -1,6 +1,6 @@
 ---
 title: Finnieston
 url: /finnieston/
-latitude: 55.859281100000004
-longitude: -4.2798132
+latitude: 55.864
+longitude: -4.281
 ---

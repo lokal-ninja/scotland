@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /laurencekirk/scotmid/
-shop: supermarket
+shop: Supermarkt
 ---

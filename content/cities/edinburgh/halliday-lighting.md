@@ -1,5 +1,5 @@
 ---
 title: "Halliday Lighting"
 url: /edinburgh/halliday-lighting/
-shop: trade
+shop: Baustoffe
 ---

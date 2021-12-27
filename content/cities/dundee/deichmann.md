@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /dundee/deichmann/
-shop: shoes
+shop: Schuhe
 ---

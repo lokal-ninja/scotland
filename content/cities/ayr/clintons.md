@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /ayr/clintons/
-shop: gift
+shop: Andenken
 ---

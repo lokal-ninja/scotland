@@ -1,5 +1,5 @@
 ---
 title: "Pro Vapor"
 url: /edinburgh/pro-vapor/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

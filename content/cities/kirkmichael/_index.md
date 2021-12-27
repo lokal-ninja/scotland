@@ -1,6 +1,6 @@
 ---
 title: Kirkmichael
 url: /kirkmichael/
-latitude: 55.3448459
-longitude: -4.6142840000000005
+latitude: 56.724
+longitude: -3.505
 ---

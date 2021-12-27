@@ -1,6 +1,6 @@
 ---
 title: Padanaram
 url: /padanaram/
-latitude: 56.651853800000005
-longitude: -2.9348116
+latitude: 56.652
+longitude: -2.929
 ---

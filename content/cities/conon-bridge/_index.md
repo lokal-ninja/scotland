@@ -1,6 +1,6 @@
 ---
 title: Conon Bridge
 url: /conon-bridge/
-latitude: 57.567949600000006
-longitude: -4.4315908
+latitude: 57.565
+longitude: -4.436
 ---

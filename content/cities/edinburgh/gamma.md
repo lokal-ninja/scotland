@@ -1,5 +1,5 @@
 ---
 title: "Gamma"
 url: /edinburgh/gamma/
-shop: bicycle
+shop: Fahrrad
 ---

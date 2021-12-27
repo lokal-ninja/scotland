@@ -1,6 +1,6 @@
 ---
 title: Dunkeld
 url: /dunkeld/
-latitude: 56.56557110000001
-longitude: -3.5862546
+latitude: 56.565
+longitude: -3.585
 ---

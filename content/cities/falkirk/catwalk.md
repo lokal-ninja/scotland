@@ -1,5 +1,5 @@
 ---
 title: "Catwalk"
 url: /falkirk/catwalk/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Colinsburgh
 url: /colinsburgh/
-latitude: 56.2196779
-longitude: -2.8464822
+latitude: 56.221
+longitude: -2.846
 ---

@@ -1,6 +1,6 @@
 ---
 title: Crail
 url: /crail/
-latitude: 56.2606771
-longitude: -2.6267118000000003
+latitude: 56.26
+longitude: -2.627
 ---

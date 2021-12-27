@@ -1,5 +1,5 @@
 ---
 title: "Gillies"
 url: /aberdeen/gillies/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Finisterre"
 url: /edinburgh/finisterre/
-shop: clothes
+shop: Kleidung
 ---

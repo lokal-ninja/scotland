@@ -1,6 +1,6 @@
 ---
 title: Longridge
 url: /longridge/
-latitude: 55.8443648
-longitude: -3.6782738000000004
+latitude: 55.843
+longitude: -3.678
 ---

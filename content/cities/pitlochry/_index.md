@@ -1,6 +1,6 @@
 ---
 title: Pitlochry
 url: /pitlochry/
-latitude: 56.701969000000005
-longitude: -3.7306846
+latitude: 56.703
+longitude: -3.733
 ---

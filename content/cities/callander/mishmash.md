@@ -1,5 +1,5 @@
 ---
 title: "Mishmash"
 url: /callander/mishmash/
-shop: clothes
+shop: Kleidung
 ---

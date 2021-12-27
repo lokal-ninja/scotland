@@ -1,6 +1,6 @@
 ---
 title: Unst
 url: /unst/
-latitude: 
-longitude: 
+latitude: 60.769
+longitude: -0.835
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bellabeg
 url: /bellabeg/
-latitude: 
-longitude: 
+latitude: 57.204
+longitude: -3.071
 ---

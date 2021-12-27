@@ -1,5 +1,5 @@
 ---
 title: "Maycheelin"
 url: /edinburgh/maycheelin/
-shop: convenience
+shop: Lebensmittel
 ---

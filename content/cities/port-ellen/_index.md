@@ -1,6 +1,6 @@
 ---
 title: Port Ellen
 url: /port-ellen/
-latitude: 
-longitude: 
+latitude: 55.628
+longitude: -6.181
 ---

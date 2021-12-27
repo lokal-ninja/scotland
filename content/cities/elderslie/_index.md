@@ -1,6 +1,6 @@
 ---
 title: Elderslie
 url: /elderslie/
-latitude: 55.8354647
-longitude: -4.490529400000001
+latitude: 55.838
+longitude: -4.479
 ---

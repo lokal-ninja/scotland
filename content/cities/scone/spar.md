@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /scone/spar/
-shop: convenience
+shop: Lebensmittel
 ---

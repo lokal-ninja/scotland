@@ -1,5 +1,5 @@
 ---
 title: "Zabka"
 url: /aberdeen/zabka/
-shop: convenience
+shop: Lebensmittel
 ---

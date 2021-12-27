@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /bearsden/oxfam/
-shop: charity
+shop: Gebrauchtwaren
 ---

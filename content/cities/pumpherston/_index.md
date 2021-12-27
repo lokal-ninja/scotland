@@ -1,6 +1,6 @@
 ---
 title: Pumpherston
 url: /pumpherston/
-latitude: 55.9079908
-longitude: -3.4940813000000004
+latitude: 55.91
+longitude: -3.491
 ---

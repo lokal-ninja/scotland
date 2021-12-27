@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /forfar/carpetright/
-shop: carpet
+shop: Teppiche
 ---

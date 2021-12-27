@@ -1,5 +1,5 @@
 ---
 title: "McCalls"
 url: /aberdeen/mccalls/
-shop: watches
+shop: Uhren
 ---

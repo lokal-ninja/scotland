@@ -1,5 +1,5 @@
 ---
 title: "Iolla"
 url: /edinburgh/iolla/
-shop: optician
+shop: Optiker
 ---

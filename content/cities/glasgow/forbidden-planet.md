@@ -1,5 +1,5 @@
 ---
 title: "Forbidden Planet"
 url: /glasgow/forbidden-planet/
-shop: books
+shop: Bücher
 ---

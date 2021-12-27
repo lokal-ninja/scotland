@@ -1,5 +1,5 @@
 ---
 title: "The Collective"
 url: /aberdeen/the-collective/
-shop: beauty
+shop: Kosmetik
 ---

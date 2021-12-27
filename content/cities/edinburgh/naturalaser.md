@@ -1,5 +1,5 @@
 ---
 title: "Naturalaser"
 url: /edinburgh/naturalaser/
-shop: beauty
+shop: Kosmetik
 ---

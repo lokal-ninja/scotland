@@ -1,6 +1,6 @@
 ---
 title: Cowie, Stonehaven
 url: /cowie-stonehaven/
-latitude: 
-longitude: 
+latitude: 56.988
+longitude: -2.188
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /edinburgh/joules/
-shop: clothes
+shop: Kleidung
 ---

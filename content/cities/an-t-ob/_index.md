@@ -1,6 +1,6 @@
 ---
 title: An t-Òb
 url: /an-t-ob/
-latitude: 57.770995500000005
-longitude: -7.0192793
+latitude: 57.77
+longitude: -7.015
 ---

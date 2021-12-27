@@ -1,6 +1,6 @@
 ---
 title: g
 url: /g/
-latitude: 
-longitude: 
+latitude: 55.886
+longitude: -4.359
 ---

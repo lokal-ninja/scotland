@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /livingston/william-hill/
-shop: bookmaker
+shop: Wettbüro
 ---

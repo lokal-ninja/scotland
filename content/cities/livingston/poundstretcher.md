@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /livingston/poundstretcher/
-shop: variety store
+shop: Kramladen
 ---

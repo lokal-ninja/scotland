@@ -1,6 +1,6 @@
 ---
 title: Cupar
 url: /cupar/
-latitude: 56.31939130000001
-longitude: -3.0116545
+latitude: 56.317
+longitude: -3.012
 ---

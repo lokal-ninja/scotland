@@ -1,5 +1,5 @@
 ---
 title: "Marchmont Gallery"
 url: /edinburgh/marchmont-gallery/
-shop: frame
+shop: Rahmen
 ---

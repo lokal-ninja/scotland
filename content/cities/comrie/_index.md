@@ -1,6 +1,6 @@
 ---
 title: Comrie
 url: /comrie/
-latitude: 56.374179700000006
-longitude: -3.9877713000000004
+latitude: 56.375
+longitude: -3.987
 ---

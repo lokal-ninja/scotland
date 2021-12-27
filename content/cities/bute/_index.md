@@ -1,6 +1,6 @@
 ---
 title: Bute
 url: /bute/
-latitude: 
-longitude: 
+latitude: 55.837
+longitude: -5.054
 ---

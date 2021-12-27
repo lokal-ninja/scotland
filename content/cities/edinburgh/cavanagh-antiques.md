@@ -1,5 +1,5 @@
 ---
 title: "Cavanagh Antiques"
 url: /edinburgh/cavanagh-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

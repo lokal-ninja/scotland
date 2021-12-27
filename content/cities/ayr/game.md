@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /ayr/game/
-shop: video games
+shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gilmore Clare"
 url: /peebles/gilmore-clare/
-shop: beauty
+shop: Kosmetik
 ---

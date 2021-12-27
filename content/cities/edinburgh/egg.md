@@ -1,5 +1,5 @@
 ---
 title: "Egg"
 url: /edinburgh/egg/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gorbals
 url: /gorbals/
-latitude: 55.851813
-longitude: -4.2531625
+latitude: 55.849
+longitude: -4.25
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Solaglas"
 url: /edinburgh/solaglas/
-shop: glaziery
+shop: Glaserei
 ---

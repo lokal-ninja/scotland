@@ -1,6 +1,6 @@
 ---
 title: Portree
 url: /portree/
-latitude: 57.4130532
-longitude: -6.194446
+latitude: 57.413
+longitude: -6.192
 ---

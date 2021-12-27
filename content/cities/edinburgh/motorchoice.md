@@ -1,5 +1,5 @@
 ---
 title: "Motorchoice"
 url: /edinburgh/motorchoice/
-shop: car
+shop: Autohaus
 ---

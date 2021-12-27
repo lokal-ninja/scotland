@@ -1,5 +1,5 @@
 ---
 title: "Stephens"
 url: /inverkeithing/stephens/
-shop: bakery
+shop: Bäckerei
 ---

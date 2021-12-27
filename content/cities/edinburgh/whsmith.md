@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /edinburgh/whsmith/
-shop: books
+shop: Bücher
 ---

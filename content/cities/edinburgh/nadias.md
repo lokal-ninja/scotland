@@ -1,5 +1,5 @@
 ---
 title: "Nadia's"
 url: /edinburgh/nadias/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

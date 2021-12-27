@@ -1,6 +1,6 @@
 ---
 title: Mintlaw
 url: /mintlaw/
-latitude: 57.5233046
-longitude: -2.0049864
+latitude: 57.527
+longitude: -2.002
 ---

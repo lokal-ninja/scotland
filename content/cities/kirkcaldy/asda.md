@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /kirkcaldy/asda/
-shop: supermarket
+shop: Supermarkt
 ---

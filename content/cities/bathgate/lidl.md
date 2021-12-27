@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bathgate/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

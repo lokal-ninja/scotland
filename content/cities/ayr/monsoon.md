@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /ayr/monsoon/
-shop: clothes
+shop: Kleidung
 ---

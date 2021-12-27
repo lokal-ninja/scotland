@@ -1,5 +1,5 @@
 ---
 title: "GW Sports"
 url: /edinburgh/gw-sports/
-shop: bookmaker
+shop: Wettbüro
 ---

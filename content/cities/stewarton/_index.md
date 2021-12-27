@@ -1,6 +1,6 @@
 ---
 title: Stewarton
 url: /stewarton/
-latitude: 55.418487500000005
-longitude: -5.6405628000000005
+latitude: 55.68
+longitude: -4.519
 ---

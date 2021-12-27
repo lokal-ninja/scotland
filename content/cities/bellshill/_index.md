@@ -1,6 +1,6 @@
 ---
 title: Bellshill
 url: /bellshill/
-latitude: 55.8189311
-longitude: -4.022579400000001
+latitude: 55.824
+longitude: -4.025
 ---

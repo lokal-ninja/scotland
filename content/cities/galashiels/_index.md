@@ -1,6 +1,6 @@
 ---
 title: Galashiels
 url: /galashiels/
-latitude: 55.616418
-longitude: -2.8070791
+latitude: 55.692
+longitude: -2.861
 ---

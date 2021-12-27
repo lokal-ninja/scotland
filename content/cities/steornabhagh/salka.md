@@ -1,5 +1,5 @@
 ---
 title: "Salka"
 url: /steornabhagh/salka/
-shop: gift
+shop: Andenken
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cumnock
 url: /cumnock/
-latitude: 55.4541678
-longitude: -4.2660498
+latitude: 55.454
+longitude: -4.263
 ---

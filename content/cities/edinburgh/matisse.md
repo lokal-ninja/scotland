@@ -1,5 +1,5 @@
 ---
 title: "Matisse"
 url: /edinburgh/matisse/
-shop: hairdresser
+shop: Friseur
 ---

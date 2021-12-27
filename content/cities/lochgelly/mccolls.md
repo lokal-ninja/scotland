@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /lochgelly/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

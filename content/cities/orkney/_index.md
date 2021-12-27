@@ -1,6 +1,6 @@
 ---
 title: Orkney
 url: /orkney/
-latitude: 
-longitude: 
+latitude: 59.129
+longitude: -3.316
 ---

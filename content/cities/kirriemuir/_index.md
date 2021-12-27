@@ -1,6 +1,6 @@
 ---
 title: Kirriemuir
 url: /kirriemuir/
-latitude: 
-longitude: 
+latitude: 56.674
+longitude: -3.005
 ---

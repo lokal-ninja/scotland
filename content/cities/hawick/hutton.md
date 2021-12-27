@@ -1,5 +1,5 @@
 ---
 title: "Hutton"
 url: /hawick/hutton/
-shop: butcher
+shop: Metzgerei
 ---

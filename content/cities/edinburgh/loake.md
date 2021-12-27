@@ -1,5 +1,5 @@
 ---
 title: "Loake"
 url: /edinburgh/loake/
-shop: shoes
+shop: Schuhe
 ---

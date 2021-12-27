@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /comrie/premier/
-shop: convenience
+shop: Lebensmittel
 ---

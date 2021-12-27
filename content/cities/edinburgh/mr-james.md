@@ -1,5 +1,5 @@
 ---
 title: "Mr James"
 url: /edinburgh/mr-james/
-shop: tailor
+shop: Schneiderei
 ---

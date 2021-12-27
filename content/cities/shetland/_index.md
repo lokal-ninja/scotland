@@ -1,6 +1,6 @@
 ---
 title: Shetland
 url: /shetland/
-latitude: 
-longitude: 
+latitude: 60.158
+longitude: -1.155
 ---

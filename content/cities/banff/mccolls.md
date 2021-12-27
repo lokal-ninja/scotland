@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /banff/mccolls/
-shop: supermarket
+shop: Supermarkt
 ---

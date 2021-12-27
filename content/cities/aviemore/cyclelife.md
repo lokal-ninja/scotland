@@ -1,5 +1,5 @@
 ---
 title: "Cyclelife"
 url: /aviemore/cyclelife/
-shop: bicycle
+shop: Fahrrad
 ---

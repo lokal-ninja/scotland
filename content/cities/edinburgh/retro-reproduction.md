@@ -1,5 +1,5 @@
 ---
 title: "Retro Reproduction"
 url: /edinburgh/retro-reproduction/
-shop: hifi
+shop: Hifi
 ---

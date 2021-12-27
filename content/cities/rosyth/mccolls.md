@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /rosyth/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

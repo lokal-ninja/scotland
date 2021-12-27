@@ -1,5 +1,5 @@
 ---
 title: "Yekta"
 url: /edinburgh/yekta/
-shop: clothes
+shop: Kleidung
 ---

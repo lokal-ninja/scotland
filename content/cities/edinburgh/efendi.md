@@ -1,5 +1,5 @@
 ---
 title: "Efendi"
 url: /edinburgh/efendi/
-shop: hairdresser
+shop: Friseur
 ---

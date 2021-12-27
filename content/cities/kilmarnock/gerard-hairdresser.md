@@ -1,5 +1,5 @@
 ---
 title: "Gerard (Hairdresser)"
 url: /kilmarnock/gerard-hairdresser/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nicolson"
 url: /edinburgh/nicolson/
-shop: clothes
+shop: Kleidung
 ---

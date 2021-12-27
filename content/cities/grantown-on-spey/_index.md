@@ -1,6 +1,6 @@
 ---
 title: Grantown on Spey
 url: /grantown-on-spey/
-latitude: 
-longitude: 
+latitude: 57.331
+longitude: -3.608
 ---

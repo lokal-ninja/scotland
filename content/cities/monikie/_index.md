@@ -1,6 +1,6 @@
 ---
 title: Monikie
 url: /monikie/
-latitude: 56.5378741
-longitude: -2.8151844
+latitude: 56.557
+longitude: -2.843
 ---

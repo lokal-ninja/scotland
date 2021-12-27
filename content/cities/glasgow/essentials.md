@@ -1,5 +1,5 @@
 ---
 title: "Essentials"
 url: /glasgow/essentials/
-shop: supermarket
+shop: Supermarkt
 ---

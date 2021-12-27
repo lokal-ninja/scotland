@@ -1,6 +1,6 @@
 ---
 title: Kelso
 url: /kelso/
-latitude: 55.598378800000006
-longitude: -2.4338366000000002
+latitude: 55.599
+longitude: -2.434
 ---

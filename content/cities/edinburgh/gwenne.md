@@ -1,5 +1,5 @@
 ---
 title: "Gwenne"
 url: /edinburgh/gwenne/
-shop: shop
+shop: Allgemein
 ---

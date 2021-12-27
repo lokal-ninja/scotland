@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /aberdeen/blacks/
-shop: outdoor
+shop: Outdoor
 ---

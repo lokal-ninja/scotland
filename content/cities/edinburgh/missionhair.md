@@ -1,5 +1,5 @@
 ---
 title: "Missionhair"
 url: /edinburgh/missionhair/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hampton's"
 url: /forfar/hamptons/
-shop: newsagent
+shop: Zeitungen
 ---

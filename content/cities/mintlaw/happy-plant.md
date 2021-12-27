@@ -1,5 +1,5 @@
 ---
 title: "Happy Plant"
 url: /mintlaw/happy-plant/
-shop: garden centre
+shop: Garten-Center
 ---

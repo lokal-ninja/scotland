@@ -1,5 +1,5 @@
 ---
 title: "Crystal"
 url: /edinburgh/crystal/
-shop: jewelry
+shop: Schmuck
 ---

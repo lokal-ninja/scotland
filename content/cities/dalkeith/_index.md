@@ -1,6 +1,6 @@
 ---
 title: Dalkeith
 url: /dalkeith/
-latitude: 55.894336100000004
-longitude: -3.0700445000000003
+latitude: 55.895
+longitude: -3.069
 ---

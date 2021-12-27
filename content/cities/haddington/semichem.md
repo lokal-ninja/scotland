@@ -1,5 +1,5 @@
 ---
 title: "Semichem"
 url: /haddington/semichem/
-shop: chemist
+shop: Drogerie
 ---

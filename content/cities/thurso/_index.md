@@ -1,6 +1,6 @@
 ---
 title: Thurso
 url: /thurso/
-latitude: 58.595378800000006
-longitude: -3.522476
+latitude: 58.587
+longitude: -3.539
 ---

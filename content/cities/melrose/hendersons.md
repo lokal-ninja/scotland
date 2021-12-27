@@ -1,5 +1,5 @@
 ---
 title: "Henderson’s"
 url: /melrose/hendersons/
-shop: houseware
+shop: Haushaltsartikel
 ---

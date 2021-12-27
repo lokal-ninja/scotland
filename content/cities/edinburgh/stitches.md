@@ -1,5 +1,5 @@
 ---
 title: "Stitches"
 url: /edinburgh/stitches/
-shop: tailor
+shop: Schneiderei
 ---

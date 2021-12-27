@@ -1,6 +1,6 @@
 ---
 title: Ardersier
 url: /ardersier/
-latitude: 57.5676478
-longitude: -4.0365466
+latitude: 57.558
+longitude: -4.036
 ---

@@ -1,6 +1,6 @@
 ---
 title: Arbroath
 url: /arbroath/
-latitude: 
-longitude: 
+latitude: 56.56
+longitude: -2.583
 ---

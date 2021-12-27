@@ -1,6 +1,6 @@
 ---
 title: Haroldswick
 url: /haroldswick/
-latitude: 60.7891546
-longitude: -0.8310554
+latitude: 60.797
+longitude: -0.822
 ---

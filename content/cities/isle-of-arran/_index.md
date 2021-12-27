@@ -1,6 +1,6 @@
 ---
 title: Isle of Arran
 url: /isle-of-arran/
-latitude: 
-longitude: 
+latitude: 55.52
+longitude: -5.306
 ---

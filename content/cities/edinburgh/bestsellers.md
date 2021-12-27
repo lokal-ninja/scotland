@@ -1,5 +1,5 @@
 ---
 title: "Bestsellers"
 url: /edinburgh/bestsellers/
-shop: books
+shop: Bücher
 ---

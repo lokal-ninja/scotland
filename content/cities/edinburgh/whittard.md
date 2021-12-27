@@ -1,5 +1,5 @@
 ---
 title: "Whittard"
 url: /edinburgh/whittard/
-shop: tea
+shop: Tee
 ---

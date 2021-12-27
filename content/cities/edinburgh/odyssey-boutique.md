@@ -1,5 +1,5 @@
 ---
 title: "Odyssey Boutique"
 url: /edinburgh/odyssey-boutique/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /hawick/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

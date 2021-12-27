@@ -1,5 +1,5 @@
 ---
 title: "Hub Shop"
 url: /aberdeen/hub-shop/
-shop: convenience
+shop: Lebensmittel
 ---

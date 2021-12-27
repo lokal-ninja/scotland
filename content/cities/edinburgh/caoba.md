@@ -1,5 +1,5 @@
 ---
 title: "Caoba"
 url: /edinburgh/caoba/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Handy Shop"
 url: /crieff/the-handy-shop/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

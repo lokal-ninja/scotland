@@ -1,5 +1,5 @@
 ---
 title: "Orvis"
 url: /edinburgh/orvis/
-shop: clothes
+shop: Kleidung
 ---

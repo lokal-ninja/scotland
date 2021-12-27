@@ -1,5 +1,5 @@
 ---
 title: "L G Nails"
 url: /ayr/l-g-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paonessa"
 url: /edinburgh/paonessa/
-shop: art
+shop: Kunst
 ---

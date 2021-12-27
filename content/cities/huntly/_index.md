@@ -1,6 +1,6 @@
 ---
 title: Huntly
 url: /huntly/
-latitude: 55.802010200000005
-longitude: -4.288914200000001
+latitude: 57.447
+longitude: -2.786
 ---

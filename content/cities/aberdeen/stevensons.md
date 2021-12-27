@@ -1,5 +1,5 @@
 ---
 title: "Stevensons"
 url: /aberdeen/stevensons/
-shop: clothes
+shop: Kleidung
 ---

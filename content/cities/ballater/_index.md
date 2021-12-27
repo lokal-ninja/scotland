@@ -1,6 +1,6 @@
 ---
 title: Ballater
 url: /ballater/
-latitude: 57.049506400000006
-longitude: -3.0405173000000003
+latitude: 57.049
+longitude: -3.041
 ---

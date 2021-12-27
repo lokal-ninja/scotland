@@ -1,5 +1,5 @@
 ---
 title: "Mel Mackey"
 url: /edinburgh/mel-mackey/
-shop: hairdresser
+shop: Friseur
 ---

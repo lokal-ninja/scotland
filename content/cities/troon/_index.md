@@ -1,6 +1,6 @@
 ---
 title: Troon
 url: /troon/
-latitude: 55.5437893
-longitude: -4.663906
+latitude: 55.546
+longitude: -4.634
 ---

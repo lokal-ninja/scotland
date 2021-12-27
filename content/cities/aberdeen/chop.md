@@ -1,5 +1,5 @@
 ---
 title: "Chop!_"
 url: /aberdeen/chop/
-shop: hairdresser
+shop: Friseur
 ---

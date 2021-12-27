@@ -1,5 +1,5 @@
 ---
 title: "Bose"
 url: /glasgow/bose/
-shop: hifi
+shop: Hifi
 ---

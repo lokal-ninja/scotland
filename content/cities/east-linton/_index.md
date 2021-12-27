@@ -1,6 +1,6 @@
 ---
 title: East Linton
 url: /east-linton/
-latitude: 55.9862583
-longitude: -2.6558135000000003
+latitude: 55.987
+longitude: -2.656
 ---

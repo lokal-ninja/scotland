@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /peebles/ford/
-shop: car
+shop: Autohaus
 ---

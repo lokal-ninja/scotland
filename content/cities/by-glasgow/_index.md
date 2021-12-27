@@ -1,6 +1,6 @@
 ---
 title: By Glasgow
 url: /by-glasgow/
-latitude: 
-longitude: 
+latitude: 56.075
+longitude: -4.397
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pierowall, Westray
 url: /pierowall-westray/
-latitude: 
-longitude: 
+latitude: 59.321
+longitude: -2.989
 ---

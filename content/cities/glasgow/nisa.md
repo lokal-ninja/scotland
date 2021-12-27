@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /glasgow/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

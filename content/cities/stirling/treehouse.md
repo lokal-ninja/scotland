@@ -1,5 +1,5 @@
 ---
 title: "Treehouse"
 url: /stirling/treehouse/
-shop: interior decoration
+shop: Raumausstattung
 ---

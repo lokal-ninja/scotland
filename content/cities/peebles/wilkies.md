@@ -1,5 +1,5 @@
 ---
 title: "Wilkies"
 url: /peebles/wilkies/
-shop: clothes
+shop: Kleidung
 ---

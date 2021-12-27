@@ -1,5 +1,5 @@
 ---
 title: "Fryzer"
 url: /edinburgh/fryzer/
-shop: hairdresser
+shop: Friseur
 ---

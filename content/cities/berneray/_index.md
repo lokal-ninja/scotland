@@ -1,6 +1,6 @@
 ---
 title: Berneray
 url: /berneray/
-latitude: 
-longitude: 
+latitude: 57.715
+longitude: -7.171
 ---

@@ -1,6 +1,6 @@
 ---
 title: Drumnadrochit
 url: /drumnadrochit/
-latitude: 57.3363808
-longitude: -4.478693900000001
+latitude: 57.329
+longitude: -4.478
 ---

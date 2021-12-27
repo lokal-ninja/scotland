@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /edinburgh/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,6 +1,6 @@
 ---
 title: Durness
 url: /durness/
-latitude: 58.5685105
-longitude: -4.747025900000001
+latitude: 58.563
+longitude: -4.725
 ---

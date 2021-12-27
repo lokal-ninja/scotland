@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /barrhead/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

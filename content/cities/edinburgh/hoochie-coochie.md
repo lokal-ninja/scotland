@@ -1,5 +1,5 @@
 ---
 title: "Hoochie Coochie"
 url: /edinburgh/hoochie-coochie/
-shop: clothes
+shop: Kleidung
 ---

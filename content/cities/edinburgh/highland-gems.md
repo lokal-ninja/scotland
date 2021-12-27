@@ -1,5 +1,5 @@
 ---
 title: "Highland Gems"
 url: /edinburgh/highland-gems/
-shop: gift
+shop: Andenken
 ---

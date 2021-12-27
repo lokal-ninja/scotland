@@ -1,5 +1,5 @@
 ---
 title: "House"
 url: /edinburgh/house/
-shop: interior decoration
+shop: Raumausstattung
 ---

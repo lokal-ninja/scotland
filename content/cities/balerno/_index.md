@@ -1,6 +1,6 @@
 ---
 title: Balerno
 url: /balerno/
-latitude: 
-longitude: 
+latitude: 55.883
+longitude: -3.339
 ---

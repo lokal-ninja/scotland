@@ -1,6 +1,6 @@
 ---
 title: Creag Ghoraidh
 url: /creag-ghoraidh/
-latitude: 57.4112063
-longitude: -7.3343289
+latitude: 57.411
+longitude: -7.335
 ---

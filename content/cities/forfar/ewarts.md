@@ -1,5 +1,5 @@
 ---
 title: "Ewarts"
 url: /forfar/ewarts/
-shop: butcher
+shop: Metzgerei
 ---

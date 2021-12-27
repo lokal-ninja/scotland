@@ -1,5 +1,5 @@
 ---
 title: "McColls"
 url: /st-cyrus/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

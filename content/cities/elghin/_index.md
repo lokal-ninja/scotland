@@ -1,6 +1,6 @@
 ---
 title: Elghin
 url: /elghin/
-latitude: 
-longitude: 
+latitude: 57.64
+longitude: -3.318
 ---

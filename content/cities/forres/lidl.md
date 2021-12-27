@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /forres/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

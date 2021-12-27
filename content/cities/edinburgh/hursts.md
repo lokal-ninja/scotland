@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /edinburgh/hursts/
-shop: convenience
+shop: Lebensmittel
 ---

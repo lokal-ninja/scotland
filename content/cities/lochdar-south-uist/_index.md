@@ -1,6 +1,6 @@
 ---
 title: lochdar South Uist
 url: /lochdar-south-uist/
-latitude: 
-longitude: 
+latitude: 57.397
+longitude: -7.371
 ---

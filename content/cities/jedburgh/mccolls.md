@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /jedburgh/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celebrations"
 url: /peebles/celebrations/
-shop: gift
+shop: Andenken
 ---

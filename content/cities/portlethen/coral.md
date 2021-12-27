@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /portlethen/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

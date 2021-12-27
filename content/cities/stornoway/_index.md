@@ -1,6 +1,6 @@
 ---
 title: Stornoway
 url: /stornoway/
-latitude: 
-longitude: 
+latitude: 58.216
+longitude: -6.385
 ---

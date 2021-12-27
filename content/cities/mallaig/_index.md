@@ -1,6 +1,6 @@
 ---
 title: Mallaig
 url: /mallaig/
-latitude: 57.00613250000001
-longitude: -5.829448800000001
+latitude: 57.005
+longitude: -5.829
 ---

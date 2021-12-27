@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /ayr/blacks/
-shop: outdoor
+shop: Outdoor
 ---

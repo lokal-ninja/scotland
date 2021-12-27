@@ -1,5 +1,5 @@
 ---
 title: "Keystore"
 url: /stirling/keystore/
-shop: convenience
+shop: Lebensmittel
 ---

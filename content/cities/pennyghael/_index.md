@@ -1,6 +1,6 @@
 ---
 title: Pennyghael
 url: /pennyghael/
-latitude: 56.3645719
-longitude: -6.0188641
+latitude: 56.383
+longitude: -5.996
 ---

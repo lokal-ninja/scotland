@@ -1,5 +1,5 @@
 ---
 title: "Sadies"
 url: /edinburgh/sadies/
-shop: shop
+shop: Allgemein
 ---

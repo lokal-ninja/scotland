@@ -1,5 +1,5 @@
 ---
 title: "Panache"
 url: /glasgow/panache/
-shop: clothes
+shop: Kleidung
 ---

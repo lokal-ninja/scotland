@@ -1,5 +1,5 @@
 ---
 title: "Knightsfield"
 url: /edinburgh/knightsfield/
-shop: gift
+shop: Andenken
 ---

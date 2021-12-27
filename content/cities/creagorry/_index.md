@@ -1,6 +1,6 @@
 ---
 title: Creagorry
 url: /creagorry/
-latitude: 
-longitude: 
+latitude: 57.416
+longitude: -7.337
 ---

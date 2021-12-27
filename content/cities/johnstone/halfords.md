@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /johnstone/halfords/
-shop: car repair
+shop: Autowerkstatt
 ---

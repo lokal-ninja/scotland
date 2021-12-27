@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /aberdeen/warhammer/
-shop: games
+shop: Spiele
 ---

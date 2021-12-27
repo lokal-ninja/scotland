@@ -1,6 +1,6 @@
 ---
 title: Achnasheen
 url: /achnasheen/
-latitude: 57.580170200000005
-longitude: -5.0726386
+latitude: 57.614
+longitude: -5.319
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Romeo"
 url: /edinburgh/romeo/
-shop: hairdresser
+shop: Friseur
 ---

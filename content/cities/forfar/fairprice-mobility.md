@@ -1,5 +1,5 @@
 ---
 title: "Fairprice Mobility"
 url: /forfar/fairprice-mobility/
-shop: shop
+shop: Allgemein
 ---

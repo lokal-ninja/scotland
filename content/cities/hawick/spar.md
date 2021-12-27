@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /hawick/spar/
-shop: convenience
+shop: Lebensmittel
 ---

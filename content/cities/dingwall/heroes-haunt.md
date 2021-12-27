@@ -1,5 +1,5 @@
 ---
 title: "Heroes Haunt"
 url: /dingwall/heroes-haunt/
-shop: gift
+shop: Andenken
 ---

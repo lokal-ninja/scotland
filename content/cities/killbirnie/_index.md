@@ -1,6 +1,6 @@
 ---
 title: Killbirnie
 url: /killbirnie/
-latitude: 
-longitude: 
+latitude: 55.747
+longitude: -4.693
 ---

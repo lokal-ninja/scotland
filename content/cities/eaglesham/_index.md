@@ -1,6 +1,6 @@
 ---
 title: Eaglesham
 url: /eaglesham/
-latitude: 55.739343700000006
-longitude: -4.277000800000001
+latitude: 55.74
+longitude: -4.272
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dingwall
 url: /dingwall/
-latitude: 57.595479700000006
-longitude: -4.4284337
+latitude: 57.597
+longitude: -4.438
 ---

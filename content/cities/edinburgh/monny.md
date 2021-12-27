@@ -1,5 +1,5 @@
 ---
 title: "Monny"
 url: /edinburgh/monny/
-shop: vacant
+shop: Leerstehend
 ---

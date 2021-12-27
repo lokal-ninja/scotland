@@ -1,6 +1,6 @@
 ---
 title: Currie
 url: /currie/
-latitude: 55.8964331
-longitude: -3.3086930000000003
+latitude: 55.896
+longitude: -3.313
 ---

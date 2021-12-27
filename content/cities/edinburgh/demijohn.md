@@ -1,5 +1,5 @@
 ---
 title: "Demijohn"
 url: /edinburgh/demijohn/
-shop: gift
+shop: Andenken
 ---

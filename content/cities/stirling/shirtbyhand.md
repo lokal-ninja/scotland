@@ -1,5 +1,5 @@
 ---
 title: "ShirtbyHand"
 url: /stirling/shirtbyhand/
-shop: tailor
+shop: Schneiderei
 ---

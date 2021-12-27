@@ -1,5 +1,5 @@
 ---
 title: "Mathiesons"
 url: /edinburgh/mathiesons/
-shop: butcher
+shop: Metzgerei
 ---

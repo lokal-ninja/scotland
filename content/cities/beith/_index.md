@@ -1,6 +1,6 @@
 ---
 title: Beith
 url: /beith/
-latitude: 55.75051070000001
-longitude: -4.6328296
+latitude: 55.754
+longitude: -4.634
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eteaket"
 url: /edinburgh/eteaket/
-shop: tea
+shop: Tee
 ---

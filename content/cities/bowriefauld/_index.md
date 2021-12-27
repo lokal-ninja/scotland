@@ -1,6 +1,6 @@
 ---
 title: Bowriefauld
 url: /bowriefauld/
-latitude: 56.6221212
-longitude: -2.7890439000000002
+latitude: 56.621
+longitude: -2.786
 ---

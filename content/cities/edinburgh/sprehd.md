@@ -1,5 +1,5 @@
 ---
 title: "SprEHd"
 url: /edinburgh/sprehd/
-shop: deli
+shop: Feinkost
 ---

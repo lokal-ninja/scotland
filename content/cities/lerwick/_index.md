@@ -1,6 +1,6 @@
 ---
 title: Lerwick
 url: /lerwick/
-latitude: 
-longitude: 
+latitude: 60.158
+longitude: -1.156
 ---

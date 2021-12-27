@@ -1,5 +1,5 @@
 ---
 title: "McGraths"
 url: /edinburgh/mcgraths/
-shop: optician
+shop: Optiker
 ---

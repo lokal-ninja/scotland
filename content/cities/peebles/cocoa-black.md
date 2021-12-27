@@ -1,5 +1,5 @@
 ---
 title: "Cocoa Black"
 url: /peebles/cocoa-black/
-shop: chocolate
+shop: Schokolade
 ---

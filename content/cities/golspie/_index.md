@@ -1,6 +1,6 @@
 ---
 title: Golspie
 url: /golspie/
-latitude: 57.973318000000006
-longitude: -3.9758786
+latitude: 57.974
+longitude: -3.975
 ---

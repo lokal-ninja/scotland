@@ -1,6 +1,6 @@
 ---
 title: Lochmaddy
 url: /lochmaddy/
-latitude: 
-longitude: 
+latitude: 57.602
+longitude: -7.164
 ---

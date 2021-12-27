@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /edinburgh/farmfoods/
-shop: frozen food
+shop: Tiefkühl
 ---

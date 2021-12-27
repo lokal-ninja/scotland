@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /inverness/spar/
-shop: convenience
+shop: Lebensmittel
 ---

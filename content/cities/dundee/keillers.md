@@ -1,5 +1,5 @@
 ---
 title: "Keillers"
 url: /dundee/keillers/
-shop: gift
+shop: Andenken
 ---

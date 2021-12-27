@@ -1,6 +1,6 @@
 ---
 title: Kirkwall, Orkney
 url: /kirkwall-orkney/
-latitude: 
-longitude: 
+latitude: 58.983
+longitude: -2.959
 ---

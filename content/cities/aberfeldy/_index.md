@@ -1,6 +1,6 @@
 ---
 title: Aberfeldy
 url: /aberfeldy/
-latitude: 
-longitude: 
+latitude: 56.619
+longitude: -3.867
 ---

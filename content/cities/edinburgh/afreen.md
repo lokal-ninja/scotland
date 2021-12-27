@@ -1,5 +1,5 @@
 ---
 title: "Afreen"
 url: /edinburgh/afreen/
-shop: beauty
+shop: Kosmetik
 ---

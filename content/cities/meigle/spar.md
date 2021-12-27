@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /meigle/spar/
-shop: convenience
+shop: Lebensmittel
 ---

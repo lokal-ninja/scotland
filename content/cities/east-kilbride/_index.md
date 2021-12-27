@@ -1,6 +1,6 @@
 ---
 title: East Kilbride
 url: /east-kilbride/
-latitude: 55.760176
-longitude: -4.1790780000000005
+latitude: 55.757
+longitude: -4.202
 ---

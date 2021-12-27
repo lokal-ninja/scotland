@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /aberdeen/shelter/
-shop: charity
+shop: Gebrauchtwaren
 ---

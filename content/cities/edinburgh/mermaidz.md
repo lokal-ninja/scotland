@@ -1,5 +1,5 @@
 ---
 title: "Mermaidz"
 url: /edinburgh/mermaidz/
-shop: hairdresser
+shop: Friseur
 ---

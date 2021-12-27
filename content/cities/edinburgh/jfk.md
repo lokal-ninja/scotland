@@ -1,5 +1,5 @@
 ---
 title: "JFK"
 url: /edinburgh/jfk/
-shop: hairdresser
+shop: Friseur
 ---

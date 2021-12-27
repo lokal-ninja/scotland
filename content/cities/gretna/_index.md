@@ -1,6 +1,6 @@
 ---
 title: Gretna
 url: /gretna/
-latitude: 54.9953097
-longitude: -3.0669404
+latitude: 54.995
+longitude: -3.067
 ---

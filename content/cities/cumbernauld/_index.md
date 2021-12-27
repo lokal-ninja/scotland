@@ -1,6 +1,6 @@
 ---
 title: Cumbernauld
 url: /cumbernauld/
-latitude: 55.9477764
-longitude: -3.9882568000000003
+latitude: 55.936
+longitude: -4.027
 ---

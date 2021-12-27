@@ -1,5 +1,5 @@
 ---
 title: "USC"
 url: /glasgow/usc/
-shop: clothes
+shop: Kleidung
 ---

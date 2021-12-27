@@ -1,6 +1,6 @@
 ---
 title: Newarthill
 url: /newarthill/
-latitude: 55.8149158
-longitude: -3.9376273000000004
+latitude: 55.818
+longitude: -3.934
 ---

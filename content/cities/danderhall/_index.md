@@ -1,6 +1,6 @@
 ---
 title: Danderhall
 url: /danderhall/
-latitude: 
-longitude: 
+latitude: 55.913
+longitude: -3.107
 ---

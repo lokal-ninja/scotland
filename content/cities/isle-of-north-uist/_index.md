@@ -1,6 +1,6 @@
 ---
 title: Isle of North Uist
 url: /isle-of-north-uist/
-latitude: 
-longitude: 
+latitude: 57.478
+longitude: -7.205
 ---

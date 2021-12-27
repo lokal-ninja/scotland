@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /aberdeen/coral-2/
-shop: bookmaker
+shop: Wettbüro
 ---

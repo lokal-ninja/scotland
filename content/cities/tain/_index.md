@@ -1,6 +1,6 @@
 ---
 title: Tain
 url: /tain/
-latitude: 57.8119372
-longitude: -4.0550663
+latitude: 57.812
+longitude: -4.054
 ---

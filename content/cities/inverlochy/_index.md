@@ -1,6 +1,6 @@
 ---
 title: Inverlochy
 url: /inverlochy/
-latitude: 56.591253300000005
-longitude: -2.6466939000000003
+latitude: 56.826
+longitude: -5.094
 ---

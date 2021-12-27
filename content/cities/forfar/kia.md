@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /forfar/kia/
-shop: car
+shop: Autohaus
 ---

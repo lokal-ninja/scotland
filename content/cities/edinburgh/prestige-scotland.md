@@ -1,5 +1,5 @@
 ---
 title: "Prestige Scotland"
 url: /edinburgh/prestige-scotland/
-shop: gift
+shop: Andenken
 ---

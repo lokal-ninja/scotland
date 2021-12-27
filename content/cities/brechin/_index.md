@@ -1,6 +1,6 @@
 ---
 title: Brechin
 url: /brechin/
-latitude: 56.7315854
-longitude: -2.6598989
+latitude: 56.732
+longitude: -2.66
 ---

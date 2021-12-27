@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /kirkcaldy/premier/
-shop: convenience
+shop: Lebensmittel
 ---

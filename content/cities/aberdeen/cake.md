@@ -1,5 +1,5 @@
 ---
 title: "Cake"
 url: /aberdeen/cake/
-shop: confectionery
+shop: Süßwaren
 ---

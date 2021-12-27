@@ -1,5 +1,5 @@
 ---
 title: "Booker"
 url: /ayr/booker/
-shop: wholesale
+shop: Großhandel
 ---

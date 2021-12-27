@@ -1,5 +1,5 @@
 ---
 title: "Pro-Am Cycles"
 url: /larkhall/pro-am-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

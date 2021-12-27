@@ -1,5 +1,5 @@
 ---
 title: "Latino"
 url: /perth/latino/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

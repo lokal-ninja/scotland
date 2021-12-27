@@ -1,5 +1,5 @@
 ---
 title: "Optimus"
 url: /edinburgh/optimus/
-shop: mobile phone
+shop: Handy
 ---

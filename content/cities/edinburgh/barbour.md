@@ -1,5 +1,5 @@
 ---
 title: "Barbour"
 url: /edinburgh/barbour/
-shop: clothes
+shop: Kleidung
 ---

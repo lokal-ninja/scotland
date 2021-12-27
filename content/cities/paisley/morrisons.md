@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /paisley/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fraserburgh
 url: /fraserburgh/
-latitude: 57.6935974
-longitude: -2.0051497
+latitude: 57.689
+longitude: -2.003
 ---

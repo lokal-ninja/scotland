@@ -1,5 +1,5 @@
 ---
 title: "Fopp"
 url: /edinburgh/fopp/
-shop: music
+shop: Musik
 ---

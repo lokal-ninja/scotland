@@ -1,5 +1,5 @@
 ---
 title: "Semichem"
 url: /aberdeen/semichem/
-shop: chemist
+shop: Drogerie
 ---

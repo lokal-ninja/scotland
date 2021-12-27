@@ -1,6 +1,6 @@
 ---
 title: Kirkwall
 url: /kirkwall/
-latitude: 58.9816049
-longitude: -2.960369
+latitude: 58.984
+longitude: -2.958
 ---

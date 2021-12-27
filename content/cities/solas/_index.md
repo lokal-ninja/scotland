@@ -1,6 +1,6 @@
 ---
 title: Solas
 url: /solas/
-latitude: 57.649740200000004
-longitude: -7.3461103
+latitude: 57.65
+longitude: -7.345
 ---

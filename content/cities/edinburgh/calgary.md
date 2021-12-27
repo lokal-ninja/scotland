@@ -1,5 +1,5 @@
 ---
 title: "Calgary"
 url: /edinburgh/calgary/
-shop: beauty
+shop: Kosmetik
 ---

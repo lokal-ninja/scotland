@@ -1,6 +1,6 @@
 ---
 title: Ullapool
 url: /ullapool/
-latitude: 57.897823700000004
-longitude: -5.1586647
+latitude: 57.896
+longitude: -5.16
 ---

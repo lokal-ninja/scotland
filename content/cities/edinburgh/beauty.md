@@ -1,5 +1,5 @@
 ---
 title: "Beauty"
 url: /edinburgh/beauty/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oddbins"
 url: /aberdeen/oddbins/
-shop: alcohol
+shop: Spirituosen
 ---

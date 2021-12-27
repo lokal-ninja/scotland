@@ -1,5 +1,5 @@
 ---
 title: "Rosevear"
 url: /edinburgh/rosevear/
-shop: tea
+shop: Tee
 ---

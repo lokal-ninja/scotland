@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
 url: /edinburgh/euronics/
-shop: electronics
+shop: Elektronik
 ---

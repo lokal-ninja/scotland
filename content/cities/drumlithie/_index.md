@@ -1,6 +1,6 @@
 ---
 title: Drumlithie
 url: /drumlithie/
-latitude: 56.9187431
-longitude: -2.3521694
+latitude: 56.919
+longitude: -2.35
 ---

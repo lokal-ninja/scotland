@@ -1,5 +1,5 @@
 ---
 title: "Desirables"
 url: /callander/desirables/
-shop: clothes
+shop: Kleidung
 ---

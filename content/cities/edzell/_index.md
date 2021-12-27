@@ -1,6 +1,6 @@
 ---
 title: Edzell
 url: /edzell/
-latitude: 56.809986300000006
-longitude: -2.6558539000000003
+latitude: 56.809
+longitude: -2.656
 ---

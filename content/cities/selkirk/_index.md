@@ -1,6 +1,6 @@
 ---
 title: Selkirk
 url: /selkirk/
-latitude: 55.5470714
-longitude: -2.8415411
+latitude: 55.548
+longitude: -2.84
 ---

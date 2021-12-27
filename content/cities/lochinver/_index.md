@@ -1,6 +1,6 @@
 ---
 title: Lochinver
 url: /lochinver/
-latitude: 58.1487987
-longitude: -5.2392254000000005
+latitude: 58.147
+longitude: -5.243
 ---

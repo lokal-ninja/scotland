@@ -1,6 +1,6 @@
 ---
 title: Balmedie
 url: /balmedie/
-latitude: 57.246473
-longitude: -2.0571418
+latitude: 57.278
+longitude: -2.021
 ---

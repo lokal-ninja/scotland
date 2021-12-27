@@ -1,5 +1,5 @@
 ---
 title: "Eloche"
 url: /ratho/eloche/
-shop: hairdresser
+shop: Friseur
 ---

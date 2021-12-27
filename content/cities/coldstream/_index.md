@@ -1,6 +1,6 @@
 ---
 title: Coldstream
 url: /coldstream/
-latitude: 56.544511400000005
-longitude: -2.9927322000000003
+latitude: 55.651
+longitude: -2.252
 ---

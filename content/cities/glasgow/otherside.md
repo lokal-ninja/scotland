@@ -1,5 +1,5 @@
 ---
 title: "Otherside"
 url: /glasgow/otherside/
-shop: music
+shop: Musik
 ---

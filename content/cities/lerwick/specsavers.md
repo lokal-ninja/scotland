@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /lerwick/specsavers/
-shop: optician
+shop: Optiker
 ---

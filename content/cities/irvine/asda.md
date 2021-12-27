@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /irvine/asda/
-shop: supermarket
+shop: Supermarkt
 ---

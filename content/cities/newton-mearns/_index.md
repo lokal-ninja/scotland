@@ -1,6 +1,6 @@
 ---
 title: Newton Mearns
 url: /newton-mearns/
-latitude: 
-longitude: 
+latitude: 55.772
+longitude: -4.335
 ---

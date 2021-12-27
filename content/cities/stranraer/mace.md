@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /stranraer/mace/
-shop: newsagent
+shop: Zeitungen
 ---

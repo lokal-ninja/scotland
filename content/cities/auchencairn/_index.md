@@ -1,6 +1,6 @@
 ---
 title: Auchencairn
 url: /auchencairn/
-latitude: 55.147186700000006
-longitude: -3.6018851
+latitude: 54.844
+longitude: -3.871
 ---

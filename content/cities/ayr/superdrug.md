@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /ayr/superdrug/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,6 +1,6 @@
 ---
 title: Suaineabost
 url: /suaineabost/
-latitude: 58.47990050000001
-longitude: -6.2691794000000005
+latitude: 58.48
+longitude: -6.269
 ---

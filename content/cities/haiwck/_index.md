@@ -1,6 +1,6 @@
 ---
 title: Haiwck
 url: /haiwck/
-latitude: 
-longitude: 
+latitude: 55.419
+longitude: -2.793
 ---

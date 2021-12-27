@@ -1,5 +1,5 @@
 ---
 title: "HOMECARE"
 url: /grangemouth/homecare/
-shop: houseware
+shop: Haushaltsartikel
 ---

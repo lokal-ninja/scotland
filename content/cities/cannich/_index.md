@@ -1,6 +1,6 @@
 ---
 title: Cannich
 url: /cannich/
-latitude: 57.34688920000001
-longitude: -4.7661918000000005
+latitude: 57.345
+longitude: -4.768
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easybet"
 url: /kilmarnock/easybet/
-shop: bookmaker
+shop: Wettbüro
 ---

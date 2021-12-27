@@ -1,6 +1,6 @@
 ---
 title: Eday
 url: /eday/
-latitude: 
-longitude: 
+latitude: 59.213
+longitude: -2.757
 ---

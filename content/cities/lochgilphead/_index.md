@@ -1,6 +1,6 @@
 ---
 title: Lochgilphead
 url: /lochgilphead/
-latitude: 56.037506900000004
-longitude: -5.433147
+latitude: 56.038
+longitude: -5.433
 ---

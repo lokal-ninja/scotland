@@ -1,5 +1,5 @@
 ---
 title: "Letham Crafts"
 url: /letham/letham-crafts/
-shop: craft
+shop: Basteln
 ---

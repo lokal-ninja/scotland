@@ -1,6 +1,6 @@
 ---
 title: Glenegedale Lotts
 url: /glenegedale-lotts/
-latitude: 
-longitude: 
+latitude: 55.688
+longitude: -6.224
 ---

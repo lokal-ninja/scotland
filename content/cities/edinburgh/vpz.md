@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /edinburgh/vpz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Farmshop"
 url: /edinburgh/city-farmshop/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /dunfermline/asda/
-shop: supermarket
+shop: Supermarkt
 ---

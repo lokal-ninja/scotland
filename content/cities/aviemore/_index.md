@@ -1,6 +1,6 @@
 ---
 title: Aviemore
 url: /aviemore/
-latitude: 57.193752800000006
-longitude: -3.8287496
+latitude: 57.192
+longitude: -3.828
 ---

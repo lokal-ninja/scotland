@@ -1,5 +1,5 @@
 ---
 title: "KeyStore"
 url: /glasgow/keystore/
-shop: convenience
+shop: Lebensmittel
 ---

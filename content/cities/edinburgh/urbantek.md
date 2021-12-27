@@ -1,5 +1,5 @@
 ---
 title: "Urbantek"
 url: /edinburgh/urbantek/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Treehouse"
 url: /edinburgh/treehouse/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stocks"
 url: /kirkcaldy/stocks/
-shop: carpet
+shop: Teppiche
 ---

@@ -1,6 +1,6 @@
 ---
 title: Anstruther
 url: /anstruther/
-latitude: 56.2227638
-longitude: -2.7005643000000004
+latitude: 56.223
+longitude: -2.7
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MacLean's Bakery"
 url: /uachdar/macleans-bakery/
-shop: bakery
+shop: Bäckerei
 ---

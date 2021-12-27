@@ -1,6 +1,6 @@
 ---
 title: Fortrose
 url: /fortrose/
-latitude: 57.5817836
-longitude: -4.1305039
+latitude: 57.582
+longitude: -4.13
 ---

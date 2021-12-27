@@ -1,6 +1,6 @@
 ---
 title: Beeswing
 url: /beeswing/
-latitude: 55.0069609
-longitude: -3.7296478000000004
+latitude: 55.004
+longitude: -3.729
 ---

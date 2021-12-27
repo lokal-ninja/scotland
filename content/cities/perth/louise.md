@@ -1,5 +1,5 @@
 ---
 title: "Louise"
 url: /perth/louise/
-shop: hairdresser
+shop: Friseur
 ---
