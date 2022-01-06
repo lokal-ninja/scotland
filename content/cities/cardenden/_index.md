@@ -1,6 +1,6 @@
 ---
 title: Cardenden
 url: /cardenden/
-latitude: 56.138
-longitude: -3.26
+latitude: 56.144
+longitude: -3.261
 ---
