@@ -1,5 +1,5 @@
 ---
 title: "Frank Williamson"
 url: /lerwick/frank-williamson/
-shop: Baumarkt
+shop: doityourself
 ---

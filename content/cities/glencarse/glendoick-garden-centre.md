@@ -1,5 +1,5 @@
 ---
 title: "Glendoick Garden Centre"
 url: /glencarse/glendoick-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

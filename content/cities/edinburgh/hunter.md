@@ -1,5 +1,5 @@
 ---
 title: "Hunter"
 url: /edinburgh/hunter/
-shop: Immobilien
+shop: estate agent
 ---

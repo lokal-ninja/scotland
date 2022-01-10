@@ -1,5 +1,5 @@
 ---
 title: "LA hair solutions"
 url: /edinburgh/la-hair-solutions/
-shop: Friseur
+shop: hairdresser
 ---

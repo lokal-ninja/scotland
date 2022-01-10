@@ -1,5 +1,5 @@
 ---
 title: "Vault of Curiousity"
 url: /jedburgh/vault-of-curiousity/
-shop: Antiquitäten
+shop: antiques
 ---

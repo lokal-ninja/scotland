@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /inverness/deichmann/
-shop: Schuhe
+shop: shoes
 ---

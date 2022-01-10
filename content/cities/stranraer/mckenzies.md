@@ -1,5 +1,5 @@
 ---
 title: "McKenzies"
 url: /stranraer/mckenzies/
-shop: Haushaltsgeräte
+shop: appliance
 ---

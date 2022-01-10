@@ -1,5 +1,5 @@
 ---
 title: "RARE"
 url: /lossiemouth/rare/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /comrie/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

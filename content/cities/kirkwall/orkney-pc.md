@@ -1,5 +1,5 @@
 ---
 title: "Orkney PC"
 url: /kirkwall/orkney-pc/
-shop: Computer
+shop: computer
 ---

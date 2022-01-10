@@ -1,5 +1,5 @@
 ---
 title: "Lorna's Flowers"
 url: /kirriemuir/lornas-flowers/
-shop: Blumen
+shop: florist
 ---

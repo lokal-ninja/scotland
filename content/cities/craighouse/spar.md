@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /craighouse/spar/
-shop: Lebensmittel
+shop: convenience
 ---

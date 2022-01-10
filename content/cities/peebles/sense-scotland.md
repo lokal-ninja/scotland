@@ -1,5 +1,5 @@
 ---
 title: "Sense Scotland"
 url: /peebles/sense-scotland/
-shop: Gebrauchtwaren
+shop: charity
 ---

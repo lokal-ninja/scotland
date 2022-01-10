@@ -1,5 +1,5 @@
 ---
 title: "Chinese Doctor"
 url: /edinburgh/chinese-doctor/
-shop: Massage
+shop: massage
 ---

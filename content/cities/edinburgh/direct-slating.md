@@ -1,5 +1,5 @@
 ---
 title: "Direct Slating"
 url: /edinburgh/direct-slating/
-shop: Baustoffe
+shop: trade
 ---

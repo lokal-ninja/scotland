@@ -1,5 +1,5 @@
 ---
 title: "Hamilton Auto"
 url: /hamilton/hamilton-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

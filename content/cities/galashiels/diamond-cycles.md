@@ -1,5 +1,5 @@
 ---
 title: "Diamond Cycles"
 url: /galashiels/diamond-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

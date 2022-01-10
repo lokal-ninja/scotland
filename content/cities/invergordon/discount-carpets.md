@@ -1,5 +1,5 @@
 ---
 title: "Discount Carpets"
 url: /invergordon/discount-carpets/
-shop: Teppiche
+shop: carpet
 ---

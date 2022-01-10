@@ -1,5 +1,5 @@
 ---
 title: "Crinan Cycles"
 url: /lochgilphead/crinan-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

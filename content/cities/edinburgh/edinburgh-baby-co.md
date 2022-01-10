@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Baby Co"
 url: /edinburgh/edinburgh-baby-co/
-shop: Babysachen
+shop: baby goods
 ---

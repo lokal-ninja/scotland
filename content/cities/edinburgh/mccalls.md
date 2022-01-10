@@ -1,5 +1,5 @@
 ---
 title: "McCalls"
 url: /edinburgh/mccalls/
-shop: Kleidung
+shop: clothes
 ---

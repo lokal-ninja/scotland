@@ -1,5 +1,5 @@
 ---
 title: "Langmuir Store"
 url: /kirkintilloch/langmuir-store/
-shop: Lebensmittel
+shop: convenience
 ---

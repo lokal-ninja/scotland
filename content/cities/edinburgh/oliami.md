@@ -1,5 +1,5 @@
 ---
 title: "Oliami"
 url: /edinburgh/oliami/
-shop: Kleidung
+shop: clothes
 ---

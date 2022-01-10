@@ -1,5 +1,5 @@
 ---
 title: "Yaan Peet Garage"
 url: /edinburgh/yaan-peet-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

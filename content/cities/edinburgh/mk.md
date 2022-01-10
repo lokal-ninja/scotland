@@ -1,5 +1,5 @@
 ---
 title: "MK"
 url: /edinburgh/mk/
-shop: Friseur
+shop: hairdresser
 ---

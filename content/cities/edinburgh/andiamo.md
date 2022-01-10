@@ -1,5 +1,5 @@
 ---
 title: "Andiamo"
 url: /edinburgh/andiamo/
-shop: Kleidung
+shop: clothes
 ---

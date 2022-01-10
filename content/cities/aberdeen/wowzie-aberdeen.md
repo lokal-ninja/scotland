@@ -1,5 +1,5 @@
 ---
 title: "Wowzie Aberdeen"
 url: /aberdeen/wowzie-aberdeen/
-shop: Süßwaren
+shop: confectionery
 ---

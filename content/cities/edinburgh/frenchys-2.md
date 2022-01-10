@@ -1,5 +1,5 @@
 ---
 title: "Frenchy's"
 url: /edinburgh/frenchys-2/
-shop: Kosmetik
+shop: beauty
 ---

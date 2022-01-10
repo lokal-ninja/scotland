@@ -1,5 +1,5 @@
 ---
 title: "Live Aveda"
 url: /edinburgh/live-aveda/
-shop: Kosmetik
+shop: beauty
 ---

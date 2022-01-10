@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /dumfries/nisa/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A. McKenzie"
 url: /sandhead/a-mckenzie/
-shop: Lebensmittel
+shop: convenience
 ---

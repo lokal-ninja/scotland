@@ -1,5 +1,5 @@
 ---
 title: "EasyWays"
 url: /polmont/easyways/
-shop: Reisebüro
+shop: travel agency
 ---

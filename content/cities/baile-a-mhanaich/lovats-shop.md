@@ -1,5 +1,5 @@
 ---
 title: "Lovats Shop"
 url: /baile-a-mhanaich/lovats-shop/
-shop: Supermarkt
+shop: supermarket
 ---

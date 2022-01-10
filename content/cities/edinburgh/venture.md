@@ -1,5 +1,5 @@
 ---
 title: "Venture"
 url: /edinburgh/venture/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jaesy's Off Licence"
 url: /burntisland/jaesys-off-licence/
-shop: Lebensmittel
+shop: convenience
 ---

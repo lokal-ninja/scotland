@@ -1,5 +1,5 @@
 ---
 title: "Marie Curie"
 url: /lanark/marie-curie/
-shop: Gebrauchtwaren
+shop: charity
 ---

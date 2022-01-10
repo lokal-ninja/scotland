@@ -1,5 +1,5 @@
 ---
 title: "John McMenamin Ltd"
 url: /edinburgh/john-mcmenamin-ltd/
-shop: Baustoffe
+shop: trade
 ---

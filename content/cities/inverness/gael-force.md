@@ -1,5 +1,5 @@
 ---
 title: "Gael Force"
 url: /inverness/gael-force/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jessops"
 url: /aberdeen/jessops/
-shop: Kamera
+shop: camera
 ---

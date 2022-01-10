@@ -1,5 +1,5 @@
 ---
 title: "Fleming Buildbase"
 url: /hatston-kirkwall/fleming-buildbase/
-shop: Baumarkt
+shop: doityourself
 ---

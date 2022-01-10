@@ -1,5 +1,5 @@
 ---
 title: "Theodore David"
 url: /edinburgh/theodore-david/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ralph Crook Hairdressing"
 url: /inverness/ralph-crook-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

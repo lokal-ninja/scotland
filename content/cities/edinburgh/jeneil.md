@@ -1,5 +1,5 @@
 ---
 title: "Jeneil"
 url: /edinburgh/jeneil/
-shop: Schmuck
+shop: jewelry
 ---

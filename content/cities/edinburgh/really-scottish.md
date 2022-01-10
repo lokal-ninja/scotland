@@ -1,5 +1,5 @@
 ---
 title: "Really Scottish"
 url: /edinburgh/really-scottish/
-shop: Andenken
+shop: gift
 ---

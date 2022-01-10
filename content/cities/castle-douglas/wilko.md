@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /castle-douglas/wilko/
-shop: Kramladen
+shop: variety store
 ---

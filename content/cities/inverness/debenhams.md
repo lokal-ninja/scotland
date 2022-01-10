@@ -1,5 +1,5 @@
 ---
 title: "Debenhams"
 url: /inverness/debenhams/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "lc packaging"
 url: /friockheim/lc-packaging/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

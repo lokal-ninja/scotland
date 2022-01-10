@@ -1,5 +1,5 @@
 ---
 title: "Junction Food Store"
 url: /edinburgh/junction-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

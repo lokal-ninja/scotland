@@ -1,5 +1,5 @@
 ---
 title: "The Roundhouse Veterinary Hospital"
 url: /glasgow/the-roundhouse-veterinary-hospital/
-shop: Allgemein
+shop: shop
 ---

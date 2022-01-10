@@ -1,5 +1,5 @@
 ---
 title: "Indigo Sun"
 url: /aberdeen/indigo-sun-3/
-shop: Kosmetik
+shop: beauty
 ---

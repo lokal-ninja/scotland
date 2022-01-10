@@ -1,5 +1,5 @@
 ---
 title: "Gamola Golf"
 url: /aberdeen/gamola-golf/
-shop: Golf
+shop: golf
 ---

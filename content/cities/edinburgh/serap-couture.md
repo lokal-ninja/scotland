@@ -1,5 +1,5 @@
 ---
 title: "Serap Couture"
 url: /edinburgh/serap-couture/
-shop: Kleidung
+shop: clothes
 ---

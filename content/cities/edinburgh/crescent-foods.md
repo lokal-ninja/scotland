@@ -1,5 +1,5 @@
 ---
 title: "Crescent Foods"
 url: /edinburgh/crescent-foods/
-shop: Lebensmittel
+shop: convenience
 ---

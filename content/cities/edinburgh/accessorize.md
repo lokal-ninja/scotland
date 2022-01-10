@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /edinburgh/accessorize/
-shop: Kleidung
+shop: clothes
 ---

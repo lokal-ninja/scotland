@@ -1,5 +1,5 @@
 ---
 title: "Videoplus"
 url: /aberdeen/videoplus/
-shop: Elektronik
+shop: electronics
 ---

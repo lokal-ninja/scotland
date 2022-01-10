@@ -1,5 +1,5 @@
 ---
 title: "Harris Charity Shop"
 url: /an-tairbeart/harris-charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

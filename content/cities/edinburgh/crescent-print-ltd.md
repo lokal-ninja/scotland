@@ -1,5 +1,5 @@
 ---
 title: "Crescent print LTD"
 url: /edinburgh/crescent-print-ltd/
-shop: Kopieren
+shop: copyshop
 ---

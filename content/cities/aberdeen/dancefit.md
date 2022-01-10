@@ -1,5 +1,5 @@
 ---
 title: "Dancefit"
 url: /aberdeen/dancefit/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frutin Travel"
 url: /edinburgh/frutin-travel/
-shop: Reisebüro
+shop: travel agency
 ---

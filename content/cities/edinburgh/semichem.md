@@ -1,5 +1,5 @@
 ---
 title: "Semichem"
 url: /edinburgh/semichem/
-shop: Drogerie
+shop: chemist
 ---

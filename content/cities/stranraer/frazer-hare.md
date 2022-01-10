@@ -1,5 +1,5 @@
 ---
 title: "Frazer Hare"
 url: /stranraer/frazer-hare/
-shop: Bestattungen
+shop: funeral directors
 ---

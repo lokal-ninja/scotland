@@ -1,5 +1,5 @@
 ---
 title: "Horizon"
 url: /edinburgh/horizon/
-shop: Schreibwaren
+shop: office supplies
 ---

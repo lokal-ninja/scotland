@@ -1,5 +1,5 @@
 ---
 title: "Forall's garage"
 url: /edinburgh/foralls-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

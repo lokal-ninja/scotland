@@ -1,5 +1,5 @@
 ---
 title: "Russell Paints"
 url: /edinburgh/russell-paints/
-shop: Farben
+shop: paint
 ---

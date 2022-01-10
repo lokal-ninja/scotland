@@ -1,5 +1,5 @@
 ---
 title: "Capital Carpets"
 url: /edinburgh/capital-carpets/
-shop: Teppiche
+shop: carpet
 ---

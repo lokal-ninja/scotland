@@ -1,5 +1,5 @@
 ---
 title: "Flair"
 url: /forfar/flair/
-shop: Kleidung
+shop: clothes
 ---

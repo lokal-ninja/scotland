@@ -1,5 +1,5 @@
 ---
 title: "Not So Basic"
 url: /lochgelly/not-so-basic/
-shop: Friseur
+shop: hairdresser
 ---

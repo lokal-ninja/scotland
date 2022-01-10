@@ -1,5 +1,5 @@
 ---
 title: "HMR Stores"
 url: /glenrothes/hmr-stores/
-shop: Lebensmittel
+shop: convenience
 ---

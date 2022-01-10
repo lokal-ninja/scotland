@@ -1,5 +1,5 @@
 ---
 title: "Bruce-Low Hair"
 url: /oban/bruce-low-hair/
-shop: Friseur
+shop: hairdresser
 ---

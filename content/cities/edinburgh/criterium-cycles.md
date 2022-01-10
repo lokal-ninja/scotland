@@ -1,5 +1,5 @@
 ---
 title: "Criterium Cycles"
 url: /edinburgh/criterium-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

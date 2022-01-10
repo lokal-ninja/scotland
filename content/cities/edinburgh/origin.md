@@ -1,5 +1,5 @@
 ---
 title: "Origin"
 url: /edinburgh/origin/
-shop: Friseur
+shop: hairdresser
 ---

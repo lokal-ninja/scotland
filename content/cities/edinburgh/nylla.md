@@ -1,5 +1,5 @@
 ---
 title: "Nylla"
 url: /edinburgh/nylla/
-shop: Kosmetik
+shop: beauty
 ---

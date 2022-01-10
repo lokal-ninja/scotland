@@ -1,5 +1,5 @@
 ---
 title: "Broad Street Stores"
 url: /stirling/broad-street-stores/
-shop: Lebensmittel
+shop: convenience
 ---

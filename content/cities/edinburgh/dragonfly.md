@@ -1,5 +1,5 @@
 ---
 title: "Dragonfly"
 url: /edinburgh/dragonfly/
-shop: Andenken
+shop: gift
 ---

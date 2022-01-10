@@ -1,5 +1,5 @@
 ---
 title: "A Thorburn Ltd"
 url: /edinburgh/a-thorburn-ltd-2/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /airdrie/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

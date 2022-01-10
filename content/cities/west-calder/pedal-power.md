@@ -1,5 +1,5 @@
 ---
 title: "Pedal Power"
 url: /west-calder/pedal-power/
-shop: Fahrrad
+shop: bicycle
 ---

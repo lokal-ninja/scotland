@@ -1,5 +1,5 @@
 ---
 title: "MYSA"
 url: /edinburgh/mysa/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Broughton Property Management"
 url: /edinburgh/broughton-property-management/
-shop: Immobilien
+shop: estate agent
 ---

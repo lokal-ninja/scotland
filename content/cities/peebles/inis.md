@@ -1,5 +1,5 @@
 ---
 title: "Inis"
 url: /peebles/inis/
-shop: Kleidung
+shop: clothes
 ---

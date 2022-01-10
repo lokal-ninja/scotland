@@ -1,5 +1,5 @@
 ---
 title: "Hotter"
 url: /edinburgh/hotter/
-shop: Schuhe
+shop: shoes
 ---

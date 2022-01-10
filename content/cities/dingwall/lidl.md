@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /dingwall/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
-title: "McColls"
+title: "McColl's"
 url: /gairloch/mccolls/
-shop: Supermarkt
+shop: convenience
 ---

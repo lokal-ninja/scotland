@@ -1,5 +1,5 @@
 ---
 title: "Patrick Buckley Antiques"
 url: /edinburgh/patrick-buckley-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

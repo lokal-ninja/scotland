@@ -1,5 +1,5 @@
 ---
 title: "Eskers Gelato"
 url: /falkirk/eskers-gelato/
-shop: Eisprodukte
+shop: ice cream
 ---

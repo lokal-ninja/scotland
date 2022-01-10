@@ -1,5 +1,5 @@
 ---
 title: "Truly Scrumptious"
 url: /linlithgow/truly-scrumptious/
-shop: Süßwaren
+shop: confectionery
 ---

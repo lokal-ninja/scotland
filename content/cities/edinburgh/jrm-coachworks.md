@@ -1,5 +1,5 @@
 ---
 title: "JRM Coachworks"
 url: /edinburgh/jrm-coachworks/
-shop: Autowerkstatt
+shop: car repair
 ---

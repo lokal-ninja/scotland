@@ -1,5 +1,5 @@
 ---
 title: "Flamingo Bathrooms"
 url: /edinburgh/flamingo-bathrooms/
-shop: Möbel
+shop: furniture
 ---

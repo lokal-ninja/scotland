@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /edinburgh/barnardos-2/
-shop: Gebrauchtwaren
+shop: charity
 ---

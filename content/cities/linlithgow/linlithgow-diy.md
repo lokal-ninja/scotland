@@ -1,5 +1,5 @@
 ---
 title: "Linlithgow DIY"
 url: /linlithgow/linlithgow-diy/
-shop: Baumarkt
+shop: doityourself
 ---

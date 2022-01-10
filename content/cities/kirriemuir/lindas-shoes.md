@@ -1,5 +1,5 @@
 ---
 title: "Linda's Shoes"
 url: /kirriemuir/lindas-shoes/
-shop: Schuhe
+shop: shoes
 ---

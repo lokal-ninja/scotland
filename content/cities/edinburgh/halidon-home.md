@@ -1,5 +1,5 @@
 ---
 title: "Halidon Home"
 url: /edinburgh/halidon-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

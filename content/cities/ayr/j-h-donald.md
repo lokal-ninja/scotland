@@ -1,5 +1,5 @@
 ---
 title: "J H Donald"
 url: /ayr/j-h-donald/
-shop: Elektronik
+shop: electronics
 ---

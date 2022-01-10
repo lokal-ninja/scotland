@@ -1,5 +1,5 @@
 ---
 title: "Little Dobbies Stockbridge"
 url: /edinburgh/little-dobbies-stockbridge/
-shop: Garten-Center
+shop: garden centre
 ---

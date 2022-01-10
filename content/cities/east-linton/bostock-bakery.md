@@ -1,5 +1,5 @@
 ---
 title: "Bostock Bakery"
 url: /east-linton/bostock-bakery/
-shop: Bäckerei
+shop: bakery
 ---

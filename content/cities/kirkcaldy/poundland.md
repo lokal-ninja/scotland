@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /kirkcaldy/poundland/
-shop: Kramladen
+shop: variety store
 ---

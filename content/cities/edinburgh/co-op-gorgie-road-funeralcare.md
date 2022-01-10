@@ -1,5 +1,5 @@
 ---
 title: "Co-op Gorgie Road Funeralcare"
 url: /edinburgh/co-op-gorgie-road-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

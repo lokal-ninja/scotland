@@ -1,5 +1,5 @@
 ---
 title: "Caulfields"
 url: /gowkshill/caulfields/
-shop: Lebensmittel
+shop: convenience
 ---

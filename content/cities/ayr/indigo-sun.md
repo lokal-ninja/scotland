@@ -1,5 +1,5 @@
 ---
 title: "Indigo Sun"
 url: /ayr/indigo-sun/
-shop: Kosmetik
+shop: beauty
 ---

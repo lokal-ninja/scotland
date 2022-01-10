@@ -1,5 +1,5 @@
 ---
 title: "Banks"
 url: /edinburgh/banks/
-shop: Blumen
+shop: florist
 ---

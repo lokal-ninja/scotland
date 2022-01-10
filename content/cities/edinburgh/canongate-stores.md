@@ -1,5 +1,5 @@
 ---
 title: "Canongate Stores"
 url: /edinburgh/canongate-stores/
-shop: Zeitungen
+shop: newsagent
 ---

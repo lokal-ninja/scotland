@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /invergordon/jewson/
-shop: Baustoffe
+shop: trade
 ---

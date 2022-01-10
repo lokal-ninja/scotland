@@ -1,5 +1,5 @@
 ---
 title: "Oddbins"
 url: /edinburgh/oddbins/
-shop: Spirituosen
+shop: alcohol
 ---

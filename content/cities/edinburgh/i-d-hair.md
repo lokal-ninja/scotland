@@ -1,5 +1,5 @@
 ---
 title: "I D Hair"
 url: /edinburgh/i-d-hair/
-shop: Friseur
+shop: hairdresser
 ---

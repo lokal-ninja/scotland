@@ -1,5 +1,5 @@
 ---
 title: "Beauty By Amy"
 url: /roslin/beauty-by-amy/
-shop: Kosmetik
+shop: beauty
 ---

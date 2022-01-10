@@ -1,5 +1,5 @@
 ---
 title: "Blades"
 url: /ayr/blades/
-shop: Friseur
+shop: hairdresser
 ---

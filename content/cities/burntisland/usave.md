@@ -1,5 +1,5 @@
 ---
 title: "usave"
 url: /burntisland/usave/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nature's Corner"
 url: /callander/natures-corner/
-shop: Bioladen
+shop: health food
 ---

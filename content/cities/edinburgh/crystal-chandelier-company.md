@@ -1,5 +1,5 @@
 ---
 title: "Crystal Chandelier Company"
 url: /edinburgh/crystal-chandelier-company/
-shop: Lampen
+shop: lamps
 ---

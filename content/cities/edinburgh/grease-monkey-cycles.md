@@ -1,5 +1,5 @@
 ---
 title: "Grease Monkey Cycles"
 url: /edinburgh/grease-monkey-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

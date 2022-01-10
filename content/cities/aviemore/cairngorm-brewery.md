@@ -1,5 +1,5 @@
 ---
 title: "Cairngorm Brewery"
 url: /aviemore/cairngorm-brewery/
-shop: Spirituosen
+shop: alcohol
 ---

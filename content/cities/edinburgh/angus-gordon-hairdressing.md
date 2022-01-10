@@ -1,5 +1,5 @@
 ---
 title: "Angus Gordon Hairdressing"
 url: /edinburgh/angus-gordon-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

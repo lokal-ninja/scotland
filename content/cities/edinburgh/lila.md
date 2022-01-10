@@ -1,5 +1,5 @@
 ---
 title: "Lila"
 url: /edinburgh/lila/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buckley Towbars"
 url: /aberdeen/buckley-towbars/
-shop: Autowerkstatt
+shop: car repair
 ---

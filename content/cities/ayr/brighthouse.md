@@ -1,5 +1,5 @@
 ---
 title: "BrightHouse"
 url: /ayr/brighthouse/
-shop: Warenhaus
+shop: department store
 ---

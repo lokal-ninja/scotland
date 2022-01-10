@@ -1,5 +1,5 @@
 ---
 title: "Nevaeh"
 url: /edinburgh/nevaeh/
-shop: Friseur
+shop: hairdresser
 ---

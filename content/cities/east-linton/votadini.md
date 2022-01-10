@@ -1,5 +1,5 @@
 ---
 title: "Votadini"
 url: /east-linton/votadini/
-shop: Feinkost
+shop: deli
 ---

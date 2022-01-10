@@ -1,5 +1,5 @@
 ---
 title: "Get Shirty"
 url: /edinburgh/get-shirty/
-shop: Kleidung
+shop: clothes
 ---

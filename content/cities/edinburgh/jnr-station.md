@@ -1,5 +1,5 @@
 ---
 title: "JNR Station"
 url: /edinburgh/jnr-station/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /edinburgh/premier-2/
-shop: Lebensmittel
+shop: convenience
 ---

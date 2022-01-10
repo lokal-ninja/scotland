@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Funeralcare"
 url: /edinburgh/the-co-operative-funeralcare-2/
-shop: Bestattungen
+shop: funeral directors
 ---

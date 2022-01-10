@@ -1,5 +1,5 @@
 ---
 title: "boombarbers"
 url: /edinburgh/boombarbers-4/
-shop: Friseur
+shop: hairdresser
 ---

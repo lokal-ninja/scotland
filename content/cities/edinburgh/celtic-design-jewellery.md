@@ -1,5 +1,5 @@
 ---
 title: "Celtic Design Jewellery"
 url: /edinburgh/celtic-design-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

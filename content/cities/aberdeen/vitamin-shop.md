@@ -1,5 +1,5 @@
 ---
 title: "Vitamin Shop"
 url: /aberdeen/vitamin-shop/
-shop: Bioladen
+shop: health food
 ---

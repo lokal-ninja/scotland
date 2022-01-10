@@ -1,5 +1,5 @@
 ---
 title: "Alan Mackay Machinery"
 url: /padanaram/alan-mackay-machinery/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

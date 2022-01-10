@@ -1,5 +1,5 @@
 ---
 title: "Mud Station Pottery"
 url: /edinburgh/mud-station-pottery/
-shop: Kunst
+shop: art
 ---

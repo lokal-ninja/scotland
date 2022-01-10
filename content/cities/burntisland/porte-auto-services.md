@@ -1,5 +1,5 @@
 ---
 title: "Porte Auto Services"
 url: /burntisland/porte-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

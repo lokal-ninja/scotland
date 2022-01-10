@@ -1,5 +1,5 @@
 ---
 title: "Gruagaire"
 url: /edinburgh/gruagaire/
-shop: Friseur
+shop: hairdresser
 ---

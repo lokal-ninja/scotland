@@ -1,5 +1,5 @@
 ---
 title: "Bizarre Ink"
 url: /edinburgh/bizarre-ink/
-shop: Tattoo
+shop: tattoo
 ---

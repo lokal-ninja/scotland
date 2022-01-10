@@ -1,5 +1,5 @@
 ---
 title: "Pieute"
 url: /edinburgh/pieute/
-shop: Kleidung
+shop: clothes
 ---

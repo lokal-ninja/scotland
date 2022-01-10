@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /stirling/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

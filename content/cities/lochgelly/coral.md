@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /lochgelly/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

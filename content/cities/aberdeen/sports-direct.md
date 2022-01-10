@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /aberdeen/sports-direct/
-shop: Sport
+shop: sports
 ---

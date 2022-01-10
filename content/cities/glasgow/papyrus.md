@@ -1,5 +1,5 @@
 ---
 title: "Papyrus"
 url: /glasgow/papyrus/
-shop: Andenken
+shop: gift
 ---

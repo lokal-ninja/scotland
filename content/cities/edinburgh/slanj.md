@@ -1,5 +1,5 @@
 ---
 title: "Slanj"
 url: /edinburgh/slanj/
-shop: Kleidung
+shop: clothes
 ---

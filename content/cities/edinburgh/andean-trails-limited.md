@@ -1,5 +1,5 @@
 ---
 title: "Andean Trails Limited"
 url: /edinburgh/andean-trails-limited/
-shop: Reisebüro
+shop: travel agency
 ---

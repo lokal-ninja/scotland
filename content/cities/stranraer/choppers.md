@@ -1,5 +1,5 @@
 ---
 title: "Choppers"
 url: /stranraer/choppers/
-shop: Friseur
+shop: hairdresser
 ---

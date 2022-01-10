@@ -1,5 +1,5 @@
 ---
 title: "Carphone Warehouse"
 url: /inverness/carphone-warehouse/
-shop: Handy
+shop: mobile phone
 ---

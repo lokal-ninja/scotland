@@ -1,5 +1,5 @@
 ---
 title: "Flaunt"
 url: /edinburgh/flaunt/
-shop: Raumausstattung
+shop: interior decoration
 ---

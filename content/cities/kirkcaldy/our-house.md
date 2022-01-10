@@ -1,5 +1,5 @@
 ---
 title: "Our House"
 url: /kirkcaldy/our-house/
-shop: Kleidung
+shop: clothes
 ---

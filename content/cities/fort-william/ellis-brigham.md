@@ -1,5 +1,5 @@
 ---
 title: "Ellis Brigham"
 url: /fort-william/ellis-brigham/
-shop: Outdoor
+shop: outdoor
 ---

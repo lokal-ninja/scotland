@@ -1,5 +1,5 @@
 ---
 title: "DJ Ash"
 url: /glenrothes/dj-ash/
-shop: Mieten
+shop: storage rental
 ---

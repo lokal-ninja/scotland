@@ -1,5 +1,5 @@
 ---
 title: "Stow Post Office"
 url: /galashiels/stow-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "For Bute"
 url: /rothesay/for-bute/
-shop: Allgemein
+shop: shop
 ---

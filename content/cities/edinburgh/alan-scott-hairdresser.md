@@ -1,5 +1,5 @@
 ---
 title: "Alan Scott Hairdresser"
 url: /edinburgh/alan-scott-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

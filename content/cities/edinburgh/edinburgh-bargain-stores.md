@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Bargain Stores"
 url: /edinburgh/edinburgh-bargain-stores/
-shop: Kramladen
+shop: variety store
 ---

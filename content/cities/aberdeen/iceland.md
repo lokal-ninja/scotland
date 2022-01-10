@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /aberdeen/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

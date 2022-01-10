@@ -1,5 +1,5 @@
 ---
 title: "MarkDavid"
 url: /edinburgh/markdavid/
-shop: Friseur
+shop: hairdresser
 ---

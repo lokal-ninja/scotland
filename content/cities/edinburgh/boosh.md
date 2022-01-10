@@ -1,5 +1,5 @@
 ---
 title: "Boosh"
 url: /edinburgh/boosh/
-shop: Friseur
+shop: hairdresser
 ---

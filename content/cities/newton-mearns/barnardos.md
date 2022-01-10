@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /newton-mearns/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JG Cycles"
 url: /glasgow/jg-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

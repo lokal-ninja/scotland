@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /edinburgh/ladbrokes-12/
-shop: Wettbüro
+shop: bookmaker
 ---

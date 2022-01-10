@@ -1,5 +1,5 @@
 ---
 title: "Arika"
 url: /edinburgh/arika/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar Peterhead Motors"
 url: /peterhead/spar-peterhead-motors/
-shop: Lebensmittel
+shop: convenience
 ---

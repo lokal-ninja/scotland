@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /newton-mearns/londis/
-shop: Lebensmittel
+shop: convenience
 ---

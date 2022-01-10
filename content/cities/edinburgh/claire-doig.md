@@ -1,5 +1,5 @@
 ---
 title: "Claire Doig"
 url: /edinburgh/claire-doig/
-shop: Friseur
+shop: hairdresser
 ---

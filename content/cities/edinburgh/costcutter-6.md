@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /edinburgh/costcutter-6/
-shop: Lebensmittel
+shop: convenience
 ---

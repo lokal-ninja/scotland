@@ -1,5 +1,5 @@
 ---
 title: "Moat Newsagent"
 url: /edinburgh/moat-newsagent/
-shop: Lebensmittel
+shop: convenience
 ---

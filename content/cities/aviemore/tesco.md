@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /aviemore/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

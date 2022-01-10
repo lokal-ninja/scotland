@@ -1,5 +1,5 @@
 ---
 title: "The Journals"
 url: /aberdeen/the-journals/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flower Vogue"
 url: /aberdeen/flower-vogue/
-shop: Blumen
+shop: florist
 ---

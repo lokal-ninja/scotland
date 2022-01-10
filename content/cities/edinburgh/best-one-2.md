@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /edinburgh/best-one-2/
-shop: Lebensmittel
+shop: convenience
 ---

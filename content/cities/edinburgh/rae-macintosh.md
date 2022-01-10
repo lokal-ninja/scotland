@@ -1,5 +1,5 @@
 ---
 title: "Rae Macintosh"
 url: /edinburgh/rae-macintosh/
-shop: Instrumente
+shop: musical instrument
 ---

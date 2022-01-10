@@ -1,5 +1,5 @@
 ---
 title: "Connoisseurs Barber Club"
 url: /edinburgh/connoisseurs-barber-club/
-shop: Friseur
+shop: hairdresser
 ---

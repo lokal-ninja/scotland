@@ -1,5 +1,5 @@
 ---
 title: "Bel's Butchers"
 url: /edzell/bels-butchers/
-shop: Metzgerei
+shop: butcher
 ---

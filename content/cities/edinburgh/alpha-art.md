@@ -1,5 +1,5 @@
 ---
 title: "Alpha Art"
 url: /edinburgh/alpha-art/
-shop: Kunst
+shop: art
 ---

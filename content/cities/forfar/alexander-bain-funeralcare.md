@@ -1,5 +1,5 @@
 ---
 title: "Alexander Bain Funeralcare"
 url: /forfar/alexander-bain-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

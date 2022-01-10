@@ -1,5 +1,5 @@
 ---
 title: "Meadowbank Clinic"
 url: /edinburgh/meadowbank-clinic/
-shop: Massage
+shop: massage
 ---

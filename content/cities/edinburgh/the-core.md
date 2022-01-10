@@ -1,5 +1,5 @@
 ---
 title: "The Core"
 url: /edinburgh/the-core/
-shop: Allgemein
+shop: shop
 ---

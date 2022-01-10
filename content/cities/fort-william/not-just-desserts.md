@@ -1,5 +1,5 @@
 ---
 title: "Not Just Desserts"
 url: /fort-william/not-just-desserts/
-shop: Konditorei
+shop: pastry
 ---

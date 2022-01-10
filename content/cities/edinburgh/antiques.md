@@ -1,5 +1,5 @@
 ---
 title: "Antiques"
 url: /edinburgh/antiques/
-shop: Antiquitäten
+shop: antiques
 ---

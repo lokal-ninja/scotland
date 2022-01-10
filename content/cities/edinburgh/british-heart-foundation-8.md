@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
 url: /edinburgh/british-heart-foundation-8/
-shop: Gebrauchtwaren
+shop: charity
 ---

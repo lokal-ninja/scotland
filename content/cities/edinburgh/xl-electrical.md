@@ -1,5 +1,5 @@
 ---
 title: "XL Electrical"
 url: /edinburgh/xl-electrical/
-shop: Eisenwaren
+shop: hardware
 ---

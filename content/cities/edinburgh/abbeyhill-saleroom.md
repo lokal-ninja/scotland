@@ -1,5 +1,5 @@
 ---
 title: "Abbeyhill Saleroom"
 url: /edinburgh/abbeyhill-saleroom/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pure Electric"
 url: /glasgow/pure-electric/
-shop: Fahrrad
+shop: bicycle
 ---

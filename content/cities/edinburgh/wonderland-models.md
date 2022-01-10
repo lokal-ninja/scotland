@@ -1,5 +1,5 @@
 ---
 title: "Wonderland Models"
 url: /edinburgh/wonderland-models/
-shop: Modellbau
+shop: model
 ---

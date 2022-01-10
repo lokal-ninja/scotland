@@ -1,5 +1,5 @@
 ---
 title: "Lavenda"
 url: /edinburgh/lavenda/
-shop: Bioladen
+shop: health food
 ---

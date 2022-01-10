@@ -1,5 +1,5 @@
 ---
 title: "Masons Mortar"
 url: /edinburgh/masons-mortar/
-shop: Baumarkt
+shop: doityourself
 ---

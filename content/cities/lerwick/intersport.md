@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /lerwick/intersport/
-shop: Sport
+shop: sports
 ---

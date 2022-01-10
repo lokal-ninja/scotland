@@ -1,5 +1,5 @@
 ---
 title: "Corson Hardware"
 url: /edinburgh/corson-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

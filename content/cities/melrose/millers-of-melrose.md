@@ -1,5 +1,5 @@
 ---
 title: "Millers of Melrose"
 url: /melrose/millers-of-melrose/
-shop: Metzgerei
+shop: butcher
 ---

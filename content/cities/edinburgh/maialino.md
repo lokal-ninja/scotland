@@ -1,5 +1,5 @@
 ---
 title: "Maialino"
 url: /edinburgh/maialino/
-shop: Feinkost
+shop: deli
 ---

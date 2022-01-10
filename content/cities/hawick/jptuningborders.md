@@ -1,5 +1,5 @@
 ---
 title: "JPTuningBorders"
 url: /hawick/jptuningborders/
-shop: Autowerkstatt
+shop: car repair
 ---

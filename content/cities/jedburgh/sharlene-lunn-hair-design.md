@@ -1,5 +1,5 @@
 ---
 title: "Sharlene Lunn Hair Design"
 url: /jedburgh/sharlene-lunn-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

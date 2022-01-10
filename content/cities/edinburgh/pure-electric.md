@@ -1,5 +1,5 @@
 ---
 title: "Pure Electric"
 url: /edinburgh/pure-electric/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galvin Garages"
 url: /glasgow/galvin-garages/
-shop: Autowerkstatt
+shop: car repair
 ---

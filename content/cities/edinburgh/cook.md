@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /edinburgh/cook/
-shop: Lebensmittel
+shop: convenience
 ---

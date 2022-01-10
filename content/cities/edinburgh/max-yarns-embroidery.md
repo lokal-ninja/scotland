@@ -1,5 +1,5 @@
 ---
 title: "Max Yarns Embroidery"
 url: /edinburgh/max-yarns-embroidery/
-shop: Textil
+shop: fabric
 ---

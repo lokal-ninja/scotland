@@ -1,5 +1,5 @@
 ---
 title: "Beauty Works Scotland"
 url: /edinburgh/beauty-works-scotland/
-shop: Friseur
+shop: hairdresser
 ---

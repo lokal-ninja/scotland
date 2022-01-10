@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /kirkwall/co-op-food/
-shop: Supermarkt
+shop: supermarket
 ---

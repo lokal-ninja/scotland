@@ -1,5 +1,5 @@
 ---
 title: "Pentland Carpets"
 url: /currie/pentland-carpets/
-shop: Teppiche
+shop: carpet
 ---

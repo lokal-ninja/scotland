@@ -1,5 +1,5 @@
 ---
 title: "Ace of Blades"
 url: /aberdeen/ace-of-blades/
-shop: Friseur
+shop: hairdresser
 ---

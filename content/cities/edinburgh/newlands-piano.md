@@ -1,5 +1,5 @@
 ---
 title: "Newlands Piano"
 url: /edinburgh/newlands-piano/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auchencairn Store"
 url: /auchencairn/auchencairn-store/
-shop: Lebensmittel
+shop: convenience
 ---

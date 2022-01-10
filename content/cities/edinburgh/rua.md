@@ -1,5 +1,5 @@
 ---
 title: "Rua"
 url: /edinburgh/rua/
-shop: Andenken
+shop: gift
 ---

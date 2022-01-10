@@ -1,5 +1,5 @@
 ---
 title: "J.G. Ross"
 url: /aberdeen/j-g-ross-3/
-shop: Bäckerei
+shop: bakery
 ---

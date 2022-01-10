@@ -1,5 +1,5 @@
 ---
 title: "Hairy Bairns"
 url: /hawick/hairy-bairns/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative food"
 url: /duns/the-co-operative-food/
-shop: Supermarkt
+shop: supermarket
 ---

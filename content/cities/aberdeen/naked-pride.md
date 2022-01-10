@@ -1,5 +1,5 @@
 ---
 title: "Naked Pride"
 url: /aberdeen/naked-pride/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /aberdeen/whsmith-2/
-shop: Zeitungen
+shop: newsagent
 ---

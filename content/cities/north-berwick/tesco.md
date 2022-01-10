@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /north-berwick/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Men Only"
 url: /steornabhagh/men-only/
-shop: Friseur
+shop: hairdresser
 ---

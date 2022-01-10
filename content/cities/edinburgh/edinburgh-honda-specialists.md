@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Honda Specialists"
 url: /edinburgh/edinburgh-honda-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Owlcat Artist Collective"
 url: /aberdeen/owlcat-artist-collective/
-shop: Tattoo
+shop: tattoo
 ---

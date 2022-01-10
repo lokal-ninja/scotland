@@ -1,5 +1,5 @@
 ---
 title: "Sunset Nails"
 url: /edinburgh/sunset-nails-2/
-shop: Kosmetik
+shop: beauty
 ---

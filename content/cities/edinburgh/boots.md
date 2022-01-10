@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /edinburgh/boots/
-shop: Drogerie
+shop: chemist
 ---

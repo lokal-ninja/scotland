@@ -1,5 +1,5 @@
 ---
 title: "Scotbet"
 url: /tillicoultry/scotbet/
-shop: Wettbüro
+shop: bookmaker
 ---

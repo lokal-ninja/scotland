@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /glasgow/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

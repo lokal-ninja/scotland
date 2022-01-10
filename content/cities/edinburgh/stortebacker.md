@@ -1,5 +1,5 @@
 ---
 title: "Stortebacker"
 url: /edinburgh/stortebacker/
-shop: Bäckerei
+shop: bakery
 ---

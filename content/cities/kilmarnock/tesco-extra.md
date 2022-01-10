@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /kilmarnock/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

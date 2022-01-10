@@ -1,5 +1,5 @@
 ---
 title: "Optomtom"
 url: /hawick/optomtom/
-shop: Optiker
+shop: optician
 ---

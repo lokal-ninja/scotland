@@ -1,5 +1,5 @@
 ---
 title: "Lifestye Express"
 url: /wallyford/lifestye-express/
-shop: Lebensmittel
+shop: convenience
 ---

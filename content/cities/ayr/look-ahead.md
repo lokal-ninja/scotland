@@ -1,5 +1,5 @@
 ---
 title: "Look Ahead"
 url: /ayr/look-ahead/
-shop: Friseur
+shop: hairdresser
 ---

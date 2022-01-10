@@ -1,5 +1,5 @@
 ---
 title: "Wilkies"
 url: /edinburgh/wilkies/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backbeats Records"
 url: /edinburgh/backbeats-records/
-shop: Musik
+shop: music
 ---

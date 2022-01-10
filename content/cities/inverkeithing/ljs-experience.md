@@ -1,5 +1,5 @@
 ---
 title: "LJ's Experience"
 url: /inverkeithing/ljs-experience/
-shop: Friseur
+shop: hairdresser
 ---

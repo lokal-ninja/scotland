@@ -1,5 +1,5 @@
 ---
 title: "Harrison Motors"
 url: /edinburgh/harrison-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /coupar-angus/scotmid/
-shop: Supermarkt
+shop: supermarket
 ---

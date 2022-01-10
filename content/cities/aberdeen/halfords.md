@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /aberdeen/halfords/
-shop: Autoteile
+shop: car parts
 ---

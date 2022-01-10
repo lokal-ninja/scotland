@@ -1,5 +1,5 @@
 ---
 title: "Flying Tiger Copenhagen"
 url: /edinburgh/flying-tiger-copenhagen/
-shop: Kramladen
+shop: variety store
 ---

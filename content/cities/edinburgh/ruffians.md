@@ -1,5 +1,5 @@
 ---
 title: "Ruffians"
 url: /edinburgh/ruffians/
-shop: Friseur
+shop: hairdresser
 ---

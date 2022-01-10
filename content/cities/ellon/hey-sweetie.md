@@ -1,5 +1,5 @@
 ---
 title: "Hey Sweetie"
 url: /ellon/hey-sweetie/
-shop: Süßwaren
+shop: confectionery
 ---

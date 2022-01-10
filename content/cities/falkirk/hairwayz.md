@@ -1,5 +1,5 @@
 ---
 title: "Hairwayz"
 url: /falkirk/hairwayz/
-shop: Friseur
+shop: hairdresser
 ---

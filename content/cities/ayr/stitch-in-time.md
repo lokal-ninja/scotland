@@ -1,5 +1,5 @@
 ---
 title: "Stitch In Time"
 url: /ayr/stitch-in-time/
-shop: Schneiderei
+shop: tailor
 ---

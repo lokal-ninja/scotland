@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /edinburgh/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Village Store"
 url: /inverness/the-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

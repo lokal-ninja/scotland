@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /glasgow/safestore/
-shop: Mieten
+shop: storage rental
 ---

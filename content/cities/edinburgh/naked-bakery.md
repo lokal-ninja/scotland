@@ -1,5 +1,5 @@
 ---
 title: "Naked Bakery"
 url: /edinburgh/naked-bakery/
-shop: Süßwaren
+shop: confectionery
 ---

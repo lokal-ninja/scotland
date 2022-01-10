@@ -1,5 +1,5 @@
 ---
 title: "Lochend Store"
 url: /edinburgh/lochend-store/
-shop: Lebensmittel
+shop: convenience
 ---

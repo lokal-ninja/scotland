@@ -1,5 +1,5 @@
 ---
 title: "Max News Xtra"
 url: /edinburgh/max-news-xtra/
-shop: Zeitungen
+shop: newsagent
 ---

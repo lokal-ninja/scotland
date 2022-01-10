@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /inverurie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

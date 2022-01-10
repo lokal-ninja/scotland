@@ -1,5 +1,5 @@
 ---
 title: "Waterworld Aquatic Centre"
 url: /aberdeen/waterworld-aquatic-centre/
-shop: Tiere
+shop: pet
 ---

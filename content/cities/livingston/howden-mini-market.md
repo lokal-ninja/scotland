@@ -1,5 +1,5 @@
 ---
 title: "Howden Mini-Market"
 url: /livingston/howden-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

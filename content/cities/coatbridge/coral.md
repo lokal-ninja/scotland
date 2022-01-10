@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /coatbridge/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petrol Dounby"
 url: /kirkwall/petrol-dounby/
-shop: Supermarkt
+shop: supermarket
 ---

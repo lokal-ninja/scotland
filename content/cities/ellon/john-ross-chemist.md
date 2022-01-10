@@ -1,5 +1,5 @@
 ---
 title: "John Ross Chemist"
 url: /ellon/john-ross-chemist/
-shop: Drogerie
+shop: chemist
 ---

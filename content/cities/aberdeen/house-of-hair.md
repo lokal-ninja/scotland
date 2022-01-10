@@ -1,5 +1,5 @@
 ---
 title: "House of Hair"
 url: /aberdeen/house-of-hair/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tan Stand"
 url: /edinburgh/tan-stand/
-shop: Kosmetik
+shop: beauty
 ---

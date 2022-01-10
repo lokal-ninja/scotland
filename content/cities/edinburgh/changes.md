@@ -1,5 +1,5 @@
 ---
 title: "Changes"
 url: /edinburgh/changes/
-shop: Friseur
+shop: hairdresser
 ---

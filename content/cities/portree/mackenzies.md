@@ -1,5 +1,5 @@
 ---
 title: "Mackenzie's"
 url: /portree/mackenzies/
-shop: Bäckerei
+shop: bakery
 ---

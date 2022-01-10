@@ -1,5 +1,5 @@
 ---
 title: "Ash Studios"
 url: /edinburgh/ash-studios/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alan Dobbie Butcher"
 url: /errol/alan-dobbie-butcher/
-shop: Metzgerei
+shop: butcher
 ---

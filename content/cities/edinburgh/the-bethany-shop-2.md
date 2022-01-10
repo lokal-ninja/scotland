@@ -1,5 +1,5 @@
 ---
 title: "The Bethany Shop"
 url: /edinburgh/the-bethany-shop-2/
-shop: Gebrauchtwaren
+shop: charity
 ---

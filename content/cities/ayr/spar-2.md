@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ayr/spar-2/
-shop: Supermarkt
+shop: supermarket
 ---

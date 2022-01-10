@@ -1,5 +1,5 @@
 ---
 title: "Pepperberry / Bravissimo"
 url: /edinburgh/pepperberry-bravissimo/
-shop: Kleidung
+shop: clothes
 ---

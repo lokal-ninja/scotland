@@ -1,5 +1,5 @@
 ---
 title: "A. Jack"
 url: /edinburgh/a-jack/
-shop: Glaserei
+shop: glaziery
 ---

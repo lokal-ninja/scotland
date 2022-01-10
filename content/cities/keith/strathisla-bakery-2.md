@@ -1,5 +1,5 @@
 ---
 title: "Strathisla Bakery"
 url: /keith/strathisla-bakery-2/
-shop: Bäckerei
+shop: bakery
 ---

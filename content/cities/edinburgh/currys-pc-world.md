@@ -1,5 +1,5 @@
 ---
 title: "Currys PC World"
 url: /edinburgh/currys-pc-world/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bill Baber Knitwear"
 url: /edinburgh/bill-baber-knitwear/
-shop: Nähzubehör
+shop: sewing
 ---

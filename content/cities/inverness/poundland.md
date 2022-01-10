@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /inverness/poundland/
-shop: Kramladen
+shop: variety store
 ---

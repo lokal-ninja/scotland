@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /dumfries/halfords/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /edinburgh/mace/
-shop: Lebensmittel
+shop: convenience
 ---

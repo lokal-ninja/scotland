@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /glasgow/river-island/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D K Aesthetics"
 url: /livingston/d-k-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

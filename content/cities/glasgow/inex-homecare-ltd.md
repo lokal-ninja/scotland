@@ -1,5 +1,5 @@
 ---
 title: "Inex Homecare Ltd"
 url: /glasgow/inex-homecare-ltd/
-shop: Baumarkt
+shop: doityourself
 ---

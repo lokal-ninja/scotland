@@ -1,5 +1,5 @@
 ---
 title: "The Cycle Service"
 url: /edinburgh/the-cycle-service/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sorelle"
 url: /bearsden/sorelle/
-shop: Kosmetik
+shop: beauty
 ---

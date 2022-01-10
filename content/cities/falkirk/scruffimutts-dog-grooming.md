@@ -1,5 +1,5 @@
 ---
 title: "Scruffimutts Dog Grooming"
 url: /falkirk/scruffimutts-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

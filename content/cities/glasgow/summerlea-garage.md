@@ -1,5 +1,5 @@
 ---
 title: "Summerlea Garage"
 url: /glasgow/summerlea-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cask Smugglers"
 url: /edinburgh/cask-smugglers/
-shop: Leerstehend
+shop: vacant
 ---

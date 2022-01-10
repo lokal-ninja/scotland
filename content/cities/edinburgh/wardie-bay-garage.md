@@ -1,5 +1,5 @@
 ---
 title: "Wardie Bay Garage"
 url: /edinburgh/wardie-bay-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

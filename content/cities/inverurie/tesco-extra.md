@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /inverurie/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

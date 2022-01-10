@@ -1,5 +1,5 @@
 ---
 title: "The Original Factory Shop"
 url: /stranraer/the-original-factory-shop/
-shop: Kramladen
+shop: variety store
 ---

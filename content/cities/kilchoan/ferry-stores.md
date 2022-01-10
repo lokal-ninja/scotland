@@ -1,5 +1,5 @@
 ---
 title: "Ferry Stores"
 url: /kilchoan/ferry-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /milnwood-bellshill/spar/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedyhire"
 url: /stirling/speedyhire/
-shop: Allgemein
+shop: shop
 ---

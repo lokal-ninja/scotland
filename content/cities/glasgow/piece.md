@@ -1,5 +1,5 @@
 ---
 title: "Piece"
 url: /glasgow/piece/
-shop: Feinkost
+shop: deli
 ---

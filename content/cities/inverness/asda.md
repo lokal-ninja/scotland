@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /inverness/asda/
-shop: Supermarkt
+shop: supermarket
 ---

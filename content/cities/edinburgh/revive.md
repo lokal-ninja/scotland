@@ -1,5 +1,5 @@
 ---
 title: "Revive"
 url: /edinburgh/revive/
-shop: Kosmetik
+shop: beauty
 ---

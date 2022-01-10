@@ -1,5 +1,5 @@
 ---
 title: "Custom Tattoo"
 url: /edinburgh/custom-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

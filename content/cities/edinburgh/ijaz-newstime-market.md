@@ -1,5 +1,5 @@
 ---
 title: "Ijaz Newstime Market"
 url: /edinburgh/ijaz-newstime-market/
-shop: Lebensmittel
+shop: convenience
 ---

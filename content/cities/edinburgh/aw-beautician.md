@@ -1,5 +1,5 @@
 ---
 title: "Aw Beautician"
 url: /edinburgh/aw-beautician/
-shop: Kosmetik
+shop: beauty
 ---

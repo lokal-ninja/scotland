@@ -1,5 +1,5 @@
 ---
 title: "Avizandum"
 url: /edinburgh/avizandum/
-shop: Bücher
+shop: books
 ---

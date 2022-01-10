@@ -1,5 +1,5 @@
 ---
 title: "Drinkmonger"
 url: /edinburgh/drinkmonger/
-shop: Spirituosen
+shop: alcohol
 ---

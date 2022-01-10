@@ -1,5 +1,5 @@
 ---
 title: "Meg Maitland"
 url: /north-berwick/meg-maitland/
-shop: Kleidung
+shop: clothes
 ---

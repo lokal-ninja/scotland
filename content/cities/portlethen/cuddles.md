@@ -1,5 +1,5 @@
 ---
 title: "Cuddles"
 url: /portlethen/cuddles/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trailfinders"
 url: /aberdeen/trailfinders/
-shop: Reisebüro
+shop: travel agency
 ---

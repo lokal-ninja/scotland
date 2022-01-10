@@ -1,5 +1,5 @@
 ---
 title: "Flower Fashions"
 url: /aberdeen/flower-fashions/
-shop: Blumen
+shop: florist
 ---

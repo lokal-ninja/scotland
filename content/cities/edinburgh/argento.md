@@ -1,5 +1,5 @@
 ---
 title: "Argento"
 url: /edinburgh/argento/
-shop: Schmuck
+shop: jewelry
 ---

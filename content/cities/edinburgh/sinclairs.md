@@ -1,5 +1,5 @@
 ---
 title: "Sinclair's"
 url: /edinburgh/sinclairs/
-shop: Raumausstattung
+shop: interior decoration
 ---

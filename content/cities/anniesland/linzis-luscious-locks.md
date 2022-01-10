@@ -1,5 +1,5 @@
 ---
 title: "Linzi's Luscious Locks"
 url: /anniesland/linzis-luscious-locks/
-shop: Friseur
+shop: hairdresser
 ---

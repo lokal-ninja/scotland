@@ -1,5 +1,5 @@
 ---
 title: "Sìleas"
 url: /steornabhagh/sileas/
-shop: Kleidung
+shop: clothes
 ---

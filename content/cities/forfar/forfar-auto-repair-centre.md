@@ -1,5 +1,5 @@
 ---
 title: "Forfar Auto Repair Centre"
 url: /forfar/forfar-auto-repair-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

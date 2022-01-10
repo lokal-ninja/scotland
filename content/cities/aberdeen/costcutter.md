@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /aberdeen/costcutter/
-shop: Supermarkt
+shop: supermarket
 ---

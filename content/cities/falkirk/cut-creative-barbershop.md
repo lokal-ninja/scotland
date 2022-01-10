@@ -1,5 +1,5 @@
 ---
 title: "Cut Creative Barbershop"
 url: /falkirk/cut-creative-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

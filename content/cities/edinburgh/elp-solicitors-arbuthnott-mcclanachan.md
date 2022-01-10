@@ -1,5 +1,5 @@
 ---
 title: "ELP Solicitors Arbuthnott McClanachan"
 url: /edinburgh/elp-solicitors-arbuthnott-mcclanachan/
-shop: Immobilien
+shop: estate agent
 ---

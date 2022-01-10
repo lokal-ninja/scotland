@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /ayr/savers/
-shop: Drogerie
+shop: chemist
 ---

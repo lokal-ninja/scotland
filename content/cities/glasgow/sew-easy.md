@@ -1,5 +1,5 @@
 ---
 title: "Sew Easy"
 url: /glasgow/sew-easy/
-shop: Schneiderei
+shop: tailor
 ---

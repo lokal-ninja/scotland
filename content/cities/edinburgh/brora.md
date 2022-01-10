@@ -1,5 +1,5 @@
 ---
 title: "Brora"
 url: /edinburgh/brora/
-shop: Kleidung
+shop: clothes
 ---

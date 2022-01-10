@@ -1,5 +1,5 @@
 ---
 title: "Keir Street News"
 url: /edinburgh/keir-street-news/
-shop: Zeitungen
+shop: newsagent
 ---

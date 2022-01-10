@@ -1,5 +1,5 @@
 ---
 title: "The Decorator Centre"
 url: /edinburgh/the-decorator-centre/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /milngavie/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

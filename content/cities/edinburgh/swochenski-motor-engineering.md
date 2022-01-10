@@ -1,5 +1,5 @@
 ---
 title: "Swochenski Motor Engineering"
 url: /edinburgh/swochenski-motor-engineering/
-shop: Autowerkstatt
+shop: car repair
 ---

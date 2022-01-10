@@ -1,5 +1,5 @@
 ---
 title: "Paper Tiger"
 url: /edinburgh/paper-tiger/
-shop: Andenken
+shop: gift
 ---

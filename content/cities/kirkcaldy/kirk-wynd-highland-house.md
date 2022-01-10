@@ -1,5 +1,5 @@
 ---
 title: "Kirk Wynd Highland House"
 url: /kirkcaldy/kirk-wynd-highland-house/
-shop: Kleidung
+shop: clothes
 ---

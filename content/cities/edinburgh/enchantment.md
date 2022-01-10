@@ -1,5 +1,5 @@
 ---
 title: "Enchantment"
 url: /edinburgh/enchantment/
-shop: Andenken
+shop: gift
 ---

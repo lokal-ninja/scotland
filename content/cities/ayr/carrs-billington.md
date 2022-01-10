@@ -1,5 +1,5 @@
 ---
 title: "Carrs Billington"
 url: /ayr/carrs-billington/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

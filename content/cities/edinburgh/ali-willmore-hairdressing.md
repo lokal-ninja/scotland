@@ -1,5 +1,5 @@
 ---
 title: "Ali Willmore Hairdressing"
 url: /edinburgh/ali-willmore-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

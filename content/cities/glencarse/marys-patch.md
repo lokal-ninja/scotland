@@ -1,5 +1,5 @@
 ---
 title: "Marys' Patch"
 url: /glencarse/marys-patch/
-shop: Basteln
+shop: craft
 ---

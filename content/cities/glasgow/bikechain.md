@@ -1,5 +1,5 @@
 ---
 title: "Bikechain"
 url: /glasgow/bikechain/
-shop: Fahrrad
+shop: bicycle
 ---

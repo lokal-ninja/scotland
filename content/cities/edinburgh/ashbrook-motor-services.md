@@ -1,5 +1,5 @@
 ---
 title: "Ashbrook Motor Services"
 url: /edinburgh/ashbrook-motor-services/
-shop: Autowerkstatt
+shop: car repair
 ---

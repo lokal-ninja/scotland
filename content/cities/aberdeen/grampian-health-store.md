@@ -1,5 +1,5 @@
 ---
 title: "Grampian Health Store"
 url: /aberdeen/grampian-health-store/
-shop: Drogerie
+shop: chemist
 ---

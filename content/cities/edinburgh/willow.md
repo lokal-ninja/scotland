@@ -1,5 +1,5 @@
 ---
 title: "Willow"
 url: /edinburgh/willow/
-shop: Babysachen
+shop: baby goods
 ---

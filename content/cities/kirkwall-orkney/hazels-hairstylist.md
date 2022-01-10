@@ -1,5 +1,5 @@
 ---
 title: "Hazel's Hairstylist"
 url: /kirkwall-orkney/hazels-hairstylist/
-shop: Friseur
+shop: hairdresser
 ---

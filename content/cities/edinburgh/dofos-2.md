@@ -1,5 +1,5 @@
 ---
 title: "Dofos"
 url: /edinburgh/dofos-2/
-shop: Tiere
+shop: pet
 ---

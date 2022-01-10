@@ -1,5 +1,5 @@
 ---
 title: "Target Tyres"
 url: /perth/target-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

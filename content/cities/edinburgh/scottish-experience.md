@@ -1,5 +1,5 @@
 ---
 title: "Scottish Experience"
 url: /edinburgh/scottish-experience/
-shop: Andenken
+shop: gift
 ---

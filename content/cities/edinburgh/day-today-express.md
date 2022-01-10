@@ -1,5 +1,5 @@
 ---
 title: "Day-Today Express"
 url: /edinburgh/day-today-express/
-shop: Lebensmittel
+shop: convenience
 ---

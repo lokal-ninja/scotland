@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /edinburgh/iceland-2/
-shop: Tiefkühl
+shop: frozen food
 ---

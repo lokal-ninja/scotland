@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Centre of Nutrition and Therapy"
 url: /edinburgh/edinburgh-centre-of-nutrition-and-therapy/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

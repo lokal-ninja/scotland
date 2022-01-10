@@ -1,5 +1,5 @@
 ---
 title: "Torness Motors"
 url: /east-linton/torness-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

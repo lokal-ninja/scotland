@@ -1,5 +1,5 @@
 ---
 title: "Co-operative"
 url: /haddington/co-operative/
-shop: Lebensmittel
+shop: convenience
 ---

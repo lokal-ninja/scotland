@@ -1,5 +1,5 @@
 ---
 title: "Bryony Quate"
 url: /edinburgh/bryony-quate-2/
-shop: Friseur
+shop: hairdresser
 ---

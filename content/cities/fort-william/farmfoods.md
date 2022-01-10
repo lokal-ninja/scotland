@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /fort-william/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

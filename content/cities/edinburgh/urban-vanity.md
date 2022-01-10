@@ -1,5 +1,5 @@
 ---
 title: "Urban Vanity"
 url: /edinburgh/urban-vanity/
-shop: Kosmetik
+shop: beauty
 ---

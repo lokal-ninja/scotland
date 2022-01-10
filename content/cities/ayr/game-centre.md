@@ -1,5 +1,5 @@
 ---
 title: "Game Centre"
 url: /ayr/game-centre/
-shop: Videospiele
+shop: video games
 ---

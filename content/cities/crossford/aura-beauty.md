@@ -1,5 +1,5 @@
 ---
 title: "Aura Beauty"
 url: /crossford/aura-beauty/
-shop: Kosmetik
+shop: beauty
 ---

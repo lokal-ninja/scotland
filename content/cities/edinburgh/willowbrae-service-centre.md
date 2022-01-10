@@ -1,5 +1,5 @@
 ---
 title: "Willowbrae Service Centre"
 url: /edinburgh/willowbrae-service-centre/
-shop: Elektronik
+shop: electronics
 ---

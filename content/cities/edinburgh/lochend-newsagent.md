@@ -1,5 +1,5 @@
 ---
 title: "Lochend Newsagent"
 url: /edinburgh/lochend-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

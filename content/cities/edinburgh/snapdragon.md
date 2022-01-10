@@ -1,5 +1,5 @@
 ---
 title: "Snapdragon"
 url: /edinburgh/snapdragon/
-shop: Blumen
+shop: florist
 ---

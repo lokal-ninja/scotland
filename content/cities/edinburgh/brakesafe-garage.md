@@ -1,5 +1,5 @@
 ---
 title: "Brakesafe Garage"
 url: /edinburgh/brakesafe-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

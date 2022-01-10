@@ -1,5 +1,5 @@
 ---
 title: "Tawergha Barber"
 url: /edinburgh/tawergha-barber/
-shop: Friseur
+shop: hairdresser
 ---

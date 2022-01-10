@@ -1,5 +1,5 @@
 ---
 title: "Braiding World"
 url: /edinburgh/braiding-world/
-shop: Friseur
+shop: hairdresser
 ---

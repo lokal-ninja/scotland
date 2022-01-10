@@ -1,5 +1,5 @@
 ---
 title: "Kiltane"
 url: /edinburgh/kiltane-2/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /ayr/coral-5/
-shop: Wettbüro
+shop: bookmaker
 ---

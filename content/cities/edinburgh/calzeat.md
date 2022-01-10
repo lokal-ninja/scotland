@@ -1,5 +1,5 @@
 ---
 title: "Calzeat"
 url: /edinburgh/calzeat/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "House Edinburgh"
 url: /edinburgh/house-edinburgh/
-shop: Haushaltsartikel
+shop: houseware
 ---

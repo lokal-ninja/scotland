@@ -1,5 +1,5 @@
 ---
 title: "Lo Demore"
 url: /edinburgh/lo-demore/
-shop: Allgemein
+shop: shop
 ---

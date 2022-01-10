@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /dalgety-bay/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

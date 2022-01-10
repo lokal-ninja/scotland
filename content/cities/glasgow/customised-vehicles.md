@@ -1,5 +1,5 @@
 ---
 title: "Customised Vehicles"
 url: /glasgow/customised-vehicles/
-shop: Autowerkstatt
+shop: car repair
 ---

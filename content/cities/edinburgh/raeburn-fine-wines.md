@@ -1,5 +1,5 @@
 ---
 title: "Raeburn Fine Wines"
 url: /edinburgh/raeburn-fine-wines/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /ayr/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

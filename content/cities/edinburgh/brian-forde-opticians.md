@@ -1,5 +1,5 @@
 ---
 title: "Brian Forde Opticians"
 url: /edinburgh/brian-forde-opticians/
-shop: Optiker
+shop: optician
 ---

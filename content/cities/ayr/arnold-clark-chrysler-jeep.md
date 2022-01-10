@@ -1,5 +1,5 @@
 ---
 title: "Arnold Clark - Chrysler, Jeep"
 url: /ayr/arnold-clark-chrysler-jeep/
-shop: Autohaus
+shop: car
 ---

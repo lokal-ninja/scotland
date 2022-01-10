@@ -1,5 +1,5 @@
 ---
 title: "Church Street Garage"
 url: /inverbervie/church-street-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

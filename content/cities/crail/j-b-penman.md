@@ -1,5 +1,5 @@
 ---
 title: "J B Penman"
 url: /crail/j-b-penman/
-shop: Metzgerei
+shop: butcher
 ---

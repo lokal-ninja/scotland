@@ -1,5 +1,5 @@
 ---
 title: "Daziels"
 url: /edinburgh/daziels/
-shop: Autowerkstatt
+shop: car repair
 ---

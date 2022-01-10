@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /ayr/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

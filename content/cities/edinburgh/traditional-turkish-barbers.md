@@ -1,5 +1,5 @@
 ---
 title: "Traditional Turkish Barbers"
 url: /edinburgh/traditional-turkish-barbers/
-shop: Friseur
+shop: hairdresser
 ---

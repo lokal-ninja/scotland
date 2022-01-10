@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /aberdeen/spar-8/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McColls"
 url: /edinburgh/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

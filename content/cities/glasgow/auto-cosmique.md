@@ -1,5 +1,5 @@
 ---
 title: "Auto Cosmique"
 url: /glasgow/auto-cosmique/
-shop: Autoteile
+shop: car parts
 ---

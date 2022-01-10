@@ -1,5 +1,5 @@
 ---
 title: "HIM"
 url: /edinburgh/him/
-shop: Friseur
+shop: hairdresser
 ---

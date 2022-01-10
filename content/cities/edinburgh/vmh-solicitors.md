@@ -1,5 +1,5 @@
 ---
 title: "VMH solicitors"
 url: /edinburgh/vmh-solicitors/
-shop: Immobilien
+shop: estate agent
 ---

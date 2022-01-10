@@ -1,5 +1,5 @@
 ---
 title: "Mr Purves"
 url: /edinburgh/mr-purves/
-shop: Antiquitäten
+shop: antiques
 ---

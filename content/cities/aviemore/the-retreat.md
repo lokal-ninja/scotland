@@ -1,5 +1,5 @@
 ---
 title: "The Retreat"
 url: /aviemore/the-retreat/
-shop: Friseur
+shop: hairdresser
 ---

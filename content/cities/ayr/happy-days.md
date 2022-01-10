@@ -1,5 +1,5 @@
 ---
 title: "Happy Days"
 url: /ayr/happy-days/
-shop: Andenken
+shop: gift
 ---

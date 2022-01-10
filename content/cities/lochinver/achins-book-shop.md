@@ -1,5 +1,5 @@
 ---
 title: "Achins Book Shop"
 url: /lochinver/achins-book-shop/
-shop: Bücher
+shop: books
 ---

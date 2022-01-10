@@ -1,5 +1,5 @@
 ---
 title: "Bau Hair Design"
 url: /edinburgh/bau-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

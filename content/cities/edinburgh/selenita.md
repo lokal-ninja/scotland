@@ -1,5 +1,5 @@
 ---
 title: "Selenita"
 url: /edinburgh/selenita/
-shop: Kleidung
+shop: clothes
 ---

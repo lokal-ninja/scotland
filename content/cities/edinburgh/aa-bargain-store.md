@@ -1,5 +1,5 @@
 ---
 title: "AA Bargain Store"
 url: /edinburgh/aa-bargain-store/
-shop: Lebensmittel
+shop: convenience
 ---

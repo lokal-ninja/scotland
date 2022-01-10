@@ -1,5 +1,5 @@
 ---
 title: "Lyndas Beauty Care"
 url: /kirriemuir/lyndas-beauty-care/
-shop: Kosmetik
+shop: beauty
 ---

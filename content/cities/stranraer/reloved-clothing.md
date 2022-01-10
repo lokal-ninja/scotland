@@ -1,5 +1,5 @@
 ---
 title: "Reloved Clothing"
 url: /stranraer/reloved-clothing/
-shop: Kleidung
+shop: clothes
 ---

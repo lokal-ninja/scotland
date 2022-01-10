@@ -1,5 +1,5 @@
 ---
 title: "Angel Nails Studio"
 url: /edinburgh/angel-nails-studio/
-shop: Kosmetik
+shop: beauty
 ---

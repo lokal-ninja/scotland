@@ -1,5 +1,5 @@
 ---
 title: "The Tailor"
 url: /edinburgh/the-tailor/
-shop: Schneiderei
+shop: tailor
 ---

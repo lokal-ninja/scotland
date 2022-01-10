@@ -1,5 +1,5 @@
 ---
 title: "Iconic"
 url: /edinburgh/iconic/
-shop: Antiquitäten
+shop: antiques
 ---

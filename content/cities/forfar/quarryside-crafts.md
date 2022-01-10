@@ -1,5 +1,5 @@
 ---
 title: "Quarryside Crafts"
 url: /forfar/quarryside-crafts/
-shop: Basteln
+shop: craft
 ---

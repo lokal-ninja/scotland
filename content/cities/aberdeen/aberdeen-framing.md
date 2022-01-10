@@ -1,5 +1,5 @@
 ---
 title: "Aberdeen Framing"
 url: /aberdeen/aberdeen-framing/
-shop: Rahmen
+shop: frame
 ---

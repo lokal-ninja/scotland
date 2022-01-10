@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /edinburgh/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

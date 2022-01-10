@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /inverness/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

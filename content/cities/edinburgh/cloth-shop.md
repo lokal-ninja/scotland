@@ -1,5 +1,5 @@
 ---
 title: "Cloth Shop"
 url: /edinburgh/cloth-shop/
-shop: Textil
+shop: fabric
 ---

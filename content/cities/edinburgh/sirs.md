@@ -1,5 +1,5 @@
 ---
 title: "Sirs"
 url: /edinburgh/sirs/
-shop: Friseur
+shop: hairdresser
 ---

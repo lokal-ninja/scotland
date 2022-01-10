@@ -1,5 +1,5 @@
 ---
 title: "Remus"
 url: /edinburgh/remus/
-shop: Raumausstattung
+shop: interior decoration
 ---

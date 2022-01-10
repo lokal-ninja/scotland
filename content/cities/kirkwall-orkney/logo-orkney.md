@@ -1,5 +1,5 @@
 ---
 title: "Logo Orkney"
 url: /kirkwall-orkney/logo-orkney/
-shop: Kopieren
+shop: copyshop
 ---

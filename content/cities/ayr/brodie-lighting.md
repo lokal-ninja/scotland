@@ -1,5 +1,5 @@
 ---
 title: "Brodie Lighting"
 url: /ayr/brodie-lighting/
-shop: Lampen
+shop: lamps
 ---

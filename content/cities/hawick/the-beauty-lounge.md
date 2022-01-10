@@ -1,5 +1,5 @@
 ---
 title: "The Beauty Lounge"
 url: /hawick/the-beauty-lounge/
-shop: Kosmetik
+shop: beauty
 ---

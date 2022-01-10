@@ -1,5 +1,5 @@
 ---
 title: "Fountain Flowers"
 url: /peebles/fountain-flowers/
-shop: Blumen
+shop: florist
 ---

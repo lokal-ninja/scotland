@@ -1,5 +1,5 @@
 ---
 title: "Elixiroma"
 url: /hawick/elixiroma/
-shop: Kerzen
+shop: candles
 ---

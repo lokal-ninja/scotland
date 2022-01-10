@@ -1,5 +1,5 @@
 ---
 title: "Sweeties"
 url: /callander/sweeties/
-shop: Süßwaren
+shop: confectionery
 ---

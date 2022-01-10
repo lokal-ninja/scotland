@@ -1,5 +1,5 @@
 ---
 title: "Chattitude"
 url: /edinburgh/chattitude/
-shop: Gebrauchtwaren
+shop: charity
 ---

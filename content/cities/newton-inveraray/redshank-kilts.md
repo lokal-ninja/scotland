@@ -1,5 +1,5 @@
 ---
 title: "Redshank Kilts"
 url: /newton-inveraray/redshank-kilts/
-shop: Kleidung
+shop: clothes
 ---

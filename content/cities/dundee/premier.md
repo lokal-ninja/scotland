@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /dundee/premier/
-shop: Lebensmittel
+shop: convenience
 ---

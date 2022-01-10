@@ -1,5 +1,5 @@
 ---
 title: "Touch of Poland"
 url: /edinburgh/touch-of-poland/
-shop: Lebensmittel
+shop: convenience
 ---

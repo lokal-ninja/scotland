@@ -1,5 +1,5 @@
 ---
 title: "Sections"
 url: /edinburgh/sections/
-shop: Friseur
+shop: hairdresser
 ---

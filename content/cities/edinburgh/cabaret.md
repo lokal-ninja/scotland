@@ -1,5 +1,5 @@
 ---
 title: "Cabaret"
 url: /edinburgh/cabaret/
-shop: Antiquitäten
+shop: antiques
 ---

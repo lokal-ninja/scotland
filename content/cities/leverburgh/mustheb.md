@@ -1,5 +1,5 @@
 ---
 title: "Mustheb"
 url: /leverburgh/mustheb/
-shop: Kiosk
+shop: kiosk
 ---

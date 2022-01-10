@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /aberdeen/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

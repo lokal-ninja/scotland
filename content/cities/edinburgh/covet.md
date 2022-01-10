@@ -1,5 +1,5 @@
 ---
 title: "Covet"
 url: /edinburgh/covet/
-shop: Kleidung
+shop: clothes
 ---

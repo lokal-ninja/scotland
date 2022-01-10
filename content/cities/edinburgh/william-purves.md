@@ -1,5 +1,5 @@
 ---
 title: "William Purves"
 url: /edinburgh/william-purves/
-shop: Bestattungen
+shop: funeral directors
 ---

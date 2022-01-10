@@ -1,5 +1,5 @@
 ---
 title: "Scotfresh"
 url: /carluke/scotfresh/
-shop: Lebensmittel
+shop: convenience
 ---

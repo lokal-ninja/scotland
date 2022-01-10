@@ -1,5 +1,5 @@
 ---
 title: "Isabella's Preserves"
 url: /edzell-woods/isabellas-preserves/
-shop: Lebensmittel
+shop: convenience
 ---

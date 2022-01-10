@@ -1,5 +1,5 @@
 ---
 title: "McCalls of Tillicoultry"
 url: /tillicoultry/mccalls-of-tillicoultry/
-shop: Allgemein
+shop: shop
 ---

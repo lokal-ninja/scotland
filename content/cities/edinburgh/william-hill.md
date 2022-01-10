@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /edinburgh/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

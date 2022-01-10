@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /rosyth/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

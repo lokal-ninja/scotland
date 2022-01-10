@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /edinburgh/hollister/
-shop: Kleidung
+shop: clothes
 ---

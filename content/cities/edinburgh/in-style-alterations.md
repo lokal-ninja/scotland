@@ -1,5 +1,5 @@
 ---
 title: "In Style Alterations"
 url: /edinburgh/in-style-alterations/
-shop: Schneiderei
+shop: tailor
 ---

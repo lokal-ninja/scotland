@@ -1,5 +1,5 @@
 ---
 title: "Delish Fish"
 url: /aberdeen/delish-fish/
-shop: Fisch
+shop: seafood
 ---

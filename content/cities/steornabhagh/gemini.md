@@ -1,5 +1,5 @@
 ---
 title: "Gemini"
 url: /steornabhagh/gemini/
-shop: Friseur
+shop: hairdresser
 ---

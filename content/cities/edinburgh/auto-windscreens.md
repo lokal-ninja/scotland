@@ -1,5 +1,5 @@
 ---
 title: "Auto Windscreens"
 url: /edinburgh/auto-windscreens/
-shop: Autowerkstatt
+shop: car repair
 ---

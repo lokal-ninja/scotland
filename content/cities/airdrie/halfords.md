@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /airdrie/halfords/
-shop: Autoteile
+shop: car parts
 ---

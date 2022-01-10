@@ -1,5 +1,5 @@
 ---
 title: "The Wee Leith Shop"
 url: /edinburgh/the-wee-leith-shop/
-shop: Antiquitäten
+shop: antiques
 ---

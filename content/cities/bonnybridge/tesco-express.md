@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bonnybridge/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

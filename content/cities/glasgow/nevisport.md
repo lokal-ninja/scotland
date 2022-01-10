@@ -1,5 +1,5 @@
 ---
 title: "Nevisport"
 url: /glasgow/nevisport/
-shop: Outdoor
+shop: outdoor
 ---

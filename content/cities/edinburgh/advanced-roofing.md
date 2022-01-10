@@ -1,5 +1,5 @@
 ---
 title: "Advanced Roofing"
 url: /edinburgh/advanced-roofing/
-shop: Baustoffe
+shop: trade
 ---

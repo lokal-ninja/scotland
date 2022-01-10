@@ -1,5 +1,5 @@
 ---
 title: "Purusha"
 url: /edinburgh/purusha/
-shop: Friseur
+shop: hairdresser
 ---

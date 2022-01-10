@@ -1,5 +1,5 @@
 ---
 title: "Sheila's"
 url: /edinburgh/sheilas/
-shop: Fisch
+shop: seafood
 ---

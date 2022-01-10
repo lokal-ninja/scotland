@@ -1,5 +1,5 @@
 ---
 title: "Links Car Sales"
 url: /edinburgh/links-car-sales/
-shop: Autohaus
+shop: car
 ---

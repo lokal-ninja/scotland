@@ -1,5 +1,5 @@
 ---
 title: "East By West"
 url: /stranraer/east-by-west/
-shop: Kleidung
+shop: clothes
 ---

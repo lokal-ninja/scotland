@@ -1,5 +1,5 @@
 ---
 title: "COOP"
 url: /rothesay/coop/
-shop: Supermarkt
+shop: supermarket
 ---

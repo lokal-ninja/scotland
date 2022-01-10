@@ -1,5 +1,5 @@
 ---
 title: "SAS Store"
 url: /glasgow/sas-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sahara"
 url: /edinburgh/sahara/
-shop: Kleidung
+shop: clothes
 ---

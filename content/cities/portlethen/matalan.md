@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /portlethen/matalan/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /aberdeen/sainsburys-local-4/
-shop: Lebensmittel
+shop: convenience
 ---

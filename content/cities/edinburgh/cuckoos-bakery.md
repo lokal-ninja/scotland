@@ -1,5 +1,5 @@
 ---
 title: "Cuckoo's Bakery"
 url: /edinburgh/cuckoos-bakery/
-shop: Süßwaren
+shop: confectionery
 ---

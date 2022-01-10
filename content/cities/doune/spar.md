@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /doune/spar/
-shop: Supermarkt
+shop: supermarket
 ---

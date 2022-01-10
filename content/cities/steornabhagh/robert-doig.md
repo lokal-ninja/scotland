@@ -1,5 +1,5 @@
 ---
 title: "Robert Doig"
 url: /steornabhagh/robert-doig/
-shop: Optiker
+shop: optician
 ---

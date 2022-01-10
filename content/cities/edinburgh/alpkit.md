@@ -1,5 +1,5 @@
 ---
 title: "Alpkit"
 url: /edinburgh/alpkit/
-shop: Outdoor
+shop: outdoor
 ---

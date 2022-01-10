@@ -1,5 +1,5 @@
 ---
 title: "Mellow Moods"
 url: /glasgow/mellow-moods/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Makeup Bar"
 url: /edinburgh/the-makeup-bar/
-shop: Kosmetik
+shop: beauty
 ---

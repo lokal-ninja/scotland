@@ -1,5 +1,5 @@
 ---
 title: "Ayr Calor Centre"
 url: /ayr/ayr-calor-centre/
-shop: Treibstoff
+shop: fuel
 ---

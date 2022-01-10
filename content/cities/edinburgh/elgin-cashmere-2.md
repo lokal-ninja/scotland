@@ -1,5 +1,5 @@
 ---
 title: "Elgin Cashmere"
 url: /edinburgh/elgin-cashmere-2/
-shop: Kleidung
+shop: clothes
 ---

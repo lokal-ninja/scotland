@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /aberdeen/waterstones/
-shop: Bücher
+shop: books
 ---

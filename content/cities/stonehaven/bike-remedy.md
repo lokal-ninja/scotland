@@ -1,5 +1,5 @@
 ---
 title: "Bike Remedy"
 url: /stonehaven/bike-remedy/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Napiers"
 url: /edinburgh/napiers/
-shop: Kräuter
+shop: herbalist
 ---

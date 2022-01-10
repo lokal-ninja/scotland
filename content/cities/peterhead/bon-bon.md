@@ -1,5 +1,5 @@
 ---
 title: "Bon Bon"
 url: /peterhead/bon-bon/
-shop: Süßwaren
+shop: confectionery
 ---

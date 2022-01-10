@@ -1,5 +1,5 @@
 ---
 title: "The Couchee Righ"
 url: /peebles/the-couchee-righ/
-shop: Andenken
+shop: gift
 ---

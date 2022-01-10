@@ -1,5 +1,5 @@
 ---
 title: "Little Star Gems"
 url: /edinburgh/little-star-gems/
-shop: Andenken
+shop: gift
 ---

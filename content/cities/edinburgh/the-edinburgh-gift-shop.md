@@ -1,5 +1,5 @@
 ---
 title: "The Edinburgh Gift Shop"
 url: /edinburgh/the-edinburgh-gift-shop/
-shop: Andenken
+shop: gift
 ---

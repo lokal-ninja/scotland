@@ -1,5 +1,5 @@
 ---
 title: "Clan"
 url: /edinburgh/clan/
-shop: Autowerkstatt
+shop: car repair
 ---

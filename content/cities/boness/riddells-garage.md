@@ -1,5 +1,5 @@
 ---
 title: "Riddell's Garage"
 url: /boness/riddells-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

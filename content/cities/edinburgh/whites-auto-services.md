@@ -1,5 +1,5 @@
 ---
 title: "White's Auto Services"
 url: /edinburgh/whites-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

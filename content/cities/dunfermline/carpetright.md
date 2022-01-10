@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /dunfermline/carpetright/
-shop: Teppiche
+shop: carpet
 ---

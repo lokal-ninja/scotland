@@ -1,5 +1,5 @@
 ---
 title: "Allium Garden Centre"
 url: /pitlochry/allium-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /edinburgh/magnet/
-shop: Küchen
+shop: kitchen
 ---

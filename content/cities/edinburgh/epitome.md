@@ -1,5 +1,5 @@
 ---
 title: "Epitome"
 url: /edinburgh/epitome/
-shop: Kleidung
+shop: clothes
 ---

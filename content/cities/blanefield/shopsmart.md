@@ -1,5 +1,5 @@
 ---
 title: "Shopsmart"
 url: /blanefield/shopsmart/
-shop: Lebensmittel
+shop: convenience
 ---

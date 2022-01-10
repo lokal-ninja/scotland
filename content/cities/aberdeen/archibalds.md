@@ -1,5 +1,5 @@
 ---
 title: "archibalds"
 url: /aberdeen/archibalds/
-shop: Möbel
+shop: furniture
 ---

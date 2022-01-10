@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /huntly/asda/
-shop: Supermarkt
+shop: supermarket
 ---

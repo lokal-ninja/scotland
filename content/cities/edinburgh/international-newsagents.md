@@ -1,5 +1,5 @@
 ---
 title: "International Newsagents"
 url: /edinburgh/international-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

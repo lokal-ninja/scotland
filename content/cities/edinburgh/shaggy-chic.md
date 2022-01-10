@@ -1,5 +1,5 @@
 ---
 title: "Shaggy Chic"
 url: /edinburgh/shaggy-chic/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /greenock/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

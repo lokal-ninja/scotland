@@ -1,5 +1,5 @@
 ---
 title: "HSL"
 url: /aberdeen/hsl/
-shop: Möbel
+shop: furniture
 ---

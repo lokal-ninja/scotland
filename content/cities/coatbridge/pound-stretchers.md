@@ -1,5 +1,5 @@
 ---
 title: "pound stretchers"
 url: /coatbridge/pound-stretchers/
-shop: Allgemein
+shop: shop
 ---

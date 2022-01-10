@@ -1,5 +1,5 @@
 ---
 title: "The Avenue Store"
 url: /edinburgh/the-avenue-store/
-shop: Lebensmittel
+shop: convenience
 ---

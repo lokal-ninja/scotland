@@ -1,5 +1,5 @@
 ---
 title: "Hair-Rods"
 url: /stranraer/hair-rods/
-shop: Friseur
+shop: hairdresser
 ---

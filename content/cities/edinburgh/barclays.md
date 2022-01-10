@@ -1,5 +1,5 @@
 ---
 title: "Barclays"
 url: /edinburgh/barclays/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Muse Hair Salon"
 url: /aberdeen/muse-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

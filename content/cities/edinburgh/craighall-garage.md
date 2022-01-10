@@ -1,5 +1,5 @@
 ---
 title: "Craighall Garage"
 url: /edinburgh/craighall-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

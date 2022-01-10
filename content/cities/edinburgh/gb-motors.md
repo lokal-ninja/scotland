@@ -1,5 +1,5 @@
 ---
 title: "GB Motors"
 url: /edinburgh/gb-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

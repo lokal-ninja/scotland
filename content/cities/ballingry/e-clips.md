@@ -1,5 +1,5 @@
 ---
 title: "E-clips"
 url: /ballingry/e-clips/
-shop: Friseur
+shop: hairdresser
 ---

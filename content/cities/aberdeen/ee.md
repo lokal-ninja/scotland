@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /aberdeen/ee/
-shop: Handy
+shop: mobile phone
 ---

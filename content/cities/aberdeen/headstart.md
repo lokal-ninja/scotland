@@ -1,5 +1,5 @@
 ---
 title: "Headstart"
 url: /aberdeen/headstart/
-shop: Friseur
+shop: hairdresser
 ---

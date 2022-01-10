@@ -1,5 +1,5 @@
 ---
 title: "Minuteman Press Printers"
 url: /ayr/minuteman-press-printers/
-shop: Kopieren
+shop: copyshop
 ---

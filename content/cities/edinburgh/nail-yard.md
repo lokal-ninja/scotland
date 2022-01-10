@@ -1,5 +1,5 @@
 ---
 title: "Nail Yard"
 url: /edinburgh/nail-yard/
-shop: Kosmetik
+shop: beauty
 ---

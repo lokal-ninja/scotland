@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /perth/jollyes/
-shop: Tiere
+shop: pet
 ---

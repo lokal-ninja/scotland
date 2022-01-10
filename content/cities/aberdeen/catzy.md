@@ -1,5 +1,5 @@
 ---
 title: "Catzy"
 url: /aberdeen/catzy/
-shop: Kosmetik
+shop: beauty
 ---

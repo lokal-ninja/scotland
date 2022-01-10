@@ -1,5 +1,5 @@
 ---
 title: "Canada Goose"
 url: /edinburgh/canada-goose/
-shop: Kleidung
+shop: clothes
 ---

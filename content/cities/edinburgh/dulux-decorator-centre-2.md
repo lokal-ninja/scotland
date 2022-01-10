@@ -1,5 +1,5 @@
 ---
 title: "Dulux Decorator Centre"
 url: /edinburgh/dulux-decorator-centre-2/
-shop: Farben
+shop: paint
 ---

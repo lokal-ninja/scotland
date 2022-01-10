@@ -1,5 +1,5 @@
 ---
 title: "Hillfoots Autocentre"
 url: /tillicoultry/hillfoots-autocentre/
-shop: Autowerkstatt
+shop: car repair
 ---

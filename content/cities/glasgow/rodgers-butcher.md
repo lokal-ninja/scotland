@@ -1,5 +1,5 @@
 ---
 title: "Rodgers Butcher"
 url: /glasgow/rodgers-butcher/
-shop: Metzgerei
+shop: butcher
 ---

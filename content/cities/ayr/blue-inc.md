@@ -1,5 +1,5 @@
 ---
 title: "Blue Inc"
 url: /ayr/blue-inc/
-shop: Kleidung
+shop: clothes
 ---

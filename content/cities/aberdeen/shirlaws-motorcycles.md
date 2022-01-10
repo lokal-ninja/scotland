@@ -1,5 +1,5 @@
 ---
 title: "Shirlaws Motorcycles"
 url: /aberdeen/shirlaws-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

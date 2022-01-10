@@ -1,5 +1,5 @@
 ---
 title: "City Barbers"
 url: /edinburgh/city-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hoi Barbers"
 url: /tranent/hoi-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /glasgow/kwik-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

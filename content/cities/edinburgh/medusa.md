@@ -1,5 +1,5 @@
 ---
 title: "Medusa"
 url: /edinburgh/medusa/
-shop: Friseur
+shop: hairdresser
 ---

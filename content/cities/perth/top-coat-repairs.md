@@ -1,5 +1,5 @@
 ---
 title: "Top Coat Repairs"
 url: /perth/top-coat-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

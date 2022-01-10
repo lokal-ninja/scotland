@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /stranraer/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karine"
 url: /edinburgh/karine/
-shop: Feinkost
+shop: deli
 ---

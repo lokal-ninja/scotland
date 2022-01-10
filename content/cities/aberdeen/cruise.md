@@ -1,5 +1,5 @@
 ---
 title: "Cruise"
 url: /aberdeen/cruise/
-shop: Kleidung
+shop: clothes
 ---

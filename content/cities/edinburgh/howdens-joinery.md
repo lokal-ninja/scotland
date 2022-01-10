@@ -1,5 +1,5 @@
 ---
 title: "Howden's Joinery"
 url: /edinburgh/howdens-joinery/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Newsbox"
 url: /glasgow/newsbox/
-shop: Zeitungen
+shop: newsagent
 ---

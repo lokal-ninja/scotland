@@ -1,5 +1,5 @@
 ---
 title: "TK Garage"
 url: /edinburgh/tk-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

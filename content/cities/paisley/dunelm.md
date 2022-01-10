@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /paisley/dunelm/
-shop: Möbel
+shop: furniture
 ---

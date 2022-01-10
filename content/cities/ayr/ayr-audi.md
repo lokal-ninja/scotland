@@ -1,5 +1,5 @@
 ---
 title: "Ayr Audi"
 url: /ayr/ayr-audi/
-shop: Autohaus
+shop: car
 ---

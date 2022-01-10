@@ -1,5 +1,5 @@
 ---
 title: "Dusty's Pet Shop"
 url: /aberdeen/dustys-pet-shop/
-shop: Tiere
+shop: pet
 ---

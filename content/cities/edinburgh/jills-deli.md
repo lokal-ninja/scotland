@@ -1,5 +1,5 @@
 ---
 title: "Jill's Deli"
 url: /edinburgh/jills-deli/
-shop: Feinkost
+shop: deli
 ---

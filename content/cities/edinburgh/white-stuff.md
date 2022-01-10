@@ -1,5 +1,5 @@
 ---
 title: "White Stuff"
 url: /edinburgh/white-stuff/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eden Seafood"
 url: /edinburgh/eden-seafood/
-shop: Fisch
+shop: seafood
 ---

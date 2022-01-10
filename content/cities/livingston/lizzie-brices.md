@@ -1,5 +1,5 @@
 ---
 title: "Lizzie Brice's"
 url: /livingston/lizzie-brices/
-shop: Lebensmittel
+shop: convenience
 ---

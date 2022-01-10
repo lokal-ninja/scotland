@@ -1,5 +1,5 @@
 ---
 title: "Omnicare"
 url: /edinburgh/omnicare/
-shop: Drogerie
+shop: chemist
 ---

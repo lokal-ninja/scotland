@@ -1,5 +1,5 @@
 ---
 title: "Gifted"
 url: /edinburgh/gifted/
-shop: Andenken
+shop: gift
 ---

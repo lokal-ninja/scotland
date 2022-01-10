@@ -1,5 +1,5 @@
 ---
 title: "Paulin"
 url: /edinburgh/paulin/
-shop: Uhren
+shop: watches
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Divine Beauty"
 url: /aberdeen/divine-beauty/
-shop: Friseur
+shop: hairdresser
 ---

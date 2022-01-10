@@ -1,5 +1,5 @@
 ---
 title: "Fingerprint"
 url: /kirriemuir/fingerprint/
-shop: Schneiderei
+shop: tailor
 ---

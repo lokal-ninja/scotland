@@ -1,5 +1,5 @@
 ---
 title: "One Step Ahead"
 url: /ayr/one-step-ahead/
-shop: Schuhe
+shop: shoes
 ---

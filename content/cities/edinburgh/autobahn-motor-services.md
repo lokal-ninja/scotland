@@ -1,5 +1,5 @@
 ---
 title: "Autobahn Motor Services"
 url: /edinburgh/autobahn-motor-services/
-shop: Autowerkstatt
+shop: car repair
 ---

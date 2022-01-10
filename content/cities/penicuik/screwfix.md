@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /penicuik/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

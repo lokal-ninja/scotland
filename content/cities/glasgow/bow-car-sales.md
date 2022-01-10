@@ -1,5 +1,5 @@
 ---
 title: "Bow Car Sales"
 url: /glasgow/bow-car-sales/
-shop: Autowerkstatt
+shop: car repair
 ---

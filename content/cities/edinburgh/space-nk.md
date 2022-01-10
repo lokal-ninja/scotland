@@ -1,5 +1,5 @@
 ---
 title: "Space.NK"
 url: /edinburgh/space-nk/
-shop: Drogerie
+shop: chemist
 ---

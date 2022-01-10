@@ -1,5 +1,5 @@
 ---
 title: "Cheynes"
 url: /edinburgh/cheynes-3/
-shop: Friseur
+shop: hairdresser
 ---

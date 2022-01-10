@@ -1,5 +1,5 @@
 ---
 title: "Crown Decorator Centre"
 url: /edinburgh/crown-decorator-centre/
-shop: Farben
+shop: paint
 ---

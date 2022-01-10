@@ -1,5 +1,5 @@
 ---
 title: "SeeWoo"
 url: /glasgow/seewoo/
-shop: Supermarkt
+shop: supermarket
 ---

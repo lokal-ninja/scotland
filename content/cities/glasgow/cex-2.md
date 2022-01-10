@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /glasgow/cex-2/
-shop: Elektronik
+shop: electronics
 ---

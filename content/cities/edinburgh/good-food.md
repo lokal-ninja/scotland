@@ -1,5 +1,5 @@
 ---
 title: "Good Food"
 url: /edinburgh/good-food/
-shop: Feinkost
+shop: deli
 ---

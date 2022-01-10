@@ -1,5 +1,5 @@
 ---
 title: "Salut"
 url: /edinburgh/salut/
-shop: Feinkost
+shop: deli
 ---

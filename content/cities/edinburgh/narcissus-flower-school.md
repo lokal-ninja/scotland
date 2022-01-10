@@ -1,5 +1,5 @@
 ---
 title: "Narcissus Flower School"
 url: /edinburgh/narcissus-flower-school/
-shop: Blumen
+shop: florist
 ---

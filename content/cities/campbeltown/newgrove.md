@@ -1,5 +1,5 @@
 ---
 title: "Newgrove"
 url: /campbeltown/newgrove/
-shop: Möbel
+shop: furniture
 ---

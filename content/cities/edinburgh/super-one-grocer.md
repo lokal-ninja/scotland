@@ -1,5 +1,5 @@
 ---
 title: "Super One Grocer"
 url: /edinburgh/super-one-grocer/
-shop: Feinkost
+shop: deli
 ---

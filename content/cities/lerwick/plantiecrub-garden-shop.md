@@ -1,5 +1,5 @@
 ---
 title: "Plantiecrub Garden Shop"
 url: /lerwick/plantiecrub-garden-shop/
-shop: Garten-Center
+shop: garden centre
 ---

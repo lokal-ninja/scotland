@@ -1,5 +1,5 @@
 ---
 title: "Glickmans"
 url: /glasgow/glickmans/
-shop: Süßwaren
+shop: confectionery
 ---

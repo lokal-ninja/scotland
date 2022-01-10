@@ -1,5 +1,5 @@
 ---
 title: "Chiko's"
 url: /edinburgh/chikos/
-shop: Friseur
+shop: hairdresser
 ---

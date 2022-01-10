@@ -1,5 +1,5 @@
 ---
 title: "Merchiston Dry Cleaners"
 url: /edinburgh/merchiston-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specialist Cars Volkswagen"
 url: /dunfermline/specialist-cars-volkswagen/
-shop: Autowerkstatt
+shop: car repair
 ---

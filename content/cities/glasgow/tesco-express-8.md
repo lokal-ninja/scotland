@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /glasgow/tesco-express-8/
-shop: Lebensmittel
+shop: convenience
 ---

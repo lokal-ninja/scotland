@@ -1,5 +1,5 @@
 ---
 title: "QwikLube"
 url: /musselburgh/qwiklube/
-shop: Autowerkstatt
+shop: car repair
 ---

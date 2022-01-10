@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /ayr/vodafone/
-shop: Handy
+shop: mobile phone
 ---

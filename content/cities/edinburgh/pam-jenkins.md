@@ -1,5 +1,5 @@
 ---
 title: "Pam Jenkins"
 url: /edinburgh/pam-jenkins/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JMS Garage"
 url: /edinburgh/jms-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

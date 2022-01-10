@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /boness/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

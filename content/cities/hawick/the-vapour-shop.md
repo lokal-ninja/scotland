@@ -1,5 +1,5 @@
 ---
 title: "The Vapour Shop"
 url: /hawick/the-vapour-shop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

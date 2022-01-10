@@ -1,5 +1,5 @@
 ---
 title: "Margiotta"
 url: /edinburgh/margiotta-4/
-shop: Lebensmittel
+shop: convenience
 ---

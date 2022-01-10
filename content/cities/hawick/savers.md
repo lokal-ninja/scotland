@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /hawick/savers/
-shop: Drogerie
+shop: chemist
 ---

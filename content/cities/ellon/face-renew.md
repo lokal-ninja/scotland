@@ -1,5 +1,5 @@
 ---
 title: "Face Renew"
 url: /ellon/face-renew/
-shop: Kosmetik
+shop: beauty
 ---

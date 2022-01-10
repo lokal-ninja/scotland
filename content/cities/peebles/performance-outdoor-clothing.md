@@ -1,5 +1,5 @@
 ---
 title: "Performance Outdoor Clothing"
 url: /peebles/performance-outdoor-clothing/
-shop: Outdoor
+shop: outdoor
 ---

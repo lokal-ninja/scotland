@@ -1,5 +1,5 @@
 ---
 title: "PK Mashallah"
 url: /edinburgh/pk-mashallah/
-shop: Friseur
+shop: hairdresser
 ---

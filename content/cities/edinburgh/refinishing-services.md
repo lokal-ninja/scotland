@@ -1,5 +1,5 @@
 ---
 title: "Refinishing Services"
 url: /edinburgh/refinishing-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palenque"
 url: /edinburgh/palenque-2/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op Funeral Care"
 url: /aberdeen/co-op-funeral-care/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volvo Arnold Clark"
 url: /stirling/volvo-arnold-clark/
-shop: Autohaus
+shop: car
 ---

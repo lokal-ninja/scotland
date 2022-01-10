@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /cumnock/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

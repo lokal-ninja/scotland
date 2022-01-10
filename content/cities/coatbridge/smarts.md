@@ -1,5 +1,5 @@
 ---
 title: "Smarts"
 url: /coatbridge/smarts/
-shop: Friseur
+shop: hairdresser
 ---

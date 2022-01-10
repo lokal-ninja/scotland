@@ -1,5 +1,5 @@
 ---
 title: "chameleon"
 url: /aberdeen/chameleon/
-shop: Raumausstattung
+shop: interior decoration
 ---

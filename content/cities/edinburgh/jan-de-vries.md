@@ -1,5 +1,5 @@
 ---
 title: "Jan de Vries"
 url: /edinburgh/jan-de-vries/
-shop: Bioladen
+shop: health food
 ---

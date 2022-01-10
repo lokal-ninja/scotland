@@ -1,5 +1,5 @@
 ---
 title: "Hair Revolutions"
 url: /stirling/hair-revolutions/
-shop: Friseur
+shop: hairdresser
 ---

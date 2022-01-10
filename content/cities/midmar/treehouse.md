@@ -1,5 +1,5 @@
 ---
 title: "Treehouse"
 url: /midmar/treehouse/
-shop: Raumausstattung
+shop: interior decoration
 ---

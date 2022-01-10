@@ -1,5 +1,5 @@
 ---
 title: "WoodWinters"
 url: /inverness/woodwinters/
-shop: Spirituosen
+shop: alcohol
 ---

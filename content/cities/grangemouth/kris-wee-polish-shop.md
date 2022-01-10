@@ -1,5 +1,5 @@
 ---
 title: "Kris' Wee Polish Shop"
 url: /grangemouth/kris-wee-polish-shop/
-shop: Feinkost
+shop: deli
 ---

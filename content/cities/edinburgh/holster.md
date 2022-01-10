@@ -1,5 +1,5 @@
 ---
 title: "Holster"
 url: /edinburgh/holster/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SalonNinetyNine"
 url: /edinburgh/salonninetynine/
-shop: Friseur
+shop: hairdresser
 ---

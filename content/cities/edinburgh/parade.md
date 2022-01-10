@@ -1,5 +1,5 @@
 ---
 title: "Parade"
 url: /edinburgh/parade/
-shop: Schreibwaren
+shop: office supplies
 ---

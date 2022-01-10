@@ -1,5 +1,5 @@
 ---
 title: "Lusso"
 url: /forfar/lusso/
-shop: Kleidung
+shop: clothes
 ---

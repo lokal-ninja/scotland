@@ -1,5 +1,5 @@
 ---
 title: "ESPC"
 url: /edinburgh/espc/
-shop: Immobilien
+shop: estate agent
 ---

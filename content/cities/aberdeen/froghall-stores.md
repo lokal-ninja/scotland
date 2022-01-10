@@ -1,5 +1,5 @@
 ---
 title: "Froghall Stores"
 url: /aberdeen/froghall-stores/
-shop: Lebensmittel
+shop: convenience
 ---

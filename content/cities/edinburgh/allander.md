@@ -1,5 +1,5 @@
 ---
 title: "Allander"
 url: /edinburgh/allander/
-shop: Kopieren
+shop: copyshop
 ---

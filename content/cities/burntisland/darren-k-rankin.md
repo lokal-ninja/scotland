@@ -1,5 +1,5 @@
 ---
 title: "Darren K Rankin"
 url: /burntisland/darren-k-rankin/
-shop: Bestattungen
+shop: funeral directors
 ---

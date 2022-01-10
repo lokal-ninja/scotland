@@ -1,5 +1,5 @@
 ---
 title: "John Lewis"
 url: /edinburgh/john-lewis/
-shop: Warenhaus
+shop: department store
 ---

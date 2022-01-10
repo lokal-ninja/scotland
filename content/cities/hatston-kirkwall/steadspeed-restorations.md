@@ -1,5 +1,5 @@
 ---
 title: "Steadspeed Restorations"
 url: /hatston-kirkwall/steadspeed-restorations/
-shop: Autowerkstatt
+shop: car repair
 ---

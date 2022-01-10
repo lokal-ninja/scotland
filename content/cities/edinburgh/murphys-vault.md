@@ -1,5 +1,5 @@
 ---
 title: "Murphy's Vault"
 url: /edinburgh/murphys-vault/
-shop: Spiele
+shop: games
 ---

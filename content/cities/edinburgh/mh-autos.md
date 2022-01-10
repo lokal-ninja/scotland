@@ -1,5 +1,5 @@
 ---
 title: "MH Autos"
 url: /edinburgh/mh-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

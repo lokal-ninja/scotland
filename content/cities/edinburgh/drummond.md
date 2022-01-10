@@ -1,5 +1,5 @@
 ---
 title: "Drummond"
 url: /edinburgh/drummond/
-shop: Haushaltsartikel
+shop: houseware
 ---

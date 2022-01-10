@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /edinburgh/scotmid-7/
-shop: Lebensmittel
+shop: convenience
 ---

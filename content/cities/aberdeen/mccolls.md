@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /aberdeen/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ewarts"
 url: /alyth/ewarts/
-shop: Metzgerei
+shop: butcher
 ---

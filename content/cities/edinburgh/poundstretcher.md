@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /edinburgh/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

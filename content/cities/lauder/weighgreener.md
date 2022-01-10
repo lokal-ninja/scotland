@@ -1,5 +1,5 @@
 ---
 title: "WeighGreener"
 url: /lauder/weighgreener/
-shop: Lebensmittel
+shop: convenience
 ---

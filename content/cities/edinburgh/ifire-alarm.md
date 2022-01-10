@@ -1,5 +1,5 @@
 ---
 title: "iFire Alarm"
 url: /edinburgh/ifire-alarm/
-shop: Elektronik
+shop: electronics
 ---

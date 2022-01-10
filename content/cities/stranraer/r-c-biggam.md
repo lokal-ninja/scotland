@@ -1,5 +1,5 @@
 ---
 title: "R.C. Biggam"
 url: /stranraer/r-c-biggam/
-shop: Kleidung
+shop: clothes
 ---

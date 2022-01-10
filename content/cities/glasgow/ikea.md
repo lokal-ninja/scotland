@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /glasgow/ikea/
-shop: Möbel
+shop: furniture
 ---

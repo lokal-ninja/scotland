@@ -1,5 +1,5 @@
 ---
 title: "The Forfar Mart"
 url: /forfar/the-forfar-mart/
-shop: Auktionshaus
+shop: auction house
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /fraserburgh/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leomax"
 url: /edinburgh/leomax/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TanZ"
 url: /edinburgh/tanz-6/
-shop: Kosmetik
+shop: beauty
 ---

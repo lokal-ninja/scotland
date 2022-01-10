@@ -1,5 +1,5 @@
 ---
 title: "Scotmid Co-operative"
 url: /aberdeen/scotmid-co-operative/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /edinburgh/savers/
-shop: Drogerie
+shop: chemist
 ---

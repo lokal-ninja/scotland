@@ -1,5 +1,5 @@
 ---
 title: "Great Grog"
 url: /edinburgh/great-grog/
-shop: Spirituosen
+shop: alcohol
 ---

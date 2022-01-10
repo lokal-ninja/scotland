@@ -1,5 +1,5 @@
 ---
 title: "The Players Lounge"
 url: /edinburgh/the-players-lounge/
-shop: Friseur
+shop: hairdresser
 ---

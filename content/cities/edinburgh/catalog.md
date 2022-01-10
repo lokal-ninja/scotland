@@ -1,5 +1,5 @@
 ---
 title: "Catalog"
 url: /edinburgh/catalog/
-shop: Raumausstattung
+shop: interior decoration
 ---

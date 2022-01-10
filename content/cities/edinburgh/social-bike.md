@@ -1,5 +1,5 @@
 ---
 title: "Social Bike"
 url: /edinburgh/social-bike/
-shop: Fahrrad
+shop: bicycle
 ---

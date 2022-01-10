@@ -1,5 +1,5 @@
 ---
 title: "Demi's Florist"
 url: /edinburgh/demis-florist/
-shop: Blumen
+shop: florist
 ---

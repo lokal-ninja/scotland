@@ -1,5 +1,5 @@
 ---
 title: "Heritage Clearance Store"
 url: /edinburgh/heritage-clearance-store/
-shop: Andenken
+shop: gift
 ---

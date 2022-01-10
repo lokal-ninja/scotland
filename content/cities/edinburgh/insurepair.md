@@ -1,5 +1,5 @@
 ---
 title: "Insurepair"
 url: /edinburgh/insurepair/
-shop: Baustoffe
+shop: trade
 ---

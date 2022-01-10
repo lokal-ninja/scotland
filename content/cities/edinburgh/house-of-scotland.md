@@ -1,5 +1,5 @@
 ---
 title: "House Of Scotland"
 url: /edinburgh/house-of-scotland/
-shop: Kleidung
+shop: clothes
 ---

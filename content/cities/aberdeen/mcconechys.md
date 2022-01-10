@@ -1,5 +1,5 @@
 ---
 title: "McConechy's"
 url: /aberdeen/mcconechys/
-shop: Autowerkstatt
+shop: car repair
 ---

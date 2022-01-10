@@ -1,5 +1,5 @@
 ---
 title: "Sonté"
 url: /edinburgh/sonte/
-shop: Friseur
+shop: hairdresser
 ---

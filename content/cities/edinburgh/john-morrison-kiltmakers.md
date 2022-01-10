@@ -1,5 +1,5 @@
 ---
 title: "John Morrison Kiltmakers"
 url: /edinburgh/john-morrison-kiltmakers/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /aberdeen/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

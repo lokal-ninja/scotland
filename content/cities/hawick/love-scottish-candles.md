@@ -1,5 +1,5 @@
 ---
 title: "Love: Scottish Candles"
 url: /hawick/love-scottish-candles/
-shop: Kerzen
+shop: candles
 ---

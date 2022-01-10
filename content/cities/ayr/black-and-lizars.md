@@ -1,5 +1,5 @@
 ---
 title: "Black and Lizars"
 url: /ayr/black-and-lizars/
-shop: Optiker
+shop: optician
 ---

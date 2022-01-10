@@ -1,5 +1,5 @@
 ---
 title: "decidedly dogs"
 url: /aberdeen/decidedly-dogs/
-shop: Tiere
+shop: pet
 ---

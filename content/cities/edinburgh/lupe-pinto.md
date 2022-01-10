@@ -1,5 +1,5 @@
 ---
 title: "Lupe Pinto"
 url: /edinburgh/lupe-pinto/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
 url: /edinburgh/glamour/
-shop: Kosmetik
+shop: beauty
 ---

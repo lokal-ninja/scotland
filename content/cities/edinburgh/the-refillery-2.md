@@ -1,5 +1,5 @@
 ---
 title: "The Refillery"
 url: /edinburgh/the-refillery-2/
-shop: Feinkost
+shop: deli
 ---

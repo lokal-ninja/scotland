@@ -1,5 +1,5 @@
 ---
 title: "Springhill Store"
 url: /shotts/springhill-store/
-shop: Lebensmittel
+shop: convenience
 ---

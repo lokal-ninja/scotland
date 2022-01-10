@@ -1,5 +1,5 @@
 ---
 title: "Common Wheel"
 url: /glasgow/common-wheel-2/
-shop: Fahrrad
+shop: bicycle
 ---

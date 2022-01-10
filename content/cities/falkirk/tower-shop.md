@@ -1,5 +1,5 @@
 ---
 title: "Tower Shop"
 url: /falkirk/tower-shop/
-shop: Lebensmittel
+shop: convenience
 ---

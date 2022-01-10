@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /callander/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

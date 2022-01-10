@@ -1,5 +1,5 @@
 ---
 title: "Alan Motors"
 url: /falkirk/alan-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

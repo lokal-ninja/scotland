@@ -1,5 +1,5 @@
 ---
 title: "Callidora"
 url: /edinburgh/callidora/
-shop: Kosmetik
+shop: beauty
 ---

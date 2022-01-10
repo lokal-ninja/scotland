@@ -1,5 +1,5 @@
 ---
 title: "Roseburn Shoe Repairs"
 url: /edinburgh/roseburn-shoe-repairs/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrick Cycles"
 url: /ayr/carrick-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

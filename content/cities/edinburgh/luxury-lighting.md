@@ -1,5 +1,5 @@
 ---
 title: "Luxury Lighting"
 url: /edinburgh/luxury-lighting/
-shop: Lampen
+shop: lamps
 ---

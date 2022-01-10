@@ -1,5 +1,5 @@
 ---
 title: "Bikeworks"
 url: /glenrothes/bikeworks/
-shop: Fahrrad
+shop: bicycle
 ---

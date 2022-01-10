@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /ayr/harveys/
-shop: Möbel
+shop: furniture
 ---

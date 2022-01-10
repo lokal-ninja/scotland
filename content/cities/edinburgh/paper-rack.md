@@ -1,5 +1,5 @@
 ---
 title: "Paper Rack"
 url: /edinburgh/paper-rack/
-shop: Zeitungen
+shop: newsagent
 ---

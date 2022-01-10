@@ -1,5 +1,5 @@
 ---
 title: "Zander Telford Hair"
 url: /edinburgh/zander-telford-hair/
-shop: Friseur
+shop: hairdresser
 ---
