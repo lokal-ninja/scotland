@@ -1,6 +1,6 @@
 ---
 title: Cowdenbeath
 url: /cowdenbeath/
-latitude: 56.102
-longitude: -3.359
+latitude: 56.11
+longitude: -3.343
 ---

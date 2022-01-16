@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /aberdeen/co-op-food-8/
+url: /cowdenbeath/co-op-food/
 shop: convenience
 ---
