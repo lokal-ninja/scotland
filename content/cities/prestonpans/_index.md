@@ -1,6 +1,6 @@
 ---
 title: Prestonpans
 url: /prestonpans/
-latitude: 55.955
-longitude: -2.988
+latitude: 55.959
+longitude: -2.987
 ---
