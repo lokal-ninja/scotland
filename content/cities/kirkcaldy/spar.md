@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /kirkcaldy/spar/
-shop: supermarket
+shop: convenience
 ---
