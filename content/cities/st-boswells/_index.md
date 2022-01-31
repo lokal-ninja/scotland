@@ -1,6 +1,6 @@
 ---
 title: St Boswells
 url: /st-boswells/
-latitude: 55.569
-longitude: -2.652
+latitude: 55.572
+longitude: -2.645
 ---
