@@ -1,6 +1,6 @@
 ---
 title: Steòrnabhagh
 url: /steornabhagh/
-latitude: 58.209
+latitude: 58.208
 longitude: -6.388
 ---
