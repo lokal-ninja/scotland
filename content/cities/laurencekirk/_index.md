@@ -1,6 +1,6 @@
 ---
 title: Laurencekirk
 url: /laurencekirk/
-latitude: 56.832
-longitude: -2.469
+latitude: 56.864
+longitude: -2.461
 ---

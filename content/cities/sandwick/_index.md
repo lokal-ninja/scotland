@@ -1,6 +1,6 @@
 ---
 title: Sandwick
 url: /sandwick/
-latitude: 60.002
-longitude: -1.236
+latitude: 59.035
+longitude: -3.293
 ---
