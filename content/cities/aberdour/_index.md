@@ -1,6 +1,6 @@
 ---
 title: Aberdour
 url: /aberdour/
-latitude: 56.054
-longitude: -3.301
+latitude: 56.057
+longitude: -3.293
 ---
