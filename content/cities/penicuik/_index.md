@@ -1,6 +1,6 @@
 ---
 title: Penicuik
 url: /penicuik/
-latitude: 55.826
-longitude: -3.222
+latitude: 55.831
+longitude: -3.212
 ---
