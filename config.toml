@@ -1,4 +1,4 @@
-baseURL = "https://gb.shoogle.net/scotland"
+baseURL = "https://gb.shoogle.net/scotland/"
 languageCode = "en-US"
 title = "Scotland"
 theme = "ln-base"
