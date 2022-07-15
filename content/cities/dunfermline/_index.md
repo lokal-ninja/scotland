@@ -1,6 +1,6 @@
 ---
 title: Dunfermline
 url: /dunfermline/
-latitude: 56.062
-longitude: -3.406
+latitude: 56.072
+longitude: -3.466
 ---
