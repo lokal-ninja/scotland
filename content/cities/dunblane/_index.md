@@ -1,6 +1,6 @@
 ---
 title: Dunblane
 url: /dunblane/
-latitude: 56.189
-longitude: -3.963
+latitude: 56.197
+longitude: -3.954
 ---
