@@ -1,11 +1,11 @@
-id: 231033654
-type: way
-latitude: 55.93768
-longitude: -3.31188
-postcode: "EH12 9JS"
+id: 4357378295
+type: node
+latitude: 55.95937
+longitude: -3.24279
+postcode: "EH4 2LN"
 city: Edinburgh
-street: "Gyle Avenue"
-housenumber: 21A
-phone: ""
-opening_hours: "Mo-We 09:00-20:00; Th,Fr 09:00-21:00; Sa 08:00-19:00; Su 09:00-19:00"
-website: "https://www.marksandspencer.com/stores/gyle-0055"
+street: "South Groathill Avenue"
+housenumber: 40
+phone: "+44 131 3433641"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Clinton's"
+title: "Clintons"
 url: /dundee/clintons/
 shop: gift
 ---
