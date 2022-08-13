@@ -1,5 +1,5 @@
 ---
-title: "American Sweets & Treats"
+title: "American Sweets and Treats"
 url: /edinburgh/american-sweets-and-treats/
 shop: confectionery
 ---
