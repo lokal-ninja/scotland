@@ -1,11 +1,11 @@
-id: 1664973457
+id: 1525285971
 type: node
-latitude: 55.85731
-longitude: -4.24881
-postcode: "G1 5HF"
+latitude: 55.85738
+longitude: -4.24268
+postcode: "G1 1NL"
 city: Glasgow
-street: "Trongate"
-housenumber: 175
+street: "High Street"
+housenumber: 50
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.tesco.com/store-locator/glasgow/175-trongate"
+opening_hours: ""
+website: ""
