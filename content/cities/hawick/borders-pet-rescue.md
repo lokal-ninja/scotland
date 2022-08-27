@@ -1,5 +1,5 @@
 ---
-title: "Borders pet rescue"
+title: "Borders Pet Rescue"
 url: /hawick/borders-pet-rescue/
 shop: charity
 ---
