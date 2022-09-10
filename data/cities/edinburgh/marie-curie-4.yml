@@ -1,11 +1,11 @@
-id: 291920008
-type: way
-latitude: 55.94971
-longitude: -3.18704
-postcode: "EH1 1LL"
+id: 4600102314
+type: node
+latitude: 55.92705
+longitude: -3.20947
+postcode: "EH10 4QL"
 city: Edinburgh
-street: "South Bridge"
-housenumber: 7
-phone: ""
-opening_hours: ""
-website: ""
+street: "Morningside Road"
+housenumber: 340
+phone: "+44 131 447 2339"
+opening_hours: "Mo-Sa 09:30-17:00;Su 10:00-16:00"
+website: "https://www.mariecurie.org.uk/"
