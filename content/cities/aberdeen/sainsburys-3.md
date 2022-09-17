@@ -1,5 +1,5 @@
 ---
-title: "Sainsburys"
+title: "sainsbury's"
 url: /aberdeen/sainsburys-3/
-shop: convenience
+shop: furniture
 ---
