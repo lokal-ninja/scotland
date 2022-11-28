@@ -1,6 +1,6 @@
 ---
 title: Inverurie
 url: /inverurie/
-latitude: 57.285
-longitude: -2.378
+latitude: 57.286
+longitude: -2.375
 ---
