@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /hawick/spar-2/
+url: /elgin/spar/
 shop: convenience
 ---
