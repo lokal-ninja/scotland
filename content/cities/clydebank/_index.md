@@ -1,6 +1,6 @@
 ---
 title: Clydebank
 url: /clydebank/
-latitude: 55.905
-longitude: -4.401
+latitude: 55.93
+longitude: -4.389
 ---

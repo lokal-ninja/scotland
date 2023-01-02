@@ -1,6 +1,6 @@
 ---
 title: Stonehaven
 url: /stonehaven/
-latitude: 56.973
-longitude: -2.231
+latitude: 56.964
+longitude: -2.227
 ---
