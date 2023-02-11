@@ -1,5 +1,5 @@
 ---
 title: "Ewing Motors"
-url: /aberdeen/ewing-motors-3/
+url: /aberdeen/ewing-motors/
 shop: car
 ---

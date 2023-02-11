@@ -2,5 +2,5 @@
 title: Rosyth
 url: /rosyth/
 latitude: 56.039
-longitude: -3.42
+longitude: -3.41
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optical Express"
-url: /edinburgh/optical-express-2/
+url: /edinburgh/optical-express/
 shop: optician
 ---

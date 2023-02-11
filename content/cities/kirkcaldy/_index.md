@@ -1,6 +1,6 @@
 ---
 title: Kirkcaldy
 url: /kirkcaldy/
-latitude: 56.11
-longitude: -3.159
+latitude: 56.109
+longitude: -3.158
 ---
