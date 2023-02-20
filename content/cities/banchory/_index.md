@@ -1,6 +1,6 @@
 ---
 title: Banchory
 url: /banchory/
-latitude: 57.06
-longitude: -2.467
+latitude: 57.051
+longitude: -2.504
 ---
