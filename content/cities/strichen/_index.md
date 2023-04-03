@@ -2,5 +2,5 @@
 title: Strichen
 url: /strichen/
 latitude: 57.586
-longitude: -2.092
+longitude: -2.089
 ---
