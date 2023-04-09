@@ -1,6 +1,6 @@
 ---
 title: Milngavie
 url: /milngavie/
-latitude: 55.94
-longitude: -4.315
+latitude: 55.941
+longitude: -4.318
 ---
