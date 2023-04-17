@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /edinburgh/paperchase/
-shop: stationary
+shop: office supplies
 ---

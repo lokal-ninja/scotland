@@ -1,6 +1,6 @@
 ---
 title: Lasswade
 url: /lasswade/
-latitude: 55.895
-longitude: -3.098
+latitude: 55.896
+longitude: -3.1
 ---
