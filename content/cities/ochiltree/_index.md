@@ -1,6 +1,6 @@
 ---
 title: Ochiltree
 url: /ochiltree/
-latitude: 55.462
-longitude: -4.363
+latitude: 55.461
+longitude: -4.364
 ---
