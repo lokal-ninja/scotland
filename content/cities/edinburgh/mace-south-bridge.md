@@ -1,5 +1,5 @@
 ---
-title: "Mace South Bridge"
-url: /edinburgh/mace-south-bridge/
+title: "Mace"
+url: /edinburgh/mace/
 shop: convenience
 ---
