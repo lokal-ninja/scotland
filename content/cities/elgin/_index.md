@@ -1,6 +1,6 @@
 ---
 title: Elgin
 url: /elgin/
-latitude: 57.639
-longitude: -3.315
+latitude: 57.65
+longitude: -3.321
 ---
