@@ -1,5 +1,5 @@
 ---
-title: "Daniels Barber"
+title: "Daniel’s Barber"
 url: /edinburgh/daniels-barber/
 shop: hairdresser
 ---

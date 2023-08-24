@@ -1,5 +1,5 @@
 ---
-title: "Scottish Sweets and Treats"
+title: "Scottish Sweets & Treats"
 url: /edinburgh/scottish-sweets-and-treats/
-shop: confectionery
+shop: gift
 ---
