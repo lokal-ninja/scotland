@@ -1,6 +1,6 @@
 ---
 title: Callander
 url: /callander/
-latitude: 56.244
-longitude: -4.216
+latitude: 56.243
+longitude: -4.214
 ---
