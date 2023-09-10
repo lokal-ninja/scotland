@@ -1,6 +1,6 @@
 ---
 title: Coatbridge
 url: /coatbridge/
-latitude: 55.853
-longitude: -4.021
+latitude: 55.859
+longitude: -4.039
 ---
