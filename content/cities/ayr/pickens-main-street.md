@@ -1,5 +1,5 @@
 ---
 title: "Pickens"
-url: /ayr/pickens/
+url: /ayr/pickens-main-street/
 shop: butcher
 ---

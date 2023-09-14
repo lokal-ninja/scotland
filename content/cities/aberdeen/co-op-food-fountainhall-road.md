@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /aberdeen/co-op-food/
+url: /aberdeen/co-op-food-fountainhall-road/
 shop: supermarket
 ---

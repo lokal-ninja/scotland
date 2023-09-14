@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
-url: /glasgow/tk-maxx/
+url: /glasgow/tk-maxx-provan-walk/
 shop: department store
 ---

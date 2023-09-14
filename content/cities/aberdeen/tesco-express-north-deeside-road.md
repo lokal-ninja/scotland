@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /aberdeen/tesco-express/
+url: /aberdeen/tesco-express-north-deeside-road/
 shop: convenience
 ---

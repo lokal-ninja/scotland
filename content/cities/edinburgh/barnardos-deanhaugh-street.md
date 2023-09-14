@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
-url: /edinburgh/barnardos/
+url: /edinburgh/barnardos-deanhaugh-street/
 shop: charity
 ---

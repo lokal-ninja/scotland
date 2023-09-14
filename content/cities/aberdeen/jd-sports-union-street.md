@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
-url: /aberdeen/jd-sports/
+url: /aberdeen/jd-sports-union-street/
 shop: sports
 ---

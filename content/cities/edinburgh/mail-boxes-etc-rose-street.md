@@ -1,5 +1,5 @@
 ---
 title: "Mail Boxes Etc"
-url: /edinburgh/mail-boxes-etc/
+url: /edinburgh/mail-boxes-etc-rose-street/
 shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /aberdeen/londis/
+url: /aberdeen/londis-victoria-street/
 shop: convenience
 ---

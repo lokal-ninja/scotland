@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
-url: /edinburgh/sainsburys/
+url: /edinburgh/sainsburys-inglis-green-road/
 shop: supermarket
 ---

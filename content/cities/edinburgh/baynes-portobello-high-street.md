@@ -1,5 +1,5 @@
 ---
 title: "Bayne's"
-url: /edinburgh/baynes/
+url: /edinburgh/baynes-portobello-high-street/
 shop: bakery
 ---

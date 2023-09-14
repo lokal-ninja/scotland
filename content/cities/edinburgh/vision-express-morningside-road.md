@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
-url: /edinburgh/vision-express/
+url: /edinburgh/vision-express-morningside-road/
 shop: optician
 ---

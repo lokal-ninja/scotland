@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /ballingry/premier/
+url: /ballingry/premier-martin-crescent/
 shop: convenience
 ---

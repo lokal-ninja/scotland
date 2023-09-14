@@ -1,5 +1,5 @@
 ---
 title: "Pencig"
-url: /edinburgh/pencig/
+url: /edinburgh/pencig-ormiston-terrace/
 shop: e-cigarette
 ---

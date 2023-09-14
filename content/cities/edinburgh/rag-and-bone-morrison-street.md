@@ -1,5 +1,5 @@
 ---
 title: "Rag & Bone"
-url: /edinburgh/rag-and-bone/
+url: /edinburgh/rag-and-bone-morrison-street/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
-url: /edinburgh/specsavers/
+url: /edinburgh/specsavers-north-bridge/
 shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
-url: /blantyre/scotmid/
+url: /blantyre/scotmid-stonefield-road-2/
 shop: convenience
 ---

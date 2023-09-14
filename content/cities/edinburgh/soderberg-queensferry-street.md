@@ -1,5 +1,5 @@
 ---
 title: "Soderberg"
-url: /edinburgh/soderberg/
+url: /edinburgh/soderberg-queensferry-street/
 shop: bakery
 ---

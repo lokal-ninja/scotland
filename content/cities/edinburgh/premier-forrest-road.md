@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /edinburgh/premier/
+url: /edinburgh/premier-forrest-road/
 shop: convenience
 ---

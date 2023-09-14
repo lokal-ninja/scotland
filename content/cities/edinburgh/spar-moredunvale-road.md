@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /edinburgh/spar/
+url: /edinburgh/spar-moredunvale-road/
 shop: convenience
 ---

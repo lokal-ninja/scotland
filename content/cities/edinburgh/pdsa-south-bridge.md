@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
-url: /edinburgh/pdsa/
+url: /edinburgh/pdsa-south-bridge/
 shop: charity
 ---

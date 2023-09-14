@@ -1,5 +1,5 @@
 ---
 title: "Print Sponge"
-url: /edinburgh/print-sponge/
+url: /edinburgh/print-sponge-brunswick-street/
 shop: copyshop
 ---

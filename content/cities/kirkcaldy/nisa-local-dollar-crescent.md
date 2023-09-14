@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
-url: /kirkcaldy/nisa-local/
+url: /kirkcaldy/nisa-local-dollar-crescent/
 shop: convenience
 ---

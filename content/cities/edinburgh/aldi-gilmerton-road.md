@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /edinburgh/aldi/
+url: /edinburgh/aldi-gilmerton-road/
 shop: supermarket
 ---

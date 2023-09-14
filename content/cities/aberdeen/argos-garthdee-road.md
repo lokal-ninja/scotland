@@ -1,5 +1,5 @@
 ---
 title: "Argos"
-url: /aberdeen/argos/
+url: /aberdeen/argos-garthdee-road/
 shop: catalogue
 ---

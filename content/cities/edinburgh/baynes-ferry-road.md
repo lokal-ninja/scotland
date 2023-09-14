@@ -1,5 +1,5 @@
 ---
 title: "Bayne's"
-url: /edinburgh/baynes/
+url: /edinburgh/baynes-ferry-road/
 shop: bakery
 ---

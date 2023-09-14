@@ -1,5 +1,5 @@
 ---
 title: "Biscuit"
-url: /edinburgh/biscuit/
+url: /edinburgh/biscuit-thistle-street/
 shop: clothes
 ---

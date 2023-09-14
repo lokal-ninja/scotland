@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /glasgow/poundland/
+url: /glasgow/poundland-provan-walk/
 shop: variety store
 ---

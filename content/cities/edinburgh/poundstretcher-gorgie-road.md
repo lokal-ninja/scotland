@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
-url: /edinburgh/poundstretcher/
+url: /edinburgh/poundstretcher-gorgie-road/
 shop: variety store
 ---

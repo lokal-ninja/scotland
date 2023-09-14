@@ -1,5 +1,5 @@
 ---
 title: "The Paint Shed"
-url: /edinburgh/the-paint-shed/
+url: /edinburgh/the-paint-shed-howe-street/
 shop: paint
 ---

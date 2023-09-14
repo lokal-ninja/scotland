@@ -1,5 +1,5 @@
 ---
 title: "Oddbins"
-url: /edinburgh/oddbins/
+url: /edinburgh/oddbins-brunswick-street/
 shop: alcohol
 ---

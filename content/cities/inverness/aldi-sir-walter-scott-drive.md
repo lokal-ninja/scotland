@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /inverness/aldi/
+url: /inverness/aldi-sir-walter-scott-drive/
 shop: supermarket
 ---

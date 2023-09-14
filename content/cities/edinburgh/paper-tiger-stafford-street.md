@@ -1,5 +1,5 @@
 ---
 title: "Paper Tiger"
-url: /edinburgh/paper-tiger/
+url: /edinburgh/paper-tiger-stafford-street/
 shop: gift
 ---

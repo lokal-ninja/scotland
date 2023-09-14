@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
-url: /edinburgh/greggs/
+url: /edinburgh/greggs-ocean-drive/
 shop: bakery
 ---

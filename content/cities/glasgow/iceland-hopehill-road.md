@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /glasgow/iceland/
+url: /glasgow/iceland-hopehill-road/
 shop: frozen food
 ---

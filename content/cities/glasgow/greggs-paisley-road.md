@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
-url: /glasgow/greggs/
+url: /glasgow/greggs-paisley-road/
 shop: bakery
 ---

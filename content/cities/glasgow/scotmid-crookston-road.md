@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
-url: /glasgow/scotmid/
+url: /glasgow/scotmid-crookston-road/
 shop: convenience
 ---

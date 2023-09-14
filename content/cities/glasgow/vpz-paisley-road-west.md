@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
-url: /glasgow/vpz/
+url: /glasgow/vpz-paisley-road-west/
 shop: e-cigarette
 ---

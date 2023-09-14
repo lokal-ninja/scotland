@@ -1,5 +1,5 @@
 ---
 title: "Langley’s"
-url: /edinburgh/langleys/
+url: /edinburgh/langleys-morningside-road/
 shop: shop
 ---

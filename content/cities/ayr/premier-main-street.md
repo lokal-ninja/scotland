@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /ayr/premier/
+url: /ayr/premier-main-street/
 shop: convenience
 ---

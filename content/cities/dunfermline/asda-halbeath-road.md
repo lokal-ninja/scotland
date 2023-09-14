@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /dunfermline/asda/
+url: /dunfermline/asda-halbeath-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /dundee/aldi/
+url: /dundee/aldi-myrekirk-road/
 shop: supermarket
 ---

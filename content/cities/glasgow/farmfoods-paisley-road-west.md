@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
-url: /glasgow/farmfoods/
+url: /glasgow/farmfoods-paisley-road-west/
 shop: frozen food
 ---

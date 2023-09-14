@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
-url: /aberdeen/spar/
+url: /aberdeen/spar-north-deeside-road/
 shop: supermarket
 ---

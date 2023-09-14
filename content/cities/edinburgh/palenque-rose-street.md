@@ -1,5 +1,5 @@
 ---
 title: "Palenque"
-url: /edinburgh/palenque/
+url: /edinburgh/palenque-rose-street/
 shop: jewelry
 ---

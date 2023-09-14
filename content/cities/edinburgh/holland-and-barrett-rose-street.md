@@ -1,5 +1,5 @@
 ---
 title: "Holland & Barrett"
-url: /edinburgh/holland-and-barrett/
+url: /edinburgh/holland-and-barrett-rose-street/
 shop: health food
 ---

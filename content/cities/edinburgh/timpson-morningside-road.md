@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /edinburgh/timpson/
+url: /edinburgh/timpson-morningside-road/
 shop: locksmith
 ---

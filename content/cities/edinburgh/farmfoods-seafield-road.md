@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
-url: /edinburgh/farmfoods/
+url: /edinburgh/farmfoods-seafield-road/
 shop: frozen food
 ---

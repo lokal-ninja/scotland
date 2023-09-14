@@ -1,5 +1,5 @@
 ---
 title: "Bayne's"
-url: /perth/baynes/
+url: /perth/baynes-south-street/
 shop: bakery
 ---

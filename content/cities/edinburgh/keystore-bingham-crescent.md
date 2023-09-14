@@ -1,5 +1,5 @@
 ---
 title: "Keystore"
-url: /edinburgh/keystore/
+url: /edinburgh/keystore-bingham-crescent/
 shop: convenience
 ---

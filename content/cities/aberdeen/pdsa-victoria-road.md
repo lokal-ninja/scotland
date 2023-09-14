@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
-url: /aberdeen/pdsa/
+url: /aberdeen/pdsa-victoria-road/
 shop: charity
 ---

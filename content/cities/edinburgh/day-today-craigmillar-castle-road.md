@@ -1,5 +1,5 @@
 ---
 title: "Day Today"
-url: /edinburgh/day-today/
+url: /edinburgh/day-today-craigmillar-castle-road/
 shop: convenience
 ---

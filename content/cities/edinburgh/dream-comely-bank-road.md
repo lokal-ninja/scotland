@@ -1,5 +1,5 @@
 ---
 title: "Dream"
-url: /edinburgh/dream/
+url: /edinburgh/dream-comely-bank-road/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stephens"
-url: /dunfermline/stephens/
+url: /dunfermline/stephens-high-street/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
-url: /edinburgh/british-heart-foundation/
+url: /edinburgh/british-heart-foundation-nicolson-street/
 shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
-url: /bonnybridge/scotmid/
+url: /bonnybridge/scotmid-wheatlands-avenue/
 shop: convenience
 ---

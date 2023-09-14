@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
-url: /livingston/scotmid/
+url: /livingston/scotmid-main-street/
 shop: convenience
 ---

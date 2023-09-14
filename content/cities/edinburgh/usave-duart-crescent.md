@@ -1,5 +1,5 @@
 ---
 title: "Usave"
-url: /edinburgh/usave/
+url: /edinburgh/usave-duart-crescent/
 shop: convenience
 ---

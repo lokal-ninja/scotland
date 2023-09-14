@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Cashmere & Lambswool"
-url: /edinburgh/edinburgh-cashmere-and-lambswool/
+url: /edinburgh/edinburgh-cashmere-and-lambswool-lawnmarket/
 shop: clothes
 ---

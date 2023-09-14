@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /fort-william/spar/
+url: /fort-william/spar-claggan-road/
 shop: convenience
 ---

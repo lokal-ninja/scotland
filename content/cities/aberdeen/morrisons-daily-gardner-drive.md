@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
-url: /aberdeen/morrisons-daily/
+url: /aberdeen/morrisons-daily-gardner-drive/
 shop: convenience
 ---

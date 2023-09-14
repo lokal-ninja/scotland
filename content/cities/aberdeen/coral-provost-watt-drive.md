@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /aberdeen/coral/
+url: /aberdeen/coral-provost-watt-drive/
 shop: bookmaker
 ---

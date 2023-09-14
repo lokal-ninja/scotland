@@ -1,5 +1,5 @@
 ---
 title: "Störtebäcker"
-url: /edinburgh/stortebacker/
+url: /edinburgh/stortebacker-st-johns-road/
 shop: bakery
 ---

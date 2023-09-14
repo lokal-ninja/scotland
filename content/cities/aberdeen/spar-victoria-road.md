@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /aberdeen/spar/
+url: /aberdeen/spar-victoria-road/
 shop: convenience
 ---

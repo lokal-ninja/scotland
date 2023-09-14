@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /aberdeen/mccolls/
+url: /aberdeen/mccolls-abbotswell-crescent/
 shop: convenience
 ---

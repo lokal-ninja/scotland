@@ -1,5 +1,5 @@
 ---
 title: "uSave"
-url: /edinburgh/usave/
+url: /edinburgh/usave-granton-road/
 shop: convenience
 ---

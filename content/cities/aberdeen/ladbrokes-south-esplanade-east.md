@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /aberdeen/ladbrokes/
+url: /aberdeen/ladbrokes-south-esplanade-east/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perre"
-url: /edinburgh/perre/
+url: /edinburgh/perre-rose-street/
 shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
-url: /glasgow/sports-direct/
+url: /glasgow/sports-direct-auchinlea-way/
 shop: sports
 ---

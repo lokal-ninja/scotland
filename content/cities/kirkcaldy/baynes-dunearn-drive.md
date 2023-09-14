@@ -1,5 +1,5 @@
 ---
 title: "Bayne's"
-url: /kirkcaldy/baynes/
+url: /kirkcaldy/baynes-dunearn-drive/
 shop: bakery
 ---

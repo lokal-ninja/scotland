@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
-url: /edinburgh/shelter/
+url: /edinburgh/shelter-dalry-road/
 shop: charity
 ---

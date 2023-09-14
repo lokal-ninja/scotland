@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
-url: /edinburgh/majestic/
+url: /edinburgh/majestic-buckstone-terrace/
 shop: alcohol
 ---

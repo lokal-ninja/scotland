@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
-url: /dundee/vpz/
+url: /dundee/vpz-nethergate/
 shop: e-cigarette
 ---

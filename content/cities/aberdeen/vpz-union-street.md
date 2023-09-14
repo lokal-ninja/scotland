@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
-url: /aberdeen/vpz/
+url: /aberdeen/vpz-union-street/
 shop: e-cigarette
 ---

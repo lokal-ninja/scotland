@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
-url: /montrose/scotmid/
+url: /montrose/scotmid-king-street/
 shop: supermarket
 ---

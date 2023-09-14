@@ -1,5 +1,5 @@
 ---
 title: "TanZ"
-url: /edinburgh/tanz/
+url: /edinburgh/tanz-captains-road/
 shop: beauty
 ---

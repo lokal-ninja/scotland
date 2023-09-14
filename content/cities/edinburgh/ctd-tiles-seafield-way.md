@@ -1,5 +1,5 @@
 ---
 title: "CTD Tiles"
-url: /edinburgh/ctd-tiles/
+url: /edinburgh/ctd-tiles-seafield-way/
 shop: tiles
 ---

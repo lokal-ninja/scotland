@@ -1,5 +1,5 @@
 ---
 title: "Scotmid Co-operative Funeral Directors"
-url: /edinburgh/scotmid-co-operative-funeral-directors/
+url: /edinburgh/scotmid-co-operative-funeral-directors-forrester-park-drive/
 shop: funeral directors
 ---

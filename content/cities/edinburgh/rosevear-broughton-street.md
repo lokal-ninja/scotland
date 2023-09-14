@@ -1,5 +1,5 @@
 ---
 title: "Rosevear"
-url: /edinburgh/rosevear/
+url: /edinburgh/rosevear-broughton-street/
 shop: tea
 ---

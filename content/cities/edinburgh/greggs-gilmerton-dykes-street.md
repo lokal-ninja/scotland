@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
-url: /edinburgh/greggs/
+url: /edinburgh/greggs-gilmerton-dykes-street/
 shop: bakery
 ---

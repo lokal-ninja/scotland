@@ -1,5 +1,5 @@
 ---
 title: "Scotvapes"
-url: /aberdeen/scotvapes/
+url: /aberdeen/scotvapes-holburn-street/
 shop: e-cigarette
 ---

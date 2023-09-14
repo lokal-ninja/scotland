@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
-url: /glasgow/shelter/
+url: /glasgow/shelter-great-western-road/
 shop: charity
 ---

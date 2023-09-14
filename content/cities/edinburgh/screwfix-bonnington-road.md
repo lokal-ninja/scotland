@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
-url: /edinburgh/screwfix/
+url: /edinburgh/screwfix-bonnington-road/
 shop: doityourself
 ---

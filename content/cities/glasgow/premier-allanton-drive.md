@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /glasgow/premier/
+url: /glasgow/premier-allanton-drive/
 shop: convenience
 ---

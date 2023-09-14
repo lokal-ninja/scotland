@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
-url: /edinburgh/wolseley/
+url: /edinburgh/wolseley-south-gyle-crescent/
 shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taste Of Scotland"
-url: /edinburgh/taste-of-scotland/
+url: /edinburgh/taste-of-scotland-lawnmarket/
 shop: confectionery
 ---

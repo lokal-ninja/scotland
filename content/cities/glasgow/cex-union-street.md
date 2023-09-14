@@ -1,5 +1,5 @@
 ---
 title: "CeX"
-url: /glasgow/cex/
+url: /glasgow/cex-union-street/
 shop: electronics
 ---

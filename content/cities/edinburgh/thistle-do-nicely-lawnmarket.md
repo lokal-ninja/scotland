@@ -1,5 +1,5 @@
 ---
 title: "Thistle Do Nicely"
-url: /edinburgh/thistle-do-nicely/
+url: /edinburgh/thistle-do-nicely-lawnmarket/
 shop: clothes
 ---

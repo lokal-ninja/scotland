@@ -1,5 +1,5 @@
 ---
 title: "Walker Slater"
-url: /edinburgh/walker-slater/
+url: /edinburgh/walker-slater-victoria-street/
 shop: clothes
 ---

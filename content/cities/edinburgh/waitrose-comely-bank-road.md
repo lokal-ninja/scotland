@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
-url: /edinburgh/waitrose/
+url: /edinburgh/waitrose-comely-bank-road/
 shop: supermarket
 ---

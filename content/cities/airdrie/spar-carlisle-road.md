@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /airdrie/spar/
+url: /airdrie/spar-carlisle-road/
 shop: convenience
 ---

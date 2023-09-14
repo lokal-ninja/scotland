@@ -1,5 +1,5 @@
 ---
 title: "Curiouser"
-url: /edinburgh/curiouser/
+url: /edinburgh/curiouser-broughton-street/
 shop: gift
 ---

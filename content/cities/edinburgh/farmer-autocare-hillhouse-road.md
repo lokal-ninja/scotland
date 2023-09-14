@@ -1,5 +1,5 @@
 ---
 title: "Farmer Autocare"
-url: /edinburgh/farmer-autocare/
+url: /edinburgh/farmer-autocare-hillhouse-road/
 shop: car repair
 ---

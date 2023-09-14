@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /edinburgh/costcutter/
+url: /edinburgh/costcutter-morrison-street/
 shop: convenience
 ---

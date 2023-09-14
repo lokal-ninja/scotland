@@ -1,5 +1,5 @@
 ---
 title: "usave"
-url: /edinburgh/usave/
+url: /edinburgh/usave-liberton-brae/
 shop: convenience
 ---

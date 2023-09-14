@@ -1,5 +1,5 @@
 ---
 title: "Goodwins"
-url: /edinburgh/goodwins/
+url: /edinburgh/goodwins-queensferry-street/
 shop: jewelry
 ---

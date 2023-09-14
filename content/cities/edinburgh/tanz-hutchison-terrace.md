@@ -1,5 +1,5 @@
 ---
 title: "Tanz"
-url: /edinburgh/tanz/
+url: /edinburgh/tanz-hutchison-terrace/
 shop: beauty
 ---

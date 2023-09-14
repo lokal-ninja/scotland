@@ -1,5 +1,5 @@
 ---
 title: "Tanz"
-url: /edinburgh/tanz/
+url: /edinburgh/tanz-summer-place/
 shop: beauty
 ---

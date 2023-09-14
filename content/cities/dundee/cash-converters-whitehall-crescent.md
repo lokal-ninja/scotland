@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
-url: /dundee/cash-converters/
+url: /dundee/cash-converters-whitehall-crescent/
 shop: pawnbroker
 ---

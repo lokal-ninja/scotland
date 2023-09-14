@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /ayr/spar/
+url: /ayr/spar-mount-oliphant-crescent/
 shop: supermarket
 ---

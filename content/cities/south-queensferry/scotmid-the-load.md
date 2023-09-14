@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
-url: /south-queensferry/scotmid/
+url: /south-queensferry/scotmid-the-load/
 shop: supermarket
 ---

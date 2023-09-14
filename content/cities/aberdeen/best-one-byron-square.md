@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
-url: /aberdeen/best-one/
+url: /aberdeen/best-one-byron-square/
 shop: convenience
 ---

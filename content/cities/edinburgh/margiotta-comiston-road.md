@@ -1,5 +1,5 @@
 ---
 title: "Margiotta"
-url: /edinburgh/margiotta/
+url: /edinburgh/margiotta-comiston-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vino"
-url: /edinburgh/vino/
+url: /edinburgh/vino-north-west-circus-place/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /inverness/tesco/
+url: /inverness/tesco-dores-road/
 shop: supermarket
 ---

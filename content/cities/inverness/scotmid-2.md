@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
-url: /inverness/scotmid/
+url: /inverness/scotmid-2/
 shop: convenience
 ---
