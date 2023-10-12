@@ -1,6 +1,6 @@
 ---
 title: Burntisland
 url: /burntisland/
-latitude: 56.06
-longitude: -3.232
+latitude: 56.063
+longitude: -3.228
 ---

@@ -1,6 +1,6 @@
 ---
 title: West Calder
 url: /west-calder/
-latitude: 55.851
-longitude: -3.572
+latitude: 55.852
+longitude: -3.571
 ---

@@ -1,6 +1,6 @@
 ---
 title: Castle Douglas
 url: /castle-douglas/
-latitude: 54.942
-longitude: -3.931
+latitude: 54.941
+longitude: -3.932
 ---
