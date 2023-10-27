@@ -1,6 +1,6 @@
 ---
 title: Inverness
 url: /inverness/
-latitude: 57.485
-longitude: -4.236
+latitude: 57.479
+longitude: -4.225
 ---
