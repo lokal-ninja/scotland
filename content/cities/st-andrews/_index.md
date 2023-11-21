@@ -1,6 +1,6 @@
 ---
 title: St Andrews
 url: /st-andrews/
-latitude: 56.34
-longitude: -2.792
+latitude: 56.339
+longitude: -2.796
 ---
