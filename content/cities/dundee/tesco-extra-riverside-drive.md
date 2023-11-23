@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
-url: /dundee/tesco-extra-clepington-road/
+url: /dundee/tesco-extra-riverside-drive/
 shop: supermarket
 ---
