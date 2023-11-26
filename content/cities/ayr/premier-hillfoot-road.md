@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /ayr/premier-main-street/
+url: /ayr/premier-hillfoot-road/
 shop: convenience
 ---
