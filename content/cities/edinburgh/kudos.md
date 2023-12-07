@@ -1,5 +1,5 @@
 ---
 title: "Kudos"
 url: /edinburgh/kudos/
-shop: shop
+shop: clothes
 ---
