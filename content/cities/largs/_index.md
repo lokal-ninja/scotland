@@ -1,6 +1,6 @@
 ---
-title: largs
+title: Largs
 url: /largs/
-latitude: 55.8
-longitude: -4.86
+latitude: 55.798
+longitude: -4.855
 ---
