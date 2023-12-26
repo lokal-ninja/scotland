@@ -1,6 +1,6 @@
 ---
 title: Fort William
 url: /fort-william/
-latitude: 56.812
-longitude: -5.118
+latitude: 56.819
+longitude: -5.109
 ---
