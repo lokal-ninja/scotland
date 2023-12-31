@@ -1,6 +1,6 @@
 ---
 title: Dounby
 url: /dounby/
-latitude: 59.068
-longitude: -3.232
+latitude: 59.06
+longitude: -3.221
 ---
