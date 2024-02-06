@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
-url: /edinburgh/waitrose-comely-bank-road/
+url: /edinburgh/waitrose-morningside-road/
 shop: supermarket
 ---
