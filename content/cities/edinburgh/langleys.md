@@ -1,5 +1,5 @@
 ---
-title: "Langley's"
+title: "Langley’s"
 url: /edinburgh/langleys/
-shop: locksmith
+shop: shop
 ---
