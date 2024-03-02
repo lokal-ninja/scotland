@@ -1,6 +1,6 @@
 ---
 title: Glenboig
 url: /glenboig/
-latitude: 55.893
-longitude: -4.046
+latitude: 55.896
+longitude: -4.057
 ---
