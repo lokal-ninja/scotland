@@ -1,6 +1,6 @@
 ---
 title: Forfar
 url: /forfar/
-latitude: 56.646
-longitude: -2.882
+latitude: 56.644
+longitude: -2.888
 ---
