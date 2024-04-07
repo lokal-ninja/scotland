@@ -1,6 +1,6 @@
 ---
 title: Letham
 url: /letham/
-latitude: 56.629
-longitude: -2.77
+latitude: 56.628
+longitude: -2.769
 ---
