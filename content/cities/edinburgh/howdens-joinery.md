@@ -1,5 +1,5 @@
 ---
-title: "Howden's Joinery"
+title: "Howdens Joinery"
 url: /edinburgh/howdens-joinery/
-shop: trade
+shop: kitchen
 ---
