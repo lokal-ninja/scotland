@@ -1,6 +1,6 @@
 ---
 title: Ratho
 url: /ratho/
-latitude: 55.922
-longitude: -3.382
+latitude: 55.917
+longitude: -3.384
 ---
