@@ -1,6 +1,6 @@
 ---
 title: Bo'ness
 url: /boness/
-latitude: 56.009
-longitude: -3.61
+latitude: 56.017
+longitude: -3.603
 ---
