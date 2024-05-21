@@ -1,6 +1,6 @@
 ---
 title: Beinn na Faoghla
 url: /beinn-na-faoghla/
-latitude: 57.474
-longitude: -7.388
+latitude: 57.473
+longitude: -7.389
 ---
