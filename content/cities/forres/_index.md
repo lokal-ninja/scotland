@@ -1,6 +1,6 @@
 ---
 title: Forres
 url: /forres/
-latitude: 57.611
-longitude: -3.611
+latitude: 57.61
+longitude: -3.613
 ---
