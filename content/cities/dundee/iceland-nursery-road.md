@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /dundee/iceland-2/
+url: /dundee/iceland-nursery-road/
 shop: frozen food
 ---
