@@ -1,6 +1,6 @@
 ---
 title: Dunoon
 url: /dunoon/
-latitude: 55.951
-longitude: -4.927
+latitude: 55.949
+longitude: -4.926
 ---
