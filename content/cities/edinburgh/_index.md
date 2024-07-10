@@ -1,6 +1,6 @@
 ---
 title: Edinburgh
 url: /edinburgh/
-latitude: 55.936
-longitude: -3.195
+latitude: 55.938
+longitude: -3.203
 ---
