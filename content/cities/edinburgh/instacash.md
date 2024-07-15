@@ -1,5 +1,5 @@
 ---
-title: "InstaCash"
+title: "Instacash"
 url: /edinburgh/instacash/
 shop: pawnbroker
 ---
