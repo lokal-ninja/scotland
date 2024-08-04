@@ -7,5 +7,5 @@ city: Edinburgh
 street: "Easter Road"
 housenumber: 234-248
 phone: ""
-opening_hours: "PH,Mo-Su 08:00-22:00"
+opening_hours: "Mo-Su,PH 08:00-22:00"
 website: "https://www.lidl.co.uk/s/en-GB/store-finder/edinburgh/easter-road-248/"

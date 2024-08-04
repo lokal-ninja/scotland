@@ -1,6 +1,6 @@
 ---
 title: Falkirk
 url: /falkirk/
-latitude: 56
-longitude: -3.782
+latitude: 55.998
+longitude: -3.779
 ---
