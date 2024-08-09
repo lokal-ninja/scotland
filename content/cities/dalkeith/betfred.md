@@ -1,5 +1,5 @@
 ---
-title: "BetFred"
+title: "Betfred"
 url: /dalkeith/betfred/
 shop: bookmaker
 ---
