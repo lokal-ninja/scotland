@@ -1,6 +1,6 @@
 ---
 title: Irvine
 url: /irvine/
-latitude: 55.615
-longitude: -4.666
+latitude: 55.632
+longitude: -4.636
 ---
