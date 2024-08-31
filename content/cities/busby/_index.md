@@ -1,6 +1,6 @@
 ---
 title: Busby
 url: /busby/
-latitude: 55.782
-longitude: -4.268
+latitude: 55.781
+longitude: -4.267
 ---
