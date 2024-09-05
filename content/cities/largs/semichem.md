@@ -1,5 +1,5 @@
 ---
 title: "Semichem"
 url: /largs/semichem/
-shop: chemist
+shop: Drogerie
 ---

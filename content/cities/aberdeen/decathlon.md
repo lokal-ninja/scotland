@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /aberdeen/decathlon/
-shop: sports
+shop: Sport
 ---

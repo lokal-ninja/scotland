@@ -1,5 +1,5 @@
 ---
 title: "Easter Greens"
 url: /edinburgh/easter-greens/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

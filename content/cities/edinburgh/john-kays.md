@@ -1,5 +1,5 @@
 ---
 title: "John Kay's"
 url: /edinburgh/john-kays/
-shop: books
+shop: Bücher
 ---

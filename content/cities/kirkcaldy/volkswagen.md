@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /kirkcaldy/volkswagen/
-shop: car
+shop: Autohaus
 ---

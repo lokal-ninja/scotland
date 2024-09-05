@@ -1,5 +1,5 @@
 ---
 title: "La Belle Laundrette"
 url: /glasgow/la-belle-laundrette/
-shop: laundry
+shop: Wäscherei
 ---

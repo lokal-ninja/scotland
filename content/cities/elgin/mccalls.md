@@ -1,5 +1,5 @@
 ---
 title: "McCalls"
 url: /elgin/mccalls/
-shop: clothes
+shop: Kleidung
 ---

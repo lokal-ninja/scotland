@@ -1,5 +1,5 @@
 ---
 title: "Barbarossa"
 url: /edinburgh/barbarossa/
-shop: hairdresser
+shop: Friseur
 ---

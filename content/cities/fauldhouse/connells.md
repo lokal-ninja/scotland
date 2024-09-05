@@ -1,5 +1,5 @@
 ---
 title: "Connells"
 url: /fauldhouse/connells/
-shop: convenience
+shop: Lebensmittel
 ---

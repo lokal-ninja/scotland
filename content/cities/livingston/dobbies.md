@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /livingston/dobbies/
-shop: garden centre
+shop: Garten-Center
 ---

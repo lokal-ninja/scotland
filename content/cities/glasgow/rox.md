@@ -1,5 +1,5 @@
 ---
 title: "Rox"
 url: /glasgow/rox/
-shop: jewelry
+shop: Schmuck
 ---

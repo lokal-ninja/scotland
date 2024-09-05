@@ -1,5 +1,5 @@
 ---
 title: "Aquila"
 url: /edinburgh/aquila/
-shop: jewelry
+shop: Schmuck
 ---

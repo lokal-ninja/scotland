@@ -1,5 +1,5 @@
 ---
 title: "Lushwalk"
 url: /edinburgh/lushwalk/
-shop: beauty
+shop: Kosmetik
 ---

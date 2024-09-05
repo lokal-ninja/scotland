@@ -1,5 +1,5 @@
 ---
 title: "Sweet Cravings"
 url: /glasgow/sweet-cravings/
-shop: pastry
+shop: Konditorei
 ---

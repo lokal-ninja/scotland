@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /aberdeen/hollister/
-shop: clothes
+shop: Kleidung
 ---

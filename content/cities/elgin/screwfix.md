@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /elgin/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

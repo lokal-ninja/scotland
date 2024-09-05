@@ -1,5 +1,5 @@
 ---
 title: "Crew"
 url: /edinburgh/crew/
-shop: hairdresser
+shop: Friseur
 ---

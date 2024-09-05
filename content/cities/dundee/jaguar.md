@@ -1,5 +1,5 @@
 ---
 title: "Jaguar"
 url: /dundee/jaguar/
-shop: car
+shop: Autohaus
 ---

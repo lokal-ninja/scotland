@@ -1,5 +1,5 @@
 ---
 title: "BellaFemme"
 url: /inverness/bellafemme/
-shop: beauty
+shop: Kosmetik
 ---

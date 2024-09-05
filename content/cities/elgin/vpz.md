@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /elgin/vpz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

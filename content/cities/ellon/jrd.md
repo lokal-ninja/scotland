@@ -1,5 +1,5 @@
 ---
 title: "JRD"
 url: /ellon/jrd/
-shop: doityourself
+shop: Baumarkt
 ---

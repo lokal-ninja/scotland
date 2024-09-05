@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /edinburgh/primark/
-shop: clothes
+shop: Kleidung
 ---

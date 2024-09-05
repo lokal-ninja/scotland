@@ -1,5 +1,5 @@
 ---
 title: "Max Mara"
 url: /edinburgh/max-mara/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Total Hardware"
 url: /cupar/total-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

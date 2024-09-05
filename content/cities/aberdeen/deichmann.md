@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /aberdeen/deichmann/
-shop: shoes
+shop: Schuhe
 ---

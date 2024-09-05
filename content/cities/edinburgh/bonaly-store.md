@@ -1,5 +1,5 @@
 ---
 title: "Bonaly Store"
 url: /edinburgh/bonaly-store/
-shop: convenience
+shop: Lebensmittel
 ---

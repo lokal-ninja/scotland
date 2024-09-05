@@ -1,5 +1,5 @@
 ---
 title: "Revitalize"
 url: /edinburgh/revitalize-grange-loan/
-shop: massage
+shop: Massage
 ---

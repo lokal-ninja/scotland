@@ -1,5 +1,5 @@
 ---
 title: "Caledonian Gifts"
 url: /coatbridge/caledonian-gifts/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /glasgow/tesco-express-trongate/
-shop: convenience
+shop: Lebensmittel
 ---

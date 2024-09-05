@@ -1,5 +1,5 @@
 ---
 title: "Ishi"
 url: /edinburgh/ishi/
-shop: hairdresser
+shop: Friseur
 ---

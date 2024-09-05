@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /hawick/farmfoods/
-shop: frozen food
+shop: Tiefkühl
 ---

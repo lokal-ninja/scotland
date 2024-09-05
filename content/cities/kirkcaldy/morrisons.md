@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /kirkcaldy/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

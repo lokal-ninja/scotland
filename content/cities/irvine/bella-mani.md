@@ -1,5 +1,5 @@
 ---
 title: "Bella Mani"
 url: /irvine/bella-mani/
-shop: shop
+shop: Allgemein
 ---

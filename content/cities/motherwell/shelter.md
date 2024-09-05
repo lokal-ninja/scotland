@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /motherwell/shelter/
-shop: charity
+shop: Gebrauchtwaren
 ---

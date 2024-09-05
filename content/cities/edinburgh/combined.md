@@ -1,5 +1,5 @@
 ---
 title: "Combined"
 url: /edinburgh/combined/
-shop: beauty
+shop: Kosmetik
 ---

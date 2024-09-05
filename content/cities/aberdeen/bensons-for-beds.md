@@ -1,5 +1,5 @@
 ---
 title: "Bensons for Beds"
 url: /aberdeen/bensons-for-beds/
-shop: bed
+shop: Betten
 ---

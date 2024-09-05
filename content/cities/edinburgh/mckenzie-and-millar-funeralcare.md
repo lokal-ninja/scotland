@@ -1,5 +1,5 @@
 ---
 title: "McKenzie and Millar Funeralcare"
 url: /edinburgh/mckenzie-and-millar-funeralcare/
-shop: funeral directors
+shop: Bestattungen
 ---

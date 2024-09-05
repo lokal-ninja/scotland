@@ -1,5 +1,5 @@
 ---
 title: "Barberland"
 url: /edinburgh/barberland/
-shop: hairdresser
+shop: Friseur
 ---

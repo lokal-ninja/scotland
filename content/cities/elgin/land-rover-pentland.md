@@ -1,5 +1,5 @@
 ---
 title: "Land Rover Pentland"
 url: /elgin/land-rover-pentland/
-shop: car
+shop: Autohaus
 ---

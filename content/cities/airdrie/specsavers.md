@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /airdrie/specsavers/
-shop: optician
+shop: Optiker
 ---

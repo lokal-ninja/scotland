@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /inverurie/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

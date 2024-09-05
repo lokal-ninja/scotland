@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /whitburn/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

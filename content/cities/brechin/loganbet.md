@@ -1,5 +1,5 @@
 ---
 title: "Loganbet"
 url: /brechin/loganbet/
-shop: bookmaker
+shop: Wettbüro
 ---

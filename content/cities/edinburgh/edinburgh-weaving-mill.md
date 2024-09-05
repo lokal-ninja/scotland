@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Weaving Mill"
 url: /edinburgh/edinburgh-weaving-mill/
-shop: gift
+shop: Andenken
 ---

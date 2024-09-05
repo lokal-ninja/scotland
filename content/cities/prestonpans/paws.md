@@ -1,5 +1,5 @@
 ---
 title: "Paws"
 url: /prestonpans/paws/
-shop: pet
+shop: Tiere
 ---

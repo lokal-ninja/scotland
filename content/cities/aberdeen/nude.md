@@ -1,5 +1,5 @@
 ---
 title: "Nude"
 url: /aberdeen/nude/
-shop: beauty
+shop: Kosmetik
 ---

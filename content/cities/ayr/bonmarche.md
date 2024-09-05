@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /ayr/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

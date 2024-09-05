@@ -1,5 +1,5 @@
 ---
 title: "Aqua Vapor"
 url: /edinburgh/aqua-vapor/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

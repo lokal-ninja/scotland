@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /aberdeen/morrisons-daily-abbotswell-crescent/
-shop: convenience
+shop: Lebensmittel
 ---

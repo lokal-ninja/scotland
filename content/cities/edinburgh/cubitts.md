@@ -1,5 +1,5 @@
 ---
 title: "Cubitts"
 url: /edinburgh/cubitts/
-shop: optician
+shop: Optiker
 ---

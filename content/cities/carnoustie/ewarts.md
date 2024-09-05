@@ -1,5 +1,5 @@
 ---
 title: "Ewarts"
 url: /carnoustie/ewarts/
-shop: butcher
+shop: Metzgerei
 ---

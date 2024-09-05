@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
 url: /aberdeen/starbucks/
-shop: coffee
+shop: Kaffee
 ---

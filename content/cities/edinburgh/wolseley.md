@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /edinburgh/wolseley/
-shop: trade
+shop: Baustoffe
 ---

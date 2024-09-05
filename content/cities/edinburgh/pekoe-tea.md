@@ -1,5 +1,5 @@
 ---
 title: "Pekoe Tea"
 url: /edinburgh/pekoe-tea/
-shop: tea
+shop: Tee
 ---

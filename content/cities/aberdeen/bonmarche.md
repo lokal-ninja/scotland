@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /aberdeen/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

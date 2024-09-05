@@ -1,5 +1,5 @@
 ---
 title: "QuickCleam"
 url: /largs/quickcleam/
-shop: laundry
+shop: Wäscherei
 ---

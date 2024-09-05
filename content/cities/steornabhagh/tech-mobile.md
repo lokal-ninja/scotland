@@ -1,5 +1,5 @@
 ---
 title: "Tech Mobile"
 url: /steornabhagh/tech-mobile/
-shop: computer
+shop: Computer
 ---

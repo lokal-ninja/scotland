@@ -1,5 +1,5 @@
 ---
 title: "Breaking Point"
 url: /aberdeen/breaking-point/
-shop: motorcycle
+shop: Motorrad
 ---

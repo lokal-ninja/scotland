@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Skin Care"
 url: /edinburgh/edinburgh-skin-care/
-shop: gift
+shop: Andenken
 ---

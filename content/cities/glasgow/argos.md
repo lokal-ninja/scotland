@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /glasgow/argos/
-shop: catalogue
+shop: Katalog
 ---

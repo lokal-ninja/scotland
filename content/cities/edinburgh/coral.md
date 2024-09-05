@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /edinburgh/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

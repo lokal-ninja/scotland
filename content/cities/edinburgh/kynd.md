@@ -1,5 +1,5 @@
 ---
 title: "Kynd"
 url: /edinburgh/kynd/
-shop: cannabis
+shop: Hanf
 ---

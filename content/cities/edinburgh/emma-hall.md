@@ -1,5 +1,5 @@
 ---
 title: "Emma Hall"
 url: /edinburgh/emma-hall/
-shop: hairdresser
+shop: Friseur
 ---

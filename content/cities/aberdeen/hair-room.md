@@ -1,5 +1,5 @@
 ---
 title: "Hair Room"
 url: /aberdeen/hair-room/
-shop: hairdresser
+shop: Friseur
 ---

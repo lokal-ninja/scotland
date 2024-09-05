@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /banff/scotmid/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Loft"
 url: /inverness/the-loft/
-shop: hairdresser
+shop: Friseur
 ---

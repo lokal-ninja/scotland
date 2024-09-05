@@ -1,5 +1,5 @@
 ---
 title: "Sprinkles"
 url: /edinburgh/sprinkles/
-shop: confectionery
+shop: Süßwaren
 ---

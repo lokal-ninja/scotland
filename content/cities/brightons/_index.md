@@ -1,6 +1,6 @@
 ---
 title: Brightons
 url: /brightons/
-latitude: 55.982
-longitude: -3.718
+latitude: 55.981
+longitude: -3.721
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /aberdeen/next/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /stirling/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

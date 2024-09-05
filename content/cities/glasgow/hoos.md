@@ -1,5 +1,5 @@
 ---
 title: "Hoos"
 url: /glasgow/hoos/
-shop: houseware
+shop: Haushaltsartikel
 ---

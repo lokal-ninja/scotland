@@ -1,5 +1,5 @@
 ---
 title: "Linen Cupboard"
 url: /kirkwall-orkney/linen-cupboard/
-shop: fabric
+shop: Textil
 ---

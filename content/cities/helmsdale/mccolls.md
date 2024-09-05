@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /helmsdale/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

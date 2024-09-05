@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /edinburgh/sharps/
-shop: furniture
+shop: Möbel
 ---

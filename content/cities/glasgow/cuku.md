@@ -1,5 +1,5 @@
 ---
 title: "Cuku"
 url: /glasgow/cuku/
-shop: convenience
+shop: Lebensmittel
 ---

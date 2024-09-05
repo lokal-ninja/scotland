@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /edinburgh/makro/
-shop: wholesale
+shop: Großhandel
 ---

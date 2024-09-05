@@ -1,5 +1,5 @@
 ---
 title: "Rubadub"
 url: /glasgow/rubadub/
-shop: music
+shop: Musik
 ---

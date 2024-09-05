@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /glenrothes/toolstation/
-shop: doityourself
+shop: Baumarkt
 ---

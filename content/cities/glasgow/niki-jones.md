@@ -1,5 +1,5 @@
 ---
 title: "Niki Jones"
 url: /glasgow/niki-jones/
-shop: houseware
+shop: Haushaltsartikel
 ---

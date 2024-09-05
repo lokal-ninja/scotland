@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /galashiels/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

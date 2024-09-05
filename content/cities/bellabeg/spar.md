@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bellabeg/spar/
-shop: convenience
+shop: Lebensmittel
 ---

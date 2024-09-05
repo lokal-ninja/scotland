@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /edinburgh/best-one-restalrig-road/
-shop: convenience
+shop: Lebensmittel
 ---

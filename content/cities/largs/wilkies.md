@@ -1,5 +1,5 @@
 ---
 title: "Wilkies"
 url: /largs/wilkies/
-shop: clothes
+shop: Kleidung
 ---

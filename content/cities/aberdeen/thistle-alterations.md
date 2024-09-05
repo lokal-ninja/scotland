@@ -1,5 +1,5 @@
 ---
 title: "Thistle Alterations"
 url: /aberdeen/thistle-alterations/
-shop: tailor
+shop: Schneiderei
 ---

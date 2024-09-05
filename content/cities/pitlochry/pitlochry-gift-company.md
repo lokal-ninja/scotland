@@ -1,5 +1,5 @@
 ---
 title: "Pitlochry Gift Company"
 url: /pitlochry/pitlochry-gift-company/
-shop: gift
+shop: Andenken
 ---

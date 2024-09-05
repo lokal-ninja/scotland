@@ -1,5 +1,5 @@
 ---
 title: "Ink'd Tattoos"
 url: /coatbridge/inkd-tattoos/
-shop: tattoo
+shop: Tattoo
 ---

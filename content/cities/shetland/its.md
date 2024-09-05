@@ -1,5 +1,5 @@
 ---
 title: "ITS"
 url: /shetland/its/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arabesque"
 url: /perth/arabesque/
-shop: shoes
+shop: Schuhe
 ---

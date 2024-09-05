@@ -1,5 +1,5 @@
 ---
 title: "Cearns Community Shop"
 url: /steornabhagh/cearns-community-shop/
-shop: convenience
+shop: Lebensmittel
 ---

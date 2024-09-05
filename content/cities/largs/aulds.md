@@ -1,5 +1,5 @@
 ---
 title: "Aulds"
 url: /largs/aulds/
-shop: bakery
+shop: Bäckerei
 ---

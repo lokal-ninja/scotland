@@ -1,5 +1,5 @@
 ---
 title: "Scotcast"
 url: /coatbridge/scotcast/
-shop: shop
+shop: Allgemein
 ---

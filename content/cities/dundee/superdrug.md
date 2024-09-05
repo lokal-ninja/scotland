@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /dundee/superdrug/
-shop: chemist
+shop: Drogerie
 ---

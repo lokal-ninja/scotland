@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /blantyre/scotmid/
-shop: convenience
+shop: Lebensmittel
 ---

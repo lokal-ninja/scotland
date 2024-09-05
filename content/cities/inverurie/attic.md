@@ -1,5 +1,5 @@
 ---
 title: "Attic"
 url: /inverurie/attic/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /dundee/oxfam/
-shop: charity
+shop: Gebrauchtwaren
 ---

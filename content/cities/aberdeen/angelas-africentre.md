@@ -1,5 +1,5 @@
 ---
 title: "Angela’s Africentre"
 url: /aberdeen/angelas-africentre/
-shop: convenience
+shop: Lebensmittel
 ---

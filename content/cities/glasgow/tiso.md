@@ -1,5 +1,5 @@
 ---
 title: "Tiso"
 url: /glasgow/tiso/
-shop: outdoor
+shop: Outdoor
 ---

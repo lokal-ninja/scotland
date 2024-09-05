@@ -1,5 +1,5 @@
 ---
 title: "Davidsons"
 url: /inverurie/davidsons/
-shop: butcher
+shop: Metzgerei
 ---

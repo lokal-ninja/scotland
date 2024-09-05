@@ -1,5 +1,5 @@
 ---
 title: "Pampas"
 url: /glasgow/pampas/
-shop: clothes
+shop: Kleidung
 ---

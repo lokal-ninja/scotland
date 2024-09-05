@@ -1,5 +1,5 @@
 ---
 title: "Thistle do Nicely"
 url: /edinburgh/thistle-do-nicely/
-shop: gift
+shop: Andenken
 ---

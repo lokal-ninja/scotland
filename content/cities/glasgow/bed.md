@@ -1,5 +1,5 @@
 ---
 title: "Bed"
 url: /glasgow/bed/
-shop: bed
+shop: Betten
 ---

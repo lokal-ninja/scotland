@@ -1,5 +1,5 @@
 ---
 title: "Foxlane Garden Centre"
 url: /westhill/foxlane-garden-centre/
-shop: garden centre
+shop: Garten-Center
 ---

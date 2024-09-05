@@ -1,5 +1,5 @@
 ---
 title: "Dazzelustrous"
 url: /edinburgh/dazzelustrous/
-shop: clothes
+shop: Kleidung
 ---

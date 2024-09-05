@@ -1,5 +1,5 @@
 ---
 title: "Edward Labinjoh"
 url: /edinburgh/edward-labinjoh/
-shop: car
+shop: Autohaus
 ---

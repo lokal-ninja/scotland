@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /banchory/co-op-food/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Your Village Store"
 url: /avonbridge/your-village-store/
-shop: convenience
+shop: Lebensmittel
 ---

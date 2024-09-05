@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /inverurie/argos/
-shop: catalogue
+shop: Katalog
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /edinburgh/tesco-express-stenhouse-place-east/
-shop: convenience
+shop: Lebensmittel
 ---

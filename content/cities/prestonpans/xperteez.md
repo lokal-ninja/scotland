@@ -1,5 +1,5 @@
 ---
 title: "Xperteez"
 url: /prestonpans/xperteez/
-shop: hairdresser
+shop: Friseur
 ---

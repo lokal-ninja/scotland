@@ -1,5 +1,5 @@
 ---
 title: "Halo"
 url: /glasgow/halo/
-shop: hairdresser
+shop: Friseur
 ---

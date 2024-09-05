@@ -1,5 +1,5 @@
 ---
 title: "Hombre"
 url: /westhill/hombre/
-shop: hairdresser
+shop: Friseur
 ---

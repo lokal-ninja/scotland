@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /aberdeen/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

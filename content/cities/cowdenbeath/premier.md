@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /cowdenbeath/premier/
-shop: convenience
+shop: Lebensmittel
 ---

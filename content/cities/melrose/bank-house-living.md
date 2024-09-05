@@ -1,5 +1,5 @@
 ---
 title: "Bank House Living"
 url: /melrose/bank-house-living/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /steornabhagh/superdrug/
-shop: chemist
+shop: Drogerie
 ---

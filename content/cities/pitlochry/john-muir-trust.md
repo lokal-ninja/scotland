@@ -1,5 +1,5 @@
 ---
 title: "John Muir Trust"
 url: /pitlochry/john-muir-trust/
-shop: gift
+shop: Andenken
 ---

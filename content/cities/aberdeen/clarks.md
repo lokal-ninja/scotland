@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /aberdeen/clarks/
-shop: shoes
+shop: Schuhe
 ---

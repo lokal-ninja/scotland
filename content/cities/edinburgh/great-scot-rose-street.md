@@ -1,5 +1,5 @@
 ---
 title: "Great Scot"
 url: /edinburgh/great-scot-rose-street/
-shop: gift
+shop: Andenken
 ---

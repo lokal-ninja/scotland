@@ -1,5 +1,5 @@
 ---
 title: "Airdrie Fresh Foods"
 url: /airdrie/airdrie-fresh-foods/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

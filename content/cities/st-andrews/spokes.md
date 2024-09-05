@@ -1,5 +1,5 @@
 ---
 title: "Spokes"
 url: /st-andrews/spokes/
-shop: bicycle
+shop: Fahrrad
 ---

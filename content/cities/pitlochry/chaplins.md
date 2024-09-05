@@ -1,5 +1,5 @@
 ---
 title: "Chaplins"
 url: /pitlochry/chaplins/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "eyes"
 url: /edinburgh/eyes/
-shop: optician
+shop: Optiker
 ---

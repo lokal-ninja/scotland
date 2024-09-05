@@ -1,5 +1,5 @@
 ---
 title: "Laundry"
 url: /campbeltown/laundry/
-shop: laundry
+shop: Wäscherei
 ---

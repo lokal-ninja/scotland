@@ -1,5 +1,5 @@
 ---
 title: "Mirrors"
 url: /aberdeen/mirrors/
-shop: hairdresser
+shop: Friseur
 ---

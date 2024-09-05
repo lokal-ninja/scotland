@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /steornabhagh/argos/
-shop: catalogue
+shop: Katalog
 ---

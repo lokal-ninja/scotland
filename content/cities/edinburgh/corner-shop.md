@@ -1,5 +1,5 @@
 ---
 title: "Corner Shop"
 url: /edinburgh/corner-shop/
-shop: convenience
+shop: Lebensmittel
 ---

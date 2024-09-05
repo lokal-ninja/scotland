@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /lasswade/trek/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EyebrowLady Glasgow"
 url: /glasgow/eyebrowlady-glasgow/
-shop: beauty
+shop: Kosmetik
 ---

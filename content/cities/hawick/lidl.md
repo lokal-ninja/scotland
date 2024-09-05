@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /hawick/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

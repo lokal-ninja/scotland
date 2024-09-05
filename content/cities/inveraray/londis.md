@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /inveraray/londis/
-shop: convenience
+shop: Lebensmittel
 ---

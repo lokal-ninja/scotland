@@ -1,5 +1,5 @@
 ---
 title: "Specialist Cars ŠKODA"
 url: /dundee/specialist-cars-skoda/
-shop: car
+shop: Autohaus
 ---

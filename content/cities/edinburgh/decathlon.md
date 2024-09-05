@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /edinburgh/decathlon/
-shop: sports
+shop: Sport
 ---

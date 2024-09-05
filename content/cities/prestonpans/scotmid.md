@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /prestonpans/scotmid/
-shop: supermarket
+shop: Supermarkt
 ---

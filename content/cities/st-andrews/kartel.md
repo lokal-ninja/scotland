@@ -1,5 +1,5 @@
 ---
 title: "Kartel"
 url: /st-andrews/kartel/
-shop: watches
+shop: Uhren
 ---

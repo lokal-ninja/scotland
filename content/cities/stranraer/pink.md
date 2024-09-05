@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /stranraer/pink/
-shop: clothes
+shop: Kleidung
 ---

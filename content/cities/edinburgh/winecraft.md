@@ -1,5 +1,5 @@
 ---
 title: "Winecraft"
 url: /edinburgh/winecraft/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "beCyCle"
 url: /aberdeen/becycle/
-shop: bicycle
+shop: Fahrrad
 ---

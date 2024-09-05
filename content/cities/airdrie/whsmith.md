@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /airdrie/whsmith/
-shop: books
+shop: Bücher
 ---

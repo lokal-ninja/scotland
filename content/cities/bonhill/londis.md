@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /bonhill/londis/
-shop: convenience
+shop: Lebensmittel
 ---

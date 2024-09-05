@@ -1,5 +1,5 @@
 ---
 title: "Skootz"
 url: /glasgow/skootz/
-shop: shop
+shop: Allgemein
 ---

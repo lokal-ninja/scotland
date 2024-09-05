@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /ayr/argos/
-shop: catalogue
+shop: Katalog
 ---

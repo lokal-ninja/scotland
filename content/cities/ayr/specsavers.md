@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /ayr/specsavers/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Route One"
 url: /edinburgh/route-one/
-shop: clothes
+shop: Kleidung
 ---

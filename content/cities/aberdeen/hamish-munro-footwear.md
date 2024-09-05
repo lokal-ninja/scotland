@@ -1,5 +1,5 @@
 ---
 title: "Hamish Munro Footwear"
 url: /aberdeen/hamish-munro-footwear/
-shop: shoes
+shop: Schuhe
 ---

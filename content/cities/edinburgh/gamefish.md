@@ -1,5 +1,5 @@
 ---
 title: "Gamefish"
 url: /edinburgh/gamefish/
-shop: fishing
+shop: Angeln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /dundee/lush/
-shop: beauty
+shop: Kosmetik
 ---

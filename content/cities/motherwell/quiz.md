@@ -1,5 +1,5 @@
 ---
 title: "Quiz"
 url: /motherwell/quiz/
-shop: clothes
+shop: Kleidung
 ---

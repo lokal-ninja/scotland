@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /aberdeen/rituals/
-shop: beauty
+shop: Kosmetik
 ---

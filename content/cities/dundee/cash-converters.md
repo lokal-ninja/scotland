@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /dundee/cash-converters/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /dundee/office/
-shop: shoes
+shop: Schuhe
 ---

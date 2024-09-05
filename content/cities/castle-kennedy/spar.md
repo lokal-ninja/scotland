@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /castle-kennedy/spar/
-shop: convenience
+shop: Lebensmittel
 ---

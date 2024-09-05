@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /brechin/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

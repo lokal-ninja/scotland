@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /fraserburgh/superdrug/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Small's"
 url: /forfar/smalls/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Antalya"
 url: /aberdeen/antalya/
-shop: bakery
+shop: Bäckerei
 ---

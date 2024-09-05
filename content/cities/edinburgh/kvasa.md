@@ -1,5 +1,5 @@
 ---
 title: "Kvasa"
 url: /edinburgh/kvasa/
-shop: bakery
+shop: Bäckerei
 ---

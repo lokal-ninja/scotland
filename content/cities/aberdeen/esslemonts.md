@@ -1,5 +1,5 @@
 ---
 title: "Esslemonts"
 url: /aberdeen/esslemonts/
-shop: clothes
+shop: Kleidung
 ---

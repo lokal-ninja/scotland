@@ -1,5 +1,5 @@
 ---
 title: "BRIC"
 url: /edinburgh/bric/
-shop: interior decoration
+shop: Raumausstattung
 ---

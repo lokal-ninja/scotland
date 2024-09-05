@@ -1,5 +1,5 @@
 ---
 title: "Logan Malloch"
 url: /edinburgh/logan-malloch/
-shop: gift
+shop: Andenken
 ---

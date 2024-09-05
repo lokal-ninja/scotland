@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /dundee/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

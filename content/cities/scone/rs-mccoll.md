@@ -1,5 +1,5 @@
 ---
 title: "RS McColl"
 url: /scone/rs-mccoll/
-shop: newsagent
+shop: Zeitungen
 ---

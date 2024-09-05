@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /perth/homesense/
-shop: interior decoration
+shop: Raumausstattung
 ---

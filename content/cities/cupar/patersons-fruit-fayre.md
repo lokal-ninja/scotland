@@ -1,5 +1,5 @@
 ---
 title: "Paterson's Fruit Fayre"
 url: /cupar/patersons-fruit-fayre/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

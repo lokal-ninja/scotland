@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /ellon/intersport/
-shop: sports
+shop: Sport
 ---

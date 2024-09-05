@@ -1,5 +1,5 @@
 ---
 title: "SisCo"
 url: /edinburgh/sisco/
-shop: hairdresser
+shop: Friseur
 ---

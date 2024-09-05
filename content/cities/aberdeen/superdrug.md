@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /aberdeen/superdrug/
-shop: chemist
+shop: Drogerie
 ---

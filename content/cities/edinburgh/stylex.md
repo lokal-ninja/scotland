@@ -1,5 +1,5 @@
 ---
 title: "StyleX"
 url: /edinburgh/stylex/
-shop: hairdresser
+shop: Friseur
 ---

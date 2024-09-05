@@ -1,5 +1,5 @@
 ---
 title: "Reiss"
 url: /edinburgh/reiss/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tanz"
 url: /edinburgh/tanz-portobello-road/
-shop: beauty
+shop: Kosmetik
 ---

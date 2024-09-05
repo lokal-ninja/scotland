@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /lasswade/dobbies/
-shop: garden centre
+shop: Garten-Center
 ---

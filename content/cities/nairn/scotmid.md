@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /nairn/scotmid/
-shop: supermarket
+shop: Supermarkt
 ---

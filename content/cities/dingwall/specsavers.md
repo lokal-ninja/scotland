@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /dingwall/specsavers/
-shop: optician
+shop: Optiker
 ---

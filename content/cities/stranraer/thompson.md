@@ -1,5 +1,5 @@
 ---
 title: "Thompson"
 url: /stranraer/thompson/
-shop: optician
+shop: Optiker
 ---

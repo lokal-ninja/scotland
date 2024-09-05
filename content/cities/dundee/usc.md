@@ -1,5 +1,5 @@
 ---
 title: "USC"
 url: /dundee/usc/
-shop: clothes
+shop: Kleidung
 ---

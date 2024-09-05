@@ -1,5 +1,5 @@
 ---
 title: "Anna's Delicacies"
 url: /edinburgh/annas-delicacies/
-shop: deli
+shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Printing Services Scotland"
 url: /dunfermline/printing-services-scotland/
-shop: copyshop
+shop: Kopieren
 ---

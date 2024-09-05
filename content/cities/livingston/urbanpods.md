@@ -1,5 +1,5 @@
 ---
 title: "Urbanpods"
 url: /livingston/urbanpods/
-shop: shop
+shop: Allgemein
 ---

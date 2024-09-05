@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /edinburgh/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

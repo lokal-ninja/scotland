@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /edinburgh/vodafone/
-shop: mobile phone
+shop: Handy
 ---

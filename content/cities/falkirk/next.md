@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /falkirk/next/
-shop: clothes
+shop: Kleidung
 ---

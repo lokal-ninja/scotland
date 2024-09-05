@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /peebles/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

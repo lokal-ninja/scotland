@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /dalgety-bay/barnardos/
-shop: charity
+shop: Gebrauchtwaren
 ---

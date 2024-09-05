@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /glasgow/specsavers/
-shop: optician
+shop: Optiker
 ---

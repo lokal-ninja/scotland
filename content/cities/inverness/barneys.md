@@ -1,5 +1,5 @@
 ---
 title: "Barneys"
 url: /inverness/barneys/
-shop: newsagent
+shop: Zeitungen
 ---

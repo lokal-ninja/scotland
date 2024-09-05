@@ -1,5 +1,5 @@
 ---
 title: "Swatch"
 url: /edinburgh/swatch/
-shop: watches
+shop: Uhren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fiona Fergus Hair"
 url: /glasgow/fiona-fergus-hair/
-shop: hairdresser
+shop: Friseur
 ---

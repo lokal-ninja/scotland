@@ -1,5 +1,5 @@
 ---
 title: "La Beautique"
 url: /aberdeen/la-beautique/
-shop: hairdresser
+shop: Friseur
 ---

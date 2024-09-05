@@ -1,5 +1,5 @@
 ---
 title: "Purple Plum"
 url: /lauder/purple-plum/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

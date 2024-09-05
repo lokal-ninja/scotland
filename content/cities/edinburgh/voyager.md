@@ -1,5 +1,5 @@
 ---
 title: "Voyager"
 url: /edinburgh/voyager/
-shop: cannabis
+shop: Hanf
 ---

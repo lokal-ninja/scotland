@@ -1,5 +1,5 @@
 ---
 title: "Karma"
 url: /dundee/karma/
-shop: jewelry
+shop: Schmuck
 ---

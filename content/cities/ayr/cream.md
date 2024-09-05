@@ -1,5 +1,5 @@
 ---
 title: "Cream"
 url: /ayr/cream/
-shop: beauty
+shop: Kosmetik
 ---

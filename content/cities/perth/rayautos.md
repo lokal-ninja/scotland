@@ -1,5 +1,5 @@
 ---
 title: "RayAutos"
 url: /perth/rayautos/
-shop: car repair
+shop: Autowerkstatt
 ---

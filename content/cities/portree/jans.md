@@ -1,5 +1,5 @@
 ---
 title: "Jans"
 url: /portree/jans/
-shop: doityourself
+shop: Baumarkt
 ---

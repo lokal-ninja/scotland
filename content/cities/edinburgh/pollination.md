@@ -1,5 +1,5 @@
 ---
 title: "Pollination"
 url: /edinburgh/pollination/
-shop: florist
+shop: Blumen
 ---

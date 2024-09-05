@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /perth/blush/
-shop: party
+shop: Partyzubehör
 ---

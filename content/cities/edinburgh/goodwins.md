@@ -1,5 +1,5 @@
 ---
 title: "Goodwins"
 url: /edinburgh/goodwins/
-shop: jewelry
+shop: Schmuck
 ---

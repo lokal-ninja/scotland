@@ -1,5 +1,5 @@
 ---
 title: "Montgomery"
 url: /tranent/montgomery/
-shop: optician
+shop: Optiker
 ---

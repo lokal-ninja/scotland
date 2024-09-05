@@ -1,5 +1,5 @@
 ---
 title: "Gemsearch"
 url: /glasgow/gemsearch/
-shop: jewelry
+shop: Schmuck
 ---

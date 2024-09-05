@@ -1,5 +1,5 @@
 ---
 title: "Indigo Sun"
 url: /aberdeen/indigo-sun-george-street/
-shop: beauty
+shop: Kosmetik
 ---

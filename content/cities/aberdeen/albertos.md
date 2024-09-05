@@ -1,5 +1,5 @@
 ---
 title: "Alberto's"
 url: /aberdeen/albertos/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Griffen Fitness"
 url: /edinburgh/griffen-fitness/
-shop: sports
+shop: Sport
 ---

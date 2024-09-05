@@ -1,5 +1,5 @@
 ---
 title: "Rings"
 url: /edinburgh/rings/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /blantyre/asda/
-shop: supermarket
+shop: Supermarkt
 ---

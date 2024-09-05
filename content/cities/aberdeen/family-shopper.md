@@ -1,5 +1,5 @@
 ---
 title: "Family shopper"
 url: /aberdeen/family-shopper/
-shop: convenience
+shop: Lebensmittel
 ---

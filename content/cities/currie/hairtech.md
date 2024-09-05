@@ -1,5 +1,5 @@
 ---
 title: "Hairtech"
 url: /currie/hairtech/
-shop: hairdresser
+shop: Friseur
 ---

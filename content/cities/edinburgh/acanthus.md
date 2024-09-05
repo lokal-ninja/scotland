@@ -1,5 +1,5 @@
 ---
 title: "Acanthus"
 url: /edinburgh/acanthus/
-shop: furniture
+shop: Möbel
 ---

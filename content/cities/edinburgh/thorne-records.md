@@ -1,5 +1,5 @@
 ---
 title: "Thorne Records"
 url: /edinburgh/thorne-records/
-shop: music
+shop: Musik
 ---

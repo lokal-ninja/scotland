@@ -1,5 +1,5 @@
 ---
 title: "Prim"
 url: /edinburgh/prim/
-shop: hairdresser
+shop: Friseur
 ---

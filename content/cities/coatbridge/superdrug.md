@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /coatbridge/superdrug/
-shop: chemist
+shop: Drogerie
 ---

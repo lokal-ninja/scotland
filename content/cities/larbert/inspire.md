@@ -1,5 +1,5 @@
 ---
 title: "Inspire"
 url: /larbert/inspire/
-shop: hairdresser
+shop: Friseur
 ---

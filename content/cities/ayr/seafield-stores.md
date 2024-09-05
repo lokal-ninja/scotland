@@ -1,5 +1,5 @@
 ---
 title: "Seafield Stores"
 url: /ayr/seafield-stores/
-shop: convenience
+shop: Lebensmittel
 ---

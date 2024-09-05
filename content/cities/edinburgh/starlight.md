@@ -1,5 +1,5 @@
 ---
 title: "Starlight"
 url: /edinburgh/starlight/
-shop: convenience
+shop: Lebensmittel
 ---

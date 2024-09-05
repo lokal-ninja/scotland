@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /motherwell/paddy-power/
-shop: bookmaker
+shop: Wettbüro
 ---

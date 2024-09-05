@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /edinburgh/shelter/
-shop: charity
+shop: Gebrauchtwaren
 ---

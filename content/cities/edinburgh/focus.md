@@ -1,5 +1,5 @@
 ---
 title: "Focus"
 url: /edinburgh/focus/
-shop: clothes
+shop: Kleidung
 ---

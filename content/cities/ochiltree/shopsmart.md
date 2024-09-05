@@ -1,5 +1,5 @@
 ---
 title: "Shopsmart"
 url: /ochiltree/shopsmart/
-shop: convenience
+shop: Lebensmittel
 ---

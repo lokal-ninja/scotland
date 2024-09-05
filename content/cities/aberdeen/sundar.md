@@ -1,5 +1,5 @@
 ---
 title: "Sundar"
 url: /aberdeen/sundar/
-shop: beauty
+shop: Kosmetik
 ---

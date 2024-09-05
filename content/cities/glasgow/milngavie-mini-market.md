@@ -1,5 +1,5 @@
 ---
 title: "Milngavie Mini Market"
 url: /glasgow/milngavie-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

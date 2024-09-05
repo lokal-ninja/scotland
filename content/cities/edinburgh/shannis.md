@@ -1,5 +1,5 @@
 ---
 title: "Shanni's"
 url: /edinburgh/shannis/
-shop: art
+shop: Kunst
 ---

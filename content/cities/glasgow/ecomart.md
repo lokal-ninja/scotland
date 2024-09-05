@@ -1,5 +1,5 @@
 ---
 title: "Ecomart"
 url: /glasgow/ecomart/
-shop: shop
+shop: Allgemein
 ---

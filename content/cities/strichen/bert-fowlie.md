@@ -1,5 +1,5 @@
 ---
 title: "Bert Fowlie"
 url: /strichen/bert-fowlie/
-shop: butcher
+shop: Metzgerei
 ---

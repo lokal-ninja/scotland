@@ -1,5 +1,5 @@
 ---
 title: "Peoples"
 url: /livingston/peoples/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /stirling/dfs/
-shop: furniture
+shop: Möbel
 ---

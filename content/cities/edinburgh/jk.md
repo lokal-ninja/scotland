@@ -1,5 +1,5 @@
 ---
 title: "JK"
 url: /edinburgh/jk/
-shop: hairdresser
+shop: Friseur
 ---

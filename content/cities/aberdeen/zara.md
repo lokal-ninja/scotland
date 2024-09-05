@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /aberdeen/zara/
-shop: clothes
+shop: Kleidung
 ---

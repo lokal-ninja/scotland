@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /burghead/scotmid/
-shop: convenience
+shop: Lebensmittel
 ---

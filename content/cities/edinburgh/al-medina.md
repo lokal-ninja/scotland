@@ -1,5 +1,5 @@
 ---
 title: "Al Medina"
 url: /edinburgh/al-medina/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

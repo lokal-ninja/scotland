@@ -1,5 +1,5 @@
 ---
 title: "Touchwood"
 url: /montrose/touchwood/
-shop: furniture
+shop: Möbel
 ---

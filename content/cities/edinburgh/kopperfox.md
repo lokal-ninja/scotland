@@ -1,5 +1,5 @@
 ---
 title: "Kopperfox"
 url: /edinburgh/kopperfox/
-shop: beauty
+shop: Kosmetik
 ---

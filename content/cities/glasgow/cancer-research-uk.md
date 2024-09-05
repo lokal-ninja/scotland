@@ -1,5 +1,5 @@
 ---
 title: "Cancer Research UK"
 url: /glasgow/cancer-research-uk/
-shop: charity
+shop: Gebrauchtwaren
 ---

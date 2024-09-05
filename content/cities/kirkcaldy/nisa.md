@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /kirkcaldy/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

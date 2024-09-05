@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /musselburgh/best-one/
-shop: convenience
+shop: Lebensmittel
 ---

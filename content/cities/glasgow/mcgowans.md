@@ -1,5 +1,5 @@
 ---
 title: "McGowans"
 url: /glasgow/mcgowans/
-shop: jewelry
+shop: Schmuck
 ---

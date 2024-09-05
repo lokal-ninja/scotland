@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /dundee/waterstones/
-shop: books
+shop: Bücher
 ---

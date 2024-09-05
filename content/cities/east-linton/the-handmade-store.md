@@ -1,5 +1,5 @@
 ---
 title: "The Handmade Store"
 url: /east-linton/the-handmade-store/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Treatz"
 url: /edinburgh/treatz/
-shop: confectionery
+shop: Süßwaren
 ---

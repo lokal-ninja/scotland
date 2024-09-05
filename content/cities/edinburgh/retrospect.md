@@ -1,5 +1,5 @@
 ---
 title: "Retrospect"
 url: /edinburgh/retrospect/
-shop: gift
+shop: Andenken
 ---

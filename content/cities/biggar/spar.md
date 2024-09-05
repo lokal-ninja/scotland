@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /biggar/spar/
-shop: convenience
+shop: Lebensmittel
 ---

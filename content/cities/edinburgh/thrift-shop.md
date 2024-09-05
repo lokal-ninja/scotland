@@ -1,5 +1,5 @@
 ---
 title: "Thrift Shop"
 url: /edinburgh/thrift-shop/
-shop: charity
+shop: Gebrauchtwaren
 ---

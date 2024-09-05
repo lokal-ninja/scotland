@@ -1,5 +1,5 @@
 ---
 title: "Rejects"
 url: /kirkcaldy/rejects/
-shop: houseware
+shop: Haushaltsartikel
 ---

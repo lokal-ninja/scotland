@@ -1,5 +1,5 @@
 ---
 title: "St Andrews Hospice"
 url: /motherwell/st-andrews-hospice/
-shop: charity
+shop: Gebrauchtwaren
 ---

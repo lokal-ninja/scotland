@@ -1,5 +1,5 @@
 ---
 title: "Harmonie"
 url: /aberdeen/harmonie/
-shop: convenience
+shop: Lebensmittel
 ---

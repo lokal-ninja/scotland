@@ -1,5 +1,5 @@
 ---
 title: "kokosnoot"
 url: /callander/kokosnoot/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Root Down"
 url: /edinburgh/root-down/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

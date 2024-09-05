@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /blackburn/scotmid/
-shop: supermarket
+shop: Supermarkt
 ---

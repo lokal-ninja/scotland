@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /ayr/londis/
-shop: convenience
+shop: Lebensmittel
 ---

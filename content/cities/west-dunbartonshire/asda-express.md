@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /west-dunbartonshire/asda-express/
-shop: convenience
+shop: Lebensmittel
 ---

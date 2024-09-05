@@ -1,5 +1,5 @@
 ---
 title: "Rosco's"
 url: /aberdeen/roscos/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

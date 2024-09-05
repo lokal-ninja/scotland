@@ -1,5 +1,5 @@
 ---
 title: "L"
 url: /ayr/l/
-shop: clothes
+shop: Kleidung
 ---

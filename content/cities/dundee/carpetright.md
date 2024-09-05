@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /dundee/carpetright/
-shop: carpet
+shop: Teppiche
 ---

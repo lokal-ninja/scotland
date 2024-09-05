@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /helensburgh/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

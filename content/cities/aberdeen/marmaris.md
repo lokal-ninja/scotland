@@ -1,5 +1,5 @@
 ---
 title: "Marmaris"
 url: /aberdeen/marmaris/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Travel Island by Sue"
 url: /burntisland/travel-island-by-sue/
-shop: travel agency
+shop: Reisebüro
 ---

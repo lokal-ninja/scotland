@@ -1,5 +1,5 @@
 ---
 title: "Eutopia"
 url: /glasgow/eutopia/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Candy"
 url: /edinburgh/american-candy/
-shop: confectionery
+shop: Süßwaren
 ---

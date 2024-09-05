@@ -1,5 +1,5 @@
 ---
 title: "Prime Vapour"
 url: /edinburgh/prime-vapour/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

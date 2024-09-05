@@ -1,5 +1,5 @@
 ---
 title: "Joshua Plumtree"
 url: /kirriemuir/joshua-plumtree/
-shop: garden centre
+shop: Garten-Center
 ---

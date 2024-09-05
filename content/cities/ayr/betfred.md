@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /ayr/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

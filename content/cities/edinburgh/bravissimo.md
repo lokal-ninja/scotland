@@ -1,5 +1,5 @@
 ---
 title: "Bravissimo"
 url: /edinburgh/bravissimo/
-shop: clothes
+shop: Kleidung
 ---

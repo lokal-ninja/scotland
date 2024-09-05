@@ -1,5 +1,5 @@
 ---
 title: "Inverurie Whisky Shop"
 url: /inverurie/inverurie-whisky-shop/
-shop: alcohol
+shop: Spirituosen
 ---

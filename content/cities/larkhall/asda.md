@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /larkhall/asda/
-shop: supermarket
+shop: Supermarkt
 ---

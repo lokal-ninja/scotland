@@ -1,5 +1,5 @@
 ---
 title: "Hadeel"
 url: /edinburgh/hadeel/
-shop: gift
+shop: Andenken
 ---

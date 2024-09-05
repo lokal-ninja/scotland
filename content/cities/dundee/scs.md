@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /dundee/scs/
-shop: furniture
+shop: Möbel
 ---

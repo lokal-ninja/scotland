@@ -1,5 +1,5 @@
 ---
 title: "Capital Wholesalers"
 url: /edinburgh/capital-wholesalers/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

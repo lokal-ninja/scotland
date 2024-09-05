@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /falkirk/morrisons-daily/
-shop: convenience
+shop: Lebensmittel
 ---

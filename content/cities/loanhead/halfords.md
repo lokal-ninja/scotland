@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /loanhead/halfords/
-shop: car parts
+shop: Autoteile
 ---

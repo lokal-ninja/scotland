@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /aberdeen/skechers/
-shop: shoes
+shop: Schuhe
 ---

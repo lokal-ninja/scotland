@@ -1,5 +1,5 @@
 ---
 title: "Aki"
 url: /edinburgh/aki/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Direct Flooring"
 url: /aberdeen/direct-flooring/
-shop: doityourself
+shop: Baumarkt
 ---

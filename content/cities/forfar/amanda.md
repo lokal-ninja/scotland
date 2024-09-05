@@ -1,5 +1,5 @@
 ---
 title: "Amanda"
 url: /forfar/amanda/
-shop: beauty
+shop: Kosmetik
 ---

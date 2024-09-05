@@ -1,5 +1,5 @@
 ---
 title: "The Vintage Scene"
 url: /edinburgh/the-vintage-scene/
-shop: clothes
+shop: Kleidung
 ---

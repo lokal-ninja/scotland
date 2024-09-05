@@ -1,5 +1,5 @@
 ---
 title: "Fife Furniture Plus"
 url: /dunfermline/fife-furniture-plus/
-shop: furniture
+shop: Möbel
 ---

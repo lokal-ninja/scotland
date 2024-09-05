@@ -1,5 +1,5 @@
 ---
 title: "James Porter and Sons"
 url: /glasgow/james-porter-and-sons/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BOOM!"
 url: /ayr/boom/
-shop: collector
+shop: Sammler
 ---

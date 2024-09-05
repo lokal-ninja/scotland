@@ -1,5 +1,5 @@
 ---
 title: "shopsmart"
 url: /fauldhouse/shopsmart/
-shop: convenience
+shop: Lebensmittel
 ---

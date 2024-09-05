@@ -1,5 +1,5 @@
 ---
 title: "The Tartan House of Scotland"
 url: /dundee/the-tartan-house-of-scotland/
-shop: gift
+shop: Andenken
 ---

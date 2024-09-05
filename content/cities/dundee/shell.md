@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /dundee/shell/
-shop: shop
+shop: Allgemein
 ---

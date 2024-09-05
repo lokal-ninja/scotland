@@ -1,5 +1,5 @@
 ---
 title: "Hely"
 url: /glasgow/hely/
-shop: hairdresser
+shop: Friseur
 ---

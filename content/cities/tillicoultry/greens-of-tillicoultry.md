@@ -1,5 +1,5 @@
 ---
 title: "Greens of Tillicoultry"
 url: /tillicoultry/greens-of-tillicoultry/
-shop: convenience
+shop: Lebensmittel
 ---

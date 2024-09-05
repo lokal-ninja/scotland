@@ -1,5 +1,5 @@
 ---
 title: "La Parada"
 url: /glasgow/la-parada/
-shop: deli
+shop: Feinkost
 ---

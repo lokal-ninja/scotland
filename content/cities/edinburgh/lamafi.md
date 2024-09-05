@@ -1,5 +1,5 @@
 ---
 title: "Lamafi"
 url: /edinburgh/lamafi/
-shop: hairdresser
+shop: Friseur
 ---

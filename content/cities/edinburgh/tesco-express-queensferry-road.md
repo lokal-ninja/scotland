@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /edinburgh/tesco-express-queensferry-road/
-shop: convenience
+shop: Lebensmittel
 ---

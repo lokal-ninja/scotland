@@ -1,5 +1,5 @@
 ---
 title: "Yenzee"
 url: /edinburgh/yenzee/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Islander"
 url: /st-andrews/islander/
-shop: bag
+shop: Taschen & Koffer
 ---

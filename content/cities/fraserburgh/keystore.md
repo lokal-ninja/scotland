@@ -1,5 +1,5 @@
 ---
 title: "Keystore"
 url: /fraserburgh/keystore/
-shop: convenience
+shop: Lebensmittel
 ---

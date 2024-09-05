@@ -1,5 +1,5 @@
 ---
 title: "Atlantis"
 url: /aberdeen/atlantis/
-shop: bathroom
+shop: Badezimmer
 ---

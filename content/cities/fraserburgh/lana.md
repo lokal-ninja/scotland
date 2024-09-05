@@ -1,5 +1,5 @@
 ---
 title: "Lana"
 url: /fraserburgh/lana/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

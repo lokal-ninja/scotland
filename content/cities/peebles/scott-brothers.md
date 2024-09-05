@@ -1,5 +1,5 @@
 ---
 title: "Scott Brothers"
 url: /peebles/scott-brothers/
-shop: hardware
+shop: Eisenwaren
 ---

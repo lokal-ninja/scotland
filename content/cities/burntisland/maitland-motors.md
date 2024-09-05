@@ -1,5 +1,5 @@
 ---
 title: "Maitland Motors"
 url: /burntisland/maitland-motors/
-shop: car repair
+shop: Autowerkstatt
 ---

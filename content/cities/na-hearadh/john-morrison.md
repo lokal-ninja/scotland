@@ -1,5 +1,5 @@
 ---
 title: "John Morrison"
 url: /na-hearadh/john-morrison/
-shop: convenience
+shop: Lebensmittel
 ---

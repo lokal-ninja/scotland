@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /inverurie/vpz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

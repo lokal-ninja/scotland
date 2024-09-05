@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /dalry/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

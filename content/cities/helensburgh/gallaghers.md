@@ -1,5 +1,5 @@
 ---
 title: "Gallaghers"
 url: /helensburgh/gallaghers/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EFS"
 url: /musselburgh/efs/
-shop: carpet
+shop: Teppiche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morfose"
 url: /linlithgow/morfose/
-shop: hairdresser
+shop: Friseur
 ---

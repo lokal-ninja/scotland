@@ -1,5 +1,5 @@
 ---
 title: "Doricmor"
 url: /edinburgh/doricmor/
-shop: art
+shop: Kunst
 ---

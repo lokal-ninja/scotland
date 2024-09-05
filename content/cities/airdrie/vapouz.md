@@ -1,5 +1,5 @@
 ---
 title: "Vapouz"
 url: /airdrie/vapouz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

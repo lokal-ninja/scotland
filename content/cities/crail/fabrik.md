@@ -1,5 +1,5 @@
 ---
 title: "Fabrik"
 url: /crail/fabrik/
-shop: gift
+shop: Andenken
 ---

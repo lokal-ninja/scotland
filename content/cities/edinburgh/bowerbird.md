@@ -1,5 +1,5 @@
 ---
 title: "Bowerbird"
 url: /edinburgh/bowerbird/
-shop: antiques
+shop: Antiquitäten
 ---

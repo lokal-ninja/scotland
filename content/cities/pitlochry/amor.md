@@ -1,5 +1,5 @@
 ---
 title: "Amor"
 url: /pitlochry/amor/
-shop: clothes
+shop: Kleidung
 ---

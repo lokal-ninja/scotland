@@ -1,5 +1,5 @@
 ---
 title: "premier"
 url: /pitlochry/premier/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bedeck"
 url: /gretna/bedeck/
-shop: bed
+shop: Betten
 ---

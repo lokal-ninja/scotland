@@ -1,5 +1,5 @@
 ---
 title: "Quiz"
 url: /inverness/quiz/
-shop: clothes
+shop: Kleidung
 ---

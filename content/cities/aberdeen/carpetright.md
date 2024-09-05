@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /aberdeen/carpetright/
-shop: carpet
+shop: Teppiche
 ---

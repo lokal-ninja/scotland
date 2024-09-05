@@ -1,5 +1,5 @@
 ---
 title: "Folk"
 url: /edinburgh/folk/
-shop: hairdresser
+shop: Friseur
 ---

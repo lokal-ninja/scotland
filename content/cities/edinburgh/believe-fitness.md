@@ -1,5 +1,5 @@
 ---
 title: "Believe Fitness"
 url: /edinburgh/believe-fitness/
-shop: sports
+shop: Sport
 ---

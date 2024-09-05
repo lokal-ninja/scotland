@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /aberdeen/premier/
-shop: kitchen
+shop: Küchen
 ---

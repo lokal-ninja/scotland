@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /kirkcaldy/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

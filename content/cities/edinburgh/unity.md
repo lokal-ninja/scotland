@@ -1,5 +1,5 @@
 ---
 title: "Unity"
 url: /edinburgh/unity/
-shop: hairdresser
+shop: Friseur
 ---

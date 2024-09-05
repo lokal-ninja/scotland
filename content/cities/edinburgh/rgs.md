@@ -1,5 +1,5 @@
 ---
 title: "RGS"
 url: /edinburgh/rgs/
-shop: beauty
+shop: Kosmetik
 ---

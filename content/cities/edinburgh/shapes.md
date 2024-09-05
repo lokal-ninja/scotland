@@ -1,5 +1,5 @@
 ---
 title: "Shapes"
 url: /edinburgh/shapes/
-shop: hairdresser
+shop: Friseur
 ---

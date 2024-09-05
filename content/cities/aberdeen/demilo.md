@@ -1,5 +1,5 @@
 ---
 title: "Demilo"
 url: /aberdeen/demilo/
-shop: hairdresser
+shop: Friseur
 ---

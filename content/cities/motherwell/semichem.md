@@ -1,5 +1,5 @@
 ---
 title: "Semichem"
 url: /motherwell/semichem/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VBS"
 url: /stranraer/vbs/
-shop: curtain
+shop: Gardinen
 ---

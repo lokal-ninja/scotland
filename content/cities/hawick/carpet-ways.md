@@ -1,5 +1,5 @@
 ---
 title: "Carpet Ways"
 url: /hawick/carpet-ways/
-shop: carpet
+shop: Teppiche
 ---

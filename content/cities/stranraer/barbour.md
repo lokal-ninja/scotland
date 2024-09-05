@@ -1,5 +1,5 @@
 ---
 title: "Barbour"
 url: /stranraer/barbour/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pencig"
 url: /dundee/pencig/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

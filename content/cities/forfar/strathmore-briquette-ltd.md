@@ -1,5 +1,5 @@
 ---
 title: "Strathmore Briquette Ltd"
 url: /forfar/strathmore-briquette-ltd/
-shop: shop
+shop: Allgemein
 ---

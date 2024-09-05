@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /dunfermline/primark/
-shop: clothes
+shop: Kleidung
 ---

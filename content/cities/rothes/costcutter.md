@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /rothes/costcutter/
-shop: supermarket
+shop: Supermarkt
 ---

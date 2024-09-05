@@ -1,5 +1,5 @@
 ---
 title: "MGW Seafood"
 url: /falkirk/mgw-seafood/
-shop: seafood
+shop: Fisch
 ---

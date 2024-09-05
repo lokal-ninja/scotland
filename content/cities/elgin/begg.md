@@ -1,5 +1,5 @@
 ---
 title: "Begg"
 url: /elgin/begg/
-shop: shoes
+shop: Schuhe
 ---

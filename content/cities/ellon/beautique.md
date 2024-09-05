@@ -1,5 +1,5 @@
 ---
 title: "Beautique"
 url: /ellon/beautique/
-shop: boutique
+shop: Modehaus
 ---

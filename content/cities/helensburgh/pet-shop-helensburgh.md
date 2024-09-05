@@ -1,5 +1,5 @@
 ---
 title: "Pet Shop Helensburgh"
 url: /helensburgh/pet-shop-helensburgh/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /port-glasgow/boots/
-shop: chemist
+shop: Drogerie
 ---

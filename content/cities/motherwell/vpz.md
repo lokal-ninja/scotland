@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /motherwell/vpz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

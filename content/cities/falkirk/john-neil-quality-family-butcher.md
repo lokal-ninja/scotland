@@ -1,5 +1,5 @@
 ---
 title: "John Neil Quality Family Butcher"
 url: /falkirk/john-neil-quality-family-butcher/
-shop: butcher
+shop: Metzgerei
 ---

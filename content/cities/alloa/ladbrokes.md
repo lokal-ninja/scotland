@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /alloa/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

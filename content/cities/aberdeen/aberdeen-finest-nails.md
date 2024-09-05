@@ -1,5 +1,5 @@
 ---
 title: "Aberdeen Finest Nails"
 url: /aberdeen/aberdeen-finest-nails/
-shop: beauty
+shop: Kosmetik
 ---
