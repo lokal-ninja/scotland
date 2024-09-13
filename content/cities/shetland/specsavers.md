@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /shetland/specsavers/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fired Earth"
 url: /perth/fired-earth/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hope Scott Garage"
 url: /currie/hope-scott-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

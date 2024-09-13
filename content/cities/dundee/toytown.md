@@ -1,5 +1,5 @@
 ---
 title: "Toytown"
 url: /dundee/toytown/
-shop: Spielzeug
+shop: toys
 ---

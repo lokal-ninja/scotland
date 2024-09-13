@@ -1,5 +1,5 @@
 ---
 title: "Sunshine"
 url: /glasgow/sunshine/
-shop: Elektronik
+shop: electronics
 ---

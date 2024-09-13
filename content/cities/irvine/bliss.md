@@ -1,5 +1,5 @@
 ---
 title: "Bliss"
 url: /irvine/bliss/
-shop: Kosmetik
+shop: beauty
 ---

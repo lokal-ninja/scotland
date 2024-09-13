@@ -1,5 +1,5 @@
 ---
 title: "Starlight"
 url: /inverurie/starlight/
-shop: Friseur
+shop: hairdresser
 ---

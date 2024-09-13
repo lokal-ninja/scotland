@@ -1,5 +1,5 @@
 ---
 title: "African Crest"
 url: /edinburgh/african-crest/
-shop: Lebensmittel
+shop: convenience
 ---

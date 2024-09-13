@@ -1,5 +1,5 @@
 ---
 title: "Seawitch"
 url: /kinghorn/seawitch/
-shop: Andenken
+shop: gift
 ---

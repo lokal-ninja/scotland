@@ -1,5 +1,5 @@
 ---
 title: "News 'n' Chews"
 url: /aberdeen/news-n-chews/
-shop: Lebensmittel
+shop: convenience
 ---

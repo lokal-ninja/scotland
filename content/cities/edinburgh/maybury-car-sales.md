@@ -1,5 +1,5 @@
 ---
 title: "Maybury Car Sales"
 url: /edinburgh/maybury-car-sales/
-shop: Autohaus
+shop: car
 ---

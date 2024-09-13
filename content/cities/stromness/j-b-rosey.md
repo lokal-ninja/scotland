@@ -1,5 +1,5 @@
 ---
 title: "J B Rosey"
 url: /stromness/j-b-rosey/
-shop: Andenken
+shop: gift
 ---

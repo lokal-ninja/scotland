@@ -1,5 +1,5 @@
 ---
 title: "Bonnygate Garage"
 url: /cupar/bonnygate-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

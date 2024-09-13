@@ -1,5 +1,5 @@
 ---
 title: "Pets at Home"
 url: /glasgow/pets-at-home-2/
-shop: Tiere
+shop: pet
 ---

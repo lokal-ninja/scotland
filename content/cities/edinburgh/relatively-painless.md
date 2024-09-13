@@ -1,5 +1,5 @@
 ---
 title: "Relatively Painless"
 url: /edinburgh/relatively-painless/
-shop: Tattoo
+shop: tattoo
 ---

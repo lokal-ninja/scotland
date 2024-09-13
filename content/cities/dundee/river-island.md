@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /dundee/river-island/
-shop: Kleidung
+shop: clothes
 ---

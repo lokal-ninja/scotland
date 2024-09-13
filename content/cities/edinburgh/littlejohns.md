@@ -1,5 +1,5 @@
 ---
 title: "Littlejohns"
 url: /edinburgh/littlejohns/
-shop: Immobilien
+shop: estate agent
 ---

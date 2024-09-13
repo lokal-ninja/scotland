@@ -1,5 +1,5 @@
 ---
 title: "The Beer Cave"
 url: /edinburgh/the-beer-cave/
-shop: Spirituosen
+shop: alcohol
 ---

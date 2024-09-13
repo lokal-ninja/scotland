@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /glasgow/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

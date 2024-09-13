@@ -1,5 +1,5 @@
 ---
 title: "Treehouse"
 url: /bridge-of-allan/treehouse/
-shop: Raumausstattung
+shop: interior decoration
 ---

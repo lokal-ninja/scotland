@@ -1,5 +1,5 @@
 ---
 title: "Livingston Autoparts"
 url: /livingston/livingston-autoparts/
-shop: Autoteile
+shop: car parts
 ---

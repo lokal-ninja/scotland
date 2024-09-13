@@ -1,5 +1,5 @@
 ---
 title: "British Red Cross"
 url: /kirriemuir/british-red-cross/
-shop: Gebrauchtwaren
+shop: charity
 ---

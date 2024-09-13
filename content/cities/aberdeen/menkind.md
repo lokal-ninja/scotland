@@ -1,5 +1,5 @@
 ---
 title: "Menkind"
 url: /aberdeen/menkind/
-shop: Spielzeug
+shop: toys
 ---

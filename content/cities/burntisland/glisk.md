@@ -1,5 +1,5 @@
 ---
 title: "Glisk"
 url: /burntisland/glisk/
-shop: Kunst
+shop: art
 ---

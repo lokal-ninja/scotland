@@ -1,5 +1,5 @@
 ---
 title: "Castle Newsagent"
 url: /glasgow/castle-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

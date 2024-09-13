@@ -1,5 +1,5 @@
 ---
 title: "Luna Local"
 url: /coatbridge/luna-local/
-shop: Allgemein
+shop: shop
 ---

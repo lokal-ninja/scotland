@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /edinburgh/tesco-express-haymarket-terrace/
-shop: Lebensmittel
+shop: convenience
 ---

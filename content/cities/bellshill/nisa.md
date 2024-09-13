@@ -1,5 +1,5 @@
 ---
 title: "NISA"
 url: /bellshill/nisa/
-shop: Supermarkt
+shop: supermarket
 ---

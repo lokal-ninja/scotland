@@ -1,5 +1,5 @@
 ---
 title: "Thistle Books"
 url: /glasgow/thistle-books/
-shop: Bücher
+shop: books
 ---

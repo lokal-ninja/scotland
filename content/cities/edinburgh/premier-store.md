@@ -1,5 +1,5 @@
 ---
 title: "Premier Store"
 url: /edinburgh/premier-store/
-shop: Zeitungen
+shop: newsagent
 ---

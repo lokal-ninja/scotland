@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /dundee/thorntons/
-shop: Süßwaren
+shop: confectionery
 ---

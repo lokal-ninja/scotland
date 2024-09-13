@@ -1,5 +1,5 @@
 ---
 title: "Grampian Meats"
 url: /glasgow/grampian-meats/
-shop: Metzgerei
+shop: butcher
 ---

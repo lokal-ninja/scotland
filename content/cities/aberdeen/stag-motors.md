@@ -1,5 +1,5 @@
 ---
 title: "Stag Motors"
 url: /aberdeen/stag-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

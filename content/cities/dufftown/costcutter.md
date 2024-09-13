@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /dufftown/costcutter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Knots About Rugs"
 url: /edinburgh/knots-about-rugs/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /perth/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

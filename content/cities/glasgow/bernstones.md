@@ -1,5 +1,5 @@
 ---
 title: "Bernstones"
 url: /glasgow/bernstones/
-shop: Schmuck
+shop: jewelry
 ---

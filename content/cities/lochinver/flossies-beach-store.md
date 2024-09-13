@@ -1,5 +1,5 @@
 ---
 title: "Flossie's Beach Store"
 url: /lochinver/flossies-beach-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brave Strong Beautiful"
 url: /edinburgh/brave-strong-beautiful/
-shop: Friseur
+shop: hairdresser
 ---

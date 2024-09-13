@@ -1,5 +1,5 @@
 ---
 title: "Audio Philia"
 url: /edinburgh/audio-philia/
-shop: Instrumente
+shop: musical instrument
 ---

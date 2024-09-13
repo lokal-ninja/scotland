@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /glasgow/game/
-shop: Videospiele
+shop: video games
 ---

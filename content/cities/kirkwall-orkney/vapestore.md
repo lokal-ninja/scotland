@@ -1,5 +1,5 @@
 ---
 title: "VapeStore"
 url: /kirkwall-orkney/vapestore/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /dundee/ee/
-shop: Handy
+shop: mobile phone
 ---

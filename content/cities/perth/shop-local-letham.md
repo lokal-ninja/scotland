@@ -1,5 +1,5 @@
 ---
 title: "Shop Local Letham"
 url: /perth/shop-local-letham/
-shop: Zeitungen
+shop: newsagent
 ---

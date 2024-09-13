@@ -1,5 +1,5 @@
 ---
 title: "East"
 url: /peebles/east/
-shop: Friseur
+shop: hairdresser
 ---

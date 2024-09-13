@@ -1,5 +1,5 @@
 ---
 title: "Lifetex"
 url: /kirriemuir/lifetex/
-shop: Friseur
+shop: hairdresser
 ---

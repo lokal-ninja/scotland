@@ -1,5 +1,5 @@
 ---
 title: "Omega"
 url: /aberdeen/omega/
-shop: Uhren
+shop: watches
 ---

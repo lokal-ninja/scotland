@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /helensburgh/shelter/
-shop: Gebrauchtwaren
+shop: charity
 ---

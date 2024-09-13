@@ -1,5 +1,5 @@
 ---
 title: "Highland BlindCraft"
 url: /inverness/highland-blindcraft/
-shop: Betten
+shop: bed
 ---

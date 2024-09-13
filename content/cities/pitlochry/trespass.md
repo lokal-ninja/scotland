@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /pitlochry/trespass/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Braes of Kirriemuir"
 url: /kirriemuir/braes-of-kirriemuir/
-shop: Supermarkt
+shop: convenience
 ---

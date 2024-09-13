@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /livingston/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Printwell Colour Printers"
 url: /airdrie/printwell-colour-printers/
-shop: Kopieren
+shop: copyshop
 ---

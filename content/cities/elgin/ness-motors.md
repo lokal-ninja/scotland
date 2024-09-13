@@ -1,5 +1,5 @@
 ---
 title: "Ness Motors"
 url: /elgin/ness-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

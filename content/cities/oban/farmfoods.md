@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /oban/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

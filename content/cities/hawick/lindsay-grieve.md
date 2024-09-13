@@ -1,5 +1,5 @@
 ---
 title: "Lindsay Grieve"
 url: /hawick/lindsay-grieve/
-shop: Metzgerei
+shop: butcher
 ---

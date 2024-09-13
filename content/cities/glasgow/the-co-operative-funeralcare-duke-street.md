@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Funeralcare"
 url: /glasgow/the-co-operative-funeralcare-duke-street/
-shop: Bestattungen
+shop: funeral directors
 ---

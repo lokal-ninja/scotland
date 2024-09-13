@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /aberdeen/new-look/
-shop: Kleidung
+shop: clothes
 ---

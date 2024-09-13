@@ -1,5 +1,5 @@
 ---
 title: "Argo's Bakery"
 url: /stromness/argos-bakery/
-shop: Bäckerei
+shop: bakery
 ---

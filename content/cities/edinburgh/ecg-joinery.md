@@ -1,5 +1,5 @@
 ---
 title: "ECG Joinery"
 url: /edinburgh/ecg-joinery/
-shop: Basteln
+shop: craft
 ---

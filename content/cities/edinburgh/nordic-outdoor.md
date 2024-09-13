@@ -1,5 +1,5 @@
 ---
 title: "Nordic Outdoor"
 url: /edinburgh/nordic-outdoor/
-shop: Outdoor
+shop: outdoor
 ---

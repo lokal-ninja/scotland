@@ -1,5 +1,5 @@
 ---
 title: "McPherson Day Gallery"
 url: /edinburgh/mcpherson-day-gallery/
-shop: Antiquitäten
+shop: antiques
 ---

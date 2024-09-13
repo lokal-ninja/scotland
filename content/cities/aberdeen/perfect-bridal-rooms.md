@@ -1,5 +1,5 @@
 ---
 title: "perfect bridal rooms"
 url: /aberdeen/perfect-bridal-rooms/
-shop: Kleidung
+shop: clothes
 ---

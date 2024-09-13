@@ -1,5 +1,5 @@
 ---
 title: "California Mini Market"
 url: /california/california-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

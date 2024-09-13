@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /dundee/blacks/
-shop: Outdoor
+shop: outdoor
 ---

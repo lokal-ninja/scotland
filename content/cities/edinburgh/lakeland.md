@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /edinburgh/lakeland/
-shop: Haushaltsartikel
+shop: houseware
 ---

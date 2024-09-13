@@ -1,5 +1,5 @@
 ---
 title: "Pure Beauty Zone"
 url: /edinburgh/pure-beauty-zone/
-shop: Kosmetik
+shop: beauty
 ---

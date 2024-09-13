@@ -1,5 +1,5 @@
 ---
 title: "MAIDINVINYL"
 url: /aberdeen/maidinvinyl/
-shop: Musik
+shop: music
 ---

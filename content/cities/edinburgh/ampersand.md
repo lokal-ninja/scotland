@@ -1,5 +1,5 @@
 ---
 title: "Ampersand"
 url: /edinburgh/ampersand/
-shop: Raumausstattung
+shop: interior decoration
 ---

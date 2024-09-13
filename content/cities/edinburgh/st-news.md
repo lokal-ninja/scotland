@@ -1,5 +1,5 @@
 ---
 title: "St. News"
 url: /edinburgh/st-news/
-shop: Lebensmittel
+shop: convenience
 ---

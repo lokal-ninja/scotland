@@ -1,5 +1,5 @@
 ---
 title: "Kilberry Bagpipes"
 url: /edinburgh/kilberry-bagpipes/
-shop: Instrumente
+shop: musical instrument
 ---

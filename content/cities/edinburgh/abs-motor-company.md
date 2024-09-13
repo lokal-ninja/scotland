@@ -1,5 +1,5 @@
 ---
 title: "ABS Motor Company"
 url: /edinburgh/abs-motor-company/
-shop: Autowerkstatt
+shop: car repair
 ---

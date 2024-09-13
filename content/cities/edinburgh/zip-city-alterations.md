@@ -1,5 +1,5 @@
 ---
 title: "Zip City Alterations"
 url: /edinburgh/zip-city-alterations/
-shop: Schneiderei
+shop: tailor
 ---

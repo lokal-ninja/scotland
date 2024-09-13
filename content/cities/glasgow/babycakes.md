@@ -1,5 +1,5 @@
 ---
 title: "Babycakes"
 url: /glasgow/babycakes/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Concrete Rose"
 url: /edinburgh/concrete-rose/
-shop: Friseur
+shop: hairdresser
 ---

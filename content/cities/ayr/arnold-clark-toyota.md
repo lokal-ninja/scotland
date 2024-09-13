@@ -1,5 +1,5 @@
 ---
 title: "Arnold Clark - Toyota"
 url: /ayr/arnold-clark-toyota/
-shop: Autohaus
+shop: car
 ---

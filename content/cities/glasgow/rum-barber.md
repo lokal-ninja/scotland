@@ -1,5 +1,5 @@
 ---
 title: "Rum Barber"
 url: /glasgow/rum-barber/
-shop: Friseur
+shop: hairdresser
 ---

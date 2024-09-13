@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /inverurie/poundland/
-shop: Kramladen
+shop: variety store
 ---

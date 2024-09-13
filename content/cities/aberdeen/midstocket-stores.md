@@ -1,5 +1,5 @@
 ---
 title: "Midstocket Stores"
 url: /aberdeen/midstocket-stores/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angel Nails"
 url: /aberdeen/angel-nails/
-shop: Kosmetik
+shop: beauty
 ---

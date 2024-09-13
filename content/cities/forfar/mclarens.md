@@ -1,5 +1,5 @@
 ---
 title: "McLaren's"
 url: /forfar/mclarens/
-shop: Friseur
+shop: hairdresser
 ---

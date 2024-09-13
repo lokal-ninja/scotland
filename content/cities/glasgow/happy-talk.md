@@ -1,5 +1,5 @@
 ---
 title: "Happy Talk"
 url: /glasgow/happy-talk/
-shop: Allgemein
+shop: shop
 ---

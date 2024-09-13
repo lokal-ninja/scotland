@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /edinburgh/costcutter-morningside-road/
-shop: Lebensmittel
+shop: convenience
 ---

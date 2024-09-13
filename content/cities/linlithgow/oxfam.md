@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /linlithgow/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

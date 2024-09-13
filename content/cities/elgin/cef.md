@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /elgin/cef/
-shop: Elektrisch
+shop: electrical
 ---

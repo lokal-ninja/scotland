@@ -1,5 +1,5 @@
 ---
 title: "VapeStore"
 url: /alloa/vapestore/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

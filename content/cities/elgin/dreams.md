@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /elgin/dreams/
-shop: Betten
+shop: bed
 ---

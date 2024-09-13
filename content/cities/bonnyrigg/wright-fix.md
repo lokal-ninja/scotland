@@ -1,5 +1,5 @@
 ---
 title: "Wright Fix"
 url: /bonnyrigg/wright-fix/
-shop: Autowerkstatt
+shop: car repair
 ---

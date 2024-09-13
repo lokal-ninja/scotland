@@ -1,5 +1,5 @@
 ---
 title: "A Bathgate Joiners"
 url: /edinburgh/a-bathgate-joiners/
-shop: Baustoffe
+shop: trade
 ---

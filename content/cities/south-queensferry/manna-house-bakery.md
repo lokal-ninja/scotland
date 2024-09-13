@@ -1,5 +1,5 @@
 ---
 title: "Manna House Bakery"
 url: /south-queensferry/manna-house-bakery/
-shop: Bäckerei
+shop: bakery
 ---

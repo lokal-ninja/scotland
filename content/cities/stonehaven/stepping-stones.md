@@ -1,5 +1,5 @@
 ---
 title: "Stepping Stones"
 url: /stonehaven/stepping-stones/
-shop: Kleidung
+shop: clothes
 ---

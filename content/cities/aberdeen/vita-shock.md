@@ -1,5 +1,5 @@
 ---
 title: "Vita-Shock"
 url: /aberdeen/vita-shock/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

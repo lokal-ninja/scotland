@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /glasgow/shelter-dumbarton-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

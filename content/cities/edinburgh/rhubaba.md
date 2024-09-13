@@ -1,5 +1,5 @@
 ---
 title: "Rhubaba"
 url: /edinburgh/rhubaba/
-shop: Kunst
+shop: art
 ---

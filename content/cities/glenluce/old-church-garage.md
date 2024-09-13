@@ -1,5 +1,5 @@
 ---
 title: "Old Church Garage"
 url: /glenluce/old-church-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

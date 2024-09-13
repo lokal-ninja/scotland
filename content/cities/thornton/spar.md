@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /thornton/spar/
-shop: Lebensmittel
+shop: convenience
 ---

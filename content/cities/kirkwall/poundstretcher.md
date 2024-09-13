@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /kirkwall/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

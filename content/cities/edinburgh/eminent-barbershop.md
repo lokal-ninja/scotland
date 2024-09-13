@@ -1,5 +1,5 @@
 ---
 title: "Eminent Barbershop"
 url: /edinburgh/eminent-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

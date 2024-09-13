@@ -1,5 +1,5 @@
 ---
 title: "Alan J Ross (Motor Engineers)"
 url: /aberdeen/alan-j-ross-motor-engineers/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sweet Choices"
 url: /glasgow/sweet-choices/
-shop: Zeitungen
+shop: newsagent
 ---

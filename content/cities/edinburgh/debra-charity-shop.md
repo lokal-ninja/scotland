@@ -1,5 +1,5 @@
 ---
 title: "Debra Charity Shop"
 url: /edinburgh/debra-charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

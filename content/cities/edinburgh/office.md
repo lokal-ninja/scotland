@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /edinburgh/office/
-shop: Schuhe
+shop: shoes
 ---

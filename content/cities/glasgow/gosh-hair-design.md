@@ -1,5 +1,5 @@
 ---
 title: "Gosh! Hair Design"
 url: /glasgow/gosh-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

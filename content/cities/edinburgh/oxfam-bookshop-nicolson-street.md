@@ -1,5 +1,5 @@
 ---
 title: "Oxfam Bookshop"
 url: /edinburgh/oxfam-bookshop-nicolson-street/
-shop: Bücher
+shop: books
 ---

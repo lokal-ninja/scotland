@@ -1,5 +1,5 @@
 ---
 title: "Arnold Clark"
 url: /aberdeen/arnold-clark/
-shop: Autohaus
+shop: car
 ---

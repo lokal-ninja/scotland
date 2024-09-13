@@ -1,5 +1,5 @@
 ---
 title: "Blythswood care"
 url: /invergordon/blythswood-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

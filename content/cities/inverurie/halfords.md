@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /inverurie/halfords/
-shop: Autoteile
+shop: car parts
 ---

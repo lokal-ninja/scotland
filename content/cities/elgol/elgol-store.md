@@ -1,5 +1,5 @@
 ---
 title: "Elgol Store"
 url: /elgol/elgol-store/
-shop: Lebensmittel
+shop: convenience
 ---

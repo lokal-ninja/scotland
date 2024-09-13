@@ -1,5 +1,5 @@
 ---
 title: "Millers Art"
 url: /glasgow/millers-art/
-shop: Kunst
+shop: art
 ---

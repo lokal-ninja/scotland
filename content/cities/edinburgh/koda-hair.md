@@ -1,5 +1,5 @@
 ---
 title: "Koda Hair"
 url: /edinburgh/koda-hair/
-shop: Friseur
+shop: hairdresser
 ---

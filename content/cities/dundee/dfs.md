@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /dundee/dfs/
-shop: Möbel
+shop: furniture
 ---

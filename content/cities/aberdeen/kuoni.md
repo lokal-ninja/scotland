@@ -1,5 +1,5 @@
 ---
 title: "Kuoni"
 url: /aberdeen/kuoni/
-shop: Reisebüro
+shop: travel agency
 ---

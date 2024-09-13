@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /dunfermline/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

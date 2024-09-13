@@ -1,5 +1,5 @@
 ---
 title: "Seleac"
 url: /aberdeen/seleac/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andrew Watt Auto Parts"
 url: /glasgow/andrew-watt-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /perth/poundland/
-shop: Kramladen
+shop: variety store
 ---

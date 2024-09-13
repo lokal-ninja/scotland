@@ -1,5 +1,5 @@
 ---
 title: "Elgin Motor Works"
 url: /rosyth/elgin-motor-works/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /edinburgh/central/
-shop: Zeitungen
+shop: newsagent
 ---

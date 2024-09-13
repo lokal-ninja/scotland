@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /lanark/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

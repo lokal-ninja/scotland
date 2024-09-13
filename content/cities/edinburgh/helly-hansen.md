@@ -1,5 +1,5 @@
 ---
 title: "Helly Hansen"
 url: /edinburgh/helly-hansen/
-shop: Kleidung
+shop: clothes
 ---

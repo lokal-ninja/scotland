@@ -1,5 +1,5 @@
 ---
 title: "Salon Fairnington"
 url: /edinburgh/salon-fairnington/
-shop: Friseur
+shop: hairdresser
 ---

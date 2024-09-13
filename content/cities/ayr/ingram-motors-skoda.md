@@ -1,5 +1,5 @@
 ---
 title: "Ingram Motors Skoda"
 url: /ayr/ingram-motors-skoda/
-shop: Autohaus
+shop: car
 ---

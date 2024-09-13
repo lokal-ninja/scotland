@@ -1,5 +1,5 @@
 ---
 title: "Mina Gents"
 url: /glasgow/mina-gents/
-shop: Friseur
+shop: hairdresser
 ---

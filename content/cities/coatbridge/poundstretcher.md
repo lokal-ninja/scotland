@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /coatbridge/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

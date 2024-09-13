@@ -1,5 +1,5 @@
 ---
 title: "Inside Out"
 url: /portree/inside-out/
-shop: Outdoor
+shop: outdoor
 ---

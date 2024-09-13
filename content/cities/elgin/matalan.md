@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /elgin/matalan/
-shop: Kleidung
+shop: clothes
 ---

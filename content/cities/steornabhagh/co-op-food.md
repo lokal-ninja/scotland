@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /steornabhagh/co-op-food/
-shop: Lebensmittel
+shop: convenience
 ---

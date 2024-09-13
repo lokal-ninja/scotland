@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /inverness/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coppernut"
 url: /largs/coppernut/
-shop: Allgemein
+shop: shop
 ---

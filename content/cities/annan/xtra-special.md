@@ -1,5 +1,5 @@
 ---
 title: "Xtra Special"
 url: /annan/xtra-special/
-shop: Baumarkt
+shop: doityourself
 ---

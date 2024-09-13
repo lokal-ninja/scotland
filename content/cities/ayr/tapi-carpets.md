@@ -1,5 +1,5 @@
 ---
 title: "Tapi Carpets"
 url: /ayr/tapi-carpets/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funky"
 url: /aberdeen/funky/
-shop: Allgemein
+shop: shop
 ---

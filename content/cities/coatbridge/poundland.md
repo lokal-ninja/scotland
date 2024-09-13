@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /coatbridge/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kangaroo Self Storage"
 url: /glasgow/kangaroo-self-storage/
-shop: Mieten
+shop: storage rental
 ---

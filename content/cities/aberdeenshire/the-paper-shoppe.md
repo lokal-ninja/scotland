@@ -1,5 +1,5 @@
 ---
 title: "The Paper Shoppe"
 url: /aberdeenshire/the-paper-shoppe/
-shop: Zeitungen
+shop: newsagent
 ---

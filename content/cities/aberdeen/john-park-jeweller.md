@@ -1,5 +1,5 @@
 ---
 title: "John Park Jeweller"
 url: /aberdeen/john-park-jeweller/
-shop: Schmuck
+shop: jewelry
 ---

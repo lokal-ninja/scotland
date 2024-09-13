@@ -1,5 +1,5 @@
 ---
 title: "TravelHub by Lothian"
 url: /edinburgh/travelhub-by-lothian/
-shop: Tickets
+shop: ticket
 ---

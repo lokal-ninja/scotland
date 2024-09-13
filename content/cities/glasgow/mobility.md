@@ -1,5 +1,5 @@
 ---
 title: "Mobility"
 url: /glasgow/mobility/
-shop: Handy
+shop: mobile phone
 ---

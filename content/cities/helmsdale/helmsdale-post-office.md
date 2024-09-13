@@ -1,5 +1,5 @@
 ---
 title: "Helmsdale Post Office"
 url: /helmsdale/helmsdale-post-office/
-shop: Garten-Center
+shop: garden centre
 ---

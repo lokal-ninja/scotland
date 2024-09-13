@@ -1,5 +1,5 @@
 ---
 title: "Caring"
 url: /glasgow/caring/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /aberdeen/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

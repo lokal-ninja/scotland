@@ -1,5 +1,5 @@
 ---
 title: "Bargain Store"
 url: /renfrew/bargain-store/
-shop: Kramladen
+shop: variety store
 ---

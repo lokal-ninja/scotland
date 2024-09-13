@@ -1,5 +1,5 @@
 ---
 title: "Store Twenty One"
 url: /ayr/store-twenty-one/
-shop: Kleidung
+shop: clothes
 ---

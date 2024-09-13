@@ -1,5 +1,5 @@
 ---
 title: "Jessica Buckley"
 url: /edinburgh/jessica-buckley/
-shop: Raumausstattung
+shop: interior decoration
 ---

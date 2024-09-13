@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /elgin/specsavers/
-shop: Optiker
+shop: optician
 ---

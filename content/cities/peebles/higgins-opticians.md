@@ -1,5 +1,5 @@
 ---
 title: "Higgins Opticians"
 url: /peebles/higgins-opticians/
-shop: Optiker
+shop: optician
 ---

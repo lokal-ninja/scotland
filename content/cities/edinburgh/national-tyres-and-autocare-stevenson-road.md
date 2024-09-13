@@ -1,5 +1,5 @@
 ---
 title: "National Tyres and Autocare"
 url: /edinburgh/national-tyres-and-autocare-stevenson-road/
-shop: Autowerkstatt
+shop: car repair
 ---

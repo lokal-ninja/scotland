@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /brechin/scotmid/
-shop: Lebensmittel
+shop: convenience
 ---

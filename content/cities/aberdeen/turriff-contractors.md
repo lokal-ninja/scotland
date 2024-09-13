@@ -1,5 +1,5 @@
 ---
 title: "Turriff Contractors"
 url: /aberdeen/turriff-contractors/
-shop: Autowerkstatt
+shop: car repair
 ---

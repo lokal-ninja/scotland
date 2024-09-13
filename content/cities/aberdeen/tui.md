@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /aberdeen/tui/
-shop: Reisebüro
+shop: travel agency
 ---

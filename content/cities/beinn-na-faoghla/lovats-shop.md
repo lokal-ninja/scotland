@@ -1,5 +1,5 @@
 ---
 title: "Lovats Shop"
 url: /beinn-na-faoghla/lovats-shop/
-shop: Supermarkt
+shop: supermarket
 ---

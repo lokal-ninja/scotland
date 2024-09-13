@@ -1,5 +1,5 @@
 ---
 title: "Hestie"
 url: /edinburgh/hestie/
-shop: Haushaltsartikel
+shop: houseware
 ---

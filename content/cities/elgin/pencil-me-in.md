@@ -1,5 +1,5 @@
 ---
 title: "Pencil Me In"
 url: /elgin/pencil-me-in/
-shop: Schreibwaren
+shop: office supplies
 ---

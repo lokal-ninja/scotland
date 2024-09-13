@@ -1,5 +1,5 @@
 ---
 title: "Wahaab Barber"
 url: /aberdeen/wahaab-barber/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /airdrie/poundland/
-shop: Kramladen
+shop: variety store
 ---

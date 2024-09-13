@@ -1,5 +1,5 @@
 ---
 title: "Smokeout"
 url: /edinburgh/smokeout/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outdoorwear Outlet Store"
 url: /largs/outdoorwear-outlet-store/
-shop: Kleidung
+shop: clothes
 ---

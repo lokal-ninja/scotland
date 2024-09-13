@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /aberdeen/lakeland/
-shop: Haushaltsartikel
+shop: houseware
 ---

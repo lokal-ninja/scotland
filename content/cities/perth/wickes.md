@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /perth/wickes/
-shop: Baumarkt
+shop: doityourself
 ---

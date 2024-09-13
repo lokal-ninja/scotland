@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /dundee/tui/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brevity"
 url: /peebles/brevity/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AS Car Service Centre"
 url: /glasgow/as-car-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

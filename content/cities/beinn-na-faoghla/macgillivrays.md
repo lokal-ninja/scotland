@@ -1,5 +1,5 @@
 ---
 title: "MacGillivray's"
 url: /beinn-na-faoghla/macgillivrays/
-shop: Andenken
+shop: gift
 ---

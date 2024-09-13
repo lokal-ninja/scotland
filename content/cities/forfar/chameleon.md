@@ -1,5 +1,5 @@
 ---
 title: "Chameleon"
 url: /forfar/chameleon/
-shop: Blumen
+shop: florist
 ---

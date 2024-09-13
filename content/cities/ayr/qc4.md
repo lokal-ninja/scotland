@@ -1,5 +1,5 @@
 ---
 title: "QC4"
 url: /ayr/qc4/
-shop: Friseur
+shop: hairdresser
 ---

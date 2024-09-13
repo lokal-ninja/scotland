@@ -1,5 +1,5 @@
 ---
 title: "The Galleria"
 url: /aberdeen/the-galleria/
-shop: Einkaufszentrum
+shop: mall
 ---

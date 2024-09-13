@@ -1,5 +1,5 @@
 ---
 title: "Hair Lounge"
 url: /edinburgh/hair-lounge/
-shop: Friseur
+shop: hairdresser
 ---

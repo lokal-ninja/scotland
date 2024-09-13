@@ -1,5 +1,5 @@
 ---
 title: "Highland Chic"
 url: /pitlochry/highland-chic/
-shop: Raumausstattung
+shop: interior decoration
 ---

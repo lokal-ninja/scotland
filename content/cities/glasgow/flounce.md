@@ -1,5 +1,5 @@
 ---
 title: "Flounce"
 url: /glasgow/flounce/
-shop: Haushaltsartikel
+shop: houseware
 ---

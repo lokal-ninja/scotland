@@ -1,5 +1,5 @@
 ---
 title: "Abo Alnour Sweets"
 url: /edinburgh/abo-alnour-sweets/
-shop: Konditorei
+shop: pastry
 ---

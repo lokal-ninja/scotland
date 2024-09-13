@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /stonehaven/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

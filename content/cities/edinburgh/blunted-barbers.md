@@ -1,5 +1,5 @@
 ---
 title: "Blunted Barbers"
 url: /edinburgh/blunted-barbers/
-shop: Friseur
+shop: hairdresser
 ---

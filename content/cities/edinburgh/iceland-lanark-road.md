@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /edinburgh/iceland-lanark-road/
-shop: Tiefkühl
+shop: frozen food
 ---

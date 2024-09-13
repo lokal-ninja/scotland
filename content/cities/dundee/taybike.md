@@ -1,5 +1,5 @@
 ---
 title: "Taybike"
 url: /dundee/taybike/
-shop: Sport
+shop: sports
 ---

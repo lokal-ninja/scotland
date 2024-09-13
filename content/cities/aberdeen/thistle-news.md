@@ -1,5 +1,5 @@
 ---
 title: "Thistle News"
 url: /aberdeen/thistle-news/
-shop: Lebensmittel
+shop: convenience
 ---

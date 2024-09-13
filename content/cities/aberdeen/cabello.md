@@ -1,5 +1,5 @@
 ---
 title: "Cabello"
 url: /aberdeen/cabello/
-shop: Friseur
+shop: hairdresser
 ---

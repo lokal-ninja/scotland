@@ -1,5 +1,5 @@
 ---
 title: "Drum Farm Antiques"
 url: /edinburgh/drum-farm-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

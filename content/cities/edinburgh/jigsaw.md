@@ -1,5 +1,5 @@
 ---
 title: "Jigsaw"
 url: /edinburgh/jigsaw/
-shop: Kleidung
+shop: clothes
 ---

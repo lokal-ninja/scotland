@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /glasgow/premier/
-shop: Lebensmittel
+shop: convenience
 ---

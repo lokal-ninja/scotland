@@ -1,5 +1,5 @@
 ---
 title: "William Purves"
 url: /edinburgh/william-purves-braid-road/
-shop: Bestattungen
+shop: funeral directors
 ---

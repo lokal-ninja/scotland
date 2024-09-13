@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /elgin/halfords/
-shop: Autoteile
+shop: car parts
 ---

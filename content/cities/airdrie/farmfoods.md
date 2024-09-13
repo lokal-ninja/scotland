@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /airdrie/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

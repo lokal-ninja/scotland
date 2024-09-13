@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /motherwell/rebel/
-shop: Kleidung
+shop: clothes
 ---

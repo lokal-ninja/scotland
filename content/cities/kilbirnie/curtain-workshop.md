@@ -1,5 +1,5 @@
 ---
 title: "Curtain Workshop"
 url: /kilbirnie/curtain-workshop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier Express"
 url: /aberdeen/premier-express/
-shop: Lebensmittel
+shop: convenience
 ---

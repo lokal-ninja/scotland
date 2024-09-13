@@ -1,5 +1,5 @@
 ---
 title: "Scott Gilmour Optometrists"
 url: /aberdeen/scott-gilmour-optometrists/
-shop: Optiker
+shop: optician
 ---

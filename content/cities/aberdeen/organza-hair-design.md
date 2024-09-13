@@ -1,5 +1,5 @@
 ---
 title: "Organza Hair Design"
 url: /aberdeen/organza-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

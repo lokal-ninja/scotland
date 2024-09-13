@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /pitlochry/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

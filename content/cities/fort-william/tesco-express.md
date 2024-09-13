@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /fort-william/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /aberdeen/currys/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snips"
 url: /forfar/snips/
-shop: Friseur
+shop: hairdresser
 ---

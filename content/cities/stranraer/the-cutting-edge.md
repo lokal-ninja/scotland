@@ -1,5 +1,5 @@
 ---
 title: "The Cutting Edge"
 url: /stranraer/the-cutting-edge/
-shop: Friseur
+shop: hairdresser
 ---

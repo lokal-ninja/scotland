@@ -1,5 +1,5 @@
 ---
 title: "Bluntz"
 url: /edinburgh/bluntz-magdalene-drive/
-shop: Friseur
+shop: hairdresser
 ---

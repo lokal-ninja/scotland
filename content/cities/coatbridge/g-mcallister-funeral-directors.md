@@ -1,5 +1,5 @@
 ---
 title: "G.McAllister Funeral Directors"
 url: /coatbridge/g-mcallister-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

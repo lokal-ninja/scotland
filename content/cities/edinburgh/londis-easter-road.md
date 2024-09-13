@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /edinburgh/londis-easter-road/
-shop: Lebensmittel
+shop: convenience
 ---

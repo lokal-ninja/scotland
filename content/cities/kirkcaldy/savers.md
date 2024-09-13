@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /kirkcaldy/savers/
-shop: Drogerie
+shop: chemist
 ---

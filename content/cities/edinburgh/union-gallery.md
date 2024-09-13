@@ -1,5 +1,5 @@
 ---
 title: "Union Gallery"
 url: /edinburgh/union-gallery/
-shop: Kunst
+shop: art
 ---

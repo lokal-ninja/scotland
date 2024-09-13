@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /falkirk/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

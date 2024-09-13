@@ -1,5 +1,5 @@
 ---
 title: "Buth Scalpaigh"
 url: /sgalpaigh/buth-scalpaigh/
-shop: Lebensmittel
+shop: convenience
 ---

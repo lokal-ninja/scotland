@@ -1,5 +1,5 @@
 ---
 title: "Greaves Sports"
 url: /glasgow/greaves-sports/
-shop: Sport
+shop: sports
 ---

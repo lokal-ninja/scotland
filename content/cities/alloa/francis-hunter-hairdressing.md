@@ -1,5 +1,5 @@
 ---
 title: "Francis Hunter Hairdressing"
 url: /alloa/francis-hunter-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crossmichael Shop"
 url: /crossmichael/crossmichael-shop/
-shop: Lebensmittel
+shop: convenience
 ---

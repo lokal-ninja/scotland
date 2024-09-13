@@ -1,5 +1,5 @@
 ---
 title: "Gretna Flower Basket"
 url: /gretna/gretna-flower-basket/
-shop: Blumen
+shop: florist
 ---

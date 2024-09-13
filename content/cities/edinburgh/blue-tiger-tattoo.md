@@ -1,5 +1,5 @@
 ---
 title: "Blue Tiger Tattoo"
 url: /edinburgh/blue-tiger-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

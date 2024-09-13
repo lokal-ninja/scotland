@@ -1,5 +1,5 @@
 ---
 title: "Convenience Store CVI"
 url: /aberdeen/convenience-store-cvi/
-shop: Lebensmittel
+shop: convenience
 ---

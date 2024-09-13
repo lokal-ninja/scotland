@@ -1,5 +1,5 @@
 ---
 title: "Bargain Spot"
 url: /newburgh/bargain-spot/
-shop: Zeitungen
+shop: newsagent
 ---

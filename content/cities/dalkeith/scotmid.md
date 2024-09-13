@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /dalkeith/scotmid/
-shop: Supermarkt
+shop: supermarket
 ---

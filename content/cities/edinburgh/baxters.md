@@ -1,5 +1,5 @@
 ---
 title: "Baxter's"
 url: /edinburgh/baxters/
-shop: Friseur
+shop: hairdresser
 ---

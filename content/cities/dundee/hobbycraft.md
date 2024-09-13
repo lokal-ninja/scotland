@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /dundee/hobbycraft/
-shop: Basteln
+shop: craft
 ---

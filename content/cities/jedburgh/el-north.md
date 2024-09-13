@@ -1,5 +1,5 @@
 ---
 title: "el.North"
 url: /jedburgh/el-north/
-shop: Kleidung
+shop: clothes
 ---

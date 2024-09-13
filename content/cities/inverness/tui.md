@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /inverness/tui/
-shop: Reisebüro
+shop: travel agency
 ---

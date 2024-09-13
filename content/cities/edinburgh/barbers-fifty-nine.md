@@ -1,5 +1,5 @@
 ---
 title: "Barbers Fifty Nine"
 url: /edinburgh/barbers-fifty-nine/
-shop: Friseur
+shop: hairdresser
 ---

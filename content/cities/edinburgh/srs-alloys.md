@@ -1,5 +1,5 @@
 ---
 title: "SRS Alloys"
 url: /edinburgh/srs-alloys/
-shop: Autoteile
+shop: car parts
 ---

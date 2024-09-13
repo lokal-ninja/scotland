@@ -1,5 +1,5 @@
 ---
 title: "Junction"
 url: /aberdeen/junction/
-shop: Friseur
+shop: hairdresser
 ---

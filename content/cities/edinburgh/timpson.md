@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /edinburgh/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sew Neat"
 url: /dundee/sew-neat/
-shop: Schneiderei
+shop: tailor
 ---

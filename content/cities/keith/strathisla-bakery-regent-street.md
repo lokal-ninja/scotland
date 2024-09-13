@@ -1,5 +1,5 @@
 ---
 title: "Strathisla Bakery"
 url: /keith/strathisla-bakery-regent-street/
-shop: Bäckerei
+shop: bakery
 ---

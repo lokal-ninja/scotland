@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /dalkeith/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

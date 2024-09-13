@@ -1,5 +1,5 @@
 ---
 title: "Touch of Beauty"
 url: /aberdeen/touch-of-beauty/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marie Curie"
 url: /edinburgh/marie-curie-portobello-high-street/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /aberdeen/specsavers/
-shop: Optiker
+shop: optician
 ---

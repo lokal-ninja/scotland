@@ -1,5 +1,5 @@
 ---
 title: "Swish"
 url: /edinburgh/swish/
-shop: Kleidung
+shop: clothes
 ---

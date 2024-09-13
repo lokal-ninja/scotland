@@ -1,5 +1,5 @@
 ---
 title: "Neil Hoey"
 url: /rosyth/neil-hoey/
-shop: Metzgerei
+shop: butcher
 ---

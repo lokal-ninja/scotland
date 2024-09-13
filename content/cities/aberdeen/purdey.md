@@ -1,5 +1,5 @@
 ---
 title: "Purdey"
 url: /aberdeen/purdey/
-shop: Friseur
+shop: hairdresser
 ---

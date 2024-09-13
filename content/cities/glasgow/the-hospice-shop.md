@@ -1,5 +1,5 @@
 ---
 title: "The Hospice Shop"
 url: /glasgow/the-hospice-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

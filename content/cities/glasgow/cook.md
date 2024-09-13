@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /glasgow/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viewforth Eyecare"
 url: /edinburgh/viewforth-eyecare/
-shop: Optiker
+shop: optician
 ---

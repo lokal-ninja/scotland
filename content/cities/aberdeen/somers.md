@@ -1,5 +1,5 @@
 ---
 title: "Somers"
 url: /aberdeen/somers/
-shop: Angeln
+shop: fishing
 ---

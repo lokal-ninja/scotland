@@ -1,5 +1,5 @@
 ---
 title: "Bayne's"
 url: /prestonpans/baynes/
-shop: Bäckerei
+shop: bakery
 ---

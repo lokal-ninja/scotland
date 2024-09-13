@@ -1,5 +1,5 @@
 ---
 title: "Airdrie Flowers"
 url: /airdrie/airdrie-flowers/
-shop: Blumen
+shop: florist
 ---

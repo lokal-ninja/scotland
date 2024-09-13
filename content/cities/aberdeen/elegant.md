@@ -1,5 +1,5 @@
 ---
 title: "Elegant"
 url: /aberdeen/elegant/
-shop: Schneiderei
+shop: tailor
 ---

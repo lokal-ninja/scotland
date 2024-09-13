@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /hawick/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

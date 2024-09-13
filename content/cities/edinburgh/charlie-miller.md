@@ -1,5 +1,5 @@
 ---
 title: "charlie miller"
 url: /edinburgh/charlie-miller/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /fort-william/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

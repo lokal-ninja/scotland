@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /glasgow/co-op-food-paisley-road-west/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /wick/argos/
-shop: Katalog
+shop: catalogue
 ---

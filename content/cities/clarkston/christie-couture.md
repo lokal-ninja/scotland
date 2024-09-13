@@ -1,5 +1,5 @@
 ---
 title: "Christie Couture"
 url: /clarkston/christie-couture/
-shop: Kleidung
+shop: clothes
 ---

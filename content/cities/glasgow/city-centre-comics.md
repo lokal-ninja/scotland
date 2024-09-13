@@ -1,5 +1,5 @@
 ---
 title: "City Centre Comics"
 url: /glasgow/city-centre-comics/
-shop: Sammler
+shop: collector
 ---

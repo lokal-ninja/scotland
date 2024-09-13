@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Tile Studio"
 url: /edinburgh/edinburgh-tile-studio/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magic Scissors"
 url: /dundee/magic-scissors/
-shop: Friseur
+shop: hairdresser
 ---

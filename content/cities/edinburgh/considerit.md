@@ -1,5 +1,5 @@
 ---
 title: "Considerit"
 url: /edinburgh/considerit/
-shop: Konditorei
+shop: pastry
 ---

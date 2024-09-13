@@ -1,5 +1,5 @@
 ---
 title: "Beerhive"
 url: /edinburgh/beerhive/
-shop: Spirituosen
+shop: alcohol
 ---

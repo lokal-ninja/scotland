@@ -1,5 +1,5 @@
 ---
 title: "Ambiance Nail Spa"
 url: /edinburgh/ambiance-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

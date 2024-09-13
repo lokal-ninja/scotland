@@ -1,5 +1,5 @@
 ---
 title: "Dugout"
 url: /aberdeen/dugout/
-shop: Kleidung
+shop: clothes
 ---

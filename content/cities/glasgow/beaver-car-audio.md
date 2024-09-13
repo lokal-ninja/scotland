@@ -1,5 +1,5 @@
 ---
 title: "Beaver Car Audio"
 url: /glasgow/beaver-car-audio/
-shop: Autoteile
+shop: car parts
 ---

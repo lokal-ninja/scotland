@@ -1,5 +1,5 @@
 ---
 title: "Catwalk"
 url: /edinburgh/catwalk/
-shop: Kleidung
+shop: clothes
 ---

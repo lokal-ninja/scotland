@@ -1,5 +1,5 @@
 ---
 title: "Carnivàle"
 url: /edinburgh/carnivale/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DermaCare Medical"
 url: /edinburgh/dermacare-medical/
-shop: Kosmetik
+shop: beauty
 ---

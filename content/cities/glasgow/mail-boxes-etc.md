@@ -1,5 +1,5 @@
 ---
 title: "Mail Boxes Etc."
 url: /glasgow/mail-boxes-etc/
-shop: Kopieren
+shop: copyshop
 ---

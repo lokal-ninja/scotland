@@ -1,5 +1,5 @@
 ---
 title: "Porteous Family Funeral Directors"
 url: /edinburgh/porteous-family-funeral-directors-lanark-road/
-shop: Bestattungen
+shop: funeral directors
 ---

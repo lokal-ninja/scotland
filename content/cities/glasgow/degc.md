@@ -1,5 +1,5 @@
 ---
 title: "°C"
 url: /glasgow/degc/
-shop: Friseur
+shop: hairdresser
 ---

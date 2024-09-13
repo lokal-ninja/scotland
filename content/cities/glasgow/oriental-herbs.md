@@ -1,5 +1,5 @@
 ---
 title: "Oriental Herbs"
 url: /glasgow/oriental-herbs/
-shop: Bioladen
+shop: health food
 ---

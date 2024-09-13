@@ -1,5 +1,5 @@
 ---
 title: "AirdriePhone and PC Shop"
 url: /airdrie/airdriephone-and-pc-shop/
-shop: Handy
+shop: mobile phone
 ---

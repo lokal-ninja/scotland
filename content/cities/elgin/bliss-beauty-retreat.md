@@ -1,5 +1,5 @@
 ---
 title: "Bliss Beauty Retreat"
 url: /elgin/bliss-beauty-retreat/
-shop: Kosmetik
+shop: beauty
 ---

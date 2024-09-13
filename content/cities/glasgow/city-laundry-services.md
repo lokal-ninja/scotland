@@ -1,5 +1,5 @@
 ---
 title: "City Laundry Services"
 url: /glasgow/city-laundry-services/
-shop: Wäscherei
+shop: laundry
 ---

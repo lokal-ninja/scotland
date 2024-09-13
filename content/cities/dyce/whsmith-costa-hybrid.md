@@ -1,5 +1,5 @@
 ---
 title: "WHSmith Costa Hybrid"
 url: /dyce/whsmith-costa-hybrid/
-shop: Lebensmittel
+shop: convenience
 ---

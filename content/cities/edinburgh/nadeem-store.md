@@ -1,5 +1,5 @@
 ---
 title: "Nadeem Store"
 url: /edinburgh/nadeem-store/
-shop: Zeitungen
+shop: newsagent
 ---

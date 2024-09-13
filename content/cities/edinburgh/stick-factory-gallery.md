@@ -1,5 +1,5 @@
 ---
 title: "Stick Factory Gallery"
 url: /edinburgh/stick-factory-gallery/
-shop: Kunst
+shop: art
 ---

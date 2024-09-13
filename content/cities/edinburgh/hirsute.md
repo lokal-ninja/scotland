@@ -1,5 +1,5 @@
 ---
 title: "Hirsute"
 url: /edinburgh/hirsute/
-shop: Friseur
+shop: hairdresser
 ---

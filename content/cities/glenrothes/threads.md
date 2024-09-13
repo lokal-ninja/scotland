@@ -1,5 +1,5 @@
 ---
 title: "Threads"
 url: /glenrothes/threads/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundbasket"
 url: /largs/poundbasket/
-shop: Kramladen
+shop: variety store
 ---

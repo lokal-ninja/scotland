@@ -1,5 +1,5 @@
 ---
 title: "Gavin Kilt Hire"
 url: /fraserburgh/gavin-kilt-hire/
-shop: Kleidung
+shop: clothes
 ---

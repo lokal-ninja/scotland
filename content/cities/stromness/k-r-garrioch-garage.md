@@ -1,5 +1,5 @@
 ---
 title: "K R Garrioch Garage"
 url: /stromness/k-r-garrioch-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

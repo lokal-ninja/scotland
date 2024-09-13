@@ -1,5 +1,5 @@
 ---
 title: "Next Home"
 url: /kirkcaldy/next-home/
-shop: Warenhaus
+shop: department store
 ---

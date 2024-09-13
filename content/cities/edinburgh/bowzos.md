@@ -1,5 +1,5 @@
 ---
 title: "Bowzos"
 url: /edinburgh/bowzos/
-shop: Tiere
+shop: pet
 ---

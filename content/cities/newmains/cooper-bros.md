@@ -1,5 +1,5 @@
 ---
 title: "Cooper Bros"
 url: /newmains/cooper-bros/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golf Addict"
 url: /peterhead/golf-addict/
-shop: Golf
+shop: golf
 ---

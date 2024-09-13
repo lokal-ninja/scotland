@@ -1,5 +1,5 @@
 ---
 title: "Bahia"
 url: /rosyth/bahia/
-shop: Lebensmittel
+shop: convenience
 ---

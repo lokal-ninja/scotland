@@ -1,5 +1,5 @@
 ---
 title: "Colleen's Culture Lounge"
 url: /edinburgh/colleens-culture-lounge/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cameratiks"
 url: /edinburgh/cameratiks/
-shop: Foto
+shop: photo
 ---

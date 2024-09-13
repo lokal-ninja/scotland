@@ -1,5 +1,5 @@
 ---
 title: "AbbiesOven"
 url: /edinburgh/abbiesoven/
-shop: Bäckerei
+shop: bakery
 ---

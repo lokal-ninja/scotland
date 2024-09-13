@@ -1,5 +1,5 @@
 ---
 title: "Kingdom Shopping Centre"
 url: /glenrothes/kingdom-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

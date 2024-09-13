@@ -1,5 +1,5 @@
 ---
 title: "Whinnieknowe"
 url: /burntisland/whinnieknowe/
-shop: Hofladen
+shop: farm
 ---

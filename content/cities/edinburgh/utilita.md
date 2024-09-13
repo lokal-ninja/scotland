@@ -1,5 +1,5 @@
 ---
 title: "Utilita"
 url: /edinburgh/utilita/
-shop: Handy
+shop: mobile phone
 ---

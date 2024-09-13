@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /edinburgh/morrisons-daily-ferry-road/
-shop: Lebensmittel
+shop: convenience
 ---

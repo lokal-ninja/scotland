@@ -1,5 +1,5 @@
 ---
 title: "Wex Photo Video"
 url: /edinburgh/wex-photo-video/
-shop: Kamera
+shop: camera
 ---

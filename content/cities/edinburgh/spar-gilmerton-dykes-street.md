@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /edinburgh/spar-gilmerton-dykes-street/
-shop: Lebensmittel
+shop: convenience
 ---

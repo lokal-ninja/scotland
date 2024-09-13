@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /harthill/scotmid/
-shop: Lebensmittel
+shop: convenience
 ---

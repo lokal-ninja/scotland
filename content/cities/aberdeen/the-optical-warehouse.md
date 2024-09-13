@@ -1,5 +1,5 @@
 ---
 title: "The Optical Warehouse"
 url: /aberdeen/the-optical-warehouse/
-shop: Optiker
+shop: optician
 ---

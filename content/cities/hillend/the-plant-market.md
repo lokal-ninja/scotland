@@ -1,5 +1,5 @@
 ---
 title: "The Plant Market"
 url: /hillend/the-plant-market/
-shop: Garten-Center
+shop: garden centre
 ---

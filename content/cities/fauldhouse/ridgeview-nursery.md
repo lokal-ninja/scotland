@@ -1,5 +1,5 @@
 ---
 title: "Ridgeview Nursery"
 url: /fauldhouse/ridgeview-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

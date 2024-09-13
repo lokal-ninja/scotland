@@ -1,5 +1,5 @@
 ---
 title: "Caulders"
 url: /milngavie/caulders/
-shop: Garten-Center
+shop: garden centre
 ---

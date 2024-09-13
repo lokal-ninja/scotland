@@ -1,5 +1,5 @@
 ---
 title: "Stonecraft"
 url: /edinburgh/stonecraft/
-shop: Raumausstattung
+shop: interior decoration
 ---

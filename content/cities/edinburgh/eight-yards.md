@@ -1,5 +1,5 @@
 ---
 title: "Eight Yards"
 url: /edinburgh/eight-yards/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sinclair Office Supplies"
 url: /kirkwall-orkney/sinclair-office-supplies/
-shop: Schreibwaren
+shop: office supplies
 ---

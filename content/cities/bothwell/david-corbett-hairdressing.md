@@ -1,5 +1,5 @@
 ---
 title: "David Corbett Hairdressing"
 url: /bothwell/david-corbett-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

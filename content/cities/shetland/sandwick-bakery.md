@@ -1,5 +1,5 @@
 ---
 title: "Sandwick Bakery"
 url: /shetland/sandwick-bakery/
-shop: Bäckerei
+shop: bakery
 ---

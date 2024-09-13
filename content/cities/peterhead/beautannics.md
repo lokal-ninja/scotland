@@ -1,5 +1,5 @@
 ---
 title: "Beautannics"
 url: /peterhead/beautannics/
-shop: Friseur
+shop: hairdresser
 ---

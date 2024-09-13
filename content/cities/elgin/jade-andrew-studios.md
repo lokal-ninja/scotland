@@ -1,5 +1,5 @@
 ---
 title: "Jade Andrew Studios"
 url: /elgin/jade-andrew-studios/
-shop: Friseur
+shop: hairdresser
 ---

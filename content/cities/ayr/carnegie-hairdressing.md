@@ -1,5 +1,5 @@
 ---
 title: "Carnegie Hairdressing"
 url: /ayr/carnegie-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Electrical Factors"
 url: /stirling/city-electrical-factors/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bird and Blend"
 url: /edinburgh/bird-and-blend/
-shop: Tee
+shop: tea
 ---

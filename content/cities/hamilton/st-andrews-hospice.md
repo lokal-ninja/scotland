@@ -1,5 +1,5 @@
 ---
 title: "St. Andrew's Hospice"
 url: /hamilton/st-andrews-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

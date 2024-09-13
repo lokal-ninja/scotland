@@ -1,5 +1,5 @@
 ---
 title: "Fonehouse"
 url: /hawick/fonehouse/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tynecastle Garage"
 url: /edinburgh/tynecastle-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

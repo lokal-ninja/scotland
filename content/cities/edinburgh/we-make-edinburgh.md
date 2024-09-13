@@ -1,5 +1,5 @@
 ---
 title: "We Make Edinburgh"
 url: /edinburgh/we-make-edinburgh/
-shop: Kunst
+shop: art
 ---

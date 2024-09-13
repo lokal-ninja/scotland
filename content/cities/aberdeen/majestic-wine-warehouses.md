@@ -1,5 +1,5 @@
 ---
 title: "Majestic Wine Warehouses"
 url: /aberdeen/majestic-wine-warehouses/
-shop: Spirituosen
+shop: alcohol
 ---

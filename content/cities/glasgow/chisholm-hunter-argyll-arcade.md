@@ -1,5 +1,5 @@
 ---
 title: "Chisholm Hunter"
 url: /glasgow/chisholm-hunter-argyll-arcade/
-shop: Schmuck
+shop: jewelry
 ---

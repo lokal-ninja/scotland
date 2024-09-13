@@ -1,5 +1,5 @@
 ---
 title: "Luxe"
 url: /rosyth/luxe/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

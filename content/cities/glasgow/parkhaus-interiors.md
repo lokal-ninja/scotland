@@ -1,5 +1,5 @@
 ---
 title: "ParkHaus Interiors"
 url: /glasgow/parkhaus-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

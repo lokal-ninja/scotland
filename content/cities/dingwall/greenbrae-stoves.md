@@ -1,5 +1,5 @@
 ---
 title: "Greenbrae Stoves"
 url: /dingwall/greenbrae-stoves/
-shop: Allgemein
+shop: shop
 ---

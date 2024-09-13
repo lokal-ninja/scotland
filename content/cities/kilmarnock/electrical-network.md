@@ -1,5 +1,5 @@
 ---
 title: "Electrical Network"
 url: /kilmarnock/electrical-network/
-shop: Eisenwaren
+shop: hardware
 ---

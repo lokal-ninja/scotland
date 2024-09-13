@@ -1,5 +1,5 @@
 ---
 title: "Olde Edinburgh"
 url: /edinburgh/olde-edinburgh/
-shop: Kleidung
+shop: clothes
 ---

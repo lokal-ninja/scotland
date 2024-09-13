@@ -1,5 +1,5 @@
 ---
 title: "BAM Glasgow"
 url: /glasgow/bam-glasgow/
-shop: Andenken
+shop: gift
 ---

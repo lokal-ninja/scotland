@@ -1,5 +1,5 @@
 ---
 title: "Velow Bikeworks"
 url: /edinburgh/velow-bikeworks/
-shop: Fahrrad
+shop: bicycle
 ---

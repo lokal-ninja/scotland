@@ -1,5 +1,5 @@
 ---
 title: "DiBiasio Styling"
 url: /west-calder/dibiasio-styling/
-shop: Friseur
+shop: hairdresser
 ---

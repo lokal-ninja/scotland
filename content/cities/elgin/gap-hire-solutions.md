@@ -1,5 +1,5 @@
 ---
 title: "GAP Hire Solutions"
 url: /elgin/gap-hire-solutions/
-shop: Werkzeuge
+shop: tools
 ---

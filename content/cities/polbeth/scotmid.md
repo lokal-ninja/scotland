@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /polbeth/scotmid/
-shop: Supermarkt
+shop: supermarket
 ---

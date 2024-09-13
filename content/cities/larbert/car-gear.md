@@ -1,5 +1,5 @@
 ---
 title: "Car Gear"
 url: /larbert/car-gear/
-shop: Autoteile
+shop: car parts
 ---

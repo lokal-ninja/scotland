@@ -1,5 +1,5 @@
 ---
 title: "Autosonic"
 url: /aberdeen/autosonic/
-shop: Autoteile
+shop: car parts
 ---

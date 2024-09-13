@@ -1,5 +1,5 @@
 ---
 title: "Galletly Tubbs"
 url: /glasgow/galletly-tubbs/
-shop: Haushaltsartikel
+shop: houseware
 ---

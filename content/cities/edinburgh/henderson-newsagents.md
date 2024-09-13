@@ -1,5 +1,5 @@
 ---
 title: "Henderson Newsagents"
 url: /edinburgh/henderson-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

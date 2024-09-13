@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /arbroath/poundland/
-shop: Kramladen
+shop: variety store
 ---

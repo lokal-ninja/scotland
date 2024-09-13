@@ -1,5 +1,5 @@
 ---
 title: "Hourstons"
 url: /ayr/hourstons/
-shop: Warenhaus
+shop: department store
 ---

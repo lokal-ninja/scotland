@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /edinburgh/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atlas"
 url: /edinburgh/atlas/
-shop: Andenken
+shop: gift
 ---

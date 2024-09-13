@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /dunfermline/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /glasgow/magnet/
-shop: Küchen
+shop: kitchen
 ---

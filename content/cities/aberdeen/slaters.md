@@ -1,5 +1,5 @@
 ---
 title: "Slaters"
 url: /aberdeen/slaters/
-shop: Kleidung
+shop: clothes
 ---

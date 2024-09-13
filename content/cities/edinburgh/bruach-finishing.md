@@ -1,5 +1,5 @@
 ---
 title: "Bruach Finishing"
 url: /edinburgh/bruach-finishing/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /edinburgh/costcutter-raeburn-place/
-shop: Lebensmittel
+shop: convenience
 ---

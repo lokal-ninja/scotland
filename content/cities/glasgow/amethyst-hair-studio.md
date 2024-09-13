@@ -1,5 +1,5 @@
 ---
 title: "Amethyst Hair Studio"
 url: /glasgow/amethyst-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

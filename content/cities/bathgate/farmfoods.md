@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /bathgate/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

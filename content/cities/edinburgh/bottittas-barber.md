@@ -1,5 +1,5 @@
 ---
 title: "Bottitta's Barber"
 url: /edinburgh/bottittas-barber/
-shop: Friseur
+shop: hairdresser
 ---

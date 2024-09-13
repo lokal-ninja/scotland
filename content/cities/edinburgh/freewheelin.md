@@ -1,5 +1,5 @@
 ---
 title: "Freewheelin'"
 url: /edinburgh/freewheelin/
-shop: Fahrrad
+shop: bicycle
 ---

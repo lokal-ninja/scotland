@@ -1,5 +1,5 @@
 ---
 title: "Typo"
 url: /aberdeen/typo/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TherapACE"
 url: /aberdeen/therapace/
-shop: Kunst
+shop: art
 ---

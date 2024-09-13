@@ -1,5 +1,5 @@
 ---
 title: "Full Circle Bakes"
 url: /glasgow/full-circle-bakes/
-shop: Bäckerei
+shop: bakery
 ---

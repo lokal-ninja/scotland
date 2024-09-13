@@ -1,5 +1,5 @@
 ---
 title: "Nisbets"
 url: /glasgow/nisbets/
-shop: Küchen
+shop: kitchen
 ---

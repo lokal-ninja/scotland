@@ -1,5 +1,5 @@
 ---
 title: "The Italian Barber"
 url: /inverkeithing/the-italian-barber/
-shop: Friseur
+shop: hairdresser
 ---

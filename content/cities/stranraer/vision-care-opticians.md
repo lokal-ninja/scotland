@@ -1,5 +1,5 @@
 ---
 title: "Vision Care Opticians"
 url: /stranraer/vision-care-opticians/
-shop: Optiker
+shop: optician
 ---

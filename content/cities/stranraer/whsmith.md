@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /stranraer/whsmith/
-shop: Bücher
+shop: books
 ---

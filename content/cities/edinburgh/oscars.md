@@ -1,5 +1,5 @@
 ---
 title: "Oscar’s"
 url: /edinburgh/oscars/
-shop: Leerstehend
+shop: vacant
 ---

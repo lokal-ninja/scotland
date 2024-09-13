@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /east-kilbride/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

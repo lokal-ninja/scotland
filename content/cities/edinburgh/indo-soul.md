@@ -1,5 +1,5 @@
 ---
 title: "Indo Soul"
 url: /edinburgh/indo-soul/
-shop: Friseur
+shop: hairdresser
 ---

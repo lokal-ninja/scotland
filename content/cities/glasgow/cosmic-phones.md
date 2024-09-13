@@ -1,5 +1,5 @@
 ---
 title: "Cosmic Phones"
 url: /glasgow/cosmic-phones/
-shop: Handy
+shop: mobile phone
 ---

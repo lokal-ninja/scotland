@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Permanent Makeup"
 url: /edinburgh/edinburgh-permanent-makeup/
-shop: Kosmetik
+shop: beauty
 ---

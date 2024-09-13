@@ -1,5 +1,5 @@
 ---
 title: "French Kisses"
 url: /ayr/french-kisses/
-shop: Tiersalon
+shop: pet grooming
 ---

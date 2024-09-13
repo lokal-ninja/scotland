@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /motherwell/ee/
-shop: Handy
+shop: mobile phone
 ---

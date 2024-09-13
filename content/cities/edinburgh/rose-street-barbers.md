@@ -1,5 +1,5 @@
 ---
 title: "Rose Street Barbers"
 url: /edinburgh/rose-street-barbers/
-shop: Friseur
+shop: hairdresser
 ---

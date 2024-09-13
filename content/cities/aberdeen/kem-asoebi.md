@@ -1,5 +1,5 @@
 ---
 title: "Kem (Asoebi)"
 url: /aberdeen/kem-asoebi/
-shop: Kleidung
+shop: clothes
 ---

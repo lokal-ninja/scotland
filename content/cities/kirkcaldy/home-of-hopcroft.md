@@ -1,5 +1,5 @@
 ---
 title: "Home of Hopcroft"
 url: /kirkcaldy/home-of-hopcroft/
-shop: Andenken
+shop: gift
 ---

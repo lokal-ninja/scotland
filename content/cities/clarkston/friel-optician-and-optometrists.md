@@ -1,5 +1,5 @@
 ---
 title: "Friel Optician and Optometrists"
 url: /clarkston/friel-optician-and-optometrists/
-shop: Optiker
+shop: optician
 ---

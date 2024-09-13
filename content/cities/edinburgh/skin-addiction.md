@@ -1,5 +1,5 @@
 ---
 title: "Skin Addiction"
 url: /edinburgh/skin-addiction/
-shop: Kosmetik
+shop: beauty
 ---

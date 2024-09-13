@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /blairgowrie/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

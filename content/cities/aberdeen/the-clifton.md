@@ -1,5 +1,5 @@
 ---
 title: "The Clifton"
 url: /aberdeen/the-clifton/
-shop: Friseur
+shop: hairdresser
 ---

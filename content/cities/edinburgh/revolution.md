@@ -1,5 +1,5 @@
 ---
 title: "Revolution"
 url: /edinburgh/revolution/
-shop: Friseur
+shop: hairdresser
 ---

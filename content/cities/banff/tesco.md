@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /banff/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

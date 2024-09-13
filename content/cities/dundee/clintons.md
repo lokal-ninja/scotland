@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /dundee/clintons/
-shop: Andenken
+shop: gift
 ---

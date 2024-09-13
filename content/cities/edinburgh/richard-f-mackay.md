@@ -1,5 +1,5 @@
 ---
 title: "Richard F Mackay"
 url: /edinburgh/richard-f-mackay/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toby's Magical Journey"
 url: /cupar/tobys-magical-journey/
-shop: Gebrauchtwaren
+shop: charity
 ---

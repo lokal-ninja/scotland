@@ -1,5 +1,5 @@
 ---
 title: "Store 67"
 url: /stornoway/store-67/
-shop: Outdoor
+shop: outdoor
 ---

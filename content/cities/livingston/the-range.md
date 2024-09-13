@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /livingston/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

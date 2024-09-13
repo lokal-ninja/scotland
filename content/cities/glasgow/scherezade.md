@@ -1,5 +1,5 @@
 ---
 title: "Scherezade"
 url: /glasgow/scherezade/
-shop: Lebensmittel
+shop: convenience
 ---

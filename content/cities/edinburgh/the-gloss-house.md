@@ -1,5 +1,5 @@
 ---
 title: "The Gloss House"
 url: /edinburgh/the-gloss-house/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /motherwell/poundland/
-shop: Kramladen
+shop: variety store
 ---

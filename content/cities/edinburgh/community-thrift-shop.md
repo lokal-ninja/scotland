@@ -1,5 +1,5 @@
 ---
 title: "Community Thrift Shop"
 url: /edinburgh/community-thrift-shop/
-shop: Kleidung
+shop: clothes
 ---

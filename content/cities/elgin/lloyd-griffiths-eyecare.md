@@ -1,5 +1,5 @@
 ---
 title: "Lloyd Griffiths Eyecare"
 url: /elgin/lloyd-griffiths-eyecare/
-shop: Optiker
+shop: optician
 ---

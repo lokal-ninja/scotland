@@ -1,5 +1,5 @@
 ---
 title: "Octangal Beauty"
 url: /edinburgh/octangal-beauty/
-shop: Kosmetik
+shop: beauty
 ---

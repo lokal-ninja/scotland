@@ -1,5 +1,5 @@
 ---
 title: "Trump International Golf Links"
 url: /balmedie/trump-international-golf-links/
-shop: Andenken
+shop: gift
 ---

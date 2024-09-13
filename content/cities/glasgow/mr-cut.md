@@ -1,5 +1,5 @@
 ---
 title: "Mr Cut"
 url: /glasgow/mr-cut/
-shop: Friseur
+shop: hairdresser
 ---

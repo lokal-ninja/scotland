@@ -1,5 +1,5 @@
 ---
 title: "Sherwoods"
 url: /glasgow/sherwoods/
-shop: Autohaus
+shop: car
 ---

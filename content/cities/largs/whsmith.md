@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /largs/whsmith/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /aberdeen/aldi-hareness-road/
-shop: Supermarkt
+shop: supermarket
 ---

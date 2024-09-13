@@ -1,5 +1,5 @@
 ---
 title: "Semichem"
 url: /stranraer/semichem/
-shop: Drogerie
+shop: chemist
 ---

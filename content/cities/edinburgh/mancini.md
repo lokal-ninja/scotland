@@ -1,5 +1,5 @@
 ---
 title: "Mancini"
 url: /edinburgh/mancini/
-shop: Friseur
+shop: hairdresser
 ---

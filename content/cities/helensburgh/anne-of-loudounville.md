@@ -1,5 +1,5 @@
 ---
 title: "Anne Of Loudounville"
 url: /helensburgh/anne-of-loudounville/
-shop: Schmuck
+shop: jewelry
 ---

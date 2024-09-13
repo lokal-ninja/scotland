@@ -1,5 +1,5 @@
 ---
 title: "Flamingosaurus Rex"
 url: /edinburgh/flamingosaurus-rex/
-shop: Andenken
+shop: gift
 ---

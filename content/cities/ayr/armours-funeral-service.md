@@ -1,5 +1,5 @@
 ---
 title: "Armours Funeral Service"
 url: /ayr/armours-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

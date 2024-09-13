@@ -1,5 +1,5 @@
 ---
 title: "Framers"
 url: /edinburgh/framers/
-shop: Rahmen
+shop: frame
 ---

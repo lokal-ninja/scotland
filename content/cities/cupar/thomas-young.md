@@ -1,5 +1,5 @@
 ---
 title: "Thomas Young"
 url: /cupar/thomas-young/
-shop: Schmuck
+shop: jewelry
 ---

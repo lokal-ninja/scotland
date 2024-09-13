@@ -1,5 +1,5 @@
 ---
 title: "Forth Blinds"
 url: /prestonpans/forth-blinds/
-shop: Jalousien
+shop: window blind
 ---

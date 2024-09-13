@@ -1,5 +1,5 @@
 ---
 title: "Nicholson's Cycles"
 url: /dundee/nicholsons-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dorval Lighting"
 url: /edinburgh/dorval-lighting/
-shop: Baumarkt
+shop: doityourself
 ---

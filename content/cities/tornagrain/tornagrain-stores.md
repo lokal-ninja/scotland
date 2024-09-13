@@ -1,5 +1,5 @@
 ---
 title: "Tornagrain Stores"
 url: /tornagrain/tornagrain-stores/
-shop: Lebensmittel
+shop: convenience
 ---

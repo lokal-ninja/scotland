@@ -1,5 +1,5 @@
 ---
 title: "C D Stevenson Ltd"
 url: /achnasheen/c-d-stevenson-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /dyce/boots/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fergusons of Airdrie"
 url: /airdrie/fergusons-of-airdrie/
-shop: Metzgerei
+shop: butcher
 ---

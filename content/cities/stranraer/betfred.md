@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /stranraer/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

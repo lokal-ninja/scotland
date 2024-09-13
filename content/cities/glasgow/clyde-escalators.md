@@ -1,5 +1,5 @@
 ---
 title: "Clyde Escalators"
 url: /glasgow/clyde-escalators/
-shop: Baustoffe
+shop: trade
 ---

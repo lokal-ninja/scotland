@@ -1,5 +1,5 @@
 ---
 title: "Broughton News"
 url: /edinburgh/broughton-news/
-shop: Zeitungen
+shop: newsagent
 ---

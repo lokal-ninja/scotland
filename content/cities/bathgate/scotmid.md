@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /bathgate/scotmid/
-shop: Supermarkt
+shop: supermarket
 ---

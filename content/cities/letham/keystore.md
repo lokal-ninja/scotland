@@ -1,5 +1,5 @@
 ---
 title: "KeyStore"
 url: /letham/keystore/
-shop: Lebensmittel
+shop: convenience
 ---

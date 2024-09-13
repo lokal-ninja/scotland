@@ -1,5 +1,5 @@
 ---
 title: "Laings"
 url: /edinburgh/laings/
-shop: Schmuck
+shop: jewelry
 ---

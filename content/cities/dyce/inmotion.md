@@ -1,5 +1,5 @@
 ---
 title: "InMotion"
 url: /dyce/inmotion/
-shop: Elektronik
+shop: electronics
 ---

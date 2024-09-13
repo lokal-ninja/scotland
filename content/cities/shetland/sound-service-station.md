@@ -1,5 +1,5 @@
 ---
 title: "Sound Service Station"
 url: /shetland/sound-service-station/
-shop: Lebensmittel
+shop: convenience
 ---

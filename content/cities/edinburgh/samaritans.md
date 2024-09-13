@@ -1,5 +1,5 @@
 ---
 title: "Samaritans"
 url: /edinburgh/samaritans/
-shop: Gebrauchtwaren
+shop: charity
 ---

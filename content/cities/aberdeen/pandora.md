@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /aberdeen/pandora/
-shop: Schmuck
+shop: jewelry
 ---

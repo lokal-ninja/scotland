@@ -1,5 +1,5 @@
 ---
 title: "The Baby's Castle"
 url: /ayr/the-babys-castle/
-shop: Babysachen
+shop: baby goods
 ---

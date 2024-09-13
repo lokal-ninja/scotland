@@ -1,5 +1,5 @@
 ---
 title: "African Shop"
 url: /aberdeen/african-shop/
-shop: Friseur
+shop: hairdresser
 ---

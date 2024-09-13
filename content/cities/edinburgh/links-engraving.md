@@ -1,5 +1,5 @@
 ---
 title: "Links Engraving"
 url: /edinburgh/links-engraving/
-shop: Schmuck
+shop: jewelry
 ---

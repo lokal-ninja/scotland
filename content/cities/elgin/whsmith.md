@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /elgin/whsmith/
-shop: Bücher
+shop: books
 ---

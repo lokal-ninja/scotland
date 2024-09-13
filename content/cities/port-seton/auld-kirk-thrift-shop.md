@@ -1,5 +1,5 @@
 ---
 title: "Auld Kirk Thrift Shop"
 url: /port-seton/auld-kirk-thrift-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

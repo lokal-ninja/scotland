@@ -1,5 +1,5 @@
 ---
 title: "Ambition Barbershop"
 url: /aberdeen/ambition-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

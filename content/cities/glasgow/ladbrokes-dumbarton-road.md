@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /glasgow/ladbrokes-dumbarton-road/
-shop: Wettbüro
+shop: bookmaker
 ---

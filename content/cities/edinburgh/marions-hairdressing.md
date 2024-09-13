@@ -1,5 +1,5 @@
 ---
 title: "Marion's hairdressing"
 url: /edinburgh/marions-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

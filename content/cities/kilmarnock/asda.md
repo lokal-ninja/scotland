@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /kilmarnock/asda/
-shop: Supermarkt
+shop: supermarket
 ---

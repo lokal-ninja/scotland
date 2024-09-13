@@ -1,5 +1,5 @@
 ---
 title: "Escape"
 url: /edinburgh/escape/
-shop: Friseur
+shop: hairdresser
 ---

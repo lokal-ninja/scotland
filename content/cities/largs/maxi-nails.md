@@ -1,5 +1,5 @@
 ---
 title: "Maxi Nails"
 url: /largs/maxi-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Borlands"
 url: /edinburgh/borlands/
-shop: Sport
+shop: sports
 ---

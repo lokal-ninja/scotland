@@ -1,5 +1,5 @@
 ---
 title: "Just Giles Too"
 url: /edinburgh/just-giles-too/
-shop: Friseur
+shop: hairdresser
 ---

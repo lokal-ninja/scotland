@@ -1,5 +1,5 @@
 ---
 title: "Uppercuts West End Barbershop"
 url: /glasgow/uppercuts-west-end-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

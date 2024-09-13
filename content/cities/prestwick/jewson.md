@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /prestwick/jewson/
-shop: Baumarkt
+shop: doityourself
 ---

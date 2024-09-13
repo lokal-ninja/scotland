@@ -1,5 +1,5 @@
 ---
 title: "Venus Nails"
 url: /edinburgh/venus-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ethical Boutique"
 url: /edinburgh/ethical-boutique/
-shop: Lebensmittel
+shop: convenience
 ---

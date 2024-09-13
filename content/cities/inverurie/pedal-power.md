@@ -1,5 +1,5 @@
 ---
 title: "Pedal Power"
 url: /inverurie/pedal-power/
-shop: Fahrrad
+shop: bicycle
 ---

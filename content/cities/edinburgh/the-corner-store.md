@@ -1,5 +1,5 @@
 ---
 title: "The Corner Store"
 url: /edinburgh/the-corner-store/
-shop: Zeitungen
+shop: newsagent
 ---

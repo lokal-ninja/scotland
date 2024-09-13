@@ -1,5 +1,5 @@
 ---
 title: "McNews"
 url: /edinburgh/mcnews/
-shop: Zeitungen
+shop: newsagent
 ---

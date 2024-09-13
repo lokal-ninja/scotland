@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /edinburgh/safestore/
-shop: Mieten
+shop: storage rental
 ---

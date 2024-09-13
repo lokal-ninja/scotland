@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /barrhead/asda/
-shop: Supermarkt
+shop: supermarket
 ---

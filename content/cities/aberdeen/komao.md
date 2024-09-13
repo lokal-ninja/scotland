@@ -1,5 +1,5 @@
 ---
 title: "KOMAO"
 url: /aberdeen/komao/
-shop: Friseur
+shop: hairdresser
 ---

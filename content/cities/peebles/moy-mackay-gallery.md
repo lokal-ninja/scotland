@@ -1,5 +1,5 @@
 ---
 title: "Moy Mackay Gallery"
 url: /peebles/moy-mackay-gallery/
-shop: Kunst
+shop: art
 ---

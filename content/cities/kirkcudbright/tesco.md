@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /kirkcudbright/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

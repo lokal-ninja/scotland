@@ -1,5 +1,5 @@
 ---
 title: "Floors4U"
 url: /edinburgh/floors4u/
-shop: Fußböden
+shop: flooring
 ---

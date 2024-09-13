@@ -1,5 +1,5 @@
 ---
 title: "The Store Interiors"
 url: /glasgow/the-store-interiors/
-shop: Möbel
+shop: furniture
 ---

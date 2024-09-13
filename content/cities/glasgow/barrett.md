@@ -1,5 +1,5 @@
 ---
 title: "Barrett"
 url: /glasgow/barrett/
-shop: Zeitungen
+shop: newsagent
 ---

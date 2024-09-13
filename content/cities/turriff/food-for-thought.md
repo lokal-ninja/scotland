@@ -1,5 +1,5 @@
 ---
 title: "Food For Thought"
 url: /turriff/food-for-thought/
-shop: Feinkost
+shop: deli
 ---

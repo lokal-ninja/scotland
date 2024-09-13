@@ -1,5 +1,5 @@
 ---
 title: "Emporium"
 url: /elgin/emporium/
-shop: Kleidung
+shop: clothes
 ---

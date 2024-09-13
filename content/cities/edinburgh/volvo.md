@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /edinburgh/volvo/
-shop: Autohaus
+shop: car
 ---

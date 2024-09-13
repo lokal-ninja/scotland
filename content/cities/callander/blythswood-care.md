@@ -1,5 +1,5 @@
 ---
 title: "Blythswood Care"
 url: /callander/blythswood-care/
-shop: Andenken
+shop: gift
 ---

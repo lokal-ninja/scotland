@@ -1,5 +1,5 @@
 ---
 title: "Hugh Aitken"
 url: /stranraer/hugh-aitken/
-shop: Schmuck
+shop: jewelry
 ---

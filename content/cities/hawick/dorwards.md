@@ -1,5 +1,5 @@
 ---
 title: "Dorward's"
 url: /hawick/dorwards/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Icom"
 url: /dundee/icom/
-shop: Handy
+shop: mobile phone
 ---

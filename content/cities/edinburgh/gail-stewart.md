@@ -1,5 +1,5 @@
 ---
 title: "Gail Stewart"
 url: /edinburgh/gail-stewart/
-shop: Friseur
+shop: hairdresser
 ---

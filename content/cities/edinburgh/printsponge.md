@@ -1,5 +1,5 @@
 ---
 title: "PrintSponge"
 url: /edinburgh/printsponge/
-shop: Kopieren
+shop: copyshop
 ---

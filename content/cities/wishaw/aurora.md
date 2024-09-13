@@ -1,5 +1,5 @@
 ---
 title: "Aurora"
 url: /wishaw/aurora/
-shop: Friseur
+shop: hairdresser
 ---

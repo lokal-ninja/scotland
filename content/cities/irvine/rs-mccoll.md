@@ -1,5 +1,5 @@
 ---
 title: "RS McColl"
 url: /irvine/rs-mccoll/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Springvalley Motors"
 url: /edinburgh/springvalley-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

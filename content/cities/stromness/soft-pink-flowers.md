@@ -1,5 +1,5 @@
 ---
 title: "Soft Pink Flowers"
 url: /stromness/soft-pink-flowers/
-shop: Blumen
+shop: florist
 ---

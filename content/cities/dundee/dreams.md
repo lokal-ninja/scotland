@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /dundee/dreams/
-shop: Betten
+shop: bed
 ---

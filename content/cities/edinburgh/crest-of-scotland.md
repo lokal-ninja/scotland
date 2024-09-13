@@ -1,5 +1,5 @@
 ---
 title: "Crest of Scotland"
 url: /edinburgh/crest-of-scotland/
-shop: Andenken
+shop: gift
 ---

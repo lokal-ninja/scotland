@@ -1,5 +1,5 @@
 ---
 title: "Raw Barbers"
 url: /invergordon/raw-barbers/
-shop: Friseur
+shop: hairdresser
 ---

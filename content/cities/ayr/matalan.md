@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /ayr/matalan/
-shop: Kleidung
+shop: clothes
 ---

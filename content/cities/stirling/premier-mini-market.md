@@ -1,5 +1,5 @@
 ---
 title: "Premier Mini Market"
 url: /stirling/premier-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

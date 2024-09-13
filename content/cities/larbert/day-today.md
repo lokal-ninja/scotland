@@ -1,5 +1,5 @@
 ---
 title: "Day-Today"
 url: /larbert/day-today/
-shop: Lebensmittel
+shop: convenience
 ---

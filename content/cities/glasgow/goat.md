@@ -1,5 +1,5 @@
 ---
 title: "Goat"
 url: /glasgow/goat/
-shop: Friseur
+shop: hairdresser
 ---

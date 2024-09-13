@@ -1,5 +1,5 @@
 ---
 title: "JoDazzle"
 url: /aberdeen/jodazzle/
-shop: Friseur
+shop: hairdresser
 ---

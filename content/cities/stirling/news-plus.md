@@ -1,5 +1,5 @@
 ---
 title: "News Plus"
 url: /stirling/news-plus/
-shop: Zeitungen
+shop: newsagent
 ---

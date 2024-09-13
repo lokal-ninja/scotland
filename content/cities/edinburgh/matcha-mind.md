@@ -1,5 +1,5 @@
 ---
 title: "Matcha Mind"
 url: /edinburgh/matcha-mind/
-shop: Massage
+shop: massage
 ---

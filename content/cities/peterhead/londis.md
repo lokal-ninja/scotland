@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /peterhead/londis/
-shop: Lebensmittel
+shop: convenience
 ---

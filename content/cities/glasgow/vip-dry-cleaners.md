@@ -1,5 +1,5 @@
 ---
 title: "VIP Dry Cleaners"
 url: /glasgow/vip-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

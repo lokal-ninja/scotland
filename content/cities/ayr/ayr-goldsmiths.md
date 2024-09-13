@@ -1,5 +1,5 @@
 ---
 title: "Ayr Goldsmiths"
 url: /ayr/ayr-goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

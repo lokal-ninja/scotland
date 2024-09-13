@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Thai"
 url: /edinburgh/edinburgh-thai/
-shop: Massage
+shop: massage
 ---

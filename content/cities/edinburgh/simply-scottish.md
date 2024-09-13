@@ -1,5 +1,5 @@
 ---
 title: "Simply Scottish"
 url: /edinburgh/simply-scottish/
-shop: Andenken
+shop: gift
 ---

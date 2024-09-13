@@ -1,5 +1,5 @@
 ---
 title: "Vegan Bay Bakery"
 url: /aberdeen/vegan-bay-bakery/
-shop: Bäckerei
+shop: bakery
 ---

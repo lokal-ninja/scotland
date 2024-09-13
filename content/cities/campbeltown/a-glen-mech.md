@@ -1,5 +1,5 @@
 ---
 title: "A. Glen Mech"
 url: /campbeltown/a-glen-mech/
-shop: Autowerkstatt
+shop: car repair
 ---

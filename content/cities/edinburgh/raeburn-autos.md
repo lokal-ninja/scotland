@@ -1,5 +1,5 @@
 ---
 title: "Raeburn Autos"
 url: /edinburgh/raeburn-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

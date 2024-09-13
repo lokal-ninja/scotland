@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /dunfermline/halfords/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /dunfermline/argos/
-shop: Katalog
+shop: catalogue
 ---

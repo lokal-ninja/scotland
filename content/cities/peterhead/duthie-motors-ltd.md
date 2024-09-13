@@ -1,5 +1,5 @@
 ---
 title: "Duthie Motors Ltd"
 url: /peterhead/duthie-motors-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

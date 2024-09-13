@@ -1,5 +1,5 @@
 ---
 title: "Golden Hare Books"
 url: /edinburgh/golden-hare-books/
-shop: Bücher
+shop: books
 ---

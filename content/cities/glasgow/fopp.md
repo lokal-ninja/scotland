@@ -1,5 +1,5 @@
 ---
 title: "Fopp"
 url: /glasgow/fopp/
-shop: Musik
+shop: music
 ---

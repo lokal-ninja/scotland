@@ -1,5 +1,5 @@
 ---
 title: "A Longer Table"
 url: /kirriemuir/a-longer-table/
-shop: Lebensmittel
+shop: convenience
 ---

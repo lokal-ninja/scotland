@@ -1,5 +1,5 @@
 ---
 title: "Whistles"
 url: /edinburgh/whistles/
-shop: Kleidung
+shop: clothes
 ---

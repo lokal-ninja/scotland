@@ -1,5 +1,5 @@
 ---
 title: "Merchants"
 url: /forfar/merchants/
-shop: Friseur
+shop: hairdresser
 ---

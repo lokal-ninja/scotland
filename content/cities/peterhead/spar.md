@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /peterhead/spar/
-shop: Supermarkt
+shop: supermarket
 ---

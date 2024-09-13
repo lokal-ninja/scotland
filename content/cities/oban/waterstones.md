@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /oban/waterstones/
-shop: Bücher
+shop: books
 ---

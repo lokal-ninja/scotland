@@ -1,5 +1,5 @@
 ---
 title: "McRae of Gorgie"
 url: /edinburgh/mcrae-of-gorgie/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motorchoice"
 url: /dundee/motorchoice/
-shop: Autohaus
+shop: car
 ---

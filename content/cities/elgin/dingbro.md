@@ -1,5 +1,5 @@
 ---
 title: "Dingbro"
 url: /elgin/dingbro/
-shop: Autoteile
+shop: car parts
 ---

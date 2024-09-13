@@ -1,5 +1,5 @@
 ---
 title: "WilsonAllen"
 url: /edinburgh/wilsonallen/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Polish Taste"
 url: /glasgow/polish-taste/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Strathspey Pharmacy"
 url: /newtonmore/strathspey-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

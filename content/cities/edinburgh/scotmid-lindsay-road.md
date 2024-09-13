@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /edinburgh/scotmid-lindsay-road/
-shop: Lebensmittel
+shop: convenience
 ---

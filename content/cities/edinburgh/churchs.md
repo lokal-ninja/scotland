@@ -1,5 +1,5 @@
 ---
 title: "Church's"
 url: /edinburgh/churchs/
-shop: Schuhe
+shop: shoes
 ---

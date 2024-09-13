@@ -1,5 +1,5 @@
 ---
 title: "Miss Barberettes Barbershop"
 url: /dundee/miss-barberettes-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inspired Vision"
 url: /largs/inspired-vision/
-shop: Allgemein
+shop: shop
 ---

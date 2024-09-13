@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /milton-of-campsie/scotmid/
-shop: Supermarkt
+shop: supermarket
 ---

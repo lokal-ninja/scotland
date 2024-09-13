@@ -1,5 +1,5 @@
 ---
 title: "Buzz"
 url: /edinburgh/buzz/
-shop: Friseur
+shop: hairdresser
 ---

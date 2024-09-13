@@ -1,5 +1,5 @@
 ---
 title: "Pawws"
 url: /cupar/pawws/
-shop: Tiersalon
+shop: pet grooming
 ---

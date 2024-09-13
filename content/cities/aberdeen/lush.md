@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /aberdeen/lush/
-shop: Kosmetik
+shop: beauty
 ---

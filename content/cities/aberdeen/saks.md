@@ -1,5 +1,5 @@
 ---
 title: "Saks"
 url: /aberdeen/saks/
-shop: Friseur
+shop: hairdresser
 ---

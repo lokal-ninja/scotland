@@ -1,5 +1,5 @@
 ---
 title: "Bernstones"
 url: /glasgow/bernstones-argyll-arcade/
-shop: Schmuck
+shop: jewelry
 ---

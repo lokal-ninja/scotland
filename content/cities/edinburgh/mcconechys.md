@@ -1,5 +1,5 @@
 ---
 title: "McConechy's"
 url: /edinburgh/mcconechys/
-shop: Autowerkstatt
+shop: car repair
 ---

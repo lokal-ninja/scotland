@@ -1,5 +1,5 @@
 ---
 title: "Strachan’s Tyres"
 url: /dundee/strachans-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

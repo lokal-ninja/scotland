@@ -1,5 +1,5 @@
 ---
 title: "Eats and Treats"
 url: /edinburgh/eats-and-treats/
-shop: Lebensmittel
+shop: convenience
 ---

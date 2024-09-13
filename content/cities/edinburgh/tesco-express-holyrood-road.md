@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /edinburgh/tesco-express-holyrood-road/
-shop: Lebensmittel
+shop: convenience
 ---

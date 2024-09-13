@@ -1,5 +1,5 @@
 ---
 title: "Westend Tailors"
 url: /edinburgh/westend-tailors/
-shop: Schneiderei
+shop: tailor
 ---

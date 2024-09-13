@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /stirling/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Semper"
 url: /edinburgh/semper/
-shop: Tattoo
+shop: tattoo
 ---

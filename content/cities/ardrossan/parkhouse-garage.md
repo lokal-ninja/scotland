@@ -1,5 +1,5 @@
 ---
 title: "Parkhouse Garage"
 url: /ardrossan/parkhouse-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

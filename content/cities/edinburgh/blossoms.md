@@ -1,5 +1,5 @@
 ---
 title: "Blossom's"
 url: /edinburgh/blossoms/
-shop: Friseur
+shop: hairdresser
 ---

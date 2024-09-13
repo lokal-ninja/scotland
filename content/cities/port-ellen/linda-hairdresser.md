@@ -1,5 +1,5 @@
 ---
 title: "Linda Hairdresser"
 url: /port-ellen/linda-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /hawick/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

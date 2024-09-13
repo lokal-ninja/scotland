@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /airdrie/londis/
-shop: Lebensmittel
+shop: convenience
 ---

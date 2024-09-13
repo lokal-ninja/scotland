@@ -1,5 +1,5 @@
 ---
 title: "Fosters"
 url: /edinburgh/fosters/
-shop: Bestattungen
+shop: funeral directors
 ---

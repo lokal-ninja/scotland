@@ -1,5 +1,5 @@
 ---
 title: "The Dog Port"
 url: /edinburgh/the-dog-port/
-shop: Tiersalon
+shop: pet grooming
 ---

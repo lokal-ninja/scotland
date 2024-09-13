@@ -1,5 +1,5 @@
 ---
 title: "Ferrier Pumps"
 url: /edinburgh/ferrier-pumps/
-shop: Eisenwaren
+shop: hardware
 ---

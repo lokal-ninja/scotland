@@ -1,5 +1,5 @@
 ---
 title: "Brother"
 url: /glasgow/brother/
-shop: Friseur
+shop: hairdresser
 ---

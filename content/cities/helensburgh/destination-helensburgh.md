@@ -1,5 +1,5 @@
 ---
 title: "Destination Helensburgh"
 url: /helensburgh/destination-helensburgh/
-shop: Andenken
+shop: gift
 ---

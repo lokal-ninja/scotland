@@ -1,5 +1,5 @@
 ---
 title: "Little Hearth"
 url: /edinburgh/little-hearth/
-shop: Tattoo
+shop: tattoo
 ---

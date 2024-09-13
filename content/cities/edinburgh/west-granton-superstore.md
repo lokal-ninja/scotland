@@ -1,5 +1,5 @@
 ---
 title: "West Granton Superstore"
 url: /edinburgh/west-granton-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

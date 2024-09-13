@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /campbeltown/jewson/
-shop: Baustoffe
+shop: trade
 ---

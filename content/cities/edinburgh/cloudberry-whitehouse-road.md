@@ -1,5 +1,5 @@
 ---
 title: "Cloudberry"
 url: /edinburgh/cloudberry-whitehouse-road/
-shop: Andenken
+shop: gift
 ---

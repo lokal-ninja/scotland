@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /blantyre/scotmid-stonefield-road/
-shop: Lebensmittel
+shop: convenience
 ---

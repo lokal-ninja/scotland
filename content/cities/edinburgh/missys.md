@@ -1,5 +1,5 @@
 ---
 title: "Missy's"
 url: /edinburgh/missys/
-shop: Konditorei
+shop: pastry
 ---

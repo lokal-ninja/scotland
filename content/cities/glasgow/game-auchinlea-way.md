@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /glasgow/game-auchinlea-way/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blank Barbershop"
 url: /edinburgh/blank-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

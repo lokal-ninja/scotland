@@ -1,5 +1,5 @@
 ---
 title: "Pencig"
 url: /glasgow/pencig/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easyeche"
 url: /edinburgh/easyeche/
-shop: Lebensmittel
+shop: convenience
 ---

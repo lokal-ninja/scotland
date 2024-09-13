@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /dundee/scotmid/
-shop: Lebensmittel
+shop: convenience
 ---

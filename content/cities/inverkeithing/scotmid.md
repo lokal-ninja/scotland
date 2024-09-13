@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /inverkeithing/scotmid/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kenny's Music"
 url: /dundee/kennys-music/
-shop: Instrumente
+shop: musical instrument
 ---

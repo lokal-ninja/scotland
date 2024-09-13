@@ -1,5 +1,5 @@
 ---
 title: "Bee Tech"
 url: /edinburgh/bee-tech/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dubai Barber"
 url: /edinburgh/dubai-barber/
-shop: Friseur
+shop: hairdresser
 ---

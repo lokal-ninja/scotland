@@ -1,5 +1,5 @@
 ---
 title: "Howdens Joinery"
 url: /glasgow/howdens-joinery-haggs-road/
-shop: Küchen
+shop: kitchen
 ---

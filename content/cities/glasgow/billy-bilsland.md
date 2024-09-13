@@ -1,5 +1,5 @@
 ---
 title: "Billy Bilsland"
 url: /glasgow/billy-bilsland/
-shop: Fahrrad
+shop: bicycle
 ---

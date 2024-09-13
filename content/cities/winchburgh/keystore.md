@@ -1,5 +1,5 @@
 ---
 title: "Keystore"
 url: /winchburgh/keystore/
-shop: Lebensmittel
+shop: convenience
 ---

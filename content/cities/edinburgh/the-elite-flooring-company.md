@@ -1,5 +1,5 @@
 ---
 title: "The Elite Flooring Company"
 url: /edinburgh/the-elite-flooring-company/
-shop: Fußböden
+shop: flooring
 ---

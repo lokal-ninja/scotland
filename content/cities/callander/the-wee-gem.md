@@ -1,5 +1,5 @@
 ---
 title: "The Wee Gem"
 url: /callander/the-wee-gem/
-shop: Kleidung
+shop: clothes
 ---

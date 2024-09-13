@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /peterhead/halfords/
-shop: Autoteile
+shop: car parts
 ---

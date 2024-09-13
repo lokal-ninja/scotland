@@ -1,5 +1,5 @@
 ---
 title: "Treasured"
 url: /largs/treasured/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /hawick/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

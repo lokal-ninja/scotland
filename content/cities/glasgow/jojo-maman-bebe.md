@@ -1,5 +1,5 @@
 ---
 title: "JoJo Maman Bébé"
 url: /glasgow/jojo-maman-bebe/
-shop: Kleidung
+shop: clothes
 ---

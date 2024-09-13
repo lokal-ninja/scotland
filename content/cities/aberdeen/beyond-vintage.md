@@ -1,5 +1,5 @@
 ---
 title: "Beyond Vintage"
 url: /aberdeen/beyond-vintage/
-shop: Kleidung
+shop: clothes
 ---

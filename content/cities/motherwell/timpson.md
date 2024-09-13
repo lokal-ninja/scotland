@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /motherwell/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

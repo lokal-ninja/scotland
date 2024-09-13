@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /steornabhagh/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

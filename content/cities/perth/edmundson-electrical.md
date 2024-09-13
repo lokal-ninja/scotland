@@ -1,5 +1,5 @@
 ---
 title: "Edmundson Electrical"
 url: /perth/edmundson-electrical/
-shop: Elektrisch
+shop: electrical
 ---

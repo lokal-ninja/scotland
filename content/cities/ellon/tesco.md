@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /ellon/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

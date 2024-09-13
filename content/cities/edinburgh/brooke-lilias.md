@@ -1,5 +1,5 @@
 ---
 title: "Brooke Lilias"
 url: /edinburgh/brooke-lilias/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mary"
 url: /glasgow/mary/
-shop: Friseur
+shop: hairdresser
 ---

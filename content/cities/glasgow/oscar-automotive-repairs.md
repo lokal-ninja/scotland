@@ -1,5 +1,5 @@
 ---
 title: "Oscar Automotive Repairs"
 url: /glasgow/oscar-automotive-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

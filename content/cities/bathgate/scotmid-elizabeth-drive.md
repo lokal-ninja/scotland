@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /bathgate/scotmid-elizabeth-drive/
-shop: Lebensmittel
+shop: convenience
 ---

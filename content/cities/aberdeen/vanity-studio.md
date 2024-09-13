@@ -1,5 +1,5 @@
 ---
 title: "Vanity Studio"
 url: /aberdeen/vanity-studio/
-shop: Kosmetik
+shop: beauty
 ---

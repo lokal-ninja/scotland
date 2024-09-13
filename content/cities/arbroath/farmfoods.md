@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /arbroath/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

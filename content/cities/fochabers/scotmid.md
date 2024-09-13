@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /fochabers/scotmid/
-shop: Supermarkt
+shop: supermarket
 ---

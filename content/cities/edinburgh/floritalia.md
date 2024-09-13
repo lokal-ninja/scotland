@@ -1,5 +1,5 @@
 ---
 title: "Floritalia"
 url: /edinburgh/floritalia/
-shop: Blumen
+shop: florist
 ---

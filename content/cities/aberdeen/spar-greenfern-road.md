@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /aberdeen/spar-greenfern-road/
-shop: Supermarkt
+shop: supermarket
 ---

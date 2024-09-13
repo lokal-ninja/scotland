@@ -1,5 +1,5 @@
 ---
 title: "BOC Gas and Gear"
 url: /edinburgh/boc-gas-and-gear/
-shop: Gasflaschen
+shop: gas
 ---

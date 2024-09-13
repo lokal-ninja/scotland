@@ -1,5 +1,5 @@
 ---
 title: "Ragamuffin"
 url: /edinburgh/ragamuffin/
-shop: Kleidung
+shop: clothes
 ---

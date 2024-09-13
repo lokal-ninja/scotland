@@ -1,5 +1,5 @@
 ---
 title: "Vapourz"
 url: /largs/vapourz/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

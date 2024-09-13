@@ -1,5 +1,5 @@
 ---
 title: "Manzi Hair Studio"
 url: /livingston/manzi-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

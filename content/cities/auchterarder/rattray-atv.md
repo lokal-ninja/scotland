@@ -1,5 +1,5 @@
 ---
 title: "Rattray ATV"
 url: /auchterarder/rattray-atv/
-shop: Autohaus
+shop: car
 ---

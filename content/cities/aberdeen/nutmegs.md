@@ -1,5 +1,5 @@
 ---
 title: "Nutmegs"
 url: /aberdeen/nutmegs/
-shop: Friseur
+shop: hairdresser
 ---

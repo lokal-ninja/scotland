@@ -1,5 +1,5 @@
 ---
 title: "Crossford Garage"
 url: /crossford/crossford-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

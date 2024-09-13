@@ -1,5 +1,5 @@
 ---
 title: "Paige Connor"
 url: /edinburgh/paige-connor/
-shop: Friseur
+shop: hairdresser
 ---

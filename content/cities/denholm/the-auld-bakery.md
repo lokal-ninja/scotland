@@ -1,5 +1,5 @@
 ---
 title: "The Auld Bakery"
 url: /denholm/the-auld-bakery/
-shop: Lebensmittel
+shop: convenience
 ---

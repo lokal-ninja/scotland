@@ -1,5 +1,5 @@
 ---
 title: "FHMCD"
 url: /edinburgh/fhmcd/
-shop: Kopieren
+shop: copyshop
 ---

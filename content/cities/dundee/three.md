@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /dundee/three/
-shop: Handy
+shop: mobile phone
 ---

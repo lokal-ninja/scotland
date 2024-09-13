@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /motherwell/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

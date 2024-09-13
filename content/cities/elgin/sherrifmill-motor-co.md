@@ -1,5 +1,5 @@
 ---
 title: "Sherrifmill Motor Co"
 url: /elgin/sherrifmill-motor-co/
-shop: Autowerkstatt
+shop: car repair
 ---

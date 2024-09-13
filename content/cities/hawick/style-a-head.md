@@ -1,5 +1,5 @@
 ---
 title: "Style-A-Head"
 url: /hawick/style-a-head/
-shop: Friseur
+shop: hairdresser
 ---

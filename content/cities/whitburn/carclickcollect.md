@@ -1,5 +1,5 @@
 ---
 title: "CarClickCollect"
 url: /whitburn/carclickcollect/
-shop: Autowerkstatt
+shop: car repair
 ---

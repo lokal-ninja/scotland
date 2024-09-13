@@ -1,5 +1,5 @@
 ---
 title: "Nazz Barber Shop"
 url: /aberdeen/nazz-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

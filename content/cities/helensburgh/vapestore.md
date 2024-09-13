@@ -1,5 +1,5 @@
 ---
 title: "VapeStore"
 url: /helensburgh/vapestore/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

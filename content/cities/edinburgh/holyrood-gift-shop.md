@@ -1,5 +1,5 @@
 ---
 title: "Holyrood Gift Shop"
 url: /edinburgh/holyrood-gift-shop/
-shop: Andenken
+shop: gift
 ---

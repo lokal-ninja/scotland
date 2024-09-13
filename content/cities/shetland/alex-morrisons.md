@@ -1,5 +1,5 @@
 ---
 title: "Alex Morrisons"
 url: /shetland/alex-morrisons/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bee Crafty"
 url: /elgin/bee-crafty/
-shop: Basteln
+shop: craft
 ---

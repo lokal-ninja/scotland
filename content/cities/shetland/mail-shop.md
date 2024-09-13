@@ -1,5 +1,5 @@
 ---
 title: "Mail Shop"
 url: /shetland/mail-shop/
-shop: Lebensmittel
+shop: convenience
 ---

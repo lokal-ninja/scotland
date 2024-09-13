@@ -1,5 +1,5 @@
 ---
 title: "Fabulash"
 url: /coatbridge/fabulash/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /edinburgh/giant/
-shop: Fahrrad
+shop: bicycle
 ---

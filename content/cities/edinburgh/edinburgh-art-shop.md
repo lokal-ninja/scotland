@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Art Shop"
 url: /edinburgh/edinburgh-art-shop/
-shop: Kunst
+shop: art
 ---

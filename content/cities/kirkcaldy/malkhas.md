@@ -1,5 +1,5 @@
 ---
 title: "Malkha's"
 url: /kirkcaldy/malkhas/
-shop: Zeitungen
+shop: newsagent
 ---

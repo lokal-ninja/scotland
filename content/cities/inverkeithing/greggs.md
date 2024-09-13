@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /inverkeithing/greggs/
-shop: Bäckerei
+shop: bakery
 ---

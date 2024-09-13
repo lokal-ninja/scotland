@@ -1,5 +1,5 @@
 ---
 title: "Trend DIY"
 url: /banff/trend-diy/
-shop: Baumarkt
+shop: doityourself
 ---

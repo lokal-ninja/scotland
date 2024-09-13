@@ -1,5 +1,5 @@
 ---
 title: "VapeTek"
 url: /cambuslang/vapetek/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

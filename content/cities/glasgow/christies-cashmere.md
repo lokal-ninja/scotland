@@ -1,5 +1,5 @@
 ---
 title: "Christies Cashmere"
 url: /glasgow/christies-cashmere/
-shop: Kleidung
+shop: clothes
 ---

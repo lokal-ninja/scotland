@@ -1,5 +1,5 @@
 ---
 title: "Neil Maclean"
 url: /edinburgh/neil-maclean/
-shop: Friseur
+shop: hairdresser
 ---

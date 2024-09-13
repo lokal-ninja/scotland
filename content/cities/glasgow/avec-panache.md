@@ -1,5 +1,5 @@
 ---
 title: "Avec Panache"
 url: /glasgow/avec-panache/
-shop: Andenken
+shop: gift
 ---

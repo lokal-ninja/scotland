@@ -1,5 +1,5 @@
 ---
 title: "George Pirie Antiques"
 url: /edinburgh/george-pirie-antiques/
-shop: Möbel
+shop: furniture
 ---

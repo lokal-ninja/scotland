@@ -1,5 +1,5 @@
 ---
 title: "Singletrack Bikes"
 url: /kirkcaldy/singletrack-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

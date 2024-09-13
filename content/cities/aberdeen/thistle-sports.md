@@ -1,5 +1,5 @@
 ---
 title: "Thistle Sports"
 url: /aberdeen/thistle-sports/
-shop: Sport
+shop: sports
 ---

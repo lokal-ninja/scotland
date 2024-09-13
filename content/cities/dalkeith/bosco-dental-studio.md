@@ -1,5 +1,5 @@
 ---
 title: "Bosco Dental Studio"
 url: /dalkeith/bosco-dental-studio/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central Store"
 url: /lundin-links/central-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avonbridge Convenience"
 url: /avonbridge/avonbridge-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

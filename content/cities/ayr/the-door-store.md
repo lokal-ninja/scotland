@@ -1,5 +1,5 @@
 ---
 title: "The Door Store"
 url: /ayr/the-door-store/
-shop: Türen
+shop: doors
 ---

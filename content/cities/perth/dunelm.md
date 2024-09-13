@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /perth/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "East Side Motors"
 url: /edinburgh/east-side-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

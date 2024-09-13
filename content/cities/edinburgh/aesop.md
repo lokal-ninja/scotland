@@ -1,5 +1,5 @@
 ---
 title: "Aēsop"
 url: /edinburgh/aesop/
-shop: Kosmetik
+shop: beauty
 ---

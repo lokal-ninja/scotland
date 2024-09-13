@@ -1,5 +1,5 @@
 ---
 title: "The Broom Closet"
 url: /forfar/the-broom-closet/
-shop: Andenken
+shop: gift
 ---

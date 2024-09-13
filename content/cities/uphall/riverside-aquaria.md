@@ -1,5 +1,5 @@
 ---
 title: "Riverside Aquaria"
 url: /uphall/riverside-aquaria/
-shop: Tiere
+shop: pet
 ---

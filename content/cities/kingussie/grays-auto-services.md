@@ -1,5 +1,5 @@
 ---
 title: "Gray's Auto Services"
 url: /kingussie/grays-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Food Warehouse"
 url: /falkirk/food-warehouse/
-shop: Supermarkt
+shop: supermarket
 ---

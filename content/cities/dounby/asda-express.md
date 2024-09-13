@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /dounby/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

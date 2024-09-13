@@ -1,5 +1,5 @@
 ---
 title: "Snipp-It"
 url: /peebles/snipp-it/
-shop: Friseur
+shop: hairdresser
 ---

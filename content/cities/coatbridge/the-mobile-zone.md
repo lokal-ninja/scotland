@@ -1,5 +1,5 @@
 ---
 title: "The Mobile Zone"
 url: /coatbridge/the-mobile-zone/
-shop: Handy
+shop: mobile phone
 ---

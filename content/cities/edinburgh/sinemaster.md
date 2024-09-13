@@ -1,5 +1,5 @@
 ---
 title: "Sinemaster"
 url: /edinburgh/sinemaster/
-shop: Autowerkstatt
+shop: car repair
 ---

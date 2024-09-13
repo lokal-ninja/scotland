@@ -1,5 +1,5 @@
 ---
 title: "Signage"
 url: /edinburgh/signage/
-shop: Kopieren
+shop: copyshop
 ---

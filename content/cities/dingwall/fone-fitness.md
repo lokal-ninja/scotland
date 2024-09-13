@@ -1,5 +1,5 @@
 ---
 title: "Fone Fitness"
 url: /dingwall/fone-fitness/
-shop: Handy
+shop: mobile phone
 ---

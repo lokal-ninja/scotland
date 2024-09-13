@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /livingston/scotmid-main-street/
-shop: Lebensmittel
+shop: convenience
 ---

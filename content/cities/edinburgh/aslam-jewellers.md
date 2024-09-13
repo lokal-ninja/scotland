@@ -1,5 +1,5 @@
 ---
 title: "Aslam Jewellers"
 url: /edinburgh/aslam-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

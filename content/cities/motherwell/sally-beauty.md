@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /motherwell/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

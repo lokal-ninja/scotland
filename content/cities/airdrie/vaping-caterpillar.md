@@ -1,5 +1,5 @@
 ---
 title: "Vaping Caterpillar"
 url: /airdrie/vaping-caterpillar/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

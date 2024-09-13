@@ -1,5 +1,5 @@
 ---
 title: "Plumbstore"
 url: /inverkeithing/plumbstore/
-shop: Baustoffe
+shop: trade
 ---

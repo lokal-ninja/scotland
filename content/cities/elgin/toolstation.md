@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /elgin/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

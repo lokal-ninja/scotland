@@ -1,5 +1,5 @@
 ---
 title: "J M Richards"
 url: /perth/j-m-richards/
-shop: Fahrrad
+shop: bicycle
 ---

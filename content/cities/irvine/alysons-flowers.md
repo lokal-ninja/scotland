@@ -1,5 +1,5 @@
 ---
 title: "Alyson's Flowers"
 url: /irvine/alysons-flowers/
-shop: Blumen
+shop: florist
 ---

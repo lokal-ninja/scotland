@@ -1,5 +1,5 @@
 ---
 title: "The Pits"
 url: /elgin/the-pits/
-shop: Autowerkstatt
+shop: car repair
 ---

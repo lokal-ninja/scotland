@@ -1,5 +1,5 @@
 ---
 title: "Lochrin Autos"
 url: /edinburgh/lochrin-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

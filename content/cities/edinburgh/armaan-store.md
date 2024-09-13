@@ -1,5 +1,5 @@
 ---
 title: "Armaan Store"
 url: /edinburgh/armaan-store/
-shop: Zeitungen
+shop: newsagent
 ---

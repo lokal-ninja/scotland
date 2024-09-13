@@ -1,5 +1,5 @@
 ---
 title: "Studio Junction"
 url: /edinburgh/studio-junction/
-shop: Friseur
+shop: hairdresser
 ---

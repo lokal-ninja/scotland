@@ -1,5 +1,5 @@
 ---
 title: "Paramount Printers"
 url: /edinburgh/paramount-printers/
-shop: Kopieren
+shop: copyshop
 ---

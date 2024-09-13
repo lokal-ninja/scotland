@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /glasgow/tesco-anniesland-road/
-shop: Supermarkt
+shop: supermarket
 ---

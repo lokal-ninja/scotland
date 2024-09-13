@@ -1,5 +1,5 @@
 ---
 title: "Disqu Blu"
 url: /glasgow/disqu-blu/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fruttivendolo"
 url: /edinburgh/fruttivendolo/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /tranent/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

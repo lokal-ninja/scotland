@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /falkirk/tesco-2/
-shop: Lebensmittel
+shop: convenience
 ---

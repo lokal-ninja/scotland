@@ -1,5 +1,5 @@
 ---
 title: "Luna"
 url: /aberdeen/luna/
-shop: Kosmetik
+shop: beauty
 ---

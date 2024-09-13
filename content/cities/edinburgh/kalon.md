@@ -1,5 +1,5 @@
 ---
 title: "Kalon"
 url: /edinburgh/kalon/
-shop: Friseur
+shop: hairdresser
 ---

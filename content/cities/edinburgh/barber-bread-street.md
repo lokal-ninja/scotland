@@ -1,5 +1,5 @@
 ---
 title: "Barber"
 url: /edinburgh/barber-bread-street/
-shop: Friseur
+shop: hairdresser
 ---

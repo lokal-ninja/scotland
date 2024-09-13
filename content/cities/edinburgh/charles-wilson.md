@@ -1,5 +1,5 @@
 ---
 title: "Charles Wilson"
 url: /edinburgh/charles-wilson/
-shop: Metzgerei
+shop: butcher
 ---

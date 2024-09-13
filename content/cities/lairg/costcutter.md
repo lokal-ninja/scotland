@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /lairg/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

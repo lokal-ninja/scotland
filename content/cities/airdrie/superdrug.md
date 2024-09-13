@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /airdrie/superdrug/
-shop: Drogerie
+shop: chemist
 ---

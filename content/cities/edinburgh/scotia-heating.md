@@ -1,5 +1,5 @@
 ---
 title: "Scotia Heating"
 url: /edinburgh/scotia-heating/
-shop: Haushaltsartikel
+shop: houseware
 ---

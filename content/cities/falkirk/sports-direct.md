@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /falkirk/sports-direct/
-shop: Sport
+shop: sports
 ---

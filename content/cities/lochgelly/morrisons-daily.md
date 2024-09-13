@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /lochgelly/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

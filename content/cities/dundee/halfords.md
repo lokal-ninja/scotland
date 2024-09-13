@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /dundee/halfords/
-shop: Autoteile
+shop: car parts
 ---

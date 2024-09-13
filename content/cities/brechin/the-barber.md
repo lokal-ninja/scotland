@@ -1,5 +1,5 @@
 ---
 title: "The Barber"
 url: /brechin/the-barber/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Able Care"
 url: /aberdeen/able-care/
-shop: Sanitätshaus
+shop: medical supply
 ---

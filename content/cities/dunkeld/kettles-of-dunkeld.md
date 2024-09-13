@@ -1,5 +1,5 @@
 ---
 title: "Kettles of Dunkeld"
 url: /dunkeld/kettles-of-dunkeld/
-shop: Haushaltsartikel
+shop: houseware
 ---

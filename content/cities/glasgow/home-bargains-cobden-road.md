@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /glasgow/home-bargains-cobden-road/
-shop: Kramladen
+shop: variety store
 ---

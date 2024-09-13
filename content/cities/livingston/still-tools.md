@@ -1,5 +1,5 @@
 ---
 title: "Still Tools"
 url: /livingston/still-tools/
-shop: Eisenwaren
+shop: hardware
 ---

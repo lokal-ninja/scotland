@@ -1,5 +1,5 @@
 ---
 title: "Stanley Harris"
 url: /ayr/stanley-harris/
-shop: Autoteile
+shop: car parts
 ---

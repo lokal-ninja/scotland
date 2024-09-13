@@ -1,5 +1,5 @@
 ---
 title: "Wallaces"
 url: /edinburgh/wallaces/
-shop: Elektronik
+shop: electronics
 ---

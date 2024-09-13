@@ -1,5 +1,5 @@
 ---
 title: "Ben Store"
 url: /edinburgh/ben-store/
-shop: Zeitungen
+shop: newsagent
 ---

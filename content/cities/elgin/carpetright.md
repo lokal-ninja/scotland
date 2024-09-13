@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /elgin/carpetright/
-shop: Teppiche
+shop: carpet
 ---

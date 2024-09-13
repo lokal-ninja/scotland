@@ -1,5 +1,5 @@
 ---
 title: "Mobile Technicians"
 url: /aberdeen/mobile-technicians/
-shop: Handy
+shop: mobile phone
 ---

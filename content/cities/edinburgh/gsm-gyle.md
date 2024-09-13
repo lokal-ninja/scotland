@@ -1,5 +1,5 @@
 ---
 title: "GSM Gyle"
 url: /edinburgh/gsm-gyle/
-shop: Autowerkstatt
+shop: car repair
 ---

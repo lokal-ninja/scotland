@@ -1,5 +1,5 @@
 ---
 title: "Nettl of Edinburgh"
 url: /edinburgh/nettl-of-edinburgh/
-shop: Kopieren
+shop: copyshop
 ---

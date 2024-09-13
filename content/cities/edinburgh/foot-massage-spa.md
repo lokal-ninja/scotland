@@ -1,5 +1,5 @@
 ---
 title: "Foot Massage Spa"
 url: /edinburgh/foot-massage-spa/
-shop: Massage
+shop: massage
 ---

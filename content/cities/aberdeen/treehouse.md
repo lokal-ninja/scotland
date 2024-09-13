@@ -1,5 +1,5 @@
 ---
 title: "Treehouse"
 url: /aberdeen/treehouse/
-shop: Möbel
+shop: furniture
 ---

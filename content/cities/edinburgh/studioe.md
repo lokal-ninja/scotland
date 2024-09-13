@@ -1,5 +1,5 @@
 ---
 title: "StudioE"
 url: /edinburgh/studioe/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /ayr/three/
-shop: Handy
+shop: mobile phone
 ---

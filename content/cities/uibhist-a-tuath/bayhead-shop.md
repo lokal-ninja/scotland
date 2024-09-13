@@ -1,5 +1,5 @@
 ---
 title: "Bayhead Shop"
 url: /uibhist-a-tuath/bayhead-shop/
-shop: Lebensmittel
+shop: convenience
 ---

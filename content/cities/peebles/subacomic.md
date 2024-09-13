@@ -1,5 +1,5 @@
 ---
 title: "SUBaCOMIC"
 url: /peebles/subacomic/
-shop: Sammler
+shop: collector
 ---

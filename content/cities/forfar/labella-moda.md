@@ -1,5 +1,5 @@
 ---
 title: "LaBella Moda"
 url: /forfar/labella-moda/
-shop: Kleidung
+shop: clothes
 ---

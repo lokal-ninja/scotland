@@ -1,5 +1,5 @@
 ---
 title: "Liam Ross"
 url: /edinburgh/liam-ross/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /banchory/whsmith/
-shop: Bücher
+shop: books
 ---

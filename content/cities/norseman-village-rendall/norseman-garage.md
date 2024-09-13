@@ -1,5 +1,5 @@
 ---
 title: "Norseman Garage"
 url: /norseman-village-rendall/norseman-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

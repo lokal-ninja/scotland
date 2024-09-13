@@ -1,5 +1,5 @@
 ---
 title: "Day-Today"
 url: /livingston/day-today/
-shop: Lebensmittel
+shop: convenience
 ---

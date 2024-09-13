@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /glasgow/matalan/
-shop: Kleidung
+shop: clothes
 ---

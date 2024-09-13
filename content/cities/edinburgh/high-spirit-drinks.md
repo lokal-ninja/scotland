@@ -1,5 +1,5 @@
 ---
 title: "High Spirit Drinks"
 url: /edinburgh/high-spirit-drinks/
-shop: Lebensmittel
+shop: convenience
 ---

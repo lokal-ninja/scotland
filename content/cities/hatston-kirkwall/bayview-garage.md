@@ -1,5 +1,5 @@
 ---
 title: "Bayview Garage"
 url: /hatston-kirkwall/bayview-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Green Leith"
 url: /edinburgh/green-leith/
-shop: Garten-Center
+shop: garden centre
 ---

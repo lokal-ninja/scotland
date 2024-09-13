@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /arbroath/morrisons/
-shop: Supermarkt
+shop: supermarket
 ---

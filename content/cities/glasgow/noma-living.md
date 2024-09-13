@@ -1,5 +1,5 @@
 ---
 title: "Noma Living"
 url: /glasgow/noma-living/
-shop: Raumausstattung
+shop: interior decoration
 ---

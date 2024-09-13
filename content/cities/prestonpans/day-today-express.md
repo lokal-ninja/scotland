@@ -1,5 +1,5 @@
 ---
 title: "Day-Today Express"
 url: /prestonpans/day-today-express/
-shop: Lebensmittel
+shop: convenience
 ---

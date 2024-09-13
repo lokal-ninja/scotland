@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /glasgow/sharps/
-shop: Möbel
+shop: furniture
 ---

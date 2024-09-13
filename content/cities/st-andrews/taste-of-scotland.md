@@ -1,5 +1,5 @@
 ---
 title: "Taste Of Scotland"
 url: /st-andrews/taste-of-scotland/
-shop: Spirituosen
+shop: alcohol
 ---

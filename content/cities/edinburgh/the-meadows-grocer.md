@@ -1,5 +1,5 @@
 ---
 title: "The Meadows Grocer"
 url: /edinburgh/the-meadows-grocer/
-shop: Lebensmittel
+shop: convenience
 ---

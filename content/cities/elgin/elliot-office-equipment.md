@@ -1,5 +1,5 @@
 ---
 title: "Elliot Office Equipment"
 url: /elgin/elliot-office-equipment/
-shop: Schreibwaren
+shop: office supplies
 ---

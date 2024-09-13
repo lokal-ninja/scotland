@@ -1,5 +1,5 @@
 ---
 title: "Instacash"
 url: /edinburgh/instacash/
-shop: Leiher
+shop: pawnbroker
 ---

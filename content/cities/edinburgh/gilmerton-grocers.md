@@ -1,5 +1,5 @@
 ---
 title: "Gilmerton Grocers"
 url: /edinburgh/gilmerton-grocers/
-shop: Lebensmittel
+shop: convenience
 ---

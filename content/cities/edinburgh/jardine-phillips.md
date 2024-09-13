@@ -1,5 +1,5 @@
 ---
 title: "Jardine Phillips"
 url: /edinburgh/jardine-phillips/
-shop: Immobilien
+shop: estate agent
 ---

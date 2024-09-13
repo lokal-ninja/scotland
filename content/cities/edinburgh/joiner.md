@@ -1,5 +1,5 @@
 ---
 title: "Joiner"
 url: /edinburgh/joiner/
-shop: Baustoffe
+shop: trade
 ---

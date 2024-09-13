@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /dundee/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

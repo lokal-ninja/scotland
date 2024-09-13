@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /prestonpans/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

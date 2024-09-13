@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /ayr/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

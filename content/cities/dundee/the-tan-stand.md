@@ -1,5 +1,5 @@
 ---
 title: "The Tan Stand"
 url: /dundee/the-tan-stand/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park's Mazda Inverness"
 url: /inverness/parks-mazda-inverness/
-shop: Autohaus
+shop: car
 ---

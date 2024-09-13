@@ -1,5 +1,5 @@
 ---
 title: "Shad Superstore"
 url: /inverkeithing/shad-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

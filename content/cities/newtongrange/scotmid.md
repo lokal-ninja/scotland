@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /newtongrange/scotmid/
-shop: Lebensmittel
+shop: convenience
 ---

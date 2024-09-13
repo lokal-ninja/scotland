@@ -1,5 +1,5 @@
 ---
 title: "Revitalize"
 url: /edinburgh/revitalize/
-shop: Massage
+shop: massage
 ---

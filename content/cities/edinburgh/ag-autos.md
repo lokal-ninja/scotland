@@ -1,5 +1,5 @@
 ---
 title: "AG Autos"
 url: /edinburgh/ag-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

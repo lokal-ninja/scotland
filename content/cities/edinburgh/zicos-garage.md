@@ -1,5 +1,5 @@
 ---
 title: "Zico's Garage"
 url: /edinburgh/zicos-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

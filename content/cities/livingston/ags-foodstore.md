@@ -1,5 +1,5 @@
 ---
 title: "AGS Foodstore"
 url: /livingston/ags-foodstore/
-shop: Lebensmittel
+shop: convenience
 ---

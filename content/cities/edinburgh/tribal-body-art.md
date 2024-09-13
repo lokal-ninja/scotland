@@ -1,5 +1,5 @@
 ---
 title: "Tribal Body Art"
 url: /edinburgh/tribal-body-art/
-shop: Tattoo
+shop: tattoo
 ---

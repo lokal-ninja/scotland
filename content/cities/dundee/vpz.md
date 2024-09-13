@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /dundee/vpz/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

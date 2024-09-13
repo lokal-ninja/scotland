@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /edinburgh/skechers/
-shop: Schuhe
+shop: shoes
 ---

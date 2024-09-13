@@ -1,5 +1,5 @@
 ---
 title: "Straine Opticians"
 url: /aberdeen/straine-opticians/
-shop: Optiker
+shop: optician
 ---

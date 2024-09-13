@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /forfar/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

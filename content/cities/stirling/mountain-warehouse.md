@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /stirling/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

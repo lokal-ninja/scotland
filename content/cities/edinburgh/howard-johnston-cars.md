@@ -1,5 +1,5 @@
 ---
 title: "Howard-Johnston Cars"
 url: /edinburgh/howard-johnston-cars/
-shop: Autohaus
+shop: car
 ---

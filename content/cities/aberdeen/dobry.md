@@ -1,5 +1,5 @@
 ---
 title: "Dobry"
 url: /aberdeen/dobry/
-shop: Feinkost
+shop: deli
 ---

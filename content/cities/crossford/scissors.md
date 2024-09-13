@@ -1,5 +1,5 @@
 ---
 title: "Scissors"
 url: /crossford/scissors/
-shop: Friseur
+shop: hairdresser
 ---

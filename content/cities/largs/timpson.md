@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /largs/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bammy Beverages"
 url: /glasgow/bammy-beverages/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Main Point Books"
 url: /edinburgh/main-point-books/
-shop: Bücher
+shop: books
 ---

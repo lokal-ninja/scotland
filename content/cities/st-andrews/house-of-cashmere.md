@@ -1,5 +1,5 @@
 ---
 title: "House of Cashmere"
 url: /st-andrews/house-of-cashmere/
-shop: Kleidung
+shop: clothes
 ---

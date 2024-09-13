@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /glasgow/game-argyle-street/
-shop: Videospiele
+shop: video games
 ---

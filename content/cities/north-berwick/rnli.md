@@ -1,5 +1,5 @@
 ---
 title: "RNLI"
 url: /north-berwick/rnli/
-shop: Andenken
+shop: gift
 ---

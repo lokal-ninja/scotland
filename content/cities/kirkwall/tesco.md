@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /kirkwall/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

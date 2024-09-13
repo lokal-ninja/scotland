@@ -1,5 +1,5 @@
 ---
 title: "Deep Blue Scuba"
 url: /edinburgh/deep-blue-scuba/
-shop: Tauchen
+shop: diving
 ---

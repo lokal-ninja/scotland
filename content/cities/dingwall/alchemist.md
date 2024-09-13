@@ -1,5 +1,5 @@
 ---
 title: "Alchemist"
 url: /dingwall/alchemist/
-shop: Raumausstattung
+shop: interior decoration
 ---

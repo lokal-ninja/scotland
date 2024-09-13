@@ -1,5 +1,5 @@
 ---
 title: "Trossachs Woollen Mill"
 url: /callander/trossachs-woollen-mill/
-shop: Andenken
+shop: gift
 ---

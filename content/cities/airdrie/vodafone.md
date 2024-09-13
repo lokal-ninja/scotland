@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /airdrie/vodafone/
-shop: Handy
+shop: mobile phone
 ---

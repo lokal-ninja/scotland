@@ -1,5 +1,5 @@
 ---
 title: "Knightsridge Garage Services"
 url: /livingston/knightsridge-garage-services/
-shop: Autowerkstatt
+shop: car repair
 ---

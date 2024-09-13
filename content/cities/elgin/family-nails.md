@@ -1,5 +1,5 @@
 ---
 title: "Family Nails"
 url: /elgin/family-nails/
-shop: Kosmetik
+shop: beauty
 ---

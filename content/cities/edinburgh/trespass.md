@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /edinburgh/trespass/
-shop: Outdoor
+shop: outdoor
 ---

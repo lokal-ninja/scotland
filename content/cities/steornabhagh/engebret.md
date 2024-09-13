@@ -1,5 +1,5 @@
 ---
 title: "Engebret"
 url: /steornabhagh/engebret/
-shop: Lebensmittel
+shop: convenience
 ---

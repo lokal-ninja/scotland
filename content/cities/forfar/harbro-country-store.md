@@ -1,5 +1,5 @@
 ---
 title: "Harbro Country Store"
 url: /forfar/harbro-country-store/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

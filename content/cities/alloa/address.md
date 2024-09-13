@@ -1,5 +1,5 @@
 ---
 title: "Address"
 url: /alloa/address/
-shop: Friseur
+shop: hairdresser
 ---

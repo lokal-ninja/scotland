@@ -1,5 +1,5 @@
 ---
 title: "Six Acres"
 url: /edinburgh/six-acres/
-shop: Raumausstattung
+shop: interior decoration
 ---

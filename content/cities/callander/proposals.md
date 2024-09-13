@@ -1,5 +1,5 @@
 ---
 title: "Proposals"
 url: /callander/proposals/
-shop: Andenken
+shop: gift
 ---

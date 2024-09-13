@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /inverness/matalan/
-shop: Kleidung
+shop: clothes
 ---

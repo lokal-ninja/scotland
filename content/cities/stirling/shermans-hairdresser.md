@@ -1,5 +1,5 @@
 ---
 title: "Shermans Hairdresser"
 url: /stirling/shermans-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

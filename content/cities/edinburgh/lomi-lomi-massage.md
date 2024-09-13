@@ -1,5 +1,5 @@
 ---
 title: "Lomi Lomi Massage"
 url: /edinburgh/lomi-lomi-massage/
-shop: Massage
+shop: massage
 ---

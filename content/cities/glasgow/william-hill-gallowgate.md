@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /glasgow/william-hill-gallowgate/
-shop: Wettbüro
+shop: bookmaker
 ---

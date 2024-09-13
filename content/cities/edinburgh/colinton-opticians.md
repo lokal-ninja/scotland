@@ -1,5 +1,5 @@
 ---
 title: "Colinton Opticians"
 url: /edinburgh/colinton-opticians/
-shop: Optiker
+shop: optician
 ---

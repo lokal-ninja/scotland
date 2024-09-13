@@ -1,5 +1,5 @@
 ---
 title: "Pixie Rose"
 url: /edinburgh/pixie-rose/
-shop: Blumen
+shop: florist
 ---

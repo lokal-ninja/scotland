@@ -1,5 +1,5 @@
 ---
 title: "The Edge"
 url: /edinburgh/the-edge/
-shop: Friseur
+shop: hairdresser
 ---

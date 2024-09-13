@@ -1,5 +1,5 @@
 ---
 title: "McLeish"
 url: /inverurie/mcleish/
-shop: Lebensmittel
+shop: convenience
 ---

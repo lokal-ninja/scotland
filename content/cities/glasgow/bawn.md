@@ -1,5 +1,5 @@
 ---
 title: "Bawn"
 url: /glasgow/bawn/
-shop: Allgemein
+shop: shop
 ---

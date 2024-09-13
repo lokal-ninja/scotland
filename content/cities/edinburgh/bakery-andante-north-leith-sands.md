@@ -1,5 +1,5 @@
 ---
 title: "Bakery Andante"
 url: /edinburgh/bakery-andante-north-leith-sands/
-shop: Bäckerei
+shop: bakery
 ---

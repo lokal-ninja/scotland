@@ -1,5 +1,5 @@
 ---
 title: "Roxburgh Heating LTD"
 url: /hawick/roxburgh-heating-ltd/
-shop: Allgemein
+shop: shop
 ---

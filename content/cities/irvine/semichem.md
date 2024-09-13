@@ -1,5 +1,5 @@
 ---
 title: "Semichem"
 url: /irvine/semichem/
-shop: Drogerie
+shop: chemist
 ---

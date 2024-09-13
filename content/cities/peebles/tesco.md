@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /peebles/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

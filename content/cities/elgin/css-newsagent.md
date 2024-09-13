@@ -1,5 +1,5 @@
 ---
 title: "CSS Newsagent"
 url: /elgin/css-newsagent/
-shop: Lebensmittel
+shop: convenience
 ---

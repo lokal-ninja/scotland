@@ -1,5 +1,5 @@
 ---
 title: "Jorga's"
 url: /longridge/jorgas/
-shop: Lebensmittel
+shop: convenience
 ---

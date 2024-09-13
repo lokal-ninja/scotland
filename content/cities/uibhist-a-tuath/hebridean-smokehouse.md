@@ -1,5 +1,5 @@
 ---
 title: "Hebridean Smokehouse"
 url: /uibhist-a-tuath/hebridean-smokehouse/
-shop: Fisch
+shop: seafood
 ---

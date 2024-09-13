@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /inverness/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

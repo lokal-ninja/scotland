@@ -1,5 +1,5 @@
 ---
 title: "Aulds"
 url: /ayr/aulds/
-shop: Bäckerei
+shop: bakery
 ---

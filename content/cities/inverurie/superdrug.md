@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /inverurie/superdrug/
-shop: Drogerie
+shop: chemist
 ---

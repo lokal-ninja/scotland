@@ -1,5 +1,5 @@
 ---
 title: "Little Supermarket"
 url: /livingston/little-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

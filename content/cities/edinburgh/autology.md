@@ -1,5 +1,5 @@
 ---
 title: "Autology"
 url: /edinburgh/autology/
-shop: Autowerkstatt
+shop: car repair
 ---

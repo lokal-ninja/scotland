@@ -1,5 +1,5 @@
 ---
 title: "The Treatment Room"
 url: /tighnabruaich/the-treatment-room/
-shop: Kosmetik
+shop: beauty
 ---

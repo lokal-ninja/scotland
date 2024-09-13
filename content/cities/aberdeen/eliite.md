@@ -1,5 +1,5 @@
 ---
 title: "eliite"
 url: /aberdeen/eliite/
-shop: Schneiderei
+shop: tailor
 ---

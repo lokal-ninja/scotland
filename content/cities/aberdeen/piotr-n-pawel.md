@@ -1,5 +1,5 @@
 ---
 title: "Piotr n Pawel"
 url: /aberdeen/piotr-n-pawel/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /aberdeen/beaverbrooks/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "smi"
 url: /edinburgh/smi/
-shop: Kleidung
+shop: clothes
 ---

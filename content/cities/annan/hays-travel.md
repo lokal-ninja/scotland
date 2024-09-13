@@ -1,5 +1,5 @@
 ---
 title: "Hays Travel"
 url: /annan/hays-travel/
-shop: Reisebüro
+shop: travel agency
 ---

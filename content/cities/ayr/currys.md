@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /ayr/currys/
-shop: Elektronik
+shop: electronics
 ---

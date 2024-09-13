@@ -1,5 +1,5 @@
 ---
 title: "Wm Turnbull"
 url: /edinburgh/wm-turnbull/
-shop: Treibstoff
+shop: fuel
 ---

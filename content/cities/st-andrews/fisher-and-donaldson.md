@@ -1,5 +1,5 @@
 ---
 title: "Fisher and Donaldson"
 url: /st-andrews/fisher-and-donaldson/
-shop: Bäckerei
+shop: bakery
 ---

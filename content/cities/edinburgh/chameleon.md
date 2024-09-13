@@ -1,5 +1,5 @@
 ---
 title: "Chameleon"
 url: /edinburgh/chameleon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Overgate Shopping Centre"
 url: /dundee/overgate-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

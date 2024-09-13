@@ -1,5 +1,5 @@
 ---
 title: "Paper Tiger"
 url: /edinburgh/paper-tiger-lothian-road/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Fotheringham Gallery"
 url: /bridge-of-allan/the-fotheringham-gallery/
-shop: Kunst
+shop: art
 ---

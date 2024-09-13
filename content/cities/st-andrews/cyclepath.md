@@ -1,5 +1,5 @@
 ---
 title: "Cyclepath"
 url: /st-andrews/cyclepath/
-shop: Fahrrad
+shop: bicycle
 ---

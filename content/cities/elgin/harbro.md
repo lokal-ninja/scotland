@@ -1,5 +1,5 @@
 ---
 title: "Harbro"
 url: /elgin/harbro/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

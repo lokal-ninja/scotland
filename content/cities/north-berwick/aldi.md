@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /north-berwick/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

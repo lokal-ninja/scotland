@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /g/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

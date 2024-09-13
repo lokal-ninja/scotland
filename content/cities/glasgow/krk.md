@@ -1,5 +1,5 @@
 ---
 title: "KRK"
 url: /glasgow/krk/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /edinburgh/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

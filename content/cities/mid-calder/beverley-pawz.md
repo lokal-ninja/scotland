@@ -1,5 +1,5 @@
 ---
 title: "Beverley Pawz"
 url: /mid-calder/beverley-pawz/
-shop: Tiersalon
+shop: pet grooming
 ---

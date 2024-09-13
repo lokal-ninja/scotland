@@ -1,5 +1,5 @@
 ---
 title: "Chelegance"
 url: /airdrie/chelegance/
-shop: Friseur
+shop: hairdresser
 ---

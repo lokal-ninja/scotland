@@ -1,5 +1,5 @@
 ---
 title: "Tarff Trading"
 url: /fort-augustus/tarff-trading/
-shop: Dorfladen
+shop: general
 ---

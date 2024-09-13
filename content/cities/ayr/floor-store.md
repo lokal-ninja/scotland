@@ -1,5 +1,5 @@
 ---
 title: "Floor Store"
 url: /ayr/floor-store/
-shop: Fußböden
+shop: flooring
 ---

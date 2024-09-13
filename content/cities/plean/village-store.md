@@ -1,5 +1,5 @@
 ---
 title: "Village Store"
 url: /plean/village-store/
-shop: Lebensmittel
+shop: convenience
 ---

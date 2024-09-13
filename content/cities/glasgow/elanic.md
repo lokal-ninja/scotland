@@ -1,5 +1,5 @@
 ---
 title: "Elanic"
 url: /glasgow/elanic/
-shop: Kosmetik
+shop: beauty
 ---

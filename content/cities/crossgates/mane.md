@@ -1,5 +1,5 @@
 ---
 title: "Mane"
 url: /crossgates/mane/
-shop: Friseur
+shop: hairdresser
 ---

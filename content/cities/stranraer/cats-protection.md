@@ -1,5 +1,5 @@
 ---
 title: "Cats Protection"
 url: /stranraer/cats-protection/
-shop: Gebrauchtwaren
+shop: charity
 ---

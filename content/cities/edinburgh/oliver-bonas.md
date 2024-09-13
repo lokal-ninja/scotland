@@ -1,5 +1,5 @@
 ---
 title: "Oliver Bonas"
 url: /edinburgh/oliver-bonas/
-shop: Kleidung
+shop: clothes
 ---

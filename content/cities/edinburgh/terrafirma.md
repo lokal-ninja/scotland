@@ -1,5 +1,5 @@
 ---
 title: "Terrafirma"
 url: /edinburgh/terrafirma/
-shop: Hanf
+shop: cannabis
 ---

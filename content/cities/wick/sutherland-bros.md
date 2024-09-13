@@ -1,5 +1,5 @@
 ---
 title: "Sutherland Bros"
 url: /wick/sutherland-bros/
-shop: Großhandel
+shop: wholesale
 ---

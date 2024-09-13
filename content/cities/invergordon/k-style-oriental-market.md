@@ -1,5 +1,5 @@
 ---
 title: "K.Style Oriental Market"
 url: /invergordon/k-style-oriental-market/
-shop: Lebensmittel
+shop: convenience
 ---

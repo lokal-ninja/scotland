@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /peebles/trespass/
-shop: Outdoor
+shop: outdoor
 ---

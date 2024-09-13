@@ -1,5 +1,5 @@
 ---
 title: "Liquorice Tattoo"
 url: /kirriemuir/liquorice-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

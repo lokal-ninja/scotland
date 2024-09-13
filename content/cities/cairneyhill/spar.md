@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cairneyhill/spar/
-shop: Lebensmittel
+shop: convenience
 ---

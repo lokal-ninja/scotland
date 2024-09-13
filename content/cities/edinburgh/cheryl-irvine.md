@@ -1,5 +1,5 @@
 ---
 title: "Cheryl Irvine"
 url: /edinburgh/cheryl-irvine/
-shop: Friseur
+shop: hairdresser
 ---

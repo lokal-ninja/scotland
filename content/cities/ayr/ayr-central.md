@@ -1,5 +1,5 @@
 ---
 title: "Ayr Central"
 url: /ayr/ayr-central/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /kirkwall/peacocks/
-shop: Kleidung
+shop: clothes
 ---

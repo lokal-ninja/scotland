@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /dundee/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

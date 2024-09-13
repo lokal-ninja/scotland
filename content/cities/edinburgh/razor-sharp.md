@@ -1,5 +1,5 @@
 ---
 title: "Razor Sharp"
 url: /edinburgh/razor-sharp/
-shop: Friseur
+shop: hairdresser
 ---

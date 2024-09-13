@@ -1,5 +1,5 @@
 ---
 title: "Links Express"
 url: /edinburgh/links-express/
-shop: Zeitungen
+shop: newsagent
 ---

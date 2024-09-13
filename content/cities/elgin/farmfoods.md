@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /elgin/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

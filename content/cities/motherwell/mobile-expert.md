@@ -1,5 +1,5 @@
 ---
 title: "Mobile Expert"
 url: /motherwell/mobile-expert/
-shop: Handy
+shop: mobile phone
 ---

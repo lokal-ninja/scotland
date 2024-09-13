@@ -1,5 +1,5 @@
 ---
 title: "CitiDogs"
 url: /edinburgh/citidogs/
-shop: Tiere
+shop: pet
 ---

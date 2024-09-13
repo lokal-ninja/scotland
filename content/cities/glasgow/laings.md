@@ -1,5 +1,5 @@
 ---
 title: "Laings"
 url: /glasgow/laings/
-shop: Schmuck
+shop: jewelry
 ---

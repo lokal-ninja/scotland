@@ -1,5 +1,5 @@
 ---
 title: "Staffin Stores"
 url: /staffin/staffin-stores/
-shop: Lebensmittel
+shop: convenience
 ---

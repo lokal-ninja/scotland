@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /elgin/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

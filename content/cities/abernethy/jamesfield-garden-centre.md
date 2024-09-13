@@ -1,5 +1,5 @@
 ---
 title: "Jamesfield Garden Centre"
 url: /abernethy/jamesfield-garden-centre/
-shop: Allgemein
+shop: shop
 ---

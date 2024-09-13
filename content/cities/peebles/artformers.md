@@ -1,5 +1,5 @@
 ---
 title: "Artformers"
 url: /peebles/artformers/
-shop: Friseur
+shop: hairdresser
 ---

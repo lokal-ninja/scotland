@@ -1,5 +1,5 @@
 ---
 title: "Zuri"
 url: /edinburgh/zuri/
-shop: Kosmetik
+shop: beauty
 ---

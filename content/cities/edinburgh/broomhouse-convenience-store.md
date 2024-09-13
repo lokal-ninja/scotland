@@ -1,5 +1,5 @@
 ---
 title: "Broomhouse Convenience Store"
 url: /edinburgh/broomhouse-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

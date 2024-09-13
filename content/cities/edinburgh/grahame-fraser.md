@@ -1,5 +1,5 @@
 ---
 title: "Grahame Fraser"
 url: /edinburgh/grahame-fraser/
-shop: Friseur
+shop: hairdresser
 ---

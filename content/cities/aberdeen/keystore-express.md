@@ -1,5 +1,5 @@
 ---
 title: "Keystore Express"
 url: /aberdeen/keystore-express/
-shop: Lebensmittel
+shop: convenience
 ---

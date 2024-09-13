@@ -1,5 +1,5 @@
 ---
 title: "Torn Vintage"
 url: /edinburgh/torn-vintage/
-shop: Kleidung
+shop: clothes
 ---

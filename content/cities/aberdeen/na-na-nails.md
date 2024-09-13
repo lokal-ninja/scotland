@@ -1,5 +1,5 @@
 ---
 title: "Na-Na Nails"
 url: /aberdeen/na-na-nails/
-shop: Kosmetik
+shop: beauty
 ---

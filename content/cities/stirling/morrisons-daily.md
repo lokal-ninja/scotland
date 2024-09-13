@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /stirling/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

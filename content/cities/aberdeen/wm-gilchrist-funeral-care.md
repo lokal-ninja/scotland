@@ -1,5 +1,5 @@
 ---
 title: "Wm Gilchrist Funeral Care"
 url: /aberdeen/wm-gilchrist-funeral-care/
-shop: Bestattungen
+shop: funeral directors
 ---

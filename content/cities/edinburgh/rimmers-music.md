@@ -1,5 +1,5 @@
 ---
 title: "Rimmers Music"
 url: /edinburgh/rimmers-music/
-shop: Instrumente
+shop: musical instrument
 ---

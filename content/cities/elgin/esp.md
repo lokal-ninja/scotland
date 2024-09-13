@@ -1,5 +1,5 @@
 ---
 title: "ESP"
 url: /elgin/esp/
-shop: Sport
+shop: sports
 ---

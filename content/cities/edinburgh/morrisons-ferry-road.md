@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Ferry Road"
 url: /edinburgh/morrisons-ferry-road/
-shop: Supermarkt
+shop: supermarket
 ---

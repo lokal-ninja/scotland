@@ -1,5 +1,5 @@
 ---
 title: "Green Meadows"
 url: /edinburgh/green-meadows/
-shop: Garten-Center
+shop: garden centre
 ---

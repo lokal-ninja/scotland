@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /edinburgh/monsoon/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Golf"
 url: /edinburgh/american-golf/
-shop: Sport
+shop: sports
 ---

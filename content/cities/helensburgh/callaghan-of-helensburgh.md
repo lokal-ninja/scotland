@@ -1,5 +1,5 @@
 ---
 title: "Callaghan of Helensburgh"
 url: /helensburgh/callaghan-of-helensburgh/
-shop: Metzgerei
+shop: butcher
 ---

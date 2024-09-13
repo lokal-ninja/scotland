@@ -1,5 +1,5 @@
 ---
 title: "Blackford Motor Engineers"
 url: /edinburgh/blackford-motor-engineers/
-shop: Autowerkstatt
+shop: car repair
 ---

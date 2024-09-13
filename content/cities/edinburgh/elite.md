@@ -1,5 +1,5 @@
 ---
 title: "Elite"
 url: /edinburgh/elite/
-shop: Wäscherei
+shop: laundry
 ---

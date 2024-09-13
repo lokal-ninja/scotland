@@ -1,5 +1,5 @@
 ---
 title: "Dears Pharmacy"
 url: /burntisland/dears-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

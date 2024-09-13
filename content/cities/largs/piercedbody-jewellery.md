@@ -1,5 +1,5 @@
 ---
 title: "PiercedBody Jewellery"
 url: /largs/piercedbody-jewellery/
-shop: Piercing
+shop: piercing
 ---

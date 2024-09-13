@@ -1,5 +1,5 @@
 ---
 title: "SieMatic"
 url: /glasgow/siematic/
-shop: Küchen
+shop: kitchen
 ---

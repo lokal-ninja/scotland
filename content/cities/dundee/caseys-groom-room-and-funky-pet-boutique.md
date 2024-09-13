@@ -1,5 +1,5 @@
 ---
 title: "Casey's Groom Room and Funky Pet Boutique"
 url: /dundee/caseys-groom-room-and-funky-pet-boutique/
-shop: Tiersalon
+shop: pet grooming
 ---

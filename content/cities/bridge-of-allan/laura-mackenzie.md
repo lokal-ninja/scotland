@@ -1,5 +1,5 @@
 ---
 title: "Laura Mackenzie"
 url: /bridge-of-allan/laura-mackenzie/
-shop: Friseur
+shop: hairdresser
 ---

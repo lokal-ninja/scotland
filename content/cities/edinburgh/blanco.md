@@ -1,5 +1,5 @@
 ---
 title: "Blanco"
 url: /edinburgh/blanco/
-shop: Friseur
+shop: hairdresser
 ---

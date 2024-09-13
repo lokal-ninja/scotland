@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /inverurie/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

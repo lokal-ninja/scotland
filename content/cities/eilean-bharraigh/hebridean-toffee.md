@@ -1,5 +1,5 @@
 ---
 title: "Hebridean Toffee"
 url: /eilean-bharraigh/hebridean-toffee/
-shop: Süßwaren
+shop: confectionery
 ---

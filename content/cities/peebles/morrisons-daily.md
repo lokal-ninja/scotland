@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /peebles/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

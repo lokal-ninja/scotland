@@ -1,5 +1,5 @@
 ---
 title: "Tranquil Touch"
 url: /glasgow/tranquil-touch/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "INOVA"
 url: /aberdeen/inova/
-shop: Friseur
+shop: hairdresser
 ---

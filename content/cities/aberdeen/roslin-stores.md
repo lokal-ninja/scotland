@@ -1,5 +1,5 @@
 ---
 title: "Roslin Stores"
 url: /aberdeen/roslin-stores/
-shop: Lebensmittel
+shop: convenience
 ---

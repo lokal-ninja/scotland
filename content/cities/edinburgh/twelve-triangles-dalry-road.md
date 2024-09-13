@@ -1,5 +1,5 @@
 ---
 title: "Twelve Triangles"
 url: /edinburgh/twelve-triangles-dalry-road/
-shop: Bäckerei
+shop: bakery
 ---

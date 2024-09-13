@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cowdenbeath/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

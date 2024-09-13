@@ -1,5 +1,5 @@
 ---
 title: "Krkliston News"
 url: /kirkliston/krkliston-news/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxfam Bookshop"
 url: /aberdeen/oxfam-bookshop/
-shop: Bücher
+shop: books
 ---

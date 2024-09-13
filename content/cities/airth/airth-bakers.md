@@ -1,5 +1,5 @@
 ---
 title: "Airth Bakers"
 url: /airth/airth-bakers/
-shop: Bäckerei
+shop: bakery
 ---

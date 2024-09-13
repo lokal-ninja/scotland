@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /turriff/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

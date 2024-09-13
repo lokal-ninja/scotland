@@ -1,5 +1,5 @@
 ---
 title: "The Salvation Army"
 url: /edinburgh/the-salvation-army-newington-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

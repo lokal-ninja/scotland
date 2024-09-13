@@ -1,5 +1,5 @@
 ---
 title: "Costa"
 url: /motherwell/costa/
-shop: Kaffee
+shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Underground Solu'shn"
 url: /edinburgh/underground-solushn/
-shop: Musik
+shop: music
 ---

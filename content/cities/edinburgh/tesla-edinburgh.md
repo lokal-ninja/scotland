@@ -1,5 +1,5 @@
 ---
 title: "Tesla Edinburgh"
 url: /edinburgh/tesla-edinburgh/
-shop: Autohaus
+shop: car
 ---

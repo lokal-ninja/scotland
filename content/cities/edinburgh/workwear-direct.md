@@ -1,5 +1,5 @@
 ---
 title: "Workwear Direct"
 url: /edinburgh/workwear-direct/
-shop: Kleidung
+shop: clothes
 ---

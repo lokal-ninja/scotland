@@ -1,5 +1,5 @@
 ---
 title: "Shopsmart"
 url: /glasgow/shopsmart/
-shop: Lebensmittel
+shop: convenience
 ---

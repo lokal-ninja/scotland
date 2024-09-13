@@ -1,5 +1,5 @@
 ---
 title: "The World Of Art"
 url: /ayr/the-world-of-art/
-shop: Kunst
+shop: art
 ---

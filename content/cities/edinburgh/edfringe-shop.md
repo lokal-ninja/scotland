@@ -1,5 +1,5 @@
 ---
 title: "Edfringe Shop"
 url: /edinburgh/edfringe-shop/
-shop: Tickets
+shop: ticket
 ---

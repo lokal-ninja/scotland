@@ -1,5 +1,5 @@
 ---
 title: "The Rope Centre"
 url: /stromness/the-rope-centre/
-shop: Allgemein
+shop: shop
 ---

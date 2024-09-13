@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /airdrie/savers/
-shop: Drogerie
+shop: chemist
 ---

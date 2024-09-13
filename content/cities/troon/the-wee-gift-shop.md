@@ -1,5 +1,5 @@
 ---
 title: "The Wee Gift Shop"
 url: /troon/the-wee-gift-shop/
-shop: Andenken
+shop: gift
 ---

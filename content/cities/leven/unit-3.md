@@ -1,5 +1,5 @@
 ---
 title: "Unit 3"
 url: /leven/unit-3/
-shop: Kosmetik
+shop: beauty
 ---

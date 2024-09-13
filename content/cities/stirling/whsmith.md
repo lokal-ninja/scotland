@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /stirling/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

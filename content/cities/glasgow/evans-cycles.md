@@ -1,5 +1,5 @@
 ---
 title: "Evans Cycles"
 url: /glasgow/evans-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

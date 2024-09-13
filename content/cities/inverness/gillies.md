@@ -1,5 +1,5 @@
 ---
 title: "Gillies"
 url: /inverness/gillies/
-shop: Möbel
+shop: furniture
 ---

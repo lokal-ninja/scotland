@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /elgin/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DBS Motorbikes"
 url: /livingston/dbs-motorbikes/
-shop: Motorrad
+shop: motorcycle
 ---

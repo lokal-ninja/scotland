@@ -1,5 +1,5 @@
 ---
 title: "Kenneth's"
 url: /elgin/kenneths/
-shop: Friseur
+shop: hairdresser
 ---

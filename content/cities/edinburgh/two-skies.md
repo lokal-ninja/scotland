@@ -1,5 +1,5 @@
 ---
 title: "Two Skies"
 url: /edinburgh/two-skies/
-shop: Andenken
+shop: gift
 ---

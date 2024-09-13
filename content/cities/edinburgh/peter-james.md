@@ -1,5 +1,5 @@
 ---
 title: "Peter James"
 url: /edinburgh/peter-james/
-shop: Friseur
+shop: hairdresser
 ---

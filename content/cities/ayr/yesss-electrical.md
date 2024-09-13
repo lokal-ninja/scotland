@@ -1,5 +1,5 @@
 ---
 title: "Yesss Electrical"
 url: /ayr/yesss-electrical/
-shop: Elektrisch
+shop: electrical
 ---

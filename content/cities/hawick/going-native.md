@@ -1,5 +1,5 @@
 ---
 title: "Going Native"
 url: /hawick/going-native/
-shop: Metzgerei
+shop: butcher
 ---

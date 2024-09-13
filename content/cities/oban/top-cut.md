@@ -1,5 +1,5 @@
 ---
 title: "Top Cut"
 url: /oban/top-cut/
-shop: Friseur
+shop: hairdresser
 ---

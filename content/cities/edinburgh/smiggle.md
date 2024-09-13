@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /edinburgh/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

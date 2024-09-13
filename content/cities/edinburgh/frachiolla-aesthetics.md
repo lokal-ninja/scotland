@@ -1,5 +1,5 @@
 ---
 title: "Frachiolla Aesthetics"
 url: /edinburgh/frachiolla-aesthetics/
-shop: Friseur
+shop: hairdresser
 ---

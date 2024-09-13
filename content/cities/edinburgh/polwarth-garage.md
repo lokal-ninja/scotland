@@ -1,5 +1,5 @@
 ---
 title: "Polwarth Garage"
 url: /edinburgh/polwarth-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

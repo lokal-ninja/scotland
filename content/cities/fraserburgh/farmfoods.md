@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /fraserburgh/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Treetop Toys"
 url: /melrose/treetop-toys/
-shop: Spielzeug
+shop: toys
 ---

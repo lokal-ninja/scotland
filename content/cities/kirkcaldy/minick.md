@@ -1,5 +1,5 @@
 ---
 title: "Minick"
 url: /kirkcaldy/minick/
-shop: Metzgerei
+shop: butcher
 ---

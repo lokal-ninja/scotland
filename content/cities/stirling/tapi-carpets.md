@@ -1,5 +1,5 @@
 ---
 title: "Tapi Carpets"
 url: /stirling/tapi-carpets/
-shop: Teppiche
+shop: carpet
 ---

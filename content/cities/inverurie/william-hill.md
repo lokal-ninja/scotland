@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /inverurie/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /wishaw/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

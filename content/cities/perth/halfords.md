@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /perth/halfords/
-shop: Autoteile
+shop: car parts
 ---

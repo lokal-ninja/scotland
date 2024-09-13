@@ -1,5 +1,5 @@
 ---
 title: "King Kong Tattoo"
 url: /kirriemuir/king-kong-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

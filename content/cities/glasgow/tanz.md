@@ -1,5 +1,5 @@
 ---
 title: "Tanz"
 url: /glasgow/tanz/
-shop: Kosmetik
+shop: beauty
 ---

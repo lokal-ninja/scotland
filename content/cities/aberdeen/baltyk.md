@@ -1,5 +1,5 @@
 ---
 title: "Bałtyk"
 url: /aberdeen/baltyk/
-shop: Lebensmittel
+shop: convenience
 ---

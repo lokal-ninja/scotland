@@ -1,5 +1,5 @@
 ---
 title: "Prime Mobile"
 url: /dalkeith/prime-mobile/
-shop: Handy
+shop: mobile phone
 ---

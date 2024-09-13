@@ -1,5 +1,5 @@
 ---
 title: "Scotfresh"
 url: /dumfries/scotfresh/
-shop: Lebensmittel
+shop: convenience
 ---

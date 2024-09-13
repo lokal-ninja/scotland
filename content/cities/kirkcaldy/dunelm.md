@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /kirkcaldy/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

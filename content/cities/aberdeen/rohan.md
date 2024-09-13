@@ -1,5 +1,5 @@
 ---
 title: "Rohan"
 url: /aberdeen/rohan/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chapmans"
 url: /edinburgh/chapmans/
-shop: Immobilien
+shop: estate agent
 ---
