@@ -1,11 +1,11 @@
 id: 165589853
-type: way
+type: node
 latitude: 56.40861
 longitude: -5.47454
-postcode: "PA34 4BW"
+postcode: PA34 4BW
 city: Oban
-street: "Lochavullin Drive"
-housenumber: 
+street: Lochavullin Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://community.petsathome.com/store/oban/"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-17:00
+website: https://community.petsathome.com/store/oban/

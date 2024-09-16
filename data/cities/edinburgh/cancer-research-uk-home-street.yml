@@ -2,10 +2,10 @@ id: 3487561496
 type: node
 latitude: 55.9424
 longitude: -3.20379
-postcode: "EH3 9NA"
+postcode: EH3 9NA
 city: Edinburgh
-street: "Home Street"
-housenumber: 50
+street: Home Street
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:00-17:30; Su 11:00-17:00
 website: ""

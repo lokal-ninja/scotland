@@ -2,10 +2,10 @@ id: 2134217013
 type: node
 latitude: 55.95349
 longitude: -3.1986
-postcode: "EH2 2HT"
+postcode: EH2 2HT
 city: Edinburgh
-street: "George Street"
-housenumber: 45
-phone: "+44 131 226 4753"
+street: George Street
+housenumber: "45"
+phone: +44 131 226 4753
 opening_hours: ""
-website: "https://stores.monsoon.co.uk/monsoon-664767c13281"
+website: https://stores.monsoon.co.uk/monsoon-664767c13281

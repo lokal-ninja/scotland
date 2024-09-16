@@ -1,11 +1,11 @@
 id: 4885967
-type: way
+type: node
 latitude: 55.92188
 longitude: -3.29943
-postcode: "EH11 4EJ"
+postcode: EH11 4EJ
 city: Edinburgh
-street: "Bankhead Drive"
-housenumber: 4
+street: Bankhead Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

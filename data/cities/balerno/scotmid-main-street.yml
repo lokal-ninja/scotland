@@ -1,11 +1,11 @@
 id: 230776863
-type: way
+type: node
 latitude: 55.88411
 longitude: -3.33979
-postcode: "EH14 7EH"
+postcode: EH14 7EH
 city: Balerno
-street: "Main Street"
-housenumber: 6
+street: Main Street
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://scotmid.coop/store/balerno-1/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://scotmid.coop/store/balerno-1/

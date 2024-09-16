@@ -1,11 +1,11 @@
 id: 136323725
-type: way
+type: node
 latitude: 55.99373
 longitude: -3.78955
-postcode: "FK1 5QX"
+postcode: FK1 5QX
 city: Falkirk
-street: "High Station Road"
-housenumber: 88
-phone: "+44 1324 622341"
-opening_hours: "Mo-Su 05:00-22:00"
+street: High Station Road
+housenumber: "88"
+phone: +44 1324 622341
+opening_hours: Mo-Su 05:00-22:00
 website: ""

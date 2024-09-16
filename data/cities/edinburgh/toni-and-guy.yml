@@ -4,8 +4,8 @@ latitude: 55.95373
 longitude: -3.20119
 postcode: ""
 city: Edinburgh
-street: "Frederick Street"
-housenumber: 52
+street: Frederick Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://toniandguy.com/salon/edinburgh"
+website: https://toniandguy.com/salon/edinburgh

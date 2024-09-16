@@ -4,8 +4,8 @@ latitude: 55.85467
 longitude: -4.23981
 postcode: ""
 city: Glasgow
-street: "London Road"
-housenumber: 157
+street: London Road
+housenumber: "157"
 phone: ""
-opening_hours: "Mo-Su 10:00-15:00; We off"
+opening_hours: Mo-Su 10:00-15:00; We off
 website: ""

@@ -1,11 +1,11 @@
 id: 1031573003
-type: way
+type: node
 latitude: 57.20173
 longitude: -2.18902
-postcode: "AB21 7DX"
+postcode: AB21 7DX
 city: Aberdeen
-street: "Victoria Street"
-housenumber: 9
+street: Victoria Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

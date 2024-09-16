@@ -1,11 +1,11 @@
 id: 64239586
-type: way
+type: node
 latitude: 56.58914
 longitude: -3.34263
-postcode: "PH10 6DL"
+postcode: PH10 6DL
 city: Blairgowrie
-street: "Perth Street"
-housenumber: 58
+street: Perth Street
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/PH10-6DL/perth-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/PH10-6DL/perth-street

@@ -2,10 +2,10 @@ id: 4265486301
 type: node
 latitude: 56.40357
 longitude: -3.44477
-postcode: "PH1 5AF"
+postcode: PH1 5AF
 city: Perth
-street: "Crieff Road"
-housenumber: 26
+street: Crieff Road
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

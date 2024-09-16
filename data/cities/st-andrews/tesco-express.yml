@@ -1,11 +1,11 @@
 id: 204938454
-type: way
+type: node
 latitude: 56.34029
 longitude: -2.79808
-postcode: "KY16 9PD"
+postcode: KY16 9PD
 city: St Andrews
-street: "Market Street"
+street: Market Street
 housenumber: 138-140
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00; Su 09:00-24:00"
-website: "https://www.tesco.com/store-locator/st-andrews/138-140-market-st"
+opening_hours: Mo-Sa 06:00-24:00; Su 09:00-24:00
+website: https://www.tesco.com/store-locator/st-andrews/138-140-market-st

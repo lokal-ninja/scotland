@@ -2,10 +2,10 @@ id: 11251612979
 type: node
 latitude: 57.14458
 longitude: -2.10524
-postcode: "AB11 6BQ"
+postcode: AB11 6BQ
 city: Aberdeen
-street: "Union Street"
-housenumber: 231
+street: Union Street
+housenumber: "231"
 phone: ""
-opening_hours: "Mo-Sa 10:00-16:00"
+opening_hours: Mo-Sa 10:00-16:00
 website: ""

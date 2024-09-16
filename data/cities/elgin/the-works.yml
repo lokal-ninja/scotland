@@ -1,11 +1,11 @@
 id: 1108020751
-type: way
+type: node
 latitude: 57.64907
 longitude: -3.31547
-postcode: "IV30 1EA"
+postcode: IV30 1EA
 city: Elgin
-street: "High Street"
-housenumber: 121
+street: High Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=1073"
+website: https://www.theworks.co.uk/Store?storeId=1073

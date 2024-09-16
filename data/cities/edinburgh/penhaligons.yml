@@ -2,10 +2,10 @@ id: 2366138545
 type: node
 latitude: 55.95365
 longitude: -3.19766
-postcode: "EH2 2HN"
+postcode: EH2 2HN
 city: Edinburgh
-street: "George Street"
-housenumber: 33
+street: George Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.penhaligons.com/"
+website: https://www.penhaligons.com/

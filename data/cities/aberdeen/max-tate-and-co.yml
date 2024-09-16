@@ -1,11 +1,11 @@
 id: 314723707
-type: way
+type: node
 latitude: 57.14679
 longitude: -2.10123
-postcode: "AB10 1JH"
+postcode: AB10 1JH
 city: Aberdeen
-street: "Belmont Street"
-housenumber: 20
+street: Belmont Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

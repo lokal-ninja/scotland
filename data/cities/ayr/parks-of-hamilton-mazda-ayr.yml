@@ -1,11 +1,11 @@
 id: 172138008
-type: way
+type: node
 latitude: 55.47978
 longitude: -4.60341
-postcode: "KA8 9HE"
+postcode: KA8 9HE
 city: Ayr
-street: "Heathfield Road"
-housenumber: 73
-phone: "+44 1292 282727"
+street: Heathfield Road
+housenumber: "73"
+phone: +44 1292 282727
 opening_hours: ""
 website: ""

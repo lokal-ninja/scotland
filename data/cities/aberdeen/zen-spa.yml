@@ -2,10 +2,10 @@ id: 3201369767
 type: node
 latitude: 57.14604
 longitude: -2.09662
-postcode: "AB11 5PL"
+postcode: AB11 5PL
 city: Aberdeen
-street: "Market Street"
-housenumber: 30
+street: Market Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

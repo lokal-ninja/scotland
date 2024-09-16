@@ -4,8 +4,8 @@ latitude: 55.95792
 longitude: -3.18945
 postcode: ""
 city: Edinburgh
-street: "Broughton Street"
-housenumber: 30
+street: Broughton Street
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00, Su 12:00-22:00"
-website: "https://vinowines.co.uk/"
+opening_hours: Mo-Sa 10:00-22:00, Su 12:00-22:00
+website: https://vinowines.co.uk/

@@ -1,11 +1,11 @@
 id: 307659865
-type: way
+type: node
 latitude: 57.47047
 longitude: -3.22519
-postcode: "AB38 9QB"
+postcode: AB38 9QB
 city: Aberlour
-street: "High Street"
-housenumber: 91
+street: High Street
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/AB38-9QB/91-high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/AB38-9QB/91-high-street

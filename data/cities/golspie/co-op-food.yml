@@ -1,11 +1,11 @@
 id: 282460763
-type: way
+type: node
 latitude: 57.97422
 longitude: -3.97516
-postcode: "KW10 6RA"
+postcode: KW10 6RA
 city: Golspie
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
-opening_hours: "07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/KW10-6RA/main-street"
+opening_hours: 07:00-22:00
+website: https://www.coop.co.uk/store-finder/KW10-6RA/main-street

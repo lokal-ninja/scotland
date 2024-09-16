@@ -4,8 +4,8 @@ latitude: 55.9503
 longitude: -3.18571
 postcode: ""
 city: Edinburgh
-street: "High Street"
-housenumber: 46
+street: High Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://theenchantedgalaxy.com/"
+website: https://theenchantedgalaxy.com/

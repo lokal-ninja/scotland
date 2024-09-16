@@ -2,10 +2,10 @@ id: 2677032932
 type: node
 latitude: 55.94602
 longitude: -3.18197
-postcode: "EH8 9DZ"
+postcode: EH8 9DZ
 city: Edinburgh
-street: "West Richmond Street"
-housenumber: 50
+street: West Richmond Street
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-19:00"
-website: "https://www.thecycleservice.co.uk/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-19:00
+website: https://www.thecycleservice.co.uk/

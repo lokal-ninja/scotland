@@ -1,11 +1,11 @@
 id: 174312069
-type: way
+type: node
 latitude: 55.95133
 longitude: -3.29605
-postcode: "EH12 8TE"
+postcode: EH12 8TE
 city: Edinburgh
-street: "Drum Brae Avenue"
-housenumber: 1
+street: Drum Brae Avenue
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://scotmid.coop/store/drumbrae/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://scotmid.coop/store/drumbrae/

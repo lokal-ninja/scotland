@@ -1,11 +1,11 @@
 id: 353892503
-type: way
+type: node
 latitude: 56.20211
 longitude: -3.13172
 postcode: ""
 city: Markinch
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/KY7-6DQ/20-high-street"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/KY7-6DQ/20-high-street

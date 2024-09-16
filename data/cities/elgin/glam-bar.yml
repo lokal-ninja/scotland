@@ -1,11 +1,11 @@
 id: 1107212200
-type: way
+type: node
 latitude: 57.64895
 longitude: -3.31226
-postcode: "IV30 1EE"
+postcode: IV30 1EE
 city: Elgin
-street: "High Street"
-housenumber: 49
+street: High Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

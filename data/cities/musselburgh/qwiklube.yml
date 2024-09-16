@@ -1,11 +1,11 @@
 id: 930267760
-type: way
+type: node
 latitude: 55.94027
 longitude: -3.0474
-postcode: "EH21 7AW"
+postcode: EH21 7AW
 city: Musselburgh
-street: "Pinkie Road"
-housenumber: 46
+street: Pinkie Road
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

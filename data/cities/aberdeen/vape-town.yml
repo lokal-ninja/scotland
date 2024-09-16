@@ -2,10 +2,10 @@ id: 3201618818
 type: node
 latitude: 57.14854
 longitude: -2.09326
-postcode: "AB24 5AX"
+postcode: AB24 5AX
 city: Aberdeen
-street: "King Street"
-housenumber: 12
+street: King Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

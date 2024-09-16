@@ -4,8 +4,8 @@ latitude: 55.95785
 longitude: -3.20337
 postcode: ""
 city: Edinburgh
-street: "St Vincent Street"
-housenumber: 5
+street: St Vincent Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.cameronoptom.com"
+website: https://www.cameronoptom.com

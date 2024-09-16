@@ -1,11 +1,11 @@
 id: 205398123
-type: way
+type: node
 latitude: 56.64879
 longitude: -2.88724
-postcode: "DD8 3HW"
+postcode: DD8 3HW
 city: Forfar
-street: "Carseburn Road"
-housenumber: 5
+street: Carseburn Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 836080310
-type: way
+type: node
 latitude: 55.42405
 longitude: -2.78548
 postcode: ""
 city: Hawick
-street: "High Street"
-housenumber: 75
+street: High Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "https://dorwards.co.uk/"
+website: https://dorwards.co.uk/

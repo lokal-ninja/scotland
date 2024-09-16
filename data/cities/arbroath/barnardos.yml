@@ -1,11 +1,11 @@
 id: 794446273
-type: way
+type: node
 latitude: 56.56217
 longitude: -2.585
 postcode: ""
 city: Arbroath
-street: "High Street"
-housenumber: 290
+street: High Street
+housenumber: "290"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 686478565
-type: way
+type: node
 latitude: 56.06443
 longitude: -3.45873
-postcode: "KY12 7SD"
+postcode: KY12 7SD
 city: Dunfermline
-street: "Elgin Street"
-housenumber: 73
+street: Elgin Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
-website: "https://www.kennysmusic.co.uk/"
+website: https://www.kennysmusic.co.uk/

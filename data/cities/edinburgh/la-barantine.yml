@@ -2,10 +2,10 @@ id: 1661691480
 type: node
 latitude: 55.94012
 longitude: -3.20441
-postcode: "EH10 4HN"
+postcode: EH10 4HN
 city: Edinburgh
-street: "Bruntsfield Place"
-housenumber: 10
+street: Bruntsfield Place
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

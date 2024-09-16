@@ -1,11 +1,11 @@
 id: 237836723
-type: way
+type: node
 latitude: 55.87525
 longitude: -3.52479
-postcode: "EH54 6DG"
+postcode: EH54 6DG
 city: Livingston
-street: "Crofthead Centre"
-housenumber: 17
+street: Crofthead Centre
+housenumber: "17"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

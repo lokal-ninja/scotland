@@ -2,10 +2,10 @@ id: 3201606786
 type: node
 latitude: 57.14815
 longitude: -2.09215
-postcode: "AB11 5BB"
+postcode: AB11 5BB
 city: Aberdeen
-street: "Castle Street"
-housenumber: 33
+street: Castle Street
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Sa 08:30-17:00"
+opening_hours: Tu-Sa 08:30-17:00
 website: ""

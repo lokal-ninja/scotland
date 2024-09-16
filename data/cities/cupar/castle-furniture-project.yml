@@ -1,11 +1,11 @@
 id: 559545351
-type: way
+type: node
 latitude: 56.32038
 longitude: -3.01229
-postcode: "KY15 4DQ"
+postcode: KY15 4DQ
 city: Cupar
-street: "East Burnside"
-housenumber: 
-phone: "+44 1334 654445"
+street: East Burnside
+housenumber: ""
+phone: +44 1334 654445
 opening_hours: ""
-website: "https://www.castlefurniture.org/"
+website: https://www.castlefurniture.org/

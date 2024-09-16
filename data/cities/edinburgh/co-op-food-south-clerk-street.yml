@@ -2,10 +2,10 @@ id: 2407310438
 type: node
 latitude: 55.94014
 longitude: -3.18008
-postcode: "EH8 9NZ"
+postcode: EH8 9NZ
 city: Edinburgh
-street: "South Clerk Street"
-housenumber: 49
+street: South Clerk Street
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop.co.uk/store-finder/EH8-9NZ/49-south-clerk-street"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop.co.uk/store-finder/EH8-9NZ/49-south-clerk-street

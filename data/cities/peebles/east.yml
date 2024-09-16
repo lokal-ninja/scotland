@@ -4,8 +4,8 @@ latitude: 55.65218
 longitude: -3.18833
 postcode: ""
 city: Peebles
-street: "Eastgate"
-housenumber: 17
-phone: "+44 7500 928134"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://www.eastgents.co.uk/"
+street: Eastgate
+housenumber: "17"
+phone: +44 7500 928134
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://www.eastgents.co.uk/

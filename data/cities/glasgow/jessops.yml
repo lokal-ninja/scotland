@@ -2,10 +2,10 @@ id: 3125951984
 type: node
 latitude: 55.86434
 longitude: -4.2532
-postcode: "G2 3GF"
+postcode: G2 3GF
 city: Glasgow
-street: "Sauchiehall Street"
-housenumber: 6
+street: Sauchiehall Street
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 12:00-16:00"
+opening_hours: Mo-Sa 09:30-17:30; Su 12:00-16:00
 website: ""

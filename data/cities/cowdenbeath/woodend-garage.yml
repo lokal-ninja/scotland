@@ -1,11 +1,11 @@
 id: 788690781
-type: way
+type: node
 latitude: 56.11663
 longitude: -3.34295
-postcode: "KY4 9BG"
+postcode: KY4 9BG
 city: Cowdenbeath
-street: "Perth Road"
-housenumber: 86
+street: Perth Road
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

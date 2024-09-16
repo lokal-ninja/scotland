@@ -1,11 +1,11 @@
 id: 822360856
-type: way
+type: node
 latitude: 55.82139
 longitude: -4.29869
-postcode: "G43 1AP"
+postcode: G43 1AP
 city: Glasgow
-street: "Cogan st"
-housenumber: 32
-phone: "+44 141 632 4466"
+street: Cogan st
+housenumber: "32"
+phone: +44 141 632 4466
 opening_hours: ""
-website: "https://www.wizardofpaws.com/"
+website: https://www.wizardofpaws.com/

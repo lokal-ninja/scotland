@@ -1,11 +1,11 @@
 id: 189123751
-type: way
+type: node
 latitude: 55.86844
 longitude: -4.19005
-postcode: "G33 2RH"
+postcode: G33 2RH
 city: Glasgow
-street: "Smithycroft Road"
-housenumber: 101
+street: Smithycroft Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

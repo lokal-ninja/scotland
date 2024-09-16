@@ -4,8 +4,8 @@ latitude: 55.94373
 longitude: -3.11748
 postcode: ""
 city: Edinburgh
-street: "Milton Road West"
-housenumber: 2
-phone: "+44 131 669 2010"
+street: Milton Road West
+housenumber: "2"
+phone: +44 131 669 2010
 opening_hours: ""
-website: "https://www.national.co.uk/branch-543-Edinburgh.aspx/"
+website: https://www.national.co.uk/branch-543-Edinburgh.aspx/

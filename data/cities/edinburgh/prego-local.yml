@@ -1,11 +1,11 @@
 id: 204088256
-type: way
+type: node
 latitude: 55.94466
 longitude: -3.25151
 postcode: ""
 city: Edinburgh
-street: "Corstorphine Road"
+street: Corstorphine Road
 housenumber: 127-129
-phone: "+44 131 346 3131"
-opening_hours: "06:00-22:00"
+phone: +44 131 346 3131
+opening_hours: 06:00-22:00
 website: ""

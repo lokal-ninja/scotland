@@ -4,8 +4,8 @@ latitude: 55.95302
 longitude: -3.19738
 postcode: ""
 city: Edinburgh
-street: "Hanover Street"
-housenumber: 40
+street: Hanover Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://hanoverhealth.co.uk/"
+website: https://hanoverhealth.co.uk/

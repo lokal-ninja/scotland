@@ -1,11 +1,11 @@
 id: 839005123
-type: way
+type: node
 latitude: 55.93243
 longitude: -4.31492
-postcode: "G62 6AB"
+postcode: G62 6AB
 city: Glasgow
-street: "West Park"
-housenumber: 10
+street: West Park
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

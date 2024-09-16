@@ -1,11 +1,11 @@
 id: 444161233
-type: way
+type: node
 latitude: 55.899
 longitude: -3.57703
-postcode: "EH54 8RL"
+postcode: EH54 8RL
 city: Livingston
-street: "Lindsay Square"
-housenumber: 6
-phone: "+44 1506 420313"
+street: Lindsay Square
+housenumber: "6"
+phone: +44 1506 420313
 opening_hours: ""
-website: "https://www.livingstonautocare.co.uk/"
+website: https://www.livingstonautocare.co.uk/

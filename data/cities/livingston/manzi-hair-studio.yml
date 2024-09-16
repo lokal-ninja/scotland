@@ -1,11 +1,11 @@
 id: 203170036
-type: way
+type: node
 latitude: 55.90113
 longitude: -3.56636
-postcode: "EH54 8BE"
+postcode: EH54 8BE
 city: Livingston
-street: "Main Street"
-housenumber: 25
-phone: "+44 1506 463463"
+street: Main Street
+housenumber: "25"
+phone: +44 1506 463463
 opening_hours: ""
 website: ""

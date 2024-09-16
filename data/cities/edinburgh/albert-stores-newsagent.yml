@@ -4,8 +4,8 @@ latitude: 55.96256
 longitude: -3.17234
 postcode: ""
 city: Edinburgh
-street: "Albert Street"
-housenumber: 160
+street: Albert Street
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-17:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-17:00
 website: ""

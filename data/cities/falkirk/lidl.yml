@@ -1,11 +1,11 @@
 id: 913281823
-type: way
+type: node
 latitude: 55.99662
 longitude: -3.77797
-postcode: "FK1 1YG"
+postcode: FK1 1YG
 city: Falkirk
-street: "Arnot Street"
-housenumber: 1
+street: Arnot Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/falkirk/arnot-street/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/falkirk/arnot-street/

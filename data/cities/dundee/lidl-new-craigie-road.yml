@@ -1,11 +1,11 @@
 id: 985851502
-type: way
+type: node
 latitude: 56.47709
 longitude: -2.9335
-postcode: "DD4 7FF"
+postcode: DD4 7FF
 city: Dundee
-street: "New Craigie Road"
-housenumber: 19
+street: New Craigie Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/dundee/new-craigie-road/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/dundee/new-craigie-road/

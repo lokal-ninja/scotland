@@ -1,11 +1,11 @@
 id: 106406143
-type: way
+type: node
 latitude: 55.83003
 longitude: -4.24761
-postcode: "G42 0AE"
+postcode: G42 0AE
 city: Glasgow
-street: "Prospecthill Road"
-housenumber: 555
+street: Prospecthill Road
+housenumber: "555"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

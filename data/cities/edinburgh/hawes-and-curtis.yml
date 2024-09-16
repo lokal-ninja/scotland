@@ -2,10 +2,10 @@ id: 2323807236
 type: node
 latitude: 55.95297
 longitude: -3.19926
-postcode: "EH2 2LR"
+postcode: EH2 2LR
 city: Edinburgh
-street: "George Street"
-housenumber: 60
+street: George Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://www.hawesandcurtis.co.uk/"
+website: https://www.hawesandcurtis.co.uk/

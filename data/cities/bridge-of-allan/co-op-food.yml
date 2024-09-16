@@ -1,11 +1,11 @@
 id: 295966364
-type: way
+type: node
 latitude: 56.15437
 longitude: -3.94699
-postcode: "FK9 4ET"
+postcode: FK9 4ET
 city: Bridge of Allan
-street: "Fountain Road"
-housenumber: 12
+street: Fountain Road
+housenumber: "12"
 phone: ""
-opening_hours: "07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/FK9-4ET/12-fountain-road"
+opening_hours: 07:00-22:00
+website: https://www.coop.co.uk/store-finder/FK9-4ET/12-fountain-road

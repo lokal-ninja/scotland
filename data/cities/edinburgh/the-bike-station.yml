@@ -4,8 +4,8 @@ latitude: 55.93471
 longitude: -3.17995
 postcode: ""
 city: Edinburgh
-street: "Causewaside"
-housenumber: 250
+street: Causewaside
+housenumber: "250"
 phone: ""
-opening_hours: "We 10:00-20:00; Th-Sa 10:00-16:30"
-website: "https://www.thebikestation.org.uk/"
+opening_hours: We 10:00-20:00; Th-Sa 10:00-16:30
+website: https://www.thebikestation.org.uk/

@@ -1,11 +1,11 @@
 id: 80584594
-type: way
+type: node
 latitude: 55.8388
 longitude: -4.15487
-postcode: "G32 8XP"
+postcode: G32 8XP
 city: Glasgow
-street: "London Road"
-housenumber: 2345
+street: London Road
+housenumber: "2345"
 phone: ""
 opening_hours: ""
 website: ""

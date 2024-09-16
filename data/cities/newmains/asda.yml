@@ -1,11 +1,11 @@
 id: 23613165
-type: way
+type: node
 latitude: 55.78247
 longitude: -3.87493
-postcode: "ML2 9AS"
+postcode: ML2 9AS
 city: Newmains
-street: "Morningside road"
-housenumber: 2
+street: Morningside road
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

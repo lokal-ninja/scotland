@@ -2,10 +2,10 @@ id: 4732399869
 type: node
 latitude: 56.06384
 longitude: -3.49645
-postcode: "KY12 8NJ"
+postcode: KY12 8NJ
 city: Crossford
-street: "Main Street"
-housenumber: 80
-phone: "+44 1383 733988"
+street: Main Street
+housenumber: "80"
+phone: +44 1383 733988
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 836080307
-type: way
+type: node
 latitude: 55.42417
 longitude: -2.78533
-postcode: "TD9 9BL"
+postcode: TD9 9BL
 city: Hawick
-street: "High Street"
-housenumber: 81
+street: High Street
+housenumber: "81"
 phone: ""
 opening_hours: ""
-website: "https://www.dobbieandmichie.co.uk/"
+website: https://www.dobbieandmichie.co.uk/

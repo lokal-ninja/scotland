@@ -4,8 +4,8 @@ latitude: 55.86035
 longitude: -4.2572
 postcode: ""
 city: Glasgow
-street: "Union Street"
-housenumber: 113
+street: Union Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "https://scotland.shelter.org.uk/shops/glasgow_union_st_community_shop"
+website: https://scotland.shelter.org.uk/shops/glasgow_union_st_community_shop

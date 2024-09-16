@@ -1,11 +1,11 @@
 id: 287612667
-type: way
+type: node
 latitude: 55.92297
 longitude: -3.29087
-postcode: "EH11 4HD"
+postcode: EH11 4HD
 city: Edinburgh
-street: "Bankhead Avenue"
-housenumber: 2
+street: Bankhead Avenue
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://bigyellow.co.uk/"
+website: https://bigyellow.co.uk/

@@ -4,8 +4,8 @@ latitude: 55.95087
 longitude: -3.18414
 postcode: ""
 city: Edinburgh
-street: "Jeffrey Street"
-housenumber: 4
+street: Jeffrey Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://aquila-edinburgh.com/"
+website: http://aquila-edinburgh.com/

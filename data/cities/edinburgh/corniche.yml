@@ -4,8 +4,8 @@ latitude: 55.95083
 longitude: -3.18411
 postcode: ""
 city: Edinburgh
-street: "Jeffrey Street"
-housenumber: 2
+street: Jeffrey Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.corniche.org.uk/"
+website: https://www.corniche.org.uk/

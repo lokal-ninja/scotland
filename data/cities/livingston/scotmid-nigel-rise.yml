@@ -1,11 +1,11 @@
 id: 201815924
-type: way
+type: node
 latitude: 55.87957
 longitude: -3.50977
-postcode: "EH54 6LX"
+postcode: EH54 6LX
 city: Livingston
-street: "Nigel Rise"
-housenumber: 162
+street: Nigel Rise
+housenumber: "162"
 phone: ""
 opening_hours: ""
-website: "https://scotmid.coop/store/nigel-rise/"
+website: https://scotmid.coop/store/nigel-rise/

@@ -1,11 +1,11 @@
 id: 152410090
-type: way
+type: node
 latitude: 55.92957
 longitude: -3.25436
-postcode: "EH11 3XX"
+postcode: EH11 3XX
 city: Edinburgh
-street: "Gorgie Road"
-housenumber: 553
-phone: "+44 1314786661"
-opening_hours: "Tu-Sa 09:00-17:30; Su 11:00-17:00"
-website: "http://www.saltiresuzuki.com/"
+street: Gorgie Road
+housenumber: "553"
+phone: +44 1314786661
+opening_hours: Tu-Sa 09:00-17:30; Su 11:00-17:00
+website: http://www.saltiresuzuki.com/

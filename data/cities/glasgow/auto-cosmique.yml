@@ -1,11 +1,11 @@
 id: 218337278
-type: way
+type: node
 latitude: 55.86545
 longitude: -4.22515
-postcode: "G31 3AD"
+postcode: G31 3AD
 city: Glasgow
-street: "Alexandra Parade"
-housenumber: 267
+street: Alexandra Parade
+housenumber: "267"
 phone: ""
 opening_hours: ""
-website: "https://www.autocosmique.co.uk/"
+website: https://www.autocosmique.co.uk/

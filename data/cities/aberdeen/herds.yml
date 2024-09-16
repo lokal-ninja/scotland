@@ -1,11 +1,11 @@
 id: 979886484
-type: way
+type: node
 latitude: 57.14919
 longitude: -2.12236
-postcode: "AB25 2YB"
+postcode: AB25 2YB
 city: Aberdeen
-street: "Rosemount Place"
-housenumber: 277
+street: Rosemount Place
+housenumber: "277"
 phone: ""
 opening_hours: ""
 website: ""

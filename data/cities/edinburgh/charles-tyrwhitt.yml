@@ -2,10 +2,10 @@ id: 1977975394
 type: node
 latitude: 55.95312
 longitude: -3.19836
-postcode: "EH2 2LE"
+postcode: EH2 2LE
 city: Edinburgh
-street: "George Street"
-housenumber: 52
+street: George Street
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 10:30-17:00"
-website: "https://www.ctshirts.co.uk/"
+opening_hours: Mo-Sa 09:30-17:30; Su 10:30-17:00
+website: https://www.ctshirts.co.uk/

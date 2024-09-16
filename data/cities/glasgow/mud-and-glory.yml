@@ -2,10 +2,10 @@ id: 2173973282
 type: node
 latitude: 55.85978
 longitude: -4.25062
-postcode: "G1 1DT"
+postcode: G1 1DT
 city: Glasgow
-street: "Miller Street"
-housenumber: 100
+street: Miller Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "http://www.mudandglory.biz"
+website: http://www.mudandglory.biz

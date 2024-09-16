@@ -2,10 +2,10 @@ id: 2449936500
 type: node
 latitude: 55.86348
 longitude: -4.25425
-postcode: "G2 1HY"
+postcode: G2 1HY
 city: Glasgow
-street: "Bath Street"
-housenumber: 19
+street: Bath Street
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 09:00-17:00
 website: ""

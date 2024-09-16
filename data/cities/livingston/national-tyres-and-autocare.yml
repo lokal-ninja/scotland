@@ -1,11 +1,11 @@
 id: 311880035
-type: way
+type: node
 latitude: 55.90995
 longitude: -3.49686
-postcode: "EH54 5PF"
+postcode: EH54 5PF
 city: Livingston
-street: "Kelvin Square"
-housenumber: 1
+street: Kelvin Square
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

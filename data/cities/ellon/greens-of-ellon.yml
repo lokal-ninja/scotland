@@ -1,11 +1,11 @@
 id: 812547316
-type: way
+type: node
 latitude: 57.36542
 longitude: -2.07135
-postcode: "AB41 9JB"
+postcode: AB41 9JB
 city: Ellon
-street: "The Square"
-housenumber: 9
-phone: "+44 1358 720281"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-10:00"
-website: "https://www.erosretail.co.uk/ellon"
+street: The Square
+housenumber: "9"
+phone: +44 1358 720281
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-10:00
+website: https://www.erosretail.co.uk/ellon

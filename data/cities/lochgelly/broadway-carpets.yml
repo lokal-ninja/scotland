@@ -1,11 +1,11 @@
 id: 724456090
-type: way
+type: node
 latitude: 56.12681
 longitude: -3.30737
 postcode: ""
 city: Lochgelly
-street: "High Street"
-housenumber: 9
+street: High Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

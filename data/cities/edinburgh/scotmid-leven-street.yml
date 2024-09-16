@@ -1,11 +1,11 @@
 id: 99100551
-type: way
+type: node
 latitude: 55.94155
 longitude: -3.20427
-postcode: "EH3 9LH"
+postcode: EH3 9LH
 city: Edinburgh
-street: "Leven Street"
+street: Leven Street
 housenumber: 5-19
-phone: "+44 131 229 7656"
-opening_hours: "Mo-Su 07:00-22:00"
+phone: +44 131 229 7656
+opening_hours: Mo-Su 07:00-22:00
 website: ""

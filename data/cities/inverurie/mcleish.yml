@@ -1,11 +1,11 @@
 id: 105346830
-type: way
+type: node
 latitude: 57.28324
 longitude: -2.37413
-postcode: "AB51 3PY"
+postcode: AB51 3PY
 city: Inverurie
-street: "Market Place"
-housenumber: 45
+street: Market Place
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

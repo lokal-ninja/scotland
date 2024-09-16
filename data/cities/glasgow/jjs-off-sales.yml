@@ -2,10 +2,10 @@ id: 1596693518
 type: node
 latitude: 55.86058
 longitude: -4.23969
-postcode: "G4 0QR"
+postcode: G4 0QR
 city: Glasgow
-street: "High Street"
-housenumber: 239
+street: High Street
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

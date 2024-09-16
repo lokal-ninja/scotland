@@ -1,11 +1,11 @@
 id: 442913658
-type: way
+type: node
 latitude: 56.11135
 longitude: -3.15615
-postcode: "KY1 1HR"
+postcode: KY1 1HR
 city: Kirkcaldy
-street: "Esplanade"
-housenumber: 20
+street: Esplanade
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 296726645
-type: way
+type: node
 latitude: 55.93839
 longitude: -3.31284
-postcode: "EH12 9JY"
+postcode: EH12 9JY
 city: Edinburgh
-street: "Gyle Avenue"
-housenumber: 
-phone: "+44 131 339 1147"
-opening_hours: "Mo-We 09:30-18:00; Th 09:30-19:00; Fr 09:30-18:00; Sa,Su 10:00-18:00"
-website: "https://uk.flyingtiger.com/"
+street: Gyle Avenue
+housenumber: ""
+phone: +44 131 339 1147
+opening_hours: Mo-We 09:30-18:00; Th 09:30-19:00; Fr 09:30-18:00; Sa,Su 10:00-18:00
+website: https://uk.flyingtiger.com/

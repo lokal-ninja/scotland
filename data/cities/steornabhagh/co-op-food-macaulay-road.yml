@@ -1,11 +1,11 @@
 id: 78539849
-type: way
+type: node
 latitude: 58.21587
 longitude: -6.38348
-postcode: "HS1 2HU"
+postcode: HS1 2HU
 city: Steòrnabhagh
-street: "Macaulay Road"
-housenumber: 8
+street: Macaulay Road
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; PH,Su off"
-website: "https://www.coop.co.uk/store-finder/HS1-2HU/8-macaulay-road"
+opening_hours: Mo-Sa 06:00-23:00; PH,Su off
+website: https://www.coop.co.uk/store-finder/HS1-2HU/8-macaulay-road

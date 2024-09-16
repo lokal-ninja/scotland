@@ -1,11 +1,11 @@
 id: 595568166
-type: way
+type: node
 latitude: 55.85883
 longitude: -4.25457
 postcode: ""
 city: Glasgow
-street: "Buchanan Street"
-housenumber: 28
+street: Buchanan Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.mappinandwebb.com/store/407"
+website: https://www.mappinandwebb.com/store/407

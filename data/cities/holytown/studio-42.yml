@@ -1,11 +1,11 @@
 id: 263963527
-type: way
+type: node
 latitude: 55.82107
 longitude: -3.97731
 postcode: ""
 city: Holytown
-street: "Main Street"
-housenumber: 42
+street: Main Street
+housenumber: "42"
 phone: "+441698832603"
-opening_hours: "We-Sa 09:00-17:00"
+opening_hours: We-Sa 09:00-17:00
 website: ""

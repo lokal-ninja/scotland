@@ -4,8 +4,8 @@ latitude: 55.85851
 longitude: -4.21977
 postcode: ""
 city: Glasgow
-street: "Duke Street"
-housenumber: 469
+street: Duke Street
+housenumber: "469"
 phone: ""
 opening_hours: ""
-website: "https://scotland.shelter.org.uk/shops/glasgow_duke_st_community_shop"
+website: https://scotland.shelter.org.uk/shops/glasgow_duke_st_community_shop

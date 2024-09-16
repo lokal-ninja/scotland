@@ -2,10 +2,10 @@ id: 2512681331
 type: node
 latitude: 55.93103
 longitude: -3.2101
-postcode: "EH10 4BX"
+postcode: EH10 4BX
 city: Edinburgh
-street: "Morningside Road"
-housenumber: 122
+street: Morningside Road
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30; Sa 10:00-17:00"
-website: "https://www.cameratiks.co.uk/"
+opening_hours: Mo-Fr 09:30-17:30; Sa 10:00-17:00
+website: https://www.cameratiks.co.uk/

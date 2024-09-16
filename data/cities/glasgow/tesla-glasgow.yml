@@ -1,11 +1,11 @@
 id: 345338271
-type: way
+type: node
 latitude: 55.8678
 longitude: -4.23902
-postcode: "G4 0EB"
+postcode: G4 0EB
 city: Glasgow
-street: "Kennedy Street"
-housenumber: 20
+street: Kennedy Street
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00; Su 10:00-16:00"
-website: "https://www.tesla.com/findus/location/store/serviceglasgowhttps://www.tesla.com/findus/location/store/serviceglasgow"
+opening_hours: Mo-Sa 10:00-17:00; Su 10:00-16:00
+website: https://www.tesla.com/findus/location/store/serviceglasgowhttps://www.tesla.com/findus/location/store/serviceglasgow

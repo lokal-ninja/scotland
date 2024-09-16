@@ -1,11 +1,11 @@
 id: 233748850
-type: way
+type: node
 latitude: 54.99062
 longitude: -3.2599
-postcode: "DG12 5BD"
+postcode: DG12 5BD
 city: Annan
-street: "Butts Street"
-housenumber: 53
+street: Butts Street
+housenumber: "53"
 phone: "01461204578"
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/lan10672-spar-annan/"
+website: https://www.spar.co.uk/store-locator/lan10672-spar-annan/

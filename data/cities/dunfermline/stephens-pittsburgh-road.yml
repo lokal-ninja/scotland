@@ -1,11 +1,11 @@
 id: 1278745724
-type: way
+type: node
 latitude: 56.08101
 longitude: -3.40441
-postcode: "KY11 8DX"
+postcode: KY11 8DX
 city: Dunfermline
-street: "Pittsburgh Road"
-housenumber: 7
+street: Pittsburgh Road
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 06:30-17:30; Su 08:00-16:00"
+opening_hours: Mo-Sa 06:30-17:30; Su 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 203138950
-type: way
+type: node
 latitude: 55.90114
 longitude: -3.56694
-postcode: "EH54 8BE"
+postcode: EH54 8BE
 city: Livingston
-street: "Main Street"
-housenumber: 17
+street: Main Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

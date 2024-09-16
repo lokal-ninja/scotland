@@ -1,11 +1,11 @@
 id: 1136685171
-type: way
+type: node
 latitude: 56.45842
 longitude: -2.96482
-postcode: "DD1 4EZ"
+postcode: DD1 4EZ
 city: Dundee
-street: "Waterfront Place"
-housenumber: 
-phone: "+44 1241 873500"
+street: Waterfront Place
+housenumber: ""
+phone: +44 1241 873500
 opening_hours: ""
-website: "https://www.anguscyclehub.org/dundee-cycle-hub"
+website: https://www.anguscyclehub.org/dundee-cycle-hub

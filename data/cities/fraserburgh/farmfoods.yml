@@ -1,11 +1,11 @@
 id: 467817454
-type: way
+type: node
 latitude: 57.69386
 longitude: -2.00762
-postcode: "AB43 9ET"
+postcode: AB43 9ET
 city: Fraserburgh
-street: "High Street"
-housenumber: 45
+street: High Street
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
+opening_hours: Mo-Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 4802926
-type: way
+type: node
 latitude: 55.93997
 longitude: -3.29571
-postcode: "EH12 7UQ"
+postcode: EH12 7UQ
 city: Edinburgh
-street: "Meadow Place Road"
-housenumber: 30
+street: Meadow Place Road
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

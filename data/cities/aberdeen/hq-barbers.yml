@@ -1,11 +1,11 @@
 id: 722098564
-type: way
+type: node
 latitude: 57.1624
 longitude: -2.09631
-postcode: "AB24 5ST"
+postcode: AB24 5ST
 city: Aberdeen
-street: "King Street"
-housenumber: 498
+street: King Street
+housenumber: "498"
 phone: ""
 opening_hours: ""
-website: "https://hqbarbers.setmore.com/"
+website: https://hqbarbers.setmore.com/

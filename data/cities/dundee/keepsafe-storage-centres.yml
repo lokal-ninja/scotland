@@ -1,11 +1,11 @@
 id: 103541977
-type: way
+type: node
 latitude: 56.47935
 longitude: -2.8867
-postcode: "DD4 8XD"
+postcode: DD4 8XD
 city: Dundee
-street: "Tom Johnston Road"
-housenumber: 5
+street: Tom Johnston Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

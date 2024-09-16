@@ -1,11 +1,11 @@
 id: 298665501
-type: way
+type: node
 latitude: 55.93172
 longitude: -3.28641
-postcode: "EH12 9AY"
+postcode: EH12 9AY
 city: Edinburgh
-street: "Forrester Park Drive"
-housenumber: 1
+street: Forrester Park Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://scotmidfunerals.coop/locations/forrester-park/"
+website: https://scotmidfunerals.coop/locations/forrester-park/

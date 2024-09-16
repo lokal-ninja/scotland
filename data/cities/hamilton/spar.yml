@@ -1,11 +1,11 @@
 id: 1309113907
-type: way
+type: node
 latitude: 55.75814
 longitude: -4.07311
-postcode: "ML3 8SR"
+postcode: ML3 8SR
 city: Hamilton
-street: "Cypress Lane"
-housenumber: 2
+street: Cypress Lane
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

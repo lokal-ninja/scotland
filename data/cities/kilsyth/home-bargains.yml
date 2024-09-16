@@ -1,11 +1,11 @@
 id: 642969112
-type: way
+type: node
 latitude: 55.9761
 longitude: -4.06074
-postcode: "G65 9JX"
+postcode: G65 9JX
 city: Kilsyth
-street: "Garrell Road"
-housenumber: 1
+street: Garrell Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-14:00, Su 09:00-14:00"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-14:00, Su 09:00-14:00
 website: ""

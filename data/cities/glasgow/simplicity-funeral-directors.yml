@@ -1,11 +1,11 @@
 id: 668097426
-type: way
+type: node
 latitude: 55.91671
 longitude: -4.36884
 postcode: ""
 city: Glasgow
-street: "Kinfauns Drive"
-housenumber: 280
+street: Kinfauns Drive
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

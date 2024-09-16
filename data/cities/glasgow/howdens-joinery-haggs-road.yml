@@ -1,11 +1,11 @@
 id: 316250880
-type: way
+type: node
 latitude: 55.82903
 longitude: -4.29746
-postcode: "G41 4AZ"
+postcode: G41 4AZ
 city: Glasgow
-street: "Haggs Road"
-housenumber: 45
-phone: "+44 1412330600"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.howdens.com/find-a-depot/glasgow-pollokshaws"
+street: Haggs Road
+housenumber: "45"
+phone: +44 1412330600
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.howdens.com/find-a-depot/glasgow-pollokshaws

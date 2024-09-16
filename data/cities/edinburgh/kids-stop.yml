@@ -2,10 +2,10 @@ id: 3262191797
 type: node
 latitude: 55.93301
 longitude: -3.21031
-postcode: "EH10 4DA"
+postcode: EH10 4DA
 city: Edinburgh
-street: "Morningside Road"
-housenumber: 36
+street: Morningside Road
+housenumber: "36"
 phone: ""
-opening_hours: "Tu-Fr 09:30-17:00; Sa 09:00-17:00"
+opening_hours: Tu-Fr 09:30-17:00; Sa 09:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 55.65196
 longitude: -3.1896
 postcode: ""
 city: Peebles
-street: "High Street"
-housenumber: 16
+street: High Street
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:00; Su 11:30-16:30"
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/peebles-bhf-shop"
+opening_hours: Mo-Sa 09:30-17:00; Su 11:30-16:30
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/peebles-bhf-shop

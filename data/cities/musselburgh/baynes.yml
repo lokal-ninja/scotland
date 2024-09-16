@@ -2,10 +2,10 @@ id: 4294299678
 type: node
 latitude: 55.94379
 longitude: -3.05967
-postcode: "EH21 6AS"
+postcode: EH21 6AS
 city: Musselburgh
-street: "North High Street"
-housenumber: 102
+street: North High Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

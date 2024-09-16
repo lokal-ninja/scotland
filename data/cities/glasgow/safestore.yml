@@ -1,11 +1,11 @@
 id: 80334202
-type: way
+type: node
 latitude: 55.84149
 longitude: -4.24807
 postcode: ""
 city: Glasgow
-street: "Lawmoor Street"
-housenumber: 588
+street: Lawmoor Street
+housenumber: "588"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 311645626
-type: way
+type: node
 latitude: 56.03567
 longitude: -3.41572
-postcode: "KY11 2PZ"
+postcode: KY11 2PZ
 city: Rosyth
-street: "Castlandhill Road"
-housenumber: 
+street: Castlandhill Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/KY11-2PZ/castlandhill-road"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/KY11-2PZ/castlandhill-road

@@ -1,11 +1,11 @@
 id: 1163707723
-type: way
+type: node
 latitude: 56.47124
 longitude: -3.00934
-postcode: "DD2 3AT"
+postcode: DD2 3AT
 city: Dundee
-street: "High Street"
-housenumber: 65
+street: High Street
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

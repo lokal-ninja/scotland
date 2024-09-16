@@ -4,8 +4,8 @@ latitude: 55.97463
 longitude: -3.1772
 postcode: ""
 city: Edinburgh
-street: "Mill Lane"
-housenumber: 1
+street: Mill Lane
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.centralcarpetsleith.co.uk/"
+website: https://www.centralcarpetsleith.co.uk/

@@ -1,11 +1,11 @@
 id: 1286551901
-type: way
+type: node
 latitude: 57.13797
 longitude: -2.09125
-postcode: "AB11 9AD"
+postcode: AB11 9AD
 city: Aberdeen
-street: "Cabel's Lane"
-housenumber: 12
+street: Cabel's Lane
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

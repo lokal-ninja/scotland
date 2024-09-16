@@ -1,11 +1,11 @@
 id: 1167313395
-type: way
+type: node
 latitude: 57.37004
 longitude: -2.09751
-postcode: "AB41 9UF"
+postcode: AB41 9UF
 city: Ellon
-street: "Esslemont Circle"
-housenumber: 
+street: Esslemont Circle
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/AB41-9UF/esslemont-circle"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/AB41-9UF/esslemont-circle

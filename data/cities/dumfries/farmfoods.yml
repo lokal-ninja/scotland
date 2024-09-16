@@ -1,11 +1,11 @@
 id: 746697722
-type: way
+type: node
 latitude: 55.0698
 longitude: -3.61938
 postcode: ""
 city: Dumfries
-street: "Glasgow Street"
-housenumber: 66
+street: Glasgow Street
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

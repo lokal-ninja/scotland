@@ -1,11 +1,11 @@
 id: 407013527
-type: way
+type: node
 latitude: 56.55947
 longitude: -2.58406
-postcode: "DD11 1HT"
+postcode: DD11 1HT
 city: Arbroath
-street: "Gravesend"
-housenumber: 2
+street: Gravesend
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/arbroath/gravesend/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/arbroath/gravesend/

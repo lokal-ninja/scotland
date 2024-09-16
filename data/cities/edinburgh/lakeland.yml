@@ -4,8 +4,8 @@ latitude: 55.95331
 longitude: -3.19683
 postcode: ""
 city: Edinburgh
-street: "Hanover Street"
-housenumber: 55
+street: Hanover Street
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://www.lakeland.co.uk/stores/edinburgh"
+website: https://www.lakeland.co.uk/stores/edinburgh

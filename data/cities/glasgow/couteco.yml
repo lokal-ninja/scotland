@@ -1,11 +1,11 @@
 id: 1271217690
-type: way
+type: node
 latitude: 55.81317
 longitude: -4.36055
-postcode: "G53 7BW"
+postcode: G53 7BW
 city: Glasgow
-street: "Nitshill Road"
-housenumber: 402
+street: Nitshill Road
+housenumber: "402"
 phone: ""
 opening_hours: ""
 website: ""

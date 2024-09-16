@@ -1,11 +1,11 @@
 id: 125390615
-type: way
+type: node
 latitude: 55.87212
 longitude: -3.50028
-postcode: "EH54 9DA"
+postcode: EH54 9DA
 city: Livingston
-street: "Bankton Centre"
-housenumber: 
+street: Bankton Centre
+housenumber: ""
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-23:00"
-website: "https://www.coop.co.uk/store-finder/EH54-9DA/bankton-retail-centre"
+opening_hours: PH,Mo-Su 06:00-23:00
+website: https://www.coop.co.uk/store-finder/EH54-9DA/bankton-retail-centre

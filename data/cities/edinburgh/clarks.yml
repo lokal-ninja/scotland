@@ -4,8 +4,8 @@ latitude: 55.95209
 longitude: -3.19734
 postcode: ""
 city: Edinburgh
-street: "Princes Street"
-housenumber: 81
+street: Princes Street
+housenumber: "81"
 phone: ""
-opening_hours: "Su-Fr 10:00-19:00; Sa 09:00-19:00"
-website: "https://www.clarks.com/en-gb/store-locator/UnitedKingdom/EDINBURGH/5450"
+opening_hours: Su-Fr 10:00-19:00; Sa 09:00-19:00
+website: https://www.clarks.com/en-gb/store-locator/UnitedKingdom/EDINBURGH/5450

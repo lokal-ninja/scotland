@@ -1,11 +1,11 @@
 id: 316250881
-type: way
+type: node
 latitude: 55.82923
 longitude: -4.29733
-postcode: "G41 4AZ"
+postcode: G41 4AZ
 city: Glasgow
-street: "Haggs Road"
-housenumber: 45
+street: Haggs Road
+housenumber: "45"
 phone: "+441416329130"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-20:00; Fr-Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.magnet.co.uk/kitchen-showrooms-glasgow-haggs-road/"
+opening_hours: Mo-We 09:00-18:00; Th 09:00-20:00; Fr-Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.magnet.co.uk/kitchen-showrooms-glasgow-haggs-road/

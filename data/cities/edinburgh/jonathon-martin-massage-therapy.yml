@@ -2,10 +2,10 @@ id: 4196873995
 type: node
 latitude: 55.97354
 longitude: -3.17708
-postcode: "EH6 5JY"
+postcode: EH6 5JY
 city: Edinburgh
-street: "Bangor Road"
-housenumber: 3
-phone: "+44 792 026 2585"
-opening_hours: "by appointment"
-website: "https://jmmassagetherapy.co.uk/"
+street: Bangor Road
+housenumber: "3"
+phone: +44 792 026 2585
+opening_hours: '"by appointment"'
+website: https://jmmassagetherapy.co.uk/

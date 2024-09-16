@@ -1,11 +1,11 @@
 id: 297448146
-type: way
+type: node
 latitude: 58.20664
 longitude: -6.38191
-postcode: "HS1 2RB"
+postcode: HS1 2RB
 city: Steòrnabhagh
-street: "Sràid Einicleit"
-housenumber: 7
+street: Sràid Einicleit
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

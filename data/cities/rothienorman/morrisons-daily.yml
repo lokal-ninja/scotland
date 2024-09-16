@@ -1,11 +1,11 @@
 id: 567188360
-type: way
+type: node
 latitude: 57.41132
 longitude: -2.4637
-postcode: "AB51 8UD"
+postcode: AB51 8UD
 city: Rothienorman
-street: "Main Street"
-housenumber: 
-phone: "+44 1651 821214"
-opening_hours: "Mo-Sa 07:00-20:30; Su 08:00-20:30"
-website: "https://my.morrisons.com/storefinder/30020/morrisons-daily-rothienorman"
+street: Main Street
+housenumber: ""
+phone: +44 1651 821214
+opening_hours: Mo-Sa 07:00-20:30; Su 08:00-20:30
+website: https://my.morrisons.com/storefinder/30020/morrisons-daily-rothienorman

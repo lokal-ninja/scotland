@@ -4,8 +4,8 @@ latitude: 55.95215
 longitude: -3.20111
 postcode: ""
 city: Edinburgh
-street: "Rose Street"
-housenumber: 95
+street: Rose Street
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://celticdesignscotland.com/"
+website: https://celticdesignscotland.com/

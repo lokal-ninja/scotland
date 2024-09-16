@@ -2,10 +2,10 @@ id: 9106209427
 type: node
 latitude: 57.14429
 longitude: -2.10622
-postcode: "AB11 6BR"
+postcode: AB11 6BR
 city: Aberdeen
-street: "Union Street"
-housenumber: 265
-phone: "+44 1224 578600"
+street: Union Street
+housenumber: "265"
+phone: +44 1224 578600
 opening_hours: ""
 website: ""

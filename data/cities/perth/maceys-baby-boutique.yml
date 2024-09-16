@@ -1,11 +1,11 @@
 id: 878859017
-type: way
+type: node
 latitude: 56.39301
 longitude: -3.42854
-postcode: "PH2 8LJ"
+postcode: PH2 8LJ
 city: Perth
-street: "Princes Street"
-housenumber: 73
+street: Princes Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

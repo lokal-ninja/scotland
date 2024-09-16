@@ -4,8 +4,8 @@ latitude: 55.93888
 longitude: -3.2186
 postcode: ""
 city: Edinburgh
-street: "Watson Crescent"
-housenumber: 1
-phone: "+44 131 229 4838"
-opening_hours: "Mo-Sa 09:30-17:30"
-website: "https://www.edinburghdiving.co.uk/"
+street: Watson Crescent
+housenumber: "1"
+phone: +44 131 229 4838
+opening_hours: Mo-Sa 09:30-17:30
+website: https://www.edinburghdiving.co.uk/

@@ -1,11 +1,11 @@
 id: 100538172
-type: way
+type: node
 latitude: 55.87562
 longitude: -4.22928
-postcode: "G21 1YX"
+postcode: G21 1YX
 city: Glasgow
-street: "Cobden Road"
-housenumber: 15
+street: Cobden Road
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00"
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 10:00-18:00
 website: ""

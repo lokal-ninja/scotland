@@ -1,11 +1,11 @@
 id: 1100708107
-type: way
+type: node
 latitude: 57.64884
 longitude: -3.30975
-postcode: "IV30 1EP"
+postcode: IV30 1EP
 city: Elgin
-street: "South College Street"
-housenumber: 2
-phone: "+44 1343 543291"
+street: South College Street
+housenumber: "2"
+phone: +44 1343 543291
 opening_hours: ""
 website: ""

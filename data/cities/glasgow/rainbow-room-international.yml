@@ -2,10 +2,10 @@ id: 2371590800
 type: node
 latitude: 55.87636
 longitude: -4.28544
-postcode: "G12 8HX"
+postcode: G12 8HX
 city: Glasgow
-street: "Great Western Road"
-housenumber: 607
+street: Great Western Road
+housenumber: "607"
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 09:00-18:00; Th 08:15-20:15"
+opening_hours: Mo-We,Fr,Sa 09:00-18:00; Th 08:15-20:15
 website: ""

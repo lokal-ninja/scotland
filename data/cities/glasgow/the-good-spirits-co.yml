@@ -1,11 +1,11 @@
 id: 926893723
-type: way
+type: node
 latitude: 55.87704
 longitude: -4.30802
-postcode: "G12 9QN"
+postcode: G12 9QN
 city: Glasgow
-street: "Clarence Drive"
-housenumber: 21
+street: Clarence Drive
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Th 11:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00"
+opening_hours: Mo-Th 11:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00
 website: ""

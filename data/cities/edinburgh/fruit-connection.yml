@@ -2,10 +2,10 @@ id: 2700632639
 type: node
 latitude: 55.94352
 longitude: -3.18316
-postcode: "EH8 9EZ"
+postcode: EH8 9EZ
 city: Edinburgh
-street: "St Patrick Square"
-housenumber: 1
-phone: "+44 131 229 8153"
-opening_hours: "Mo-Su 08:00-20:00"
+street: St Patrick Square
+housenumber: "1"
+phone: +44 131 229 8153
+opening_hours: Mo-Su 08:00-20:00
 website: ""

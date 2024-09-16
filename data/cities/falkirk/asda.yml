@@ -1,11 +1,11 @@
 id: 127386263
-type: way
+type: node
 latitude: 56.00084
 longitude: -3.78741
-postcode: "FK1 1JT"
+postcode: FK1 1JT
 city: Falkirk
-street: "Newmarket Street"
-housenumber: 3
+street: Newmarket Street
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

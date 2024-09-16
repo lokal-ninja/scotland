@@ -1,11 +1,11 @@
 id: 100646581
-type: way
+type: node
 latitude: 55.72032
 longitude: -2.75065
-postcode: "TD2 6TE"
+postcode: TD2 6TE
 city: Lauder
-street: "West High Street"
-housenumber: 30
+street: West High Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

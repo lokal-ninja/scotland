@@ -2,10 +2,10 @@ id: 2921812649
 type: node
 latitude: 55.95967
 longitude: -3.1825
-postcode: "EH7 4AH"
+postcode: EH7 4AH
 city: Edinburgh
-street: "Elm Row"
-housenumber: 36
+street: Elm Row
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:00; Su 11:30-17:30"
-website: "https://www.thecatsmiaou.co.uk/"
+opening_hours: Mo-Sa 10:30-19:00; Su 11:30-17:30
+website: https://www.thecatsmiaou.co.uk/

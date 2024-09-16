@@ -2,10 +2,10 @@ id: 2305497506
 type: node
 latitude: 55.95148
 longitude: -3.20511
-postcode: "EH2 4LS"
+postcode: EH2 4LS
 city: Edinburgh
-street: "Rose Street"
-housenumber: 163
+street: Rose Street
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

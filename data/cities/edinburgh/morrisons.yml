@@ -1,11 +1,11 @@
 id: 61118363
-type: way
+type: node
 latitude: 55.97794
 longitude: -3.24245
-postcode: "EH5 1SA"
+postcode: EH5 1SA
 city: Edinburgh
-street: "Waterfront Broadway"
-housenumber: 3
+street: Waterfront Broadway
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/147/edinburgh-granton"
+website: https://my.morrisons.com/storefinder/147/edinburgh-granton

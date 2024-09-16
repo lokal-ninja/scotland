@@ -1,11 +1,11 @@
 id: 46176815
-type: way
+type: node
 latitude: 56.48089
 longitude: -2.99667
-postcode: "DD3 8RX"
+postcode: DD3 8RX
 city: Dundee
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00"
-website: "https://www.sofology.co.uk/stores/dundee"
+opening_hours: Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00
+website: https://www.sofology.co.uk/stores/dundee

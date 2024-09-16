@@ -2,10 +2,10 @@ id: 2110838948
 type: node
 latitude: 55.95304
 longitude: -3.20123
-postcode: "EH2 3ES"
+postcode: EH2 3ES
 city: Edinburgh
-street: "George Street"
-housenumber: 77
+street: George Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://www.cassart.co.uk/stores/"
+website: https://www.cassart.co.uk/stores/

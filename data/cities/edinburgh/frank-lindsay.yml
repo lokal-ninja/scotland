@@ -2,10 +2,10 @@ id: 2298215007
 type: node
 latitude: 55.95761
 longitude: -3.20686
-postcode: "EH3 5AL"
+postcode: EH3 5AL
 city: Edinburgh
-street: "St Stephen Street"
-housenumber: 20
+street: St Stephen Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 55.95213
 longitude: -3.20121
 postcode: ""
 city: Edinburgh
-street: "Rose Street"
-housenumber: 99
+street: Rose Street
+housenumber: "99"
 phone: ""
 opening_hours: ""
-website: "http://www.palenquejewellery.co.uk/"
+website: http://www.palenquejewellery.co.uk/

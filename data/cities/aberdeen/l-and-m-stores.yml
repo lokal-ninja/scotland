@@ -1,11 +1,11 @@
 id: 941970676
-type: way
+type: node
 latitude: 57.1526
 longitude: -2.11213
-postcode: "AB25 2TG"
+postcode: AB25 2TG
 city: Aberdeen
-street: "Rosemount Terrace"
-housenumber: 1
+street: Rosemount Terrace
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 07:30-22:00"
+opening_hours: Mo-Su 07:30-22:00
 website: ""

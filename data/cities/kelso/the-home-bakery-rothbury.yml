@@ -1,11 +1,11 @@
 id: 115714187
-type: way
+type: node
 latitude: 55.5986
 longitude: -2.4334
-postcode: "TD5 7HF"
+postcode: TD5 7HF
 city: Kelso
-street: "The Square"
-housenumber: 50
+street: The Square
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

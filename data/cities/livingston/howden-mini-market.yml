@@ -1,11 +1,11 @@
 id: 335061073
-type: way
+type: node
 latitude: 55.8903
 longitude: -3.50821
-postcode: "EH54 6LQ"
+postcode: EH54 6LQ
 city: Livingston
-street: "Huron Avenue"
-housenumber: 146
+street: Huron Avenue
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

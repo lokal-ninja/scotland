@@ -2,10 +2,10 @@ id: 3472688076
 type: node
 latitude: 56.3982
 longitude: -3.42774
-postcode: "PH1 5LB"
+postcode: PH1 5LB
 city: Perth
-street: "George Street"
-housenumber: 67
+street: George Street
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30"
-website: "https://www.thebeanshop.co.uk/"
+opening_hours: Mo-Sa 09:30-17:30
+website: https://www.thebeanshop.co.uk/

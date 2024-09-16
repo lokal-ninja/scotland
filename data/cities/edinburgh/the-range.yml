@@ -1,11 +1,11 @@
 id: 4915025
-type: way
+type: node
 latitude: 55.94209
 longitude: -3.10155
-postcode: "EH15 3QH"
+postcode: EH15 3QH
 city: Edinburgh
-street: "Milton Link"
-housenumber: 25
-phone: "+44 131 657 4302"
-opening_hours: "Mo-Sa 09:00-20:00, Su 09:00-18:00"
-website: "https://www.therange.co.uk/stores/edinburgh"
+street: Milton Link
+housenumber: "25"
+phone: +44 131 657 4302
+opening_hours: Mo-Sa 09:00-20:00, Su 09:00-18:00
+website: https://www.therange.co.uk/stores/edinburgh

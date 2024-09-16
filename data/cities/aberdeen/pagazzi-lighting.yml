@@ -1,11 +1,11 @@
 id: 9704166
-type: way
+type: node
 latitude: 57.14873
 longitude: -2.08014
-postcode: "AB11 5EJ"
+postcode: AB11 5EJ
 city: Aberdeen
-street: "Links Road"
-housenumber: 
+street: Links Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-18:00; Su 10:00-18:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-18:00; Su 10:00-18:00
 website: ""

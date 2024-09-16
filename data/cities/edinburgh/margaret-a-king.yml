@@ -2,10 +2,10 @@ id: 4020381001
 type: node
 latitude: 55.92803
 longitude: -3.2092
-postcode: "EH10 4QT"
+postcode: EH10 4QT
 city: Edinburgh
-street: "Morningside Road"
-housenumber: 217
-phone: "+44 131 447 2850"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00 - 16:00"
-website: "https://www.margaretaking.com/"
+street: Morningside Road
+housenumber: "217"
+phone: +44 131 447 2850
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00 - 16:00
+website: https://www.margaretaking.com/

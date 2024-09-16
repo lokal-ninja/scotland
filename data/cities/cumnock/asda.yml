@@ -1,11 +1,11 @@
 id: 192606737
-type: way
+type: node
 latitude: 55.45388
 longitude: -4.26017
-postcode: "KA18 1LG"
+postcode: KA18 1LG
 city: Cumnock
-street: "Townhead Street"
-housenumber: 
+street: Townhead Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-20:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-20:00
 website: ""

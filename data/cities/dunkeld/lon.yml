@@ -2,10 +2,10 @@ id: 10795343174
 type: node
 latitude: 56.56553
 longitude: -3.58588
-postcode: "PH8 0AJ"
+postcode: PH8 0AJ
 city: Dunkeld
-street: "High Street"
-housenumber: 4
-phone: "+44 1350 727424"
+street: High Street
+housenumber: "4"
+phone: +44 1350 727424
 opening_hours: ""
-website: "https://www.lon-store.co.uk/"
+website: https://www.lon-store.co.uk/

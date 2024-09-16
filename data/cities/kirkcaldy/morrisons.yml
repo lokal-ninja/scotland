@@ -1,11 +1,11 @@
 id: 395910191
-type: way
+type: node
 latitude: 56.09675
 longitude: -3.16253
-postcode: "KY1 1SL"
+postcode: KY1 1SL
 city: Kirkcaldy
-street: "Esplanade"
-housenumber: 439
+street: Esplanade
+housenumber: "439"
 phone: ""
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/582/kirkcaldy"
+website: https://my.morrisons.com/storefinder/582/kirkcaldy

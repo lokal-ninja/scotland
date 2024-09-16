@@ -2,10 +2,10 @@ id: 2899252443
 type: node
 latitude: 55.94817
 longitude: -3.1947
-postcode: "EH1 2JP"
+postcode: EH1 2JP
 city: Edinburgh
-street: "West Bow"
-housenumber: 99
+street: West Bow
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

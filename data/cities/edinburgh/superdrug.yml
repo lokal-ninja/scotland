@@ -4,8 +4,8 @@ latitude: 55.95206
 longitude: -3.19748
 postcode: ""
 city: Edinburgh
-street: "Princes Street"
-housenumber: 83
+street: Princes Street
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:00; Su 10:00-19:00"
-website: "https://www.superdrug.com/store/princes-st-edinburgh"
+opening_hours: Mo-Sa 08:30-19:00; Su 10:00-19:00
+website: https://www.superdrug.com/store/princes-st-edinburgh

@@ -1,11 +1,11 @@
 id: 57372640
-type: way
+type: node
 latitude: 56.42121
 longitude: -3.474
-postcode: "PH1 3TR"
+postcode: PH1 3TR
 city: Perth
-street: "Almondgrove Place"
-housenumber: 5
-phone: "+44 1738 451299"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-14:00"
-website: "https://www.bellfieldmotor.co.uk/"
+street: Almondgrove Place
+housenumber: "5"
+phone: +44 1738 451299
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-14:00
+website: https://www.bellfieldmotor.co.uk/

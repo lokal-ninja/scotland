@@ -1,11 +1,11 @@
 id: 1148681163
-type: way
+type: node
 latitude: 55.8373
 longitude: -4.50753
-postcode: "PA5 8BY"
+postcode: PA5 8BY
 city: Johnstone
-street: "Laighcartside Street"
-housenumber: 13
-phone: "+44 1505 328344"
+street: Laighcartside Street
+housenumber: "13"
+phone: +44 1505 328344
 opening_hours: ""
-website: "https://www.benstonmotorengineers.co.uk/"
+website: https://www.benstonmotorengineers.co.uk/

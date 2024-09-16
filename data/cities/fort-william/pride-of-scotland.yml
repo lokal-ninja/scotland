@@ -2,10 +2,10 @@ id: 4171879791
 type: node
 latitude: 56.81774
 longitude: -5.11174
-postcode: "PH33 6DH"
+postcode: PH33 6DH
 city: Fort William
-street: "High Street"
-housenumber: 61
+street: High Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

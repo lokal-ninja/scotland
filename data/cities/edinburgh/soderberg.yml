@@ -2,10 +2,10 @@ id: 1327629881
 type: node
 latitude: 55.95754
 longitude: -3.18838
-postcode: "EH1 3JU"
+postcode: EH1 3JU
 city: Edinburgh
-street: "Broughton Street"
-housenumber: 45
+street: Broughton Street
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su 09:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su 09:00-18:00
 website: ""

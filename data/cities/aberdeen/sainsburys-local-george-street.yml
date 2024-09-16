@@ -1,11 +1,11 @@
 id: 328470689
-type: way
+type: node
 latitude: 57.15222
 longitude: -2.10408
-postcode: "AB25 1EP"
+postcode: AB25 1EP
 city: Aberdeen
-street: "George Street"
-housenumber: 313
+street: George Street
+housenumber: "313"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.sainsburys.co.uk/4676/aberdeen-george-street-local"
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.sainsburys.co.uk/4676/aberdeen-george-street-local

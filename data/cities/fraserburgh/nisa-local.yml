@@ -1,11 +1,11 @@
 id: 1159573493
-type: way
+type: node
 latitude: 57.69201
 longitude: -2.01439
-postcode: "AB43 9JP"
+postcode: AB43 9JP
 city: Fraserburgh
-street: "Mid Street"
-housenumber: 113
+street: Mid Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

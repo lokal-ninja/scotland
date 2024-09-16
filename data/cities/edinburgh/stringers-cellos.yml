@@ -4,8 +4,8 @@ latitude: 55.95579
 longitude: -3.19182
 postcode: ""
 city: Edinburgh
-street: "York Place"
-housenumber: 7
+street: York Place
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.stringersmusic.com/"
+website: https://www.stringersmusic.com/

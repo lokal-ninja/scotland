@@ -4,8 +4,8 @@ latitude: 55.95752
 longitude: -3.24932
 postcode: ""
 city: Edinburgh
-street: "Queensferry Road"
-housenumber: 234
-phone: "+44 131 560 2332"
-opening_hours: "Tu-Sa 10:00-16:00"
-website: "https://www.MyBeautifulBathroom.co.uk/"
+street: Queensferry Road
+housenumber: "234"
+phone: +44 131 560 2332
+opening_hours: Tu-Sa 10:00-16:00
+website: https://www.MyBeautifulBathroom.co.uk/

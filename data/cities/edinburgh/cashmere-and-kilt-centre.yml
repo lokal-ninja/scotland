@@ -2,10 +2,10 @@ id: 2977978073
 type: node
 latitude: 55.95063
 longitude: -3.1852
-postcode: "EH1 1SR"
+postcode: EH1 1SR
 city: Edinburgh
-street: "High Street"
-housenumber: 51
+street: High Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

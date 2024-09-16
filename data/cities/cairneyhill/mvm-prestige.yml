@@ -1,11 +1,11 @@
 id: 637240671
-type: way
+type: node
 latitude: 56.06055
 longitude: -3.53219
-postcode: "KY12 8QU"
+postcode: KY12 8QU
 city: Cairneyhill
-street: "Main Street"
-housenumber: 76
+street: Main Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

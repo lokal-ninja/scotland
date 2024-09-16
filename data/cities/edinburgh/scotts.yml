@@ -2,10 +2,10 @@ id: 2052777496
 type: node
 latitude: 55.94312
 longitude: -3.22031
-postcode: "EH11 2DR"
+postcode: EH11 2DR
 city: Edinburgh
-street: "Dalry Road"
-housenumber: 123
+street: Dalry Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

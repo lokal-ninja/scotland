@@ -1,11 +1,11 @@
 id: 353470669
-type: way
+type: node
 latitude: 56.02533
 longitude: -3.81582
-postcode: "FK5 3DB"
+postcode: FK5 3DB
 city: Stenhousemuir
-street: "Hallam Road"
-housenumber: 21
+street: Hallam Road
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

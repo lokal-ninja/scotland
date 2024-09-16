@@ -1,11 +1,11 @@
 id: 778826009
-type: way
+type: node
 latitude: 55.58362
 longitude: -4.50677
-postcode: "KA1 5LA"
+postcode: KA1 5LA
 city: Kilmarnock
-street: "Simonsburn Road"
-housenumber: 6
+street: Simonsburn Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 247011311
-type: way
+type: node
 latitude: 55.42775
 longitude: -2.78228
-postcode: "TD9 9NQ"
+postcode: TD9 9NQ
 city: Hawick
-street: "Mart Street"
-housenumber: 
+street: Mart Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-20:00"
-website: "https://my.morrisons.com/storefinder/187/hawick"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-20:00
+website: https://my.morrisons.com/storefinder/187/hawick

@@ -1,11 +1,11 @@
 id: 836400985
-type: way
+type: node
 latitude: 55.42283
 longitude: -2.78679
-postcode: "TD9 9BU"
+postcode: TD9 9BU
 city: Hawick
-street: "High Street"
-housenumber: 41
-phone: "+44 1450 218354"
-opening_hours: "Mo-Sa 09:30-18:00; Su off"
+street: High Street
+housenumber: "41"
+phone: +44 1450 218354
+opening_hours: Mo-Sa 09:30-18:00; Su off
 website: ""

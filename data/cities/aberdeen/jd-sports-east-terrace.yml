@@ -1,11 +1,11 @@
 id: 1298169920
-type: way
+type: node
 latitude: 57.1432
 longitude: -2.09544
-postcode: "AB11 5RD"
+postcode: AB11 5RD
 city: Aberdeen
-street: "East Terrace"
-housenumber: 1
-phone: "+44 1224 580142"
-opening_hours: "Mo-Th 08:00-21:00; Fr 08:00-19:00; Sa 10:00-18:00; Su 08:00-21:00"
-website: "https://www.jdsports.co.uk/store-locator/aberdeen/242/"
+street: East Terrace
+housenumber: "1"
+phone: +44 1224 580142
+opening_hours: Mo-Th 08:00-21:00; Fr 08:00-19:00; Sa 10:00-18:00; Su 08:00-21:00
+website: https://www.jdsports.co.uk/store-locator/aberdeen/242/

@@ -1,11 +1,11 @@
 id: 724456096
-type: way
+type: node
 latitude: 56.12874
 longitude: -3.3096
 postcode: ""
 city: Lochgelly
-street: "Bank Street"
-housenumber: 64
+street: Bank Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

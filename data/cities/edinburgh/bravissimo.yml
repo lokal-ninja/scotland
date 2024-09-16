@@ -4,8 +4,8 @@ latitude: 55.95144
 longitude: -3.20262
 postcode: ""
 city: Edinburgh
-street: "Castle Street"
-housenumber: 9
+street: Castle Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.bravissimo.com/shops/edinburgh/"
+website: https://www.bravissimo.com/shops/edinburgh/

@@ -1,11 +1,11 @@
 id: 517328250
-type: way
+type: node
 latitude: 56.12468
 longitude: -4.08379
-postcode: "FK8 3BW"
+postcode: FK8 3BW
 city: Gargunnock
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:45-19:00; Sa-Su 08:00-17:00"
+opening_hours: Mo-Fr 07:45-19:00; Sa-Su 08:00-17:00
 website: ""

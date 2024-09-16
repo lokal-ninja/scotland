@@ -1,11 +1,11 @@
 id: 836115193
-type: way
+type: node
 latitude: 55.42366
 longitude: -2.78543
-postcode: "TD9 9HT"
+postcode: TD9 9HT
 city: Hawick
-street: "O'Connell Street"
-housenumber: 1
+street: O'Connell Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

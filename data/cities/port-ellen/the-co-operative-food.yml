@@ -1,11 +1,11 @@
 id: 424325804
-type: way
+type: node
 latitude: 55.62972
 longitude: -6.18476
-postcode: "PA42 7BE"
+postcode: PA42 7BE
 city: Port Ellen
-street: "Frederick Crescent"
-housenumber: 75
+street: Frederick Crescent
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-21:00"
-website: "https://www.coop.co.uk/store-finder/PA42-7BE/75-frederick-crescent"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-21:00
+website: https://www.coop.co.uk/store-finder/PA42-7BE/75-frederick-crescent

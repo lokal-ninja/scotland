@@ -1,11 +1,11 @@
 id: 666716789
-type: way
+type: node
 latitude: 56.04507
 longitude: -3.42822
-postcode: "KY11 2XW"
+postcode: KY11 2XW
 city: Rosyth
-street: "Primrose Lane"
-housenumber: 
+street: Primrose Lane
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.spar.co.uk/store-locator/lan19610-spar-certas-energy-uk-ltd-rosyth/"
+opening_hours: 24/7
+website: https://www.spar.co.uk/store-locator/lan19610-spar-certas-energy-uk-ltd-rosyth/

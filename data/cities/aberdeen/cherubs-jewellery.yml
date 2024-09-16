@@ -2,10 +2,11 @@ id: 9260130603
 type: node
 latitude: 57.1364
 longitude: -2.11463
-postcode: "AB10 7FL"
+postcode: AB10 7FL
 city: Aberdeen
-street: "Holburn Street"
-housenumber: 279
-phone: "+44 1224 502039"
-opening_hours: "Tu 10:00-17:00; Mo off, We 10:00-16:00, We-Fr 10:00-17:00, Sa 10:00-17:00; Su off"
-website: "https://www.cherubsjewellery.com"
+street: Holburn Street
+housenumber: "279"
+phone: +44 1224 502039
+opening_hours: Tu 10:00-17:00; Mo off, We 10:00-16:00, We-Fr 10:00-17:00, Sa 10:00-17:00;
+    Su off
+website: https://www.cherubsjewellery.com

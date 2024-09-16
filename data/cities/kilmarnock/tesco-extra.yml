@@ -1,11 +1,11 @@
 id: 322473108
-type: way
+type: node
 latitude: 55.60204
 longitude: -4.50036
-postcode: "KA1 4BS"
+postcode: KA1 4BS
 city: Kilmarnock
-street: "West Shaw Street"
-housenumber: 3
+street: West Shaw Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

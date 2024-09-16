@@ -4,8 +4,8 @@ latitude: 55.95907
 longitude: -3.1912
 postcode: ""
 city: Edinburgh
-street: "London Street"
-housenumber: 44
+street: London Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://carolynbaxter.co.uk/"
+website: https://carolynbaxter.co.uk/

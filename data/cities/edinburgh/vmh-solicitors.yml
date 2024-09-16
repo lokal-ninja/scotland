@@ -2,10 +2,10 @@ id: 10709040040
 type: node
 latitude: 55.95151
 longitude: -3.18155
-postcode: "EH8 8FT"
+postcode: EH8 8FT
 city: Edinburgh
-street: "Sibbald Walk"
-housenumber: 8
-phone: "+44 131 622 2626"
+street: Sibbald Walk
+housenumber: "8"
+phone: +44 131 622 2626
 opening_hours: ""
-website: "https://www.vmh.co.uk/"
+website: https://www.vmh.co.uk/

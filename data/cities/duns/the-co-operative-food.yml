@@ -1,11 +1,11 @@
 id: 177944475
-type: way
+type: node
 latitude: 55.77829
 longitude: -2.34582
-postcode: "TD11 3DT"
+postcode: TD11 3DT
 city: Duns
-street: "Newtown Street"
-housenumber: 
+street: Newtown Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/TD11-3DT/newtown-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/TD11-3DT/newtown-street

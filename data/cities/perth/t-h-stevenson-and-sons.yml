@@ -2,10 +2,10 @@ id: 6015866104
 type: node
 latitude: 56.4808
 longitude: -3.44814
-postcode: "PH1 4LU"
+postcode: PH1 4LU
 city: Perth
-street: "Percy Street"
-housenumber: 10
+street: Percy Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

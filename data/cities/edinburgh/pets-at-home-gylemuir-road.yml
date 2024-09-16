@@ -1,11 +1,11 @@
 id: 26985073
-type: way
+type: node
 latitude: 55.94158
 longitude: -3.29508
-postcode: "EH12 7UF"
+postcode: EH12 7UF
 city: Edinburgh
-street: "Gylemuir Road"
-housenumber: 4
+street: Gylemuir Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://community.petsathome.com/store/corstorphine/"
+website: https://community.petsathome.com/store/corstorphine/

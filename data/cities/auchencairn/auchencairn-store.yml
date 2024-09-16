@@ -1,11 +1,11 @@
 id: 402953728
-type: way
+type: node
 latitude: 54.84379
 longitude: -3.87123
-postcode: "DG7 1QU"
+postcode: DG7 1QU
 city: Auchencairn
-street: "Main Street"
-housenumber: 1
+street: Main Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

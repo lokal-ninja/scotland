@@ -1,11 +1,11 @@
 id: 208131141
-type: way
+type: node
 latitude: 55.85204
 longitude: -4.23049
 postcode: ""
 city: Glasgow
-street: "Tobago Street"
-housenumber: 90
+street: Tobago Street
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 55.95181
 longitude: -3.19997
 postcode: ""
 city: Edinburgh
-street: "Frederick Street"
-housenumber: 6
+street: Frederick Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.schuh.co.uk/stores/edinburgh-frederick-street/"
+website: https://www.schuh.co.uk/stores/edinburgh-frederick-street/

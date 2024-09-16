@@ -4,8 +4,8 @@ latitude: 56.05949
 longitude: -3.23264
 postcode: ""
 city: Burntisland
-street: "High Street"
-housenumber: 201
+street: High Street
+housenumber: "201"
 phone: ""
-opening_hours: "Apr-Sep: Mo-Sa 10:00-16:00; Oct-Mar: Mo-Sa 10:00-16:00; We off"
+opening_hours: 'Apr-Sep: Mo-Sa 10:00-16:00; Oct-Mar: Mo-Sa 10:00-16:00; We off'
 website: ""

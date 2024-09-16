@@ -2,10 +2,10 @@ id: 1992840818
 type: node
 latitude: 56.39354
 longitude: -3.43715
-postcode: "PH2 8ET"
+postcode: PH2 8ET
 city: Perth
-street: "Leonard Street"
-housenumber: 57
+street: Leonard Street
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

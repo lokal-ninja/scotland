@@ -2,10 +2,10 @@ id: 4097798172
 type: node
 latitude: 56.64426
 longitude: -2.8888
-postcode: "DD8 3AE"
+postcode: DD8 3AE
 city: Forfar
-street: "Castle Street"
-housenumber: 3
+street: Castle Street
+housenumber: "3"
 phone: ""
-opening_hours: "09:30-17:00"
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/forfar-bhf-shop"
+opening_hours: 09:30-17:00
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/forfar-bhf-shop

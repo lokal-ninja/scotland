@@ -1,11 +1,11 @@
 id: 993251719
-type: way
+type: node
 latitude: 57.15324
 longitude: -2.09701
-postcode: "AB24 5AL"
+postcode: AB24 5AL
 city: Aberdeen
-street: "St Clair Street"
-housenumber: 17
+street: St Clair Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

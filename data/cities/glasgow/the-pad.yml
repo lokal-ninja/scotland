@@ -2,10 +2,11 @@ id: 8712191082
 type: node
 latitude: 55.87761
 longitude: -4.30864
-postcode: "G12 9QU"
+postcode: G12 9QU
 city: Glasgow
-street: "Lauderdale Gardens"
-housenumber: 75
+street: Lauderdale Gardens
+housenumber: "75"
 phone: ""
-opening_hours: "Mo open appointment only; Tu-We 09:30-17:30; Th 09:30-19:30; Fr 09:30-17:30; Sa 09:30-18:30; Su open appointment only"
+opening_hours: Mo open "appointment only"; Tu-We 09:30-17:30; Th 09:30-19:30; Fr 09:30-17:30;
+    Sa 09:30-18:30; Su open "appointment only"
 website: ""

@@ -1,11 +1,11 @@
 id: 575566844
-type: way
+type: node
 latitude: 56.03661
 longitude: -3.41692
-postcode: "KY11 2PX"
+postcode: KY11 2PX
 city: Rosyth
-street: "Queensferry Road"
-housenumber: 7
+street: Queensferry Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

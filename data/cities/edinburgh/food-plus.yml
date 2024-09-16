@@ -2,10 +2,10 @@ id: 4523705041
 type: node
 latitude: 55.98311
 longitude: -3.22606
-postcode: "EH5 1PH"
+postcode: EH5 1PH
 city: Edinburgh
-street: "West Harbour Road"
-housenumber: 65
+street: West Harbour Road
+housenumber: "65"
 phone: ""
 opening_hours: ""
-website: "https://edinburgh.foodplus.store/"
+website: https://edinburgh.foodplus.store/

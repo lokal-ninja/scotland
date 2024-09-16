@@ -1,11 +1,11 @@
 id: 482749106
-type: way
+type: node
 latitude: 56.05831
 longitude: -2.71948
-postcode: "EH39 4PL"
+postcode: EH39 4PL
 city: North Berwick
-street: "Law Road"
-housenumber: 2
-phone: "+44 1620 890643"
+street: Law Road
+housenumber: "2"
+phone: +44 1620 890643
 opening_hours: ""
-website: "https://www.lawcycles.co.uk/"
+website: https://www.lawcycles.co.uk/

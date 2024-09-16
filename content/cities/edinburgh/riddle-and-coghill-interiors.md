@@ -1,5 +1,5 @@
 ---
-title: "Riddle and Coghill Interiors"
+title: "Riddle & Coghill Interiors"
 url: /edinburgh/riddle-and-coghill-interiors/
-shop: furniture
+shop: interior decoration
 ---

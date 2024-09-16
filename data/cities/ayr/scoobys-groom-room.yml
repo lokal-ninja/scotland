@@ -2,10 +2,10 @@ id: 3652711017
 type: node
 latitude: 55.46739
 longitude: -4.63035
-postcode: "KA8 8BU"
+postcode: KA8 8BU
 city: Ayr
-street: "Main Street"
-housenumber: 89
-phone: "+44 1292 289090"
+street: Main Street
+housenumber: "89"
+phone: +44 1292 289090
 opening_hours: ""
 website: ""

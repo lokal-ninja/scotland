@@ -2,10 +2,10 @@ id: 2385906029
 type: node
 latitude: 55.94875
 longitude: -3.21406
-postcode: "EH3 7LW"
+postcode: EH3 7LW
 city: Edinburgh
-street: "William Street"
-housenumber: 43
+street: William Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

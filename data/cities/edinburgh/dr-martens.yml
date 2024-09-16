@@ -2,10 +2,10 @@ id: 1514368260
 type: node
 latitude: 55.95229
 longitude: -3.19621
-postcode: "EH2 2DF"
+postcode: EH2 2DF
 city: Edinburgh
-street: "Princes Street"
-housenumber: 76
+street: Princes Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.drmartens.com/uk/en_gb/store-finder?store=242-015"
+website: https://www.drmartens.com/uk/en_gb/store-finder?store=242-015

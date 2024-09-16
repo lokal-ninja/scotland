@@ -1,11 +1,11 @@
 id: 560469415
-type: way
+type: node
 latitude: 56.54806
 longitude: -3.2636
-postcode: "PH13 9AL"
+postcode: PH13 9AL
 city: Coupar Angus
-street: "Forfar Road"
-housenumber: 1
+street: Forfar Road
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Su 10:00-17:00"
-website: "https://cacyclinghub.com"
+opening_hours: Tu-Su 10:00-17:00
+website: https://cacyclinghub.com

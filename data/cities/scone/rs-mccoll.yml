@@ -1,11 +1,11 @@
 id: 420005782
-type: way
+type: node
 latitude: 56.41898
 longitude: -3.40052
-postcode: "PH2 6JJ"
+postcode: PH2 6JJ
 city: Scone
-street: "Perth Road"
-housenumber: 26
+street: Perth Road
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

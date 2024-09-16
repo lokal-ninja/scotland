@@ -1,11 +1,11 @@
 id: 28765642
-type: way
+type: node
 latitude: 55.93279
 longitude: -3.13667
-postcode: "EH16 4DT"
+postcode: EH16 4DT
 city: Edinburgh
-street: "Niddrie Mains Road"
-housenumber: 82
+street: Niddrie Mains Road
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

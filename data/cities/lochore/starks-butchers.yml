@@ -1,11 +1,11 @@
 id: 1012876582
-type: way
+type: node
 latitude: 56.15695
 longitude: -3.32186
 postcode: ""
 city: Lochore
-street: "Lochleven Road"
-housenumber: 100
+street: Lochleven Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

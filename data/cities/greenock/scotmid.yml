@@ -1,11 +1,11 @@
 id: 505072721
-type: way
+type: node
 latitude: 55.94273
 longitude: -4.77258
-postcode: "PA15 4SJ"
+postcode: PA15 4SJ
 city: Greenock
-street: "Murdieston Street"
-housenumber: 42
+street: Murdieston Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://scotmid.coop/store/greenock-2/"
+website: https://scotmid.coop/store/greenock-2/

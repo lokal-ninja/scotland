@@ -2,10 +2,10 @@ id: 6286665377
 type: node
 latitude: 56.39522
 longitude: -3.42851
-postcode: "PH2 8PD"
+postcode: PH2 8PD
 city: Perth
-street: "South Street"
-housenumber: 47
+street: South Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 284264846
-type: way
+type: node
 latitude: 55.92655
 longitude: -3.24607
-postcode: "EH14 1RJ"
+postcode: EH14 1RJ
 city: Edinburgh
-street: "New Mart Road"
-housenumber: 3
+street: New Mart Road
+housenumber: "3"
 phone: ""
-opening_hours: "Mo 00:00-24:00; Tu 00:00-22:00; We 06:00-24:00; Th-Su 00:00-24:00"
+opening_hours: Mo 00:00-24:00; Tu 00:00-22:00; We 06:00-24:00; Th-Su 00:00-24:00
 website: ""

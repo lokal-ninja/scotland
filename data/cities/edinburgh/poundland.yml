@@ -2,10 +2,10 @@ id: 1977943207
 type: node
 latitude: 55.95102
 longitude: -3.2036
-postcode: "EH2 4AD"
+postcode: EH2 4AD
 city: Edinburgh
-street: "Princes Street"
-housenumber: 120
+street: Princes Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

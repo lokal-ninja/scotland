@@ -1,11 +1,11 @@
 id: 381969143
-type: way
+type: node
 latitude: 55.98171
 longitude: -3.71846
-postcode: "FK2 0JT"
+postcode: FK2 0JT
 city: Brightons
-street: "Main Street"
-housenumber: 4
+street: Main Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.diceandtokens.co.uk/the-arena.html"
+website: https://www.diceandtokens.co.uk/the-arena.html

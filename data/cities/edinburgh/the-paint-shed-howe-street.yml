@@ -4,8 +4,8 @@ latitude: 55.95581
 longitude: -3.20231
 postcode: ""
 city: Edinburgh
-street: "Howe Street"
-housenumber: 10
-phone: "+44 131 247 8000"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-16:00; Su off"
-website: "https://www.thepaintshed.com/our-stores/edinburgh-howe-street"
+street: Howe Street
+housenumber: "10"
+phone: +44 131 247 8000
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-16:00; Su off
+website: https://www.thepaintshed.com/our-stores/edinburgh-howe-street

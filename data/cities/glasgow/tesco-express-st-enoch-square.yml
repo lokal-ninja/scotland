@@ -2,10 +2,10 @@ id: 1311976163
 type: node
 latitude: 55.857
 longitude: -4.25488
-postcode: "G1 4DH"
+postcode: G1 4DH
 city: Glasgow
-street: "St Enoch Square"
-housenumber: 63
+street: St Enoch Square
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 06:00-00:00; Su 08:00-22:00"
+opening_hours: Mo-Sa 06:00-00:00; Su 08:00-22:00
 website: ""

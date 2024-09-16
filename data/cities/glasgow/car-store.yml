@@ -1,11 +1,11 @@
 id: 239575949
-type: way
+type: node
 latitude: 55.86655
 longitude: -4.36607
-postcode: "G52 4XA"
+postcode: G52 4XA
 city: Glasgow
-street: "Hillington Road"
-housenumber: 500
+street: Hillington Road
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00, Sa 09:00-18:00, Su closed"
+opening_hours: Mo-Fr 10:00-21:00, Sa 09:00-18:00, Su closed
 website: ""

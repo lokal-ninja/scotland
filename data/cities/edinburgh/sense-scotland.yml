@@ -2,10 +2,10 @@ id: 1241883672
 type: node
 latitude: 55.98085
 longitude: -3.17834
-postcode: "EH6 6JJ"
+postcode: EH6 6JJ
 city: Edinburgh
-street: "Ocean Drive"
-housenumber: 98
+street: Ocean Drive
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

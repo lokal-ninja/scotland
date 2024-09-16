@@ -2,10 +2,10 @@ id: 2954633078
 type: node
 latitude: 55.94963
 longitude: -3.18711
-postcode: "EH1 1DD"
+postcode: EH1 1DD
 city: Edinburgh
-street: "South Bridge"
-housenumber: 12
+street: South Bridge
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 09:00-18:00,10:00-16:00"
-website: "https://www.mbe.co.uk/edinburghsouthbridge"
+opening_hours: Mo-Th 08:00-18:00; Fr 09:00-18:00,10:00-16:00
+website: https://www.mbe.co.uk/edinburghsouthbridge

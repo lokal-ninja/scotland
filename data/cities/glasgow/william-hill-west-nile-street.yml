@@ -2,10 +2,10 @@ id: 3123326940
 type: node
 latitude: 55.86416
 longitude: -4.25405
-postcode: "G1 2RQ"
+postcode: G1 2RQ
 city: Glasgow
-street: "West Nile Street"
-housenumber: 152
+street: West Nile Street
+housenumber: "152"
 phone: ""
 opening_hours: ""
 website: ""

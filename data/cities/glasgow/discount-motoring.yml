@@ -1,11 +1,11 @@
 id: 199662055
-type: way
+type: node
 latitude: 55.8585
 longitude: -4.23203
 postcode: ""
 city: Glasgow
-street: "Barrack Street"
-housenumber: 113
+street: Barrack Street
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

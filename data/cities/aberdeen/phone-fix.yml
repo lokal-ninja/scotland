@@ -1,11 +1,11 @@
 id: 313943988
-type: way
+type: node
 latitude: 57.14734
 longitude: -2.09553
-postcode: "AB11 5BP"
+postcode: AB11 5BP
 city: Aberdeen
-street: "Union Street"
-housenumber: 33
+street: Union Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

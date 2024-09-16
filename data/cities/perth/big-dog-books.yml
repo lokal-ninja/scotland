@@ -2,10 +2,10 @@ id: 5878876972
 type: node
 latitude: 56.39481
 longitude: -3.43214
-postcode: "PH2 8JW"
+postcode: PH2 8JW
 city: Perth
-street: "Scott Street"
-housenumber: 66
-phone: "+44 1798 320983"
+street: Scott Street
+housenumber: "66"
+phone: +44 1798 320983
 opening_hours: ""
-website: "https://bigdogbooks.co.uk"
+website: https://bigdogbooks.co.uk

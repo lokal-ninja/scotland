@@ -1,11 +1,11 @@
 id: 303214423
-type: way
+type: node
 latitude: 56.8443
 longitude: -2.28023
-postcode: "DD10 0RA"
+postcode: DD10 0RA
 city: Montrose
-street: "King Street"
-housenumber: 62
+street: King Street
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://scotmid.coop/store/inverbervie/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://scotmid.coop/store/inverbervie/

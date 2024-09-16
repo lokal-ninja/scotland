@@ -1,11 +1,11 @@
 id: 235951291
-type: way
+type: node
 latitude: 55.88913
 longitude: -4.3758
-postcode: "G14 0LG"
+postcode: G14 0LG
 city: Glasgow
-street: "Kelso Street"
-housenumber: 40
+street: Kelso Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

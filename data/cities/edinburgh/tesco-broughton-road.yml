@@ -1,11 +1,11 @@
 id: 31562095
-type: way
+type: node
 latitude: 55.96369
 longitude: -3.1968
-postcode: "EH7 4EW"
+postcode: EH7 4EW
 city: Edinburgh
-street: "Broughton Road"
-housenumber: 7
+street: Broughton Road
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00, Su 09:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00, Su 09:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 86865097
-type: way
+type: node
 latitude: 55.94022
 longitude: -4.31461
-postcode: "G62 6NB"
+postcode: G62 6NB
 city: Glasgow
-street: "Gavin's Mill Road"
-housenumber: 7
+street: Gavin's Mill Road
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-22:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1127519414
-type: way
+type: node
 latitude: 54.84195
 longitude: -5.1171
 postcode: ""
 city: Portpatrick
-street: "North Crescent"
-housenumber: 15
-phone: "+44 1776 810513"
-opening_hours: "We-Sa 10:00-17:00; Su 10:00-16:00"
+street: North Crescent
+housenumber: "15"
+phone: +44 1776 810513
+opening_hours: We-Sa 10:00-17:00; Su 10:00-16:00
 website: ""

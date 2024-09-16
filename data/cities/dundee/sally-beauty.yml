@@ -1,11 +1,11 @@
 id: 1267725440
-type: way
+type: node
 latitude: 56.45714
 longitude: -2.98868
-postcode: "DD1 4JG"
+postcode: DD1 4JG
 city: Dundee
-street: "Mid Wynd"
-housenumber: 
-phone: "+44 1382 225385"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-14:30; Su 11:00-16:00"
-website: "https://www.sallybeauty.co.uk/storeinfo?StoreID=4420"
+street: Mid Wynd
+housenumber: ""
+phone: +44 1382 225385
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-14:30; Su 11:00-16:00
+website: https://www.sallybeauty.co.uk/storeinfo?StoreID=4420

@@ -2,10 +2,11 @@ id: 10819514509
 type: node
 latitude: 55.86686
 longitude: -3.9808
-postcode: "ML6 6AF"
+postcode: ML6 6AF
 city: Airdrie
-street: "Bank Street"
-housenumber: 18
-phone: "+44 1236 884388"
-opening_hours: "Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/airdrie/"
+street: Bank Street
+housenumber: "18"
+phone: +44 1236 884388
+opening_hours: Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su closed
+website: https://www.haystravel.co.uk/branches/airdrie/

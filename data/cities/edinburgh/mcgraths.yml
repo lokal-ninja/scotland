@@ -2,10 +2,10 @@ id: 1977943289
 type: node
 latitude: 55.95057
 longitude: -3.20946
-postcode: "EH2 4PG"
+postcode: EH2 4PG
 city: Edinburgh
-street: "Queensferry Street"
-housenumber: 11
-phone: "+44 131 225 7029"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-17:00"
-website: "https://www.mcgraths.co.uk/"
+street: Queensferry Street
+housenumber: "11"
+phone: +44 131 225 7029
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:00
+website: https://www.mcgraths.co.uk/

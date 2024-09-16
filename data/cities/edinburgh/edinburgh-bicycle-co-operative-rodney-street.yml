@@ -4,8 +4,8 @@ latitude: 55.96216
 longitude: -3.19583
 postcode: ""
 city: Edinburgh
-street: "Rodney Street"
-housenumber: 30
-phone: "+44 131 557 2801"
+street: Rodney Street
+housenumber: "30"
+phone: +44 131 557 2801
 opening_hours: ""
-website: "http://www.edinburghbicycle.com/"
+website: http://www.edinburghbicycle.com/

@@ -1,11 +1,11 @@
 id: 166142996
-type: way
+type: node
 latitude: 55.86807
 longitude: -4.24509
-postcode: "G4 0DL"
+postcode: G4 0DL
 city: Glasgow
-street: "Couper Street"
-housenumber: 50
+street: Couper Street
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-17:00"
-website: "https://www.tiso.com/shops/glasgow-outdoor-experience"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-17:00
+website: https://www.tiso.com/shops/glasgow-outdoor-experience

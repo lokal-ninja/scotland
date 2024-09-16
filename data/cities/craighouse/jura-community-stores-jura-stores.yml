@@ -1,11 +1,11 @@
 id: 165330399
-type: way
+type: node
 latitude: 55.83371
 longitude: -5.95072
-postcode: "PA60 7XS"
+postcode: PA60 7XS
 city: Craighouse
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:30,14:30-17:00"
-website: "http://www.juracommunitystore.co.uk/"
+opening_hours: Mo-Sa 09:00-13:30,14:30-17:00
+website: http://www.juracommunitystore.co.uk/

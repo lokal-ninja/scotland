@@ -1,11 +1,11 @@
 id: 137241196
-type: way
+type: node
 latitude: 56.37213
 longitude: -3.84534
-postcode: "PH7 4DE"
+postcode: PH7 4DE
 city: Crieff
-street: "Union Terrace"
-housenumber: 
+street: Union Terrace
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop.co.uk/store-finder/PH7-4DE/town-green"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop.co.uk/store-finder/PH7-4DE/town-green

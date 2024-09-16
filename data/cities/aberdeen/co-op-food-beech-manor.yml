@@ -1,11 +1,11 @@
 id: 620154712
-type: way
+type: node
 latitude: 57.18904
 longitude: -2.17821
-postcode: "AB21 9AZ"
+postcode: AB21 9AZ
 city: Aberdeen
-street: "Beech Manor"
-housenumber: 
+street: Beech Manor
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/AB21-9JS/land-at-stoneywood-road"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/AB21-9JS/land-at-stoneywood-road

@@ -4,8 +4,8 @@ latitude: 55.96243
 longitude: -3.1962
 postcode: ""
 city: Edinburgh
-street: "Rodney Street"
-housenumber: 8
+street: Rodney Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://www.eyecare-plus.co.uk/"
+website: http://www.eyecare-plus.co.uk/

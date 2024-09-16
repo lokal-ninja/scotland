@@ -1,11 +1,11 @@
 id: 203932795
-type: way
+type: node
 latitude: 55.88569
 longitude: -4.25751
-postcode: "G22 6AR"
+postcode: G22 6AR
 city: Glasgow
-street: "Stronend Street"
-housenumber: 10
+street: Stronend Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/balmore-road-109/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/balmore-road-109/

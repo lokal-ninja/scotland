@@ -4,8 +4,8 @@ latitude: 55.9509
 longitude: -3.20427
 postcode: ""
 city: Edinburgh
-street: "Princes Street"
-housenumber: 124
+street: Princes Street
+housenumber: "124"
 phone: ""
 opening_hours: ""
-website: "https://www.urbanoutfitters.com/en-gb/stores/edinburgh/"
+website: https://www.urbanoutfitters.com/en-gb/stores/edinburgh/

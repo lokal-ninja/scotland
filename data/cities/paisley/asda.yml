@@ -1,11 +1,11 @@
 id: 160727050
-type: way
+type: node
 latitude: 55.8433
 longitude: -4.46926
-postcode: "PA1 2AB"
+postcode: PA1 2AB
 city: Paisley
-street: "Griffin Avenue"
-housenumber: 
+street: Griffin Avenue
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
+opening_hours: Mo-Su 00:00-24:00
 website: ""

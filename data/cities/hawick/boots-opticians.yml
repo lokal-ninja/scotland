@@ -1,11 +1,11 @@
 id: 836426918
-type: way
+type: node
 latitude: 55.42239
 longitude: -2.7873
-postcode: "TD9 9BU"
+postcode: TD9 9BU
 city: Hawick
-street: "High Street"
-housenumber: 25
+street: High Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

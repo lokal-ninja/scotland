@@ -4,8 +4,8 @@ latitude: 55.95118
 longitude: -3.18036
 postcode: ""
 city: Edinburgh
-street: "Canongate"
-housenumber: 172
-phone: "+44 131 556 5864"
-opening_hours: "Mo-Sa 10:30-17:30"
-website: "https://www.cadenhead.scot/"
+street: Canongate
+housenumber: "172"
+phone: +44 131 556 5864
+opening_hours: Mo-Sa 10:30-17:30
+website: https://www.cadenhead.scot/

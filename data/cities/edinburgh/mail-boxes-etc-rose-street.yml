@@ -4,8 +4,8 @@ latitude: 55.95134
 longitude: -3.20497
 postcode: ""
 city: Edinburgh
-street: "Rose Street"
-housenumber: 196
+street: Rose Street
+housenumber: "196"
 phone: ""
 opening_hours: ""
-website: "http://www.mbeedinburgh.com/"
+website: http://www.mbeedinburgh.com/

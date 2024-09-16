@@ -2,10 +2,10 @@ id: 1689545127
 type: node
 latitude: 55.93637
 longitude: -3.20793
-postcode: "EH10 4EB"
+postcode: EH10 4EB
 city: Edinburgh
-street: "Bruntsfield Place"
-housenumber: 141
+street: Bruntsfield Place
+housenumber: "141"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:30, Su 12:00-16:00"
-website: "https://www.nicestuffedinburgh.com/"
+opening_hours: Mo-Sa 10:00-17:30, Su 12:00-16:00
+website: https://www.nicestuffedinburgh.com/

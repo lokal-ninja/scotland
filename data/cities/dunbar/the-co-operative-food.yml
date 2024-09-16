@@ -1,11 +1,11 @@
 id: 202093487
-type: way
+type: node
 latitude: 56.00118
 longitude: -2.5179
-postcode: "EH42 1DX"
+postcode: EH42 1DX
 city: Dunbar
-street: "Countess Crescent"
-housenumber: 
+street: Countess Crescent
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/EH42-1DX/countess-crescent"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/EH42-1DX/countess-crescent

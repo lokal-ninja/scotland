@@ -1,11 +1,11 @@
 id: 862548402
-type: way
+type: node
 latitude: 57.20613
 longitude: -2.18976
-postcode: "AB21 7BJ"
+postcode: AB21 7BJ
 city: Aberdeen
-street: "Victoria Street"
-housenumber: 119
+street: Victoria Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

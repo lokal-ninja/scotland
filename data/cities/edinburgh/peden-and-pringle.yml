@@ -4,8 +4,8 @@ latitude: 55.90737
 longitude: -3.25839
 postcode: ""
 city: Edinburgh
-street: "Bridge Road"
-housenumber: 58
+street: Bridge Road
+housenumber: "58"
 phone: ""
-opening_hours: "Mo,Sa 12:00-16:00; Tu-Fr 10:00-16:00"
-website: "http://www.pedenandpringle.com"
+opening_hours: Mo,Sa 12:00-16:00; Tu-Fr 10:00-16:00
+website: http://www.pedenandpringle.com

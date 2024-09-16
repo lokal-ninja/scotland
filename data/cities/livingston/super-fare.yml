@@ -1,11 +1,11 @@
 id: 224423324
-type: way
+type: node
 latitude: 55.90781
 longitude: -3.5232
-postcode: "EH54 8HF"
+postcode: EH54 8HF
 city: Livingston
-street: "Cameron Way"
-housenumber: 78
+street: Cameron Way
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

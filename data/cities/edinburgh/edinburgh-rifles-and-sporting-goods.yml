@@ -2,10 +2,10 @@ id: 2654390053
 type: node
 latitude: 55.92235
 longitude: -3.21087
-postcode: "EH10 6AG"
+postcode: EH10 6AG
 city: Edinburgh
-street: "Comiston Road"
-housenumber: 105
+street: Comiston Road
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-16:00"
-website: "http://ersg.com"
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-16:00
+website: http://ersg.com

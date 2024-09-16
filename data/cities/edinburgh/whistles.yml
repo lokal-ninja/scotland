@@ -4,8 +4,8 @@ latitude: 55.95281
 longitude: -3.20271
 postcode: ""
 city: Edinburgh
-street: "George Street"
-housenumber: 97
+street: George Street
+housenumber: "97"
 phone: ""
 opening_hours: ""
-website: "https://www.whistles.co.uk/"
+website: https://www.whistles.co.uk/

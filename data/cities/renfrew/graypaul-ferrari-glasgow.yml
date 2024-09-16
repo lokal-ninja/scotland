@@ -1,11 +1,11 @@
 id: 239630825
-type: way
+type: node
 latitude: 55.8691
 longitude: -4.36871
-postcode: "PA4 0DJ"
+postcode: PA4 0DJ
 city: Renfrew
-street: "Braille Crescent"
-housenumber: 4
-phone: "+44 141 846 5588"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://glasgow.ferraridealers.com/en-GB"
+street: Braille Crescent
+housenumber: "4"
+phone: +44 141 846 5588
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://glasgow.ferraridealers.com/en-GB

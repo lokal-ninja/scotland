@@ -1,11 +1,11 @@
 id: 665376837
-type: way
+type: node
 latitude: 56.0747
 longitude: -3.46871
 postcode: ""
 city: Dunfermline
-street: "Chalmers Street"
-housenumber: 161
+street: Chalmers Street
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

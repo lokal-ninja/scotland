@@ -1,11 +1,11 @@
 id: 1223310570
-type: way
+type: node
 latitude: 57.14385
 longitude: -2.11305
-postcode: "AB10 1UY"
+postcode: AB10 1UY
 city: Aberdeen
-street: "Thistle Street"
-housenumber: 65
+street: Thistle Street
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1251687152
-type: way
+type: node
 latitude: 55.95228
 longitude: -3.18889
-postcode: "EH1 1BQ"
+postcode: EH1 1BQ
 city: Edinburgh
-street: "Waverley Bridge"
-housenumber: 
+street: Waverley Bridge
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

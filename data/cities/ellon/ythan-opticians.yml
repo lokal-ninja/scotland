@@ -1,11 +1,11 @@
 id: 845768038
-type: way
+type: node
 latitude: 57.36453
 longitude: -2.0737
-postcode: "AB41 9AA"
+postcode: AB41 9AA
 city: Ellon
 street: ""
-housenumber: 6
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

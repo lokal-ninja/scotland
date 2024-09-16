@@ -4,8 +4,8 @@ latitude: 55.95734
 longitude: -3.16707
 postcode: ""
 city: Edinburgh
-street: "Earlston Place"
-housenumber: 12
+street: Earlston Place
+housenumber: "12"
 phone: ""
-opening_hours: "By appointment only"
+opening_hours: '"By appointment only"'
 website: ""

@@ -4,8 +4,9 @@ latitude: 55.94601
 longitude: -3.22018
 postcode: ""
 city: Edinburgh
-street: "Haymarket Terrace"
-housenumber: 30
+street: Haymarket Terrace
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-We 10:30-18:00; Th 10:30-19:00; Fr 10:30-18:00; Sa 11:00-17:00; Su 11:00-16:00"
-website: "https://pippingifts.com/"
+opening_hours: Mo-We 10:30-18:00; Th 10:30-19:00; Fr 10:30-18:00; Sa 11:00-17:00;
+    Su 11:00-16:00
+website: https://pippingifts.com/

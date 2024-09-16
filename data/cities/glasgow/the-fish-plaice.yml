@@ -2,10 +2,10 @@ id: 1581430739
 type: node
 latitude: 55.85594
 longitude: -4.24391
-postcode: "G1 5PB"
+postcode: G1 5PB
 city: Glasgow
-street: "St Andrews Street"
-housenumber: 1
+street: St Andrews Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

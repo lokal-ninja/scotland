@@ -1,11 +1,11 @@
 id: 359766130
-type: way
+type: node
 latitude: 55.44429
 longitude: -4.61429
 postcode: ""
 city: Ayr
-street: "Woodpark"
-housenumber: 
+street: Woodpark
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/woodpark-stores"
+website: https://www.premier-stores.co.uk/our-stores/woodpark-stores

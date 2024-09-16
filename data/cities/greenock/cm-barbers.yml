@@ -1,11 +1,11 @@
 id: 1226411207
-type: way
+type: node
 latitude: 55.9385
 longitude: -4.72764
-postcode: "PA15 2EZ"
+postcode: PA15 2EZ
 city: Greenock
-street: "Sinclair Street"
-housenumber: 50
+street: Sinclair Street
+housenumber: "50"
 phone: "01475789914"
 opening_hours: ""
-website: "https://cmbarbers.nearcut.com/"
+website: https://cmbarbers.nearcut.com/

@@ -1,11 +1,11 @@
 id: 836390065
-type: way
+type: node
 latitude: 55.42303
 longitude: -2.78657
-postcode: "TD9 9BU"
+postcode: TD9 9BU
 city: Hawick
-street: "High Street"
-housenumber: 47
-phone: "+44 1450 373951"
-opening_hours: "Mo-Fr 9:00-16:00; Sa 9:00-15:00"
-website: "https://www.floralcreationsbydanielle.co.uk"
+street: High Street
+housenumber: "47"
+phone: +44 1450 373951
+opening_hours: Mo-Fr 9:00-16:00; Sa 9:00-15:00
+website: https://www.floralcreationsbydanielle.co.uk

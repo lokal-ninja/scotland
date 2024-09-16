@@ -2,10 +2,10 @@ id: 2127580271
 type: node
 latitude: 55.95235
 longitude: -3.20031
-postcode: "EH2 2JR"
+postcode: EH2 2JR
 city: Edinburgh
-street: "Frederick Street"
-housenumber: 22
+street: Frederick Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 572446623
-type: way
+type: node
 latitude: 55.99991
 longitude: -4.57117
-postcode: "G83 8PN"
+postcode: G83 8PN
 city: Jamestown
-street: "Main Street"
-housenumber: 172
+street: Main Street
+housenumber: "172"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://scotmid.coop/store/jamestown/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://scotmid.coop/store/jamestown/

@@ -1,11 +1,11 @@
 id: 295969714
-type: way
+type: node
 latitude: 56.1542
 longitude: -3.9459
-postcode: "FK9 4ET"
+postcode: FK9 4ET
 city: Bridge of Allan
-street: "fountain road"
-housenumber: 1
-phone: "+44 1786 833323"
-opening_hours: "Tu,We, Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://hairbycapelli.com/index.html"
+street: fountain road
+housenumber: "1"
+phone: +44 1786 833323
+opening_hours: Tu,We, Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-16:00
+website: http://hairbycapelli.com/index.html

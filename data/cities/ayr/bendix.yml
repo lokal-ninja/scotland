@@ -2,10 +2,10 @@ id: 3652725024
 type: node
 latitude: 55.467
 longitude: -4.62995
-postcode: "KA8 8EF"
+postcode: KA8 8EF
 city: Ayr
-street: "Main Street"
-housenumber: 50
+street: Main Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

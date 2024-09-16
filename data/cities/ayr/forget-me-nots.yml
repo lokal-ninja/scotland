@@ -2,10 +2,10 @@ id: 3652751092
 type: node
 latitude: 55.4682
 longitude: -4.62946
-postcode: "KA8 8EF"
+postcode: KA8 8EF
 city: Ayr
-street: "Main Street"
-housenumber: 108
-phone: "+44 1292 270020"
+street: Main Street
+housenumber: "108"
+phone: +44 1292 270020
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1298169922
-type: way
+type: node
 latitude: 57.14336
 longitude: -2.09502
-postcode: "AB11 5RD"
+postcode: AB11 5RD
 city: Aberdeen
-street: "East Terrace"
-housenumber: 3
+street: East Terrace
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

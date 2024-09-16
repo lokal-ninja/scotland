@@ -2,10 +2,10 @@ id: 1514368272
 type: node
 latitude: 55.95317
 longitude: -3.19103
-postcode: "EH2 2AN"
+postcode: EH2 2AN
 city: Edinburgh
-street: "Princes Street"
-housenumber: 23
+street: Princes Street
+housenumber: "23"
 phone: ""
-opening_hours: "10:00-19:00"
-website: "https://stores.whittard.co.uk/whittard-of-chelsea-edinburgh"
+opening_hours: 10:00-19:00
+website: https://stores.whittard.co.uk/whittard-of-chelsea-edinburgh

@@ -1,11 +1,11 @@
 id: 192604883
-type: way
+type: node
 latitude: 55.4801
 longitude: -4.59692
-postcode: "KA8 9BF"
+postcode: KA8 9BF
 city: Ayr
-street: "Liberator Drive"
-housenumber: 1
+street: Liberator Drive
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
-website: "https://storelocator.asda.com/scotland/ayr/liberator-drive-heathfield-retail-park"
+opening_hours: 24/7
+website: https://storelocator.asda.com/scotland/ayr/liberator-drive-heathfield-retail-park

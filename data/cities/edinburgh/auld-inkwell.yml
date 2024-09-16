@@ -4,8 +4,8 @@ latitude: 55.95764
 longitude: -3.1708
 postcode: ""
 city: Edinburgh
-street: "London Road"
-housenumber: 19
+street: London Road
+housenumber: "19"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00"
+opening_hours: Tu-Sa 11:00-19:00
 website: ""

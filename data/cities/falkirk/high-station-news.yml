@@ -1,11 +1,11 @@
 id: 1030956769
-type: way
+type: node
 latitude: 55.99423
 longitude: -3.78784
-postcode: "FK1 5QX"
+postcode: FK1 5QX
 city: Falkirk
-street: "High Station Road"
-housenumber: 52
+street: High Station Road
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

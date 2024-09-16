@@ -1,11 +1,11 @@
 id: 308420313
-type: way
+type: node
 latitude: 56.47622
 longitude: -3.04827
-postcode: "DD2 4WB"
+postcode: DD2 4WB
 city: Dundee
-street: "Myrekirk Road"
-housenumber: 61
+street: Myrekirk Road
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

@@ -2,10 +2,10 @@ id: 1308343590
 type: node
 latitude: 56.24408
 longitude: -4.21672
-postcode: "FK17 8BB"
+postcode: FK17 8BB
 city: Callander
-street: "Main Street"
-housenumber: 30
+street: Main Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://karnakcomics.com/"
+website: https://karnakcomics.com/

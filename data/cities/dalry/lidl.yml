@@ -1,11 +1,11 @@
 id: 390017111
-type: way
+type: node
 latitude: 55.70418
 longitude: -4.72538
-postcode: "KA24 4LA"
+postcode: KA24 4LA
 city: Dalry
-street: "Kilwinning Road"
-housenumber: 2
+street: Kilwinning Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/dalry/kilwinning-road-2/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/dalry/kilwinning-road-2/

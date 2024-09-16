@@ -1,5 +1,5 @@
 ---
-title: "Nisa local"
+title: "Nisa Local"
 url: /edinburgh/nisa-local/
 shop: convenience
 ---

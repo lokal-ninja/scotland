@@ -1,11 +1,11 @@
 id: 273920734
-type: way
+type: node
 latitude: 56.07041
 longitude: -3.45987
-postcode: "KY12 7NT"
+postcode: KY12 7NT
 city: Dunfermline
-street: "Canmore Street"
-housenumber: 10
-phone: "+44 1383 622660"
+street: Canmore Street
+housenumber: "10"
+phone: +44 1383 622660
 opening_hours: ""
 website: ""

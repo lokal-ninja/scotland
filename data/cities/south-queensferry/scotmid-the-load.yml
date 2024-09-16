@@ -1,11 +1,11 @@
 id: 38043139
-type: way
+type: node
 latitude: 55.98962
 longitude: -3.39927
-postcode: "EH30 9PH"
+postcode: EH30 9PH
 city: South Queensferry
-street: "The Load"
-housenumber: 55
+street: The Load
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://scotmid.coop/store/south-queensferry/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://scotmid.coop/store/south-queensferry/

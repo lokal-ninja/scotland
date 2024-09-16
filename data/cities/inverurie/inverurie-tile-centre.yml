@@ -1,11 +1,11 @@
 id: 105488565
-type: way
+type: node
 latitude: 57.28251
 longitude: -2.37319
-postcode: "AB51 3XQ"
+postcode: AB51 3XQ
 city: Inverurie
-street: "High Street"
-housenumber: 12
+street: High Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

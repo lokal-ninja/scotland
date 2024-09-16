@@ -2,10 +2,10 @@ id: 3711034507
 type: node
 latitude: 55.86072
 longitude: -4.25431
-postcode: "G1 2JA"
+postcode: G1 2JA
 city: Glasgow
-street: "Buchanan Street"
-housenumber: 129
-phone: "0141 248 4877"
-opening_hours: "Mo-Sa 09:30-17:30; Su 11:00-17:00"
-website: "https://www.tiso.com"
+street: Buchanan Street
+housenumber: "129"
+phone: 0141 248 4877
+opening_hours: Mo-Sa 09:30-17:30; Su 11:00-17:00
+website: https://www.tiso.com

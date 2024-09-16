@@ -1,11 +1,11 @@
 id: 420005780
-type: way
+type: node
 latitude: 56.41816
 longitude: -3.40205
-postcode: "PH2 6JL"
+postcode: PH2 6JL
 city: Scone
-street: "Perth Road"
+street: Perth Road
 housenumber: 60-68
 phone: ""
-opening_hours: "06:00-23:00"
-website: "https://www.coop.co.uk/store-finder/PH2-6JL/60-perth-road"
+opening_hours: 06:00-23:00
+website: https://www.coop.co.uk/store-finder/PH2-6JL/60-perth-road

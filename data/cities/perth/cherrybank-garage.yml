@@ -1,11 +1,11 @@
 id: 741783003
-type: way
+type: node
 latitude: 56.38729
 longitude: -3.45805
-postcode: "PH2 0NB"
+postcode: PH2 0NB
 city: Perth
-street: "Glasgow Road"
-housenumber: 209
-phone: "+44 1738 624533"
+street: Glasgow Road
+housenumber: "209"
+phone: +44 1738 624533
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1207711768
-type: way
+type: node
 latitude: 55.87538
 longitude: -3.16263
-postcode: "EH20 9AS"
+postcode: EH20 9AS
 city: Loanhead
-street: "Park Avenue"
-housenumber: 1
-phone: "+44 131 440 0597"
+street: Park Avenue
+housenumber: "1"
+phone: +44 131 440 0597
 opening_hours: ""
 website: ""

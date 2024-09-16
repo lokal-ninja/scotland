@@ -2,10 +2,10 @@ id: 2616367173
 type: node
 latitude: 57.14564
 longitude: -2.1014
-postcode: "AB11 6BG"
+postcode: AB11 6BG
 city: Aberdeen
-street: "Union Bridge"
-housenumber: 11
+street: Union Bridge
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 10:30-17:00"
-website: "https://hmv.com/store-finder/hmv-aberdeen/"
+opening_hours: Mo-Sa 09:30-17:30; Su 10:30-17:00
+website: https://hmv.com/store-finder/hmv-aberdeen/

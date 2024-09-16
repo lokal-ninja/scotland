@@ -1,11 +1,11 @@
 id: 796253720
-type: way
+type: node
 latitude: 55.81877
 longitude: -4.29689
-postcode: "G43 2YS"
+postcode: G43 2YS
 city: Glasgow
-street: "Nether Auldhouse Road"
-housenumber: 
+street: Nether Auldhouse Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00"
-website: "https://www.screwfix.com/stores/TB3/glasgow-pollokshaws"
+opening_hours: Mo-Fr 07:00-19:00
+website: https://www.screwfix.com/stores/TB3/glasgow-pollokshaws

@@ -4,8 +4,8 @@ latitude: 55.94275
 longitude: -3.22229
 postcode: ""
 city: Edinburgh
-street: "Washington Lane"
-housenumber: 2
-phone: "+44 131 337 9955"
+street: Washington Lane
+housenumber: "2"
+phone: +44 131 337 9955
 opening_hours: ""
-website: "https://www.whitesautoservices.com/"
+website: https://www.whitesautoservices.com/

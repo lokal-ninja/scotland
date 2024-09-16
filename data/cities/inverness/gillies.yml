@@ -1,11 +1,11 @@
 id: 115210026
-type: way
+type: node
 latitude: 57.48131
 longitude: -4.23011
-postcode: "IV1 1NA"
+postcode: IV1 1NA
 city: Inverness
-street: "Chapel Street"
-housenumber: 59
+street: Chapel Street
+housenumber: "59"
 phone: "+441463251120"
-opening_hours: "Mo-Sa 09:00-17:00; Su 12:30-16:30"
+opening_hours: Mo-Sa 09:00-17:00; Su 12:30-16:30
 website: ""

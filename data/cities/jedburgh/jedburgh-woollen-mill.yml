@@ -1,11 +1,11 @@
 id: 71338049
-type: way
+type: node
 latitude: 55.48849
 longitude: -2.54528
-postcode: "TD8 6EB"
+postcode: TD8 6EB
 city: Jedburgh
-street: "Bankend North"
-housenumber: 
-phone: "+44 1835 863585"
-opening_hours: "10:00-17:00"
-website: "https://www.ewm.co.uk/"
+street: Bankend North
+housenumber: ""
+phone: +44 1835 863585
+opening_hours: 10:00-17:00
+website: https://www.ewm.co.uk/

@@ -1,11 +1,11 @@
 id: 117190917
-type: way
+type: node
 latitude: 55.8513
 longitude: -4.10762
-postcode: "G69 6AH"
+postcode: G69 6AH
 city: Glasgow
-street: "Main Street"
-housenumber: 180
+street: Main Street
+housenumber: "180"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/baillieston/main-street-180/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/baillieston/main-street-180/

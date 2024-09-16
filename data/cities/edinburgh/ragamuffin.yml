@@ -4,8 +4,8 @@ latitude: 55.95058
 longitude: -3.18393
 postcode: ""
 city: Edinburgh
-street: "Canongate"
-housenumber: 278
+street: Canongate
+housenumber: "278"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-18:00
 website: ""

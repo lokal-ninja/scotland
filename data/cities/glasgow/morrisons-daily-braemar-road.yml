@@ -1,11 +1,11 @@
 id: 225622133
-type: way
+type: node
 latitude: 55.8064
 longitude: -4.1872
-postcode: "G73 5LJ"
+postcode: G73 5LJ
 city: Glasgow
-street: "Braemar Road"
-housenumber: 6
+street: Braemar Road
+housenumber: "6"
 phone: ""
-opening_hours: "07:00-22:00"
-website: "https://my.morrisons.com/storefinder/64608/morrisons-daily-rutherglen-braemar-road"
+opening_hours: 07:00-22:00
+website: https://my.morrisons.com/storefinder/64608/morrisons-daily-rutherglen-braemar-road

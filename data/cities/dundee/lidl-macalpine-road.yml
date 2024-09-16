@@ -1,11 +1,11 @@
 id: 761535497
-type: way
+type: node
 latitude: 56.49107
 longitude: -3.00716
-postcode: "DD3 9HU"
+postcode: DD3 9HU
 city: Dundee
-street: "MacAlpine Road"
-housenumber: 
+street: MacAlpine Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/dundee/macalpine-road/"
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/dundee/macalpine-road/

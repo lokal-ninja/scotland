@@ -1,11 +1,11 @@
 id: 722881115
-type: way
+type: node
 latitude: 57.16703
 longitude: -2.09624
-postcode: "AB24 1TX"
+postcode: AB24 1TX
 city: Aberdeen
-street: "School Road"
-housenumber: 9
+street: School Road
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1034322529
-type: way
+type: node
 latitude: 57.69449
 longitude: -2.01632
-postcode: "AB43 9QS"
+postcode: AB43 9QS
 city: Fraserburgh
-street: "College Bounds"
-housenumber: 78
+street: College Bounds
+housenumber: "78"
 phone: ""
 opening_hours: ""
-website: "https://scotmid.coop/store/college-bounds/"
+website: https://scotmid.coop/store/college-bounds/

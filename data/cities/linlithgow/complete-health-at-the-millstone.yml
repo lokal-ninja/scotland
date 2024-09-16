@@ -2,10 +2,11 @@ id: 7884022675
 type: node
 latitude: 55.97617
 longitude: -3.60423
-postcode: "EH49 7EJ"
+postcode: EH49 7EJ
 city: Linlithgow
-street: "High Street"
-housenumber: 159
+street: High Street
+housenumber: "159"
 phone: ""
-opening_hours: "Mo-Tu delivery and collection only, We-Fri 09:00-17:00, Sa 08:00-15:00, Su off"
+opening_hours: Mo-Tu delivery and collection only, We-Fri 09:00-17:00, Sa 08:00-15:00,
+    Su off
 website: ""

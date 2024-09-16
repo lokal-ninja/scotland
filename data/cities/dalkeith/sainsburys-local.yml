@@ -1,11 +1,11 @@
 id: 296861924
-type: way
+type: node
 latitude: 55.89643
 longitude: -3.05014
-postcode: "EH22 2RF"
+postcode: EH22 2RF
 city: Dalkeith
-street: "Thorny Crook Gardens"
-housenumber: 24
+street: Thorny Crook Gardens
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.sainsburys.co.uk/4317/dalkeith-salters-road-local"
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.sainsburys.co.uk/4317/dalkeith-salters-road-local

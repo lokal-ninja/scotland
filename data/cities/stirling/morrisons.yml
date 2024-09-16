@@ -1,11 +1,11 @@
 id: 96581220
-type: way
+type: node
 latitude: 56.11637
 longitude: -3.91099
-postcode: "FK7 7SR"
+postcode: FK7 7SR
 city: Stirling
-street: "Munro Road"
-housenumber: 
+street: Munro Road
+housenumber: ""
 phone: ""
-opening_hours: "Su 08:00-20:00; Mo-Sa 08:00-22:00"
-website: "https://my.morrisons.com/storefinder/197/stirling"
+opening_hours: Su 08:00-20:00; Mo-Sa 08:00-22:00
+website: https://my.morrisons.com/storefinder/197/stirling

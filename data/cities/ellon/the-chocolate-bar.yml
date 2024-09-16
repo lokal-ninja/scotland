@@ -1,11 +1,11 @@
 id: 812554876
-type: way
+type: node
 latitude: 57.36488
 longitude: -2.0714
-postcode: "AB41 9JD"
+postcode: AB41 9JD
 city: Ellon
-street: "Market Street"
-housenumber: 2
-phone: "+44 1358 725071"
+street: Market Street
+housenumber: "2"
+phone: +44 1358 725071
 opening_hours: ""
-website: "https://www.thechocolatebarellon.com/"
+website: https://www.thechocolatebarellon.com/

@@ -1,11 +1,11 @@
 id: 595568156
-type: way
+type: node
 latitude: 55.85867
 longitude: -4.2536
 postcode: ""
 city: Glasgow
-street: "Argyll Arcade"
-housenumber: 54
+street: Argyll Arcade
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

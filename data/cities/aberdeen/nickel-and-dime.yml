@@ -1,11 +1,11 @@
 id: 700329771
-type: way
+type: node
 latitude: 57.14933
 longitude: -2.10108
-postcode: "AB25 1HU"
+postcode: AB25 1HU
 city: Aberdeen
-street: "George Street"
-housenumber: 105
+street: George Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

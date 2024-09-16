@@ -2,10 +2,10 @@ id: 4165117968
 type: node
 latitude: 55.8588
 longitude: -4.24823
-postcode: "G1 1HD"
+postcode: G1 1HD
 city: Glasgow
-street: "Wilson Street"
-housenumber: 54
+street: Wilson Street
+housenumber: "54"
 phone: ""
-opening_hours: "09:00-17:00"
+opening_hours: 09:00-17:00
 website: ""

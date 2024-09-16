@@ -2,10 +2,10 @@ id: 12049537007
 type: node
 latitude: 55.61893
 longitude: -3.06413
-postcode: "EH44 6HF"
+postcode: EH44 6HF
 city: Innerleithen
-street: "High Street"
-housenumber: 60
-phone: "+44 1896 831 429"
-opening_hours: "Mo-Su 09:00-17:00"
+street: High Street
+housenumber: "60"
+phone: +44 1896 831 429
+opening_hours: Mo-Su 09:00-17:00
 website: ""

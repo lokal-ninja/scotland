@@ -4,8 +4,8 @@ latitude: 55.94272
 longitude: -3.20336
 postcode: ""
 city: Edinburgh
-street: "Home Street"
-housenumber: 43
+street: Home Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://scotland.shelter.org.uk/shops/edinburgh_tollcross_community_shop"
+website: https://scotland.shelter.org.uk/shops/edinburgh_tollcross_community_shop

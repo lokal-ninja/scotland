@@ -4,8 +4,8 @@ latitude: 55.97105
 longitude: -3.20914
 postcode: ""
 city: Edinburgh
-street: "Inverleith Row"
-housenumber: 65
-phone: "+44 131 552 9819"
-opening_hours: "Mo-Fr 09:00-17:00; Sa-Su off"
-website: "https://www.user2.net/"
+street: Inverleith Row
+housenumber: "65"
+phone: +44 131 552 9819
+opening_hours: Mo-Fr 09:00-17:00; Sa-Su off
+website: https://www.user2.net/

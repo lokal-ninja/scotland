@@ -1,11 +1,11 @@
 id: 248402581
-type: way
+type: node
 latitude: 56.01916
 longitude: -3.72337
-postcode: "FK3 8BA"
+postcode: FK3 8BA
 city: Grangemouth
-street: "York Arcade"
-housenumber: 16
+street: York Arcade
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

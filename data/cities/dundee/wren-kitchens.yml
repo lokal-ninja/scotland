@@ -1,11 +1,11 @@
 id: 50734666
-type: way
+type: node
 latitude: 56.48048
 longitude: -2.99488
-postcode: "DD3 8RX"
+postcode: DD3 8RX
 city: Dundee
 street: ""
-housenumber: 
-phone: "+44 1382 281333"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-17:00"
+housenumber: ""
+phone: +44 1382 281333
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-17:00
 website: ""

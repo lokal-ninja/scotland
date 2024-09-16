@@ -1,11 +1,11 @@
-id: 6109895
-type: way
-latitude: 55.92993
-longitude: -3.20955
-postcode: "EH10 4AX"
+id: 4892124
+type: node
+latitude: 55.95911
+longitude: -3.22323
+postcode: EH4 1AW
 city: Edinburgh
-street: "Morningside Road"
-housenumber: 145
-phone: "+44 131 447 6899"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-20:00"
-website: "https://www.waitrose.com/find-a-store/morningside"
+street: Comely Bank Road
+housenumber: "38"
+phone: ""
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-20:00
+website: https://www.waitrose.com/find-a-store/comely-bank

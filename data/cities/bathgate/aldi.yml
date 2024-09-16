@@ -1,11 +1,11 @@
 id: 211900182
-type: way
+type: node
 latitude: 55.90121
 longitude: -3.64606
-postcode: "EH48 1TP"
+postcode: EH48 1TP
 city: Bathgate
-street: "Gardners Lane"
-housenumber: 4
+street: Gardners Lane
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

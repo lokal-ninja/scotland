@@ -1,11 +1,11 @@
 id: 999717249
-type: way
+type: node
 latitude: 55.07102
 longitude: -3.63013
-postcode: "DG2 9JF"
+postcode: DG2 9JF
 city: Dumfries
-street: "Hardthorn Road"
-housenumber: 2
+street: Hardthorn Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

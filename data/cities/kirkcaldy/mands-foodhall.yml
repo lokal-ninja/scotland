@@ -1,11 +1,11 @@
 id: 313313922
-type: way
+type: node
 latitude: 56.13507
 longitude: -3.19989
-postcode: "KY2 6QL"
+postcode: KY2 6QL
 city: Kirkcaldy
-street: "Chapel Park"
-housenumber: 
+street: Chapel Park
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 55.94294
 longitude: -3.28632
 postcode: ""
 city: Edinburgh
-street: "St John's Road"
-housenumber: 207
+street: St John's Road
+housenumber: "207"
 phone: ""
 opening_hours: ""
-website: "https://www.salon-studios.co.uk/contactus"
+website: https://www.salon-studios.co.uk/contactus

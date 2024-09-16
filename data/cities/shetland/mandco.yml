@@ -2,10 +2,10 @@ id: 3821005129
 type: node
 latitude: 60.15427
 longitude: -1.14361
-postcode: "ZE1 0EX"
+postcode: ZE1 0EX
 city: Shetland
-street: "Commercial Street"
-housenumber: 102
+street: Commercial Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

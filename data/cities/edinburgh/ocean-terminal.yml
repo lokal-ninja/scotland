@@ -1,11 +1,11 @@
 id: 4943901
-type: way
+type: node
 latitude: 55.98178
 longitude: -3.17714
 postcode: ""
 city: Edinburgh
-street: "Ocean Drive"
-housenumber: 
+street: Ocean Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.oceanterminal.com/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.oceanterminal.com/

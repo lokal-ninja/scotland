@@ -4,8 +4,8 @@ latitude: 55.96201
 longitude: -3.1667
 postcode: ""
 city: Edinburgh
-street: "Albion Place"
-housenumber: 12
-phone: "+44 844 844 1875"
-opening_hours: "Tu-Fr 10:00-16:00"
-website: "https://www.eticketing.co.uk/hibernianfc/default/"
+street: Albion Place
+housenumber: "12"
+phone: +44 844 844 1875
+opening_hours: Tu-Fr 10:00-16:00
+website: https://www.eticketing.co.uk/hibernianfc/default/

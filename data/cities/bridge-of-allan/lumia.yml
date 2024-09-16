@@ -1,11 +1,11 @@
 id: 543987605
-type: way
+type: node
 latitude: 56.15261
 longitude: -3.93701
-postcode: "FK9 4RQ"
+postcode: FK9 4RQ
 city: Bridge of Allan
-street: "Henderson Street"
-housenumber: 129
+street: Henderson Street
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

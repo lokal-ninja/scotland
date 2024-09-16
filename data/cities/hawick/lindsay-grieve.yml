@@ -1,11 +1,11 @@
 id: 836426915
-type: way
+type: node
 latitude: 55.42254
 longitude: -2.78711
-postcode: "TD9 9BU"
+postcode: TD9 9BU
 city: Hawick
-street: "High Street"
-housenumber: 29
-phone: "+44 1450 372 109"
-opening_hours: "Mo 07:30-15:00; Tu-Fr 7:30-17:00; Sa 7:00-15:30"
-website: "https://lindsaygrievehaggis.com/"
+street: High Street
+housenumber: "29"
+phone: +44 1450 372 109
+opening_hours: Mo 07:30-15:00; Tu-Fr 7:30-17:00; Sa 7:00-15:30
+website: https://lindsaygrievehaggis.com/

@@ -2,10 +2,10 @@ id: 2942099035
 type: node
 latitude: 55.94976
 longitude: -3.18925
-postcode: "EH1 1QS"
+postcode: EH1 1QS
 city: Edinburgh
-street: "High Street"
-housenumber: 170
+street: High Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

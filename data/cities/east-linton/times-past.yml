@@ -1,11 +1,11 @@
 id: 461119550
-type: way
+type: node
 latitude: 55.98514
 longitude: -2.65617
-postcode: "EH40 3AG"
+postcode: EH40 3AG
 city: East Linton
-street: "Bridge Street"
-housenumber: 1
-phone: "+44 7730 462458"
-opening_hours: "Mo-Tu 11:00-13:00; We-Fr 11:00-17:00; Sa 13:00-16:00"
+street: Bridge Street
+housenumber: "1"
+phone: +44 7730 462458
+opening_hours: Mo-Tu 11:00-13:00; We-Fr 11:00-17:00; Sa 13:00-16:00
 website: ""

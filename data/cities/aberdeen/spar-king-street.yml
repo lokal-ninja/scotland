@@ -1,11 +1,11 @@
 id: 808957243
-type: way
+type: node
 latitude: 57.17379
 longitude: -2.0915
-postcode: "AB24 1XN"
+postcode: AB24 1XN
 city: Aberdeen
-street: "King Street"
-housenumber: 792
+street: King Street
+housenumber: "792"
 phone: ""
 opening_hours: ""
 website: ""
