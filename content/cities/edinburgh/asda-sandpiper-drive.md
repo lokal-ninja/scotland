@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /edinburgh/asda-the-jewel/
+url: /edinburgh/asda-sandpiper-drive/
 shop: supermarket
 ---
