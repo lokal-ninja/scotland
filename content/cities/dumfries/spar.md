@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /dumfries/spar/
-shop: supermarket
+shop: convenience
 ---
