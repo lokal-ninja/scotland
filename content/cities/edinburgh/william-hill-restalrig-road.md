@@ -1,5 +1,0 @@
----
-title: "William Hill"
-url: /edinburgh/william-hill-restalrig-road/
-shop: bookmaker
----
