@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /edinburgh/tesco-broughton-road/
+url: /edinburgh/tesco-duke-street/
 shop: supermarket
 ---

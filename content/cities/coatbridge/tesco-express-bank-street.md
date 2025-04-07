@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /coatbridge/tesco-express-woodside-street/
+url: /coatbridge/tesco-express-bank-street/
 shop: convenience
 ---
