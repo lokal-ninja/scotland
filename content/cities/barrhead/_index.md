@@ -1,6 +1,6 @@
 ---
 title: Barrhead
 url: /barrhead/
-latitude: 55.799
-longitude: -4.399
+latitude: 55.808
+longitude: -4.379
 ---

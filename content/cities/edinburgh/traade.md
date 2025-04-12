@@ -1,5 +1,5 @@
 ---
 title: "Traade"
 url: /edinburgh/traade/
-shop: general
+shop: gift
 ---
