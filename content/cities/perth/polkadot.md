@@ -1,5 +1,5 @@
 ---
 title: "Polkadot"
 url: /perth/polkadot/
-shop: boutique
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Zloty"
+title: "Złoty"
 url: /aberdeen/zloty/
 shop: convenience
 ---

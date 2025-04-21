@@ -7,5 +7,5 @@ city: Oban
 street: George Street
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Mo-We,Su off; Th-Sa 11:00-15:00
 website: ""
