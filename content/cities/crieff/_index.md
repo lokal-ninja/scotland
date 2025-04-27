@@ -1,6 +1,6 @@
 ---
 title: Crieff
 url: /crieff/
-latitude: 56.373
-longitude: -3.841
+latitude: 56.372
+longitude: -3.843
 ---

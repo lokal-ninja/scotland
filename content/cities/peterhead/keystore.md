@@ -1,5 +1,5 @@
 ---
-title: "Keystore"
+title: "KeyStore"
 url: /peterhead/keystore/
 shop: convenience
 ---
