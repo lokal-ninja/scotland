@@ -1,6 +1,6 @@
 ---
 title: Blairgowrie
 url: /blairgowrie/
-latitude: 56.593
-longitude: -3.34
+latitude: 56.591
+longitude: -3.341
 ---
