@@ -1,6 +1,6 @@
 ---
 title: Musselburgh
 url: /musselburgh/
-latitude: 55.943
-longitude: -3.051
+latitude: 55.942
+longitude: -3.052
 ---

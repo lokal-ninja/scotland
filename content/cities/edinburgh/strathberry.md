@@ -1,5 +1,5 @@
 ---
 title: "Strathberry"
 url: /edinburgh/strathberry/
-shop: boutique
+shop: clothes
 ---

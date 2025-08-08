@@ -1,5 +1,5 @@
 ---
-title: "K-Lounge"
+title: "K Lounge"
 url: /glasgow/k-lounge/
 shop: hairdresser
 ---

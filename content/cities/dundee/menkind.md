@@ -1,5 +1,5 @@
 ---
-title: "Menkind"
+title: "MenKind"
 url: /dundee/menkind/
-shop: toys
+shop: gift
 ---

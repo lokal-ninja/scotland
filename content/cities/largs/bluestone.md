@@ -1,5 +1,5 @@
 ---
 title: "Bluestone"
 url: /largs/bluestone/
-shop: shop
+shop: gift
 ---
