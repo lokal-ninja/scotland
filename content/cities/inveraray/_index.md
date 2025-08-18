@@ -1,6 +1,6 @@
 ---
 title: Inveraray
 url: /inveraray/
-latitude: 56.232
-longitude: -5.075
+latitude: 56.231
+longitude: -5.073
 ---

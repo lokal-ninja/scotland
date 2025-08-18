@@ -1,6 +1,6 @@
 ---
 title: Inverkeithing
 url: /inverkeithing/
-latitude: 56.031
-longitude: -3.398
+latitude: 56.03
+longitude: -3.399
 ---
