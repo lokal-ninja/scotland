@@ -7,6 +7,5 @@ city: Edinburgh
 street: Bruntsfield Place
 housenumber: "176"
 phone: +44 131 447 1917
-opening_hours: Mo-Fr 10:00-18:00; Thur&Fri U5s Storytime 09:30-10:00; Sa 09:30-18:00;
-    Su 11:00-17:00
-website: The Edinburgh Bookshop
+opening_hours: Mo-We 10:00-18:00; Th-Sa 09:30-18:00; Su 11:00-17:00
+website: https://www.edinburghbookshop.com/
