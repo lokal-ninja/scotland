@@ -7,5 +7,5 @@ city: Dundee
 street: Waterfront Place
 housenumber: ""
 phone: +44 1241 873500
-opening_hours: Mo off; Tu-Sa 09:30-17:00; Su 10:00-16:00
+opening_hours: Mo,Su off; Tu-Sa 09:00-17:00
 website: https://www.anguscyclehub.org/dundee-cycle-hub
