@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /livingston/co-op-food-bankton-centre/
+url: /livingston/co-op-food-follyburn-place/
 shop: convenience
 ---

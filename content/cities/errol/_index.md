@@ -1,6 +1,6 @@
 ---
 title: Errol
 url: /errol/
-latitude: 56.391
-longitude: -3.215
+latitude: 56.416
+longitude: -3.236
 ---

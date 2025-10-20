@@ -1,5 +1,5 @@
 ---
 title: "USave"
-url: /livingston/usave-douglas-rise/
+url: /livingston/usave-thymebank/
 shop: convenience
 ---
