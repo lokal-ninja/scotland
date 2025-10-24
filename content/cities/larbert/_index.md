@@ -1,6 +1,6 @@
 ---
 title: Larbert
 url: /larbert/
-latitude: 56.022
+latitude: 56.021
 longitude: -3.83
 ---
