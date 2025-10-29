@@ -2,10 +2,11 @@ id: 667977625
 type: node
 latitude: 56.45927
 longitude: -2.97115
-postcode: ""
+postcode: DD1 4BH
 city: Dundee
 street: Union Street
-housenumber: ""
-phone: ""
-opening_hours: ""
+housenumber: "12"
+phone: +44 1382 339744
+opening_hours: Mo-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-16:00;
+    Su off
 website: ""

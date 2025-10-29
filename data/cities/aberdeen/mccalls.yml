@@ -7,5 +7,5 @@ city: Aberdeen
 street: King Street
 housenumber: "90"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Sa-Su off; Tu-Fr 11:00-16:00
 website: ""
