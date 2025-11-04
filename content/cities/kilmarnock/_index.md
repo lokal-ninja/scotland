@@ -2,5 +2,5 @@
 title: Kilmarnock
 url: /kilmarnock/
 latitude: 55.592
-longitude: -4.487
+longitude: -4.488
 ---
