@@ -7,5 +7,5 @@ city: Dundee
 street: High Street
 housenumber: 65-66
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th,Su 08:00-20:00; Fr-Sa 08:00-03:00
 website: ""
