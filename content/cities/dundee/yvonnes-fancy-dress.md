@@ -1,5 +1,5 @@
 ---
-title: "Yvonne's fancy dress"
+title: "Yvonne's Fancy Dress"
 url: /dundee/yvonnes-fancy-dress/
-shop: clothes
+shop: party
 ---
