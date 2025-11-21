@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
-url: /dundee/best-one-brook-street/
+url: /dundee/best-one-fintry-road/
 shop: convenience
 ---
