@@ -1,6 +1,6 @@
 ---
 title: Hawick
 url: /hawick/
-latitude: 55.458
-longitude: -2.683
+latitude: 55.457
+longitude: -2.685
 ---
