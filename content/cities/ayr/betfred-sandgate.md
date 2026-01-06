@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /ayr/betfred-alloway-street/
+url: /ayr/betfred-sandgate/
 shop: bookmaker
 ---

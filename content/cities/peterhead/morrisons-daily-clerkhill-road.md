@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
-url: /peterhead/morrisons-daily-ugie-road/
+url: /peterhead/morrisons-daily-clerkhill-road/
 shop: convenience
 ---
