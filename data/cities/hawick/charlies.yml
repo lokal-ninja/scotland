@@ -7,5 +7,5 @@ city: Hawick
 street: High Street
 housenumber: "72"
 phone: +44 1450 367351
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-17:00; We 09:00-13:00; Sa 09:00-14:00; Su off
 website: ""

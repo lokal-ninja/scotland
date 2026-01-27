@@ -1,5 +1,5 @@
 ---
 title: "Amor"
 url: /edinburgh/amor/
-shop: clothes
+shop: hairdresser
 ---

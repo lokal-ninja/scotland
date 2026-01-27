@@ -1,5 +1,5 @@
 ---
 title: "Curioso"
 url: /edinburgh/curioso/
-shop: gift
+shop: shop
 ---

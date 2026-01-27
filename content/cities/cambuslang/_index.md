@@ -1,6 +1,6 @@
 ---
 title: Cambuslang
 url: /cambuslang/
-latitude: 55.819
-longitude: -4.167
+latitude: 55.821
+longitude: -4.179
 ---
