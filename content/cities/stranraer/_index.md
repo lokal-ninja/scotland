@@ -1,6 +1,6 @@
 ---
 title: Stranraer
 url: /stranraer/
-latitude: 54.905
-longitude: -5.024
+latitude: 54.893
+longitude: -5.026
 ---
