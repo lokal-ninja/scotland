@@ -1,6 +1,6 @@
 ---
 title: Kilwinning
 url: /kilwinning/
-latitude: 55.654
-longitude: -4.698
+latitude: 55.66
+longitude: -4.7
 ---
