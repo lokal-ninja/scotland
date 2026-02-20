@@ -1,6 +1,6 @@
 ---
 title: Lanark
 url: /lanark/
-latitude: 55.672
-longitude: -3.769
+latitude: 55.674
+longitude: -3.774
 ---

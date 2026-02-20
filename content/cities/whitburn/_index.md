@@ -1,6 +1,6 @@
 ---
 title: Whitburn
 url: /whitburn/
-latitude: 55.867
-longitude: -3.682
+latitude: 55.863
+longitude: -3.671
 ---

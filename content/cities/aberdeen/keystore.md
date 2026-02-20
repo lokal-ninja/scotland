@@ -1,5 +1,5 @@
 ---
-title: "Keystore"
+title: "KeyStore"
 url: /aberdeen/keystore/
 shop: convenience
 ---

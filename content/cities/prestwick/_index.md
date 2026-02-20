@@ -1,6 +1,6 @@
 ---
 title: Prestwick
 url: /prestwick/
-latitude: 55.496
-longitude: -4.613
+latitude: 55.486
+longitude: -4.607
 ---
