@@ -1,6 +1,6 @@
 ---
 title: Cromarty
 url: /cromarty/
-latitude: 57.678
-longitude: -4.041
+latitude: 57.681
+longitude: -4.035
 ---

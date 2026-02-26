@@ -1,5 +1,5 @@
 ---
-title: "Celtic Jewellery and Gemstones"
+title: "Celtic Jewellery & Gemstones"
 url: /edinburgh/celtic-jewellery-and-gemstones/
 shop: jewelry
 ---

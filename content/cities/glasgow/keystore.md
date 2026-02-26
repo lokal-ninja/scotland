@@ -1,5 +1,5 @@
 ---
-title: "KeyStore"
+title: "Keystore"
 url: /glasgow/keystore/
 shop: convenience
 ---

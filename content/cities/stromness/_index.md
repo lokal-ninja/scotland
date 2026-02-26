@@ -1,6 +1,6 @@
 ---
 title: Stromness
 url: /stromness/
-latitude: 58.97
-longitude: -3.291
+latitude: 58.963
+longitude: -3.299
 ---
