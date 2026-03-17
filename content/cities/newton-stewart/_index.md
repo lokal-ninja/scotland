@@ -1,6 +1,6 @@
 ---
 title: Newton Stewart
 url: /newton-stewart/
-latitude: 54.954
-longitude: -4.482
+latitude: 54.959
+longitude: -4.483
 ---

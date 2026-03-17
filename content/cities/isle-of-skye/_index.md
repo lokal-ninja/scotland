@@ -1,6 +1,6 @@
 ---
-title: Isle Of Skye
+title: Isle of Skye
 url: /isle-of-skye/
-latitude: 57.242
-longitude: -5.911
+latitude: 57.436
+longitude: -6.58
 ---
