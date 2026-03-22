@@ -1,6 +1,6 @@
 ---
 title: Bathgate
 url: /bathgate/
-latitude: 55.901
-longitude: -3.64
+latitude: 55.902
+longitude: -3.642
 ---

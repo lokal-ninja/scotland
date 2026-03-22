@@ -1,6 +1,6 @@
 ---
 title: Bonhill
 url: /bonhill/
-latitude: 55.984
-longitude: -4.569
+latitude: 55.988
+longitude: -4.567
 ---
