@@ -1,5 +1,5 @@
 ---
 title: "Fabric & Finery"
 url: /helensburgh/fabric-and-finery/
-shop: vacant
+shop: sewing
 ---

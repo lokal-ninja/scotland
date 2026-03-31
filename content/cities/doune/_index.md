@@ -1,6 +1,6 @@
 ---
 title: Doune
 url: /doune/
-latitude: 56.189
-longitude: -4.051
+latitude: 56.19
+longitude: -4.053
 ---
