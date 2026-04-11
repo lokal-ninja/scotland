@@ -1,6 +1,6 @@
 ---
 title: Linwood
 url: /linwood/
-latitude: 55.848
-longitude: -4.491
+latitude: 55.846
+longitude: -4.471
 ---
