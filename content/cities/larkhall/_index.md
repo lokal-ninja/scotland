@@ -1,6 +1,6 @@
 ---
 title: Larkhall
 url: /larkhall/
-latitude: 55.74
-longitude: -3.974
+latitude: 55.711
+longitude: -3.902
 ---
