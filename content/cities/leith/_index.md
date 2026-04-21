@@ -1,6 +1,6 @@
 ---
 title: Leith
 url: /leith/
-latitude: 55.977
-longitude: -3.174
+latitude: 55.98
+longitude: -3.177
 ---

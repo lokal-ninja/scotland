@@ -1,5 +1,5 @@
 ---
 title: "Scotmid"
 url: /motherwell/scotmid/
-shop: convenience
+shop: supermarket
 ---

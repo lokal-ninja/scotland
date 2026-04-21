@@ -1,5 +1,5 @@
 ---
-title: "Home4MyHair"
+title: "home4myhair"
 url: /edinburgh/home4myhair/
 shop: hairdresser
 ---
