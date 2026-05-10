@@ -1,6 +1,6 @@
 ---
 title: Wishaw
 url: /wishaw/
-latitude: 55.773
-longitude: -3.92
+latitude: 55.766
+longitude: -3.921
 ---
