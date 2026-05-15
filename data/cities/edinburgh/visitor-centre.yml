@@ -7,5 +7,5 @@ city: Edinburgh
 street: Charles Street
 housenumber: "2"
 phone: ""
-opening_hours: Mo-Sa 10:00-17:00
+opening_hours: Mo-Fr 10:00-17:00; Sa 12:00-17:00; Su 12:00-16:00
 website: https://giftshop.ed.ac.uk/
