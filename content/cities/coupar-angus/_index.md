@@ -1,6 +1,6 @@
 ---
 title: Coupar Angus
 url: /coupar-angus/
-latitude: 56.548
-longitude: -3.264
+latitude: 56.544
+longitude: -3.271
 ---
