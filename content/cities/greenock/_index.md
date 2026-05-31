@@ -1,6 +1,6 @@
 ---
 title: Greenock
 url: /greenock/
-latitude: 55.948
-longitude: -4.772
+latitude: 55.95
+longitude: -4.768
 ---
