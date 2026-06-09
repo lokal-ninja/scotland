@@ -1,6 +1,6 @@
 ---
 title: Kilbirnie
 url: /kilbirnie/
-latitude: 55.747
-longitude: -4.693
+latitude: 55.748
+longitude: -4.686
 ---

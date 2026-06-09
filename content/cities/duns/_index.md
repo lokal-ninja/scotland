@@ -1,6 +1,6 @@
 ---
 title: Duns
 url: /duns/
-latitude: 55.778
-longitude: -2.344
+latitude: 55.777
+longitude: -2.347
 ---
