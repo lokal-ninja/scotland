@@ -1,6 +1,6 @@
 ---
 title: Gairloch
 url: /gairloch/
-latitude: 57.732
-longitude: -5.705
+latitude: 57.712
+longitude: -5.681
 ---
