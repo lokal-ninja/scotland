@@ -7,5 +7,5 @@ city: Glasgow
 street: Douglas Street
 housenumber: "5"
 phone: ""
-opening_hours: ""
+opening_hours: '"by appointment"'
 website: ""
