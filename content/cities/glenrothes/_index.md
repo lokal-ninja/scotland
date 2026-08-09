@@ -1,6 +1,6 @@
 ---
 title: Glenrothes
 url: /glenrothes/
-latitude: 56.183
-longitude: -3.145
+latitude: 56.182
+longitude: -3.163
 ---
