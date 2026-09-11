@@ -1,5 +1,5 @@
 ---
-title: "Halibut and Herring"
+title: "Halibut & Herring"
 url: /edinburgh/halibut-and-herring/
 shop: gift
 ---

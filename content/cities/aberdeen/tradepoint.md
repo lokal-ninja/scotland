@@ -1,5 +1,5 @@
 ---
-title: "Tradepoint"
+title: "TradePoint"
 url: /aberdeen/tradepoint/
 shop: trade
 ---

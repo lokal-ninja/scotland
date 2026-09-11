@@ -1,6 +1,6 @@
 ---
 title: Carluke
 url: /carluke/
-latitude: 55.736
-longitude: -3.84
+latitude: 55.75
+longitude: -3.885
 ---

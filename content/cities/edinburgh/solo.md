@@ -1,5 +1,5 @@
 ---
-title: "Solo"
+title: "Solo..."
 url: /edinburgh/solo/
 shop: clothes
 ---

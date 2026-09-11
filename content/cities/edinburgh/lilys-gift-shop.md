@@ -1,5 +1,5 @@
 ---
-title: "Lily’s Gift Shop."
+title: "Lily’s Gift Shop"
 url: /edinburgh/lilys-gift-shop/
 shop: gift
 ---

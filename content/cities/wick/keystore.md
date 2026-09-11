@@ -1,5 +1,5 @@
 ---
-title: "keystore"
+title: "KeyStore"
 url: /wick/keystore/
-shop: supermarket
+shop: convenience
 ---
