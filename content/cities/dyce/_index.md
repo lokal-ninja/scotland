@@ -1,6 +1,6 @@
 ---
 title: Dyce
 url: /dyce/
-latitude: 57.209
-longitude: -2.189
+latitude: 57.201
+longitude: -2.203
 ---
