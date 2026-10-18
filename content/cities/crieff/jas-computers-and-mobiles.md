@@ -1,5 +1,5 @@
 ---
-title: "Jas Computers and Mobiles"
+title: "JAS Computers and Mobiles"
 url: /crieff/jas-computers-and-mobiles/
-shop: computer
+shop: mobile phone
 ---

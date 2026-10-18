@@ -1,6 +1,6 @@
 ---
 title: Portlethen
 url: /portlethen/
-latitude: 57.057
-longitude: -2.14
+latitude: 57.076
+longitude: -2.123
 ---
