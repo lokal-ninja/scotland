@@ -1,6 +1,6 @@
 ---
 title: Annan
 url: /annan/
-latitude: 54.993
-longitude: -3.254
+latitude: 54.988
+longitude: -3.259
 ---
