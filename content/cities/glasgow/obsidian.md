@@ -1,5 +1,5 @@
 ---
 title: "Obsidian"
 url: /glasgow/obsidian/
-shop: jewelry
+shop: beauty
 ---
